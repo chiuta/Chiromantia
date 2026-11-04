@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CHIROMANTIA</title>
+<meta name="description" content="CHIROMANTIA — interactive palmistry atlas, offline, 8 languages. MIT.">
+<style>
+:root{--bg:#faf6ef;--fg:#2a2420;--card:#fff;--muted:#6b5f55;--accent:#8a4b2a;--accent2:#e9b98a;--skin:#f1d3b3;--outline:#7a5a43;--line:#e4d8c8;--shadow:0 2px 10px rgba(60,40,20,.08)}
+:root[data-theme=dark]{--bg:#16120f;--fg:#efe6dc;--card:#221c17;--muted:#a89a8c;--accent:#e0a070;--accent2:#7a5236;--skin:#5b4636;--outline:#c9a58a;--line:#3a2f27;--shadow:0 2px 10px rgba(0,0,0,.4)}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+.wrap{max-width:1000px;margin:0 auto;padding:14px}
+header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:10px}
+h1{margin:0;font-size:1.6rem;letter-spacing:.14em;color:var(--accent)}
+.sub{margin:0;color:var(--muted);font-size:.9rem}
+.ctl{display:flex;gap:8px;align-items:center}
+select,button{font:inherit;color:var(--fg)}
+select{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 8px}
+.btn{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn.pri{background:var(--accent);color:#fff;border-color:var(--accent)}
+:root[data-theme=dark] .btn.pri{color:#1a120c}
+nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;margin-bottom:12px;border-bottom:1px solid var(--line)}
+nav button{white-space:nowrap;background:none;border:0;padding:8px 12px;border-radius:8px 8px 0 0;cursor:pointer;color:var(--muted);border-bottom:3px solid transparent}
+nav button.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;box-shadow:var(--shadow)}
+.grid{display:grid;gap:14px}
+.hand-grid{grid-template-columns:minmax(0,320px) 1fr;align-items:start}
+@media(max-width:720px){.hand-grid{grid-template-columns:1fr}}
+svg.hand{width:100%;height:auto;max-height:520px;display:block;margin:0 auto}
+.fg{cursor:pointer;transition:fill .15s}
+.fg:hover,.fg:focus{fill:var(--accent2);outline:none}
+.fg.sel{fill:var(--accent2)}
+.ln{fill:none;stroke-width:3.5;stroke-linecap:round;transition:stroke-width .15s}
+.ln.sel{stroke-width:7}
+.hit{fill:none;stroke:transparent;stroke-width:18;cursor:pointer;pointer-events:stroke}
+.mt{fill-opacity:.3;stroke-width:1.5;stroke-dasharray:3 2;cursor:pointer;transition:fill-opacity .15s}
+.mt:hover,.mt.sel{fill-opacity:.7}
+.hide{display:none}
+.layers{display:flex;flex-wrap:wrap;gap:10px 16px;margin-bottom:10px}
+.layers label{display:flex;gap:6px;align-items:center;cursor:pointer}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:var(--card);padding:5px 10px;cursor:pointer}
+.seg button.on{background:var(--accent);color:#fff}
+:root[data-theme=dark] .seg button.on{color:#1a120c}
+.detail h2{margin:.2rem 0 .4rem;font-size:1.25rem}
+.detail p{margin:0}
+.chip{display:inline-block;font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:1px 9px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.chips button{display:inline-flex;gap:6px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:99px;padding:3px 10px;cursor:pointer;font-size:.88rem}
+.chips button.on{border-color:var(--accent);background:var(--accent2)}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+.h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:12px 0 2px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.cards .card{padding:12px}
+.cards h3{margin:.2rem 0}
+.cards p{margin:0;font-size:.95rem}
+.cards .card.match{border:2px solid var(--accent)}
+.ico{width:52px;height:52px;color:var(--accent);flex:none}
+.ico *{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.sgn{display:flex;gap:12px;align-items:flex-start}
+.form{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.form label{display:grid;gap:3px;font-size:.9rem;color:var(--muted)}
+.form select{width:100%;color:var(--fg)}
+.row{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.reading{white-space:pre-wrap;margin-top:12px;border-left:4px solid var(--accent);padding-left:12px}
+.reading h2{margin:0 0 6px}
+.reading ul{margin:6px 0;padding-left:20px}
+footer{margin:22px 0 8px;color:var(--muted);font-size:.82rem;text-align:center}
+a{color:var(--accent)}
+.about p{margin:.3rem 0 .8rem}
+.pnote{display:none}
+svg.hand.has-sel .ln:not(.sel),svg.hand.has-sel .mt:not(.sel){opacity:.28}
+.fg.sel{stroke:var(--accent);stroke-width:3.5}
+.mt.sel{stroke-dasharray:none;stroke-width:3.5;fill-opacity:.85;filter:drop-shadow(0 0 5px var(--accent))}
+.ln.sel{stroke-width:8}
+.halo{fill:none;stroke-linecap:round;stroke-width:20;opacity:.35;pointer-events:none;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.18}50%{opacity:.5}}
+@media(prefers-reduced-motion:reduce){.halo{animation:none}}
+@media print{
+ body{background:#fff;color:#000}
+ header,nav,footer,.noprint,.row{display:none!important}
+ .card{border:0;box-shadow:none}
+ .pnote{display:block;font-size:.8rem;margin-top:20px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div id="app"></div>
+</div>
+<script>
+(function(){
+"use strict";
+var LG=["ro","en","fr","it","es","pt","de","hu"];
+var LN=["Română","English","Français","Italiano","Español","Português","Deutsch","Magyar"];
+
+/* ---------- UI strings: [ro,en,fr,it,es,pt,de,hu] ---------- */
+var U={
+sub:["Atlas interactiv al citirii palmei","Interactive palm reading atlas","Atlas interactif de la lecture des mains","Atlante interattivo della lettura della mano","Atlas interactivo de la quiromancia","Atlas interativo da quiromancia","Interaktiver Atlas der Handlesekunst","Interaktív tenyérjóslás-atlasz"],
+tHand:["Harta mâinii","Hand map","Carte de la main","Mappa della mano","Mapa de la mano","Mapa da mão","Handkarte","Kéztérkép"],
+tTypes:["Tipuri de mână","Hand types","Types de main","Tipi di mano","Tipos de mano","Tipos de mão","Handtypen","Kéztípusok"],
+tSigns:["Semne","Signs","Signes","Segni","Signos","Sinais","Zeichen","Jelek"],
+tReader:["Citire ghidată","Guided reading","Lecture guidée","Lettura guidata","Lectura guiada","Leitura guiada","Geführte Deutung","Vezetett olvasás"],
+tAbout:["Despre","About","À propos","Informazioni","Acerca de","Sobre","Über","Névjegy"],
+lines:["Linii","Lines","Lignes","Linee","Líneas","Linhas","Linien","Vonalak"],
+mounts:["Monți","Mounts","Monts","Monti","Montes","Montes","Berge","Dombok"],
+fingers:["Degete","Fingers","Doigts","Dita","Dedos","Dedos","Finger","Ujjak"],
+rh:["Mâna dreaptă","Right hand","Main droite","Mano destra","Mano derecha","Mão direita","Rechte Hand","Jobb kéz"],
+lh:["Mâna stângă","Left hand","Main gauche","Mano sinistra","Mano izquierda","Mão esquerda","Linke Hand","Bal kéz"],
+tap:["Atinge o linie, un munte sau un deget.","Tap a line, a mount or a finger.","Touchez une ligne, un mont ou un doigt.","Tocca una linea, un monte o un dito.","Toca una línea, un monte o un dedo.","Toque numa linha, num monte ou num dedo.","Tippe auf eine Linie, einen Berg oder einen Finger.","Érints meg egy vonalat, egy dombot vagy egy ujjat."],
+palmShape:["Forma palmei","Palm shape","Forme de la paume","Forma del palmo","Forma de la palma","Forma da palma","Form der Handfläche","A tenyér alakja"],
+sq:["Pătrată","Square","Carrée","Quadrata","Cuadrada","Quadrada","Quadratisch","Négyzetes"],
+lg:["Lungă","Long","Longue","Lunga","Larga","Longa","Lang","Hosszú"],
+fingLen:["Lungimea degetelor","Finger length","Longueur des doigts","Lunghezza delle dita","Longitud de los dedos","Comprimento dos dedos","Fingerlänge","Az ujjak hossza"],
+sh:["Scurte","Short","Courts","Corte","Cortos","Curtos","Kurz","Rövid"],
+lgF:["Lungi","Long","Longs","Lunghe","Largos","Longos","Lang","Hosszú"],
+choose:["— alege —","— choose —","— choisir —","— scegli —","— elegir —","— escolher —","— wählen —","— válassz —"],
+gen:["Generează citirea","Generate reading","Générer la lecture","Genera la lettura","Generar lectura","Gerar leitura","Deutung erstellen","Olvasat készítése"],
+copy:["Copiază","Copy","Copier","Copia","Copiar","Copiar","Kopieren","Másolás"],
+print:["Tipărește","Print","Imprimer","Stampa","Imprimir","Imprimir","Drucken","Nyomtatás"],
+copied:["Copiat!","Copied!","Copié !","Copiato!","¡Copiado!","Copiado!","Kopiert!","Másolva!"],
+reset:["Resetează","Reset","Réinitialiser","Reimposta","Restablecer","Repor","Zurücksetzen","Visszaállítás"],
+readTitle:["Citirea ta","Your reading","Votre lecture","La tua lettura","Tu lectura","A sua leitura","Deine Deutung","Az olvasatod"],
+readIntro:["Privește-ți palma și alege ce observi. Rezultatul este un punct de plecare pentru reflecție.","Look at your palm and choose what you notice. The result is a starting point for reflection.","Regardez votre paume et choisissez ce que vous observez. Le résultat est un point de départ pour la réflexion.","Guarda il tuo palmo e scegli ciò che noti. Il risultato è un punto di partenza per riflettere.","Mira tu palma y elige lo que observas. El resultado es un punto de partida para la reflexión.","Olhe para a sua palma e escolha o que observa. O resultado é um ponto de partida para a reflexão.","Betrachte deine Handfläche und wähle, was du bemerkst. Das Ergebnis ist ein Ausgangspunkt zum Nachdenken.","Nézd meg a tenyered, és válaszd ki, amit észreveszel. Az eredmény kiindulópont az elmélkedéshez."],
+readNote:["O oglindă pentru reflecție, nu o previziune.","A mirror for reflection, not a prediction.","Un miroir pour la réflexion, non une prédiction.","Uno specchio per riflettere, non una previsione.","Un espejo para la reflexión, no una predicción.","Um espelho para a reflexão, não uma previsão.","Ein Spiegel zur Reflexion, keine Vorhersage.","Tükör az elmélkedéshez, nem jóslat."],
+hDisc:["Avertisment","Disclaimer","Avertissement","Avvertenza","Aviso","Aviso","Hinweis","Figyelmeztetés"],
+disc:["Chiromanția este o tradiție culturală și un joc de reflecție, nu o știință. Nu poate prezice viitorul și nu înlocuiește sfatul medical, juridic sau financiar. Folosește-o cu curiozitate și spirit critic.","Palmistry is a cultural tradition and a game of reflection, not a science. It cannot predict the future and does not replace medical, legal or financial advice. Use it with curiosity and a critical mind.","La chiromancie est une tradition culturelle et un jeu de réflexion, non une science. Elle ne peut pas prédire l'avenir et ne remplace pas un avis médical, juridique ou financier. Utilisez-la avec curiosité et esprit critique.","La chiromanzia è una tradizione culturale e un gioco di riflessione, non una scienza. Non può predire il futuro e non sostituisce un parere medico, legale o finanziario. Usala con curiosità e spirito critico.","La quiromancia es una tradición cultural y un juego de reflexión, no una ciencia. No puede predecir el futuro ni sustituye el consejo médico, jurídico o financiero. Úsala con curiosidad y espíritu crítico.","A quiromancia é uma tradição cultural e um jogo de reflexão, não uma ciência. Não pode prever o futuro nem substitui aconselhamento médico, jurídico ou financeiro. Use-a com curiosidade e espírito crítico.","Handlesekunst ist eine kulturelle Tradition und ein Spiel der Reflexion, keine Wissenschaft. Sie kann die Zukunft nicht vorhersagen und ersetzt keine medizinische, rechtliche oder finanzielle Beratung. Nutze sie mit Neugier und kritischem Geist.","A kézjóslás kulturális hagyomány és az önreflexió játéka, nem tudomány. Nem képes megjósolni a jövőt, és nem helyettesíti az orvosi, jogi vagy pénzügyi tanácsot. Használd kíváncsisággal és kritikus szemlélettel."],
+hHist:["Istorie","History","Histoire","Storia","Historia","História","Geschichte","Történet"],
+hist:["Chiromanția (gr. cheir „mână” + manteia „profeție”) are rădăcini în India, China și Grecia antică. În secolul al XIX-lea a fost sistematizată în Europa de autori precum Casimir d'Arpentigny, care a clasificat formele mâinii, și popularizată de Cheiro.","Chiromancy (Greek cheir 'hand' + manteia 'divination') has roots in India, China and ancient Greece. In the 19th century it was systematized in Europe by authors such as Casimir d'Arpentigny, who classified hand shapes, and popularized by Cheiro.","La chiromancie (gr. cheir « main » + manteia « divination ») a des racines en Inde, en Chine et dans la Grèce antique. Au XIXe siècle, elle est systématisée en Europe par des auteurs comme Casimir d'Arpentigny, qui classa les formes de la main, puis popularisée par Cheiro.","La chiromanzia (gr. cheir «mano» + manteia «divinazione») ha radici in India, Cina e Grecia antica. Nell'Ottocento fu sistematizzata in Europa da autori come Casimir d'Arpentigny, che classificò le forme della mano, e resa popolare da Cheiro.","La quiromancia (gr. cheir «mano» + manteia «adivinación») tiene raíces en la India, China y la Grecia antigua. En el siglo XIX fue sistematizada en Europa por autores como Casimir d'Arpentigny, que clasificó las formas de la mano, y popularizada por Cheiro.","A quiromancia (gr. cheir «mão» + manteia «adivinhação») tem raízes na Índia, na China e na Grécia antiga. No século XIX foi sistematizada na Europa por autores como Casimir d'Arpentigny, que classificou as formas da mão, e popularizada por Cheiro.","Die Chiromantie (gr. cheir „Hand“ + manteia „Weissagung“) hat Wurzeln in Indien, China und im antiken Griechenland. Im 19. Jahrhundert wurde sie in Europa von Autoren wie Casimir d'Arpentigny systematisiert, der die Handformen klassifizierte, und von Cheiro populär gemacht.","A kiromancia (gör. cheir „kéz” + manteia „jóslás”) gyökerei Indiába, Kínába és az ókori Görögországba nyúlnak vissza. A 19. században Európában olyan szerzők rendszerezték, mint Casimir d'Arpentigny, aki a kézformákat osztályozta, és Cheiro tette népszerűvé."],
+hTips:["Sfaturi","Tips","Conseils","Consigli","Consejos","Dicas","Tipps","Tippek"],
+tips:["Privește mâna la lumină bună, relaxată. Tradiția citește mâna dominantă ca „ce ai făcut din tine”, iar cealaltă ca potențial. Privește ansamblul, nu un singur semn.","Look at your hand in good light, relaxed. Tradition reads the dominant hand as 'what you made of yourself' and the other as potential. Read the whole picture, not a single sign.","Observez la main sous une bonne lumière, détendue. La tradition lit la main dominante comme « ce que vous avez fait de vous » et l'autre comme le potentiel. Lisez l'ensemble, pas un seul signe.","Osserva la mano con buona luce, rilassata. La tradizione legge la mano dominante come «ciò che hai fatto di te» e l'altra come potenziale. Leggi l'insieme, non un solo segno.","Observa la mano con buena luz y relajada. La tradición lee la mano dominante como «lo que has hecho de ti» y la otra como potencial. Lee el conjunto, no un solo signo.","Observe a mão com boa luz e relaxada. A tradição lê a mão dominante como «o que fez de si» e a outra como potencial. Leia o conjunto, não um único sinal.","Betrachte die Hand bei gutem Licht und entspannt. Die Tradition liest die dominante Hand als „was du aus dir gemacht hast“, die andere als Potenzial. Deute das Gesamtbild, nicht ein einzelnes Zeichen.","Jó fényben, ellazult kézzel vizsgáld a tenyered. A hagyomány szerint a domináns kéz azt mutatja, mit tettél magadból, a másik a lehetőségeket. A teljes képet nézd, ne egyetlen jelet."],
+free:["Fără urmărire, fără conturi, fără conexiune externă — funcționează offline.","No tracking, no accounts, no external connections — works offline.","Sans suivi, sans compte, sans connexion externe — fonctionne hors ligne.","Nessun tracciamento, nessun account, nessuna connessione esterna — funziona offline.","Sin rastreo, sin cuentas, sin conexiones externas — funciona sin conexión.","Sem rastreio, sem contas, sem ligações externas — funciona offline.","Kein Tracking, keine Konten, keine externen Verbindungen — funktioniert offline.","Követés, fiók és külső kapcsolat nélkül — offline működik."],
+ver:["Versiune","Version","Version","Versione","Versión","Versão","Version","Verzió"],
+upd:["Ultima actualizare","Last updated","Dernière mise à jour","Ultimo aggiornamento","Última actualización","Última atualização","Zuletzt aktualisiert","Utolsó frissítés"],
+bmc:["Cumpără-mi o cafea","Buy me a coffee","Offrez-moi un café","Offrimi un caffè","Invítame a un café","Paga-me um café","Spendiere mir einen Kaffee","Hívj meg egy kávéra"]
+};
+
+/* ---------- content ---------- */
+var P={
+jup:["Jupiter","Jupiter","Jupiter","Giove","Júpiter","Júpiter","Jupiter","Jupiter"],
+sat:["Saturn","Saturn","Saturne","Saturno","Saturno","Saturno","Saturn","Szaturnusz"],
+apo:["Apollo","Apollo","Apollon","Apollo","Apolo","Apolo","Apollo","Apollón"],
+mer:["Mercur","Mercury","Mercure","Mercurio","Mercurio","Mercúrio","Merkur","Merkúr"],
+mar:["Marte","Mars","Mars","Marte","Marte","Marte","Mars","Mars"],
+ven:["Venus","Venus","Vénus","Venere","Venus","Vénus","Venus","Vénusz"]
+};
+function mn(p){return ["Muntele lui "+p[0],"Mount of "+p[1],(/^[AEIOUÉ]/.test(p[2])?"Mont d'":"Mont de ")+p[2],"Monte di "+p[3],"Monte de "+p[4],"Monte de "+p[5],p[6]+"berg",p[7]+"-domb"];}
+
+var E=[
+{id:"life",k:"lines",c:"#e5484d",
+n:["Linia vieții","Life line","Ligne de vie","Linea della vita","Línea de la vida","Linha da vida","Lebenslinie","Életvonal"],
+d:["Încercuiește Muntele lui Venus. Arată vitalitatea, energia și marile schimbări de viață – nu durata vieții. Adâncă și clară: vigoare; subțire sau în lanț: perioade de oboseală sau transformare; ramificații: direcții noi.",
+"Curves around the Mount of Venus. It shows vitality, energy and major life changes — not how long you will live. Deep and clear: vigor; thin or chained: periods of fatigue or transition; branches: new directions.",
+"Elle contourne le mont de Vénus. Elle indique la vitalité, l'énergie et les grands changements de vie — pas la durée de la vie. Profonde et nette : vigueur ; fine ou en chaîne : périodes de fatigue ou de transition ; branches : nouvelles directions.",
+"Gira attorno al monte di Venere. Indica vitalità, energia e grandi cambiamenti di vita, non la durata della vita. Profonda e nitida: vigore; sottile o a catena: periodi di stanchezza o transizione; ramificazioni: nuove direzioni.",
+"Rodea el monte de Venus. Indica vitalidad, energía y grandes cambios de vida, no la duración de la vida. Profunda y nítida: vigor; fina o encadenada: periodos de cansancio o transición; ramas: nuevos rumbos.",
+"Contorna o monte de Vénus. Indica vitalidade, energia e grandes mudanças de vida, não a duração da vida. Profunda e nítida: vigor; fina ou em cadeia: períodos de cansaço ou transição; ramificações: novos rumos.",
+"Sie umrundet den Venusberg. Sie zeigt Vitalität, Energie und große Lebensveränderungen – nicht die Lebensdauer. Tief und klar: Kraft; dünn oder gekettet: Phasen von Erschöpfung oder Wandel; Verzweigungen: neue Richtungen.",
+"A Vénusz-domb körül ível. Az életerőt, energiát és a nagy életváltozásokat mutatja – nem az élet hosszát. Mély és tiszta: erőnlét; vékony vagy láncolt: fáradtság vagy átmenet időszakai; elágazások: új irányok."]},
+{id:"head",k:"lines",c:"#3b82f6",
+n:["Linia capului","Head line","Ligne de tête","Linea della testa","Línea de la cabeza","Linha da cabeça","Kopflinie","Fejvonal"],
+d:["Traversează palma pe orizontală. Arată stilul de gândire, intelectul și concentrarea. Lungă și dreaptă: spirit analitic, practic; coboară spre Lună: imaginație, creativitate; scurtă: gândire directă, concretă; capăt bifurcat: vede mai multe fețe ale unei probleme.",
+"Runs across the palm. Shows thinking style, intellect and focus. Long and straight: analytical, practical; sloping toward the Moon: imaginative, creative; short: direct, concrete; forked end: sees several sides of a problem.",
+"Elle traverse la paume. Elle indique le style de pensée, l'intellect et la concentration. Longue et droite : analytique, pratique ; descendant vers la Lune : imaginatif, créatif ; courte : direct, concret ; extrémité fourchue : voit plusieurs facettes d'un problème.",
+"Attraversa il palmo. Indica stile di pensiero, intelletto e concentrazione. Lunga e dritta: analitico, pratico; inclinata verso la Luna: fantasioso, creativo; corta: diretto, concreto; estremità biforcuta: vede più lati di un problema.",
+"Cruza la palma. Indica el estilo de pensamiento, el intelecto y la concentración. Larga y recta: analítico, práctico; inclinada hacia la Luna: imaginativo, creativo; corta: directo, concreto; extremo bifurcado: ve varios lados de un problema.",
+"Atravessa a palma. Indica o estilo de pensamento, o intelecto e a concentração. Longa e reta: analítico, prático; inclinada para a Lua: imaginativo, criativo; curta: direto, concreto; extremidade bifurcada: vê vários lados de um problema.",
+"Verläuft quer über die Handfläche. Zeigt Denkstil, Intellekt und Konzentration. Lang und gerade: analytisch, praktisch; zum Mond abfallend: fantasievoll, kreativ; kurz: direkt, konkret; gegabeltes Ende: sieht mehrere Seiten eines Problems.",
+"Keresztben húzódik a tenyéren. A gondolkodásmódot, az intellektust és a koncentrációt mutatja. Hosszú és egyenes: elemző, gyakorlatias; a Hold felé lejt: képzeletgazdag, kreatív; rövid: közvetlen, konkrét; villás vég: egy probléma több oldalát látja."]},
+{id:"heart",k:"lines",c:"#ec4899",
+n:["Linia inimii","Heart line","Ligne de cœur","Linea del cuore","Línea del corazón","Linha do coração","Herzlinie","Szívvonal"],
+d:["Merge sub degete. Arată viața afectivă, relațiile și felul în care cineva își exprimă sentimentele. Lungă și curbată: deschidere, expresivitate; dreaptă și scurtă: reținere; în lanț sau întreruptă: frământări afective; se termină sub Jupiter: idealism în iubire.",
+"Runs just below the fingers. Shows emotional life, relationships and how affection is expressed. Long and curved: open, expressive; straight and short: reserved; chained or broken: emotional turbulence; ending under Jupiter: idealism in love.",
+"Elle court sous les doigts. Elle indique la vie affective, les relations et la façon d'exprimer l'affection. Longue et courbe : ouvert, expressif ; droite et courte : réservé ; en chaîne ou interrompue : turbulences émotionnelles ; finissant sous Jupiter : idéalisme en amour.",
+"Corre sotto le dita. Indica la vita affettiva, le relazioni e il modo di esprimere l'affetto. Lunga e curva: aperto, espressivo; dritta e corta: riservato; a catena o interrotta: turbolenze emotive; termina sotto Giove: idealismo in amore.",
+"Recorre la parte baja de los dedos. Indica la vida afectiva, las relaciones y cómo se expresa el afecto. Larga y curva: abierto, expresivo; recta y corta: reservado; encadenada o interrumpida: turbulencias emocionales; termina bajo Júpiter: idealismo en el amor.",
+"Corre sob os dedos. Indica a vida afetiva, as relações e o modo de expressar afeto. Longa e curva: aberto, expressivo; reta e curta: reservado; em cadeia ou interrompida: turbulência emocional; termina sob Júpiter: idealismo no amor.",
+"Verläuft unterhalb der Finger. Zeigt das Gefühlsleben, Beziehungen und den Ausdruck von Zuneigung. Lang und gebogen: offen, ausdrucksstark; gerade und kurz: zurückhaltend; gekettet oder unterbrochen: emotionale Turbulenzen; endet unter Jupiter: Idealismus in der Liebe.",
+"Az ujjak alatt fut. Az érzelmi életet, a kapcsolatokat és az érzelemkifejezés módját mutatja. Hosszú és ívelt: nyitott, kifejező; egyenes és rövid: visszafogott; láncolt vagy megszakadt: érzelmi viharok; a Jupiter alatt végződik: eszményiség a szerelemben."]},
+{id:"fate",k:"lines",c:"#8b5cf6",
+n:["Linia destinului","Fate line","Ligne de destinée","Linea del destino","Línea del destino","Linha do destino","Schicksalslinie","Sorsvonal"],
+d:["Linie verticală spre degetul mijlociu; nu o are oricine. Arată drumul profesional, sentimentul de direcție și influențele exterioare. Adâncă: direcție clară; absentă: drum flexibil, făurit singur; pornește din linia vieții: independență timpurie; pornește de la Lună: sprijin din partea altora.",
+"A vertical line toward the middle finger; not everyone has one. Shows career path, sense of direction and outside influences. Deep: clear direction; absent: a flexible, self-made path; starting at the life line: early self-reliance; starting at the Moon: support from others.",
+"Ligne verticale vers le majeur ; tout le monde n'en a pas. Elle indique le parcours professionnel, le sens de la direction et les influences extérieures. Profonde : cap clair ; absente : voie souple, faite soi-même ; partant de la ligne de vie : autonomie précoce ; partant de la Lune : soutien d'autrui.",
+"Linea verticale verso il medio; non tutti l'hanno. Indica il percorso professionale, il senso di direzione e le influenze esterne. Profonda: direzione chiara; assente: percorso flessibile, costruito da sé; parte dalla linea della vita: autonomia precoce; parte dalla Luna: sostegno altrui.",
+"Línea vertical hacia el dedo medio; no todos la tienen. Indica el camino profesional, el sentido de dirección y las influencias externas. Profunda: rumbo claro; ausente: camino flexible, hecho por uno mismo; nace en la línea de la vida: autonomía temprana; nace en la Luna: apoyo de otros.",
+"Linha vertical em direção ao dedo médio; nem todos a têm. Indica o percurso profissional, o sentido de direção e as influências externas. Profunda: rumo claro; ausente: caminho flexível, feito por si; nasce na linha da vida: autonomia precoce; nasce na Lua: apoio de outros.",
+"Senkrechte Linie zum Mittelfinger; nicht jeder hat sie. Zeigt den Berufsweg, Richtungssinn und äußere Einflüsse. Tief: klare Richtung; fehlend: flexibler, selbst gebahnter Weg; beginnt an der Lebenslinie: frühe Selbstständigkeit; beginnt am Mond: Unterstützung durch andere.",
+"Függőleges vonal a középső ujj felé; nem mindenkinek van. A pályát, az irányérzéket és a külső hatásokat mutatja. Mély: egyértelmű irány; hiányzik: rugalmas, önmagunk építette út; az életvonalból indul: korai önállóság; a Holdból indul: mások támogatása."]},
+{id:"sun",k:"lines",c:"#f59e0b",
+n:["Linia Soarelui (Apollo)","Sun line (Apollo)","Ligne du Soleil (Apollon)","Linea del Sole (Apollo)","Línea del Sol (Apolo)","Linha do Sol (Apolo)","Sonnenlinie (Apollo)","Nap-vonal (Apollón)"],
+d:["Urcă spre inelar; mulți nu o au. Arată creativitatea, recunoașterea și bucuria în ceea ce faci. Clară: talent apreciat; multiplă: talente variate; absența ei nu are o semnificație negativă.",
+"Rises toward the ring finger; many people lack it. Shows creativity, recognition and joy in what you do. Clear: appreciated talent; multiple: varied talents; its absence has no negative meaning.",
+"Monte vers l'annulaire ; beaucoup n'en ont pas. Elle indique la créativité, la reconnaissance et la joie de ce que l'on fait. Nette : talent apprécié ; multiple : talents variés ; son absence n'a aucun sens négatif.",
+"Sale verso l'anulare; molti non l'hanno. Indica creatività, riconoscimento e gioia in ciò che si fa. Nitida: talento apprezzato; multipla: talenti vari; la sua assenza non ha alcun significato negativo.",
+"Sube hacia el anular; muchos no la tienen. Indica creatividad, reconocimiento y alegría en lo que se hace. Nítida: talento apreciado; múltiple: talentos variados; su ausencia no tiene ningún significado negativo.",
+"Sobe em direção ao anelar; muitos não a têm. Indica criatividade, reconhecimento e alegria no que se faz. Nítida: talento apreciado; múltipla: talentos variados; a sua ausência não tem significado negativo.",
+"Steigt zum Ringfinger auf; viele haben sie nicht. Zeigt Kreativität, Anerkennung und Freude an dem, was man tut. Klar: geschätztes Talent; mehrfach: vielfältige Talente; ihr Fehlen hat keine negative Bedeutung.",
+"A gyűrűsujj felé emelkedik; sokaknak nincs. A kreativitást, az elismerést és a tevékenység örömét mutatja. Tiszta: elismert tehetség; többszörös: sokféle tehetség; hiányának nincs negatív jelentése."]},
+{id:"mer",k:"lines",c:"#10b981",
+n:["Linia lui Mercur (sănătate)","Mercury line (health)","Ligne de Mercure (santé)","Linea di Mercurio (salute)","Línea de Mercurio (salud)","Linha de Mercúrio (saúde)","Merkurlinie (Gesundheit)","Merkúr-vonal (egészség)"],
+d:["Diagonală spre degetul mic. În tradiție se leagă de comunicare, simț practic și obiceiuri de bunăstare. Nu este un indicator medical: pentru sănătate, consultă un medic.",
+"A diagonal toward the little finger. Tradition links it to communication, practical sense and well-being habits. It is not a medical indicator: for health concerns, see a doctor.",
+"Diagonale vers l'auriculaire. La tradition la relie à la communication, au sens pratique et aux habitudes de bien-être. Ce n'est pas un indicateur médical : pour la santé, consultez un médecin.",
+"Diagonale verso il mignolo. La tradizione la lega a comunicazione, senso pratico e abitudini di benessere. Non è un indicatore medico: per la salute, consulta un medico.",
+"Diagonal hacia el meñique. La tradición la vincula con la comunicación, el sentido práctico y los hábitos de bienestar. No es un indicador médico: para la salud, consulta a un médico.",
+"Diagonal em direção ao mindinho. A tradição liga-a à comunicação, ao sentido prático e aos hábitos de bem-estar. Não é um indicador médico: para a saúde, consulte um médico.",
+"Diagonale zum kleinen Finger. Die Tradition verbindet sie mit Kommunikation, praktischem Sinn und Wohlfühlgewohnheiten. Sie ist kein medizinischer Indikator: bei Gesundheitsfragen zum Arzt gehen.",
+"Átló a kisujj felé. A hagyomány a kommunikációval, a gyakorlati érzékkel és a jóléti szokásokkal kapcsolja össze. Nem orvosi mutató: egészségügyi kérdésekben fordulj orvoshoz."]},
+
+{id:"jup",k:"mounts",c:"#3b82f6",n:mn(P.jup),
+d:["Sub arătător. Ambiție, autoritate, încredere în sine. Bine dezvoltat: lider, carismatic; plat: modest, rezervat; exagerat: mândrie.",
+"Beneath the index finger. Ambition, authority, self-confidence. Well developed: leader, charismatic; flat: modest, reserved; excessive: pride.",
+"Sous l'index. Ambition, autorité, confiance en soi. Bien développé : meneur, charismatique ; plat : modeste, réservé ; excessif : orgueil.",
+"Sotto l'indice. Ambizione, autorità, fiducia in sé. Ben sviluppato: leader, carismatico; piatto: modesto, riservato; eccessivo: orgoglio.",
+"Bajo el índice. Ambición, autoridad, confianza en sí mismo. Bien desarrollado: líder, carismático; plano: modesto, reservado; excesivo: orgullo.",
+"Sob o indicador. Ambição, autoridade, autoconfiança. Bem desenvolvido: líder, carismático; plano: modesto, reservado; excessivo: orgulho.",
+"Unter dem Zeigefinger. Ehrgeiz, Autorität, Selbstvertrauen. Gut ausgeprägt: Führungsnatur, charismatisch; flach: bescheiden, zurückhaltend; übermäßig: Stolz.",
+"A mutatóujj alatt. Ambíció, tekintély, önbizalom. Jól fejlett: vezéralkat, karizmatikus; lapos: szerény, visszafogott; túlzott: gőg."]},
+{id:"sat",k:"mounts",c:"#6366f1",n:mn(P.sat),
+d:["Sub degetul mijlociu. Responsabilitate, prudență, disciplină, nevoia de singurătate. Dezvoltat: serios, metodic; plat: spontan; exagerat: melancolie.",
+"Beneath the middle finger. Responsibility, prudence, discipline, need for solitude. Developed: serious, methodical; flat: spontaneous; excessive: melancholy.",
+"Sous le majeur. Responsabilité, prudence, discipline, besoin de solitude. Développé : sérieux, méthodique ; plat : spontané ; excessif : mélancolie.",
+"Sotto il medio. Responsabilità, prudenza, disciplina, bisogno di solitudine. Sviluppato: serio, metodico; piatto: spontaneo; eccessivo: malinconia.",
+"Bajo el dedo medio. Responsabilidad, prudencia, disciplina, necesidad de soledad. Desarrollado: serio, metódico; plano: espontáneo; excesivo: melancolía.",
+"Sob o dedo médio. Responsabilidade, prudência, disciplina, necessidade de solidão. Desenvolvido: sério, metódico; plano: espontâneo; excessivo: melancolia.",
+"Unter dem Mittelfinger. Verantwortung, Vorsicht, Disziplin, Bedürfnis nach Einsamkeit. Ausgeprägt: ernst, methodisch; flach: spontan; übermäßig: Schwermut.",
+"A középső ujj alatt. Felelősség, óvatosság, fegyelem, a magány igénye. Fejlett: komoly, módszeres; lapos: spontán; túlzott: melankólia."]},
+{id:"apo",k:"mounts",c:"#f59e0b",n:mn(P.apo),
+d:["Sub inelar. Creativitate, farmec, simțul frumosului, optimism. Dezvoltat: artistic, sociabil; plat: pragmatic; exagerat: nevoia de a fi admirat.",
+"Beneath the ring finger. Creativity, charm, sense of beauty, optimism. Developed: artistic, sociable; flat: pragmatic; excessive: need for admiration.",
+"Sous l'annulaire. Créativité, charme, sens du beau, optimisme. Développé : artiste, sociable ; plat : pragmatique ; excessif : besoin d'admiration.",
+"Sotto l'anulare. Creatività, fascino, senso del bello, ottimismo. Sviluppato: artistico, socievole; piatto: pragmatico; eccessivo: bisogno di ammirazione.",
+"Bajo el anular. Creatividad, encanto, sentido de la belleza, optimismo. Desarrollado: artístico, sociable; plano: pragmático; excesivo: necesidad de admiración.",
+"Sob o anelar. Criatividade, charme, sentido de beleza, otimismo. Desenvolvido: artístico, sociável; plano: pragmático; excessivo: necessidade de admiração.",
+"Unter dem Ringfinger. Kreativität, Charme, Schönheitssinn, Optimismus. Ausgeprägt: künstlerisch, gesellig; flach: pragmatisch; übermäßig: Bedürfnis nach Bewunderung.",
+"A gyűrűsujj alatt. Kreativitás, báj, szépérzék, optimizmus. Fejlett: művészi, társaságkedvelő; lapos: pragmatikus; túlzott: csodálatigény."]},
+{id:"mmer",k:"mounts",c:"#10b981",n:mn(P.mer),
+d:["Sub degetul mic. Comunicare, spirit, simț comercial, adaptabilitate. Dezvoltat: vorbitor abil, versatil; plat: reținut în exprimare; exagerat: volubilitate.",
+"Beneath the little finger. Communication, wit, business sense, adaptability. Developed: skilled speaker, versatile; flat: reserved in expression; excessive: talkativeness.",
+"Sous l'auriculaire. Communication, esprit, sens des affaires, adaptabilité. Développé : bon orateur, polyvalent ; plat : réservé dans l'expression ; excessif : volubilité.",
+"Sotto il mignolo. Comunicazione, arguzia, senso degli affari, adattabilità. Sviluppato: buon oratore, versatile; piatto: riservato nell'espressione; eccessivo: loquacità.",
+"Bajo el meñique. Comunicación, ingenio, sentido comercial, adaptabilidad. Desarrollado: buen orador, versátil; plano: reservado al expresarse; excesivo: locuacidad.",
+"Sob o mindinho. Comunicação, perspicácia, sentido comercial, adaptabilidade. Desenvolvido: bom orador, versátil; plano: reservado ao expressar-se; excessivo: loquacidade.",
+"Unter dem kleinen Finger. Kommunikation, Witz, Geschäftssinn, Anpassungsfähigkeit. Ausgeprägt: guter Redner, vielseitig; flach: zurückhaltend im Ausdruck; übermäßig: Redseligkeit.",
+"A kisujj alatt. Kommunikáció, szellemesség, üzleti érzék, alkalmazkodóképesség. Fejlett: jó szónok, sokoldalú; lapos: szófukar; túlzott: bőbeszédűség."]},
+{id:"mars",k:"mounts",c:"#dc2626",n:mn(P.mar),
+d:["Două zone: Marte interior (între Jupiter și Venus, curaj activ) și Marte exterior (sub Mercur, rezistență și stăpânire de sine), cu Câmpia lui Marte între ele. Dezvoltat: energic, perseverent; exagerat: impulsivitate.",
+"Two zones: inner Mars (between Jupiter and Venus, active courage) and outer Mars (below Mercury, resilience and self-control), with the Plain of Mars between them. Developed: energetic, persevering; excessive: impulsiveness.",
+"Deux zones : Mars interne (entre Jupiter et Vénus, courage actif) et Mars externe (sous Mercure, résistance et maîtrise de soi), avec la plaine de Mars entre elles. Développé : énergique, persévérant ; excessif : impulsivité.",
+"Due zone: Marte interno (tra Giove e Venere, coraggio attivo) e Marte esterno (sotto Mercurio, resilienza e autocontrollo), con la pianura di Marte in mezzo. Sviluppato: energico, perseverante; eccessivo: impulsività.",
+"Dos zonas: Marte interno (entre Júpiter y Venus, valor activo) y Marte externo (bajo Mercurio, resistencia y autocontrol), con la llanura de Marte entre ambas. Desarrollado: enérgico, perseverante; excesivo: impulsividad.",
+"Duas zonas: Marte interno (entre Júpiter e Vénus, coragem ativa) e Marte externo (sob Mercúrio, resistência e autocontrolo), com a planície de Marte entre elas. Desenvolvido: enérgico, perseverante; excessivo: impulsividade.",
+"Zwei Zonen: innerer Mars (zwischen Jupiter und Venus, aktiver Mut) und äußerer Mars (unter Merkur, Widerstandskraft und Selbstbeherrschung), dazwischen die Marsebene. Ausgeprägt: energisch, ausdauernd; übermäßig: Impulsivität.",
+"Két terület: belső Mars (Jupiter és Vénusz között, tevékeny bátorság) és külső Mars (a Merkúr alatt, ellenállóképesség és önuralom), köztük a Mars-síkság. Fejlett: energikus, kitartó; túlzott: impulzivitás."]},
+{id:"moon",k:"mounts",c:"#64748b",
+n:["Muntele Lunii","Mount of the Moon","Mont de la Lune","Monte della Luna","Monte de la Luna","Monte da Lua","Mondberg","Hold-domb"],
+d:["Pe marginea palmei, opus degetului mare. Imaginație, intuiție, vise, creativitate. Dezvoltat: visător, inventiv; plat: realist; exagerat: evadare în fantezie.",
+"On the palm's edge, opposite the thumb. Imagination, intuition, dreams, creativity. Developed: dreamy, inventive; flat: realistic; excessive: escapism.",
+"Au bord de la paume, à l'opposé du pouce. Imagination, intuition, rêves, créativité. Développé : rêveur, inventif ; plat : réaliste ; excessif : fuite dans la fantaisie.",
+"Sul bordo del palmo, opposto al pollice. Immaginazione, intuizione, sogni, creatività. Sviluppato: sognatore, inventivo; piatto: realista; eccessivo: fuga nella fantasia.",
+"En el borde de la palma, opuesto al pulgar. Imaginación, intuición, sueños, creatividad. Desarrollado: soñador, inventivo; plano: realista; excesivo: evasión en la fantasía.",
+"No bordo da palma, oposto ao polegar. Imaginação, intuição, sonhos, criatividade. Desenvolvido: sonhador, inventivo; plano: realista; excessivo: fuga para a fantasia.",
+"Am Handrand, gegenüber dem Daumen. Fantasie, Intuition, Träume, Kreativität. Ausgeprägt: verträumt, erfinderisch; flach: realistisch; übermäßig: Realitätsflucht.",
+"A tenyér szélén, a hüvelykujjal szemben. Képzelet, intuíció, álmok, kreativitás. Fejlett: álmodozó, találékony; lapos: realista; túlzott: fantáziába menekülés."]},
+{id:"ven",k:"mounts",c:"#ec4899",n:mn(P.ven),
+d:["La baza degetului mare, înconjurat de linia vieții. Iubire, căldură, vitalitate, generozitate. Dezvoltat: afectuos, plin de energie; plat: rezervat; exagerat: poftă excesivă de plăceri.",
+"At the base of the thumb, encircled by the life line. Love, warmth, vitality, generosity. Developed: affectionate, energetic; flat: reserved; excessive: indulgence.",
+"À la base du pouce, entouré par la ligne de vie. Amour, chaleur, vitalité, générosité. Développé : affectueux, énergique ; plat : réservé ; excessif : excès de plaisirs.",
+"Alla base del pollice, circondato dalla linea della vita. Amore, calore, vitalità, generosità. Sviluppato: affettuoso, energico; piatto: riservato; eccessivo: eccesso di piaceri.",
+"En la base del pulgar, rodeado por la línea de la vida. Amor, calidez, vitalidad, generosidad. Desarrollado: afectuoso, enérgico; plano: reservado; excesivo: exceso de placeres.",
+"Na base do polegar, rodeado pela linha da vida. Amor, calor, vitalidade, generosidade. Desenvolvido: afetuoso, enérgico; plano: reservado; excessivo: excesso de prazeres.",
+"An der Daumenwurzel, von der Lebenslinie umschlossen. Liebe, Wärme, Vitalität, Großzügigkeit. Ausgeprägt: liebevoll, energiegeladen; flach: zurückhaltend; übermäßig: Genusssucht.",
+"A hüvelykujj tövénél, az életvonal övezi. Szeretet, melegség, életerő, nagylelkűség. Fejlett: szeretetteljes, energikus; lapos: tartózkodó; túlzott: élvezethajhászás."]},
+
+{id:"thumb",k:"fingers",c:"#a16207",
+n:["Degetul mare","Thumb","Pouce","Pollice","Pulgar","Polegar","Daumen","Hüvelykujj"],
+d:["Voința, logica și hotărârea. Lung și ferm: voință puternică; scurt: spontaneitate; flexibil (se arcuiește înapoi): adaptabil, generos; rigid: perseverent, uneori încăpățânat.",
+"Will, logic and determination. Long and firm: strong will; short: spontaneity; flexible (bends backward): adaptable, generous; stiff: persevering, sometimes stubborn.",
+"Volonté, logique et détermination. Long et ferme : forte volonté ; court : spontanéité ; souple (se cambre en arrière) : adaptable, généreux ; raide : persévérant, parfois têtu.",
+"Volontà, logica e determinazione. Lungo e fermo: forte volontà; corto: spontaneità; flessibile (si piega indietro): adattabile, generoso; rigido: perseverante, a volte testardo.",
+"Voluntad, lógica y determinación. Largo y firme: voluntad fuerte; corto: espontaneidad; flexible (se curva hacia atrás): adaptable, generoso; rígido: perseverante, a veces terco.",
+"Vontade, lógica e determinação. Longo e firme: vontade forte; curto: espontaneidade; flexível (dobra para trás): adaptável, generoso; rígido: perseverante, por vezes teimoso.",
+"Wille, Logik und Entschlossenheit. Lang und fest: starker Wille; kurz: Spontaneität; beweglich (biegt sich zurück): anpassungsfähig, großzügig; steif: ausdauernd, mitunter stur.",
+"Akarat, logika és határozottság. Hosszú és szilárd: erős akarat; rövid: spontaneitás; hajlékony (hátrahajlik): alkalmazkodó, nagylelkű; merev: kitartó, olykor makacs."]},
+{id:"idx",k:"fingers",c:"#3b82f6",
+n:["Arătătorul","Index finger","Index","Indice","Índice","Indicador","Zeigefinger","Mutatóujj"],
+d:["Ambiție și autoritate (Jupiter). Lung: încredere, înclinație spre conducere; scurt: modestie, reținere în fața rolului de lider.",
+"Ambition and authority (Jupiter). Long: confidence, leaning toward leadership; short: modesty, reluctance to take the lead.",
+"Ambition et autorité (Jupiter). Long : confiance, penchant pour le leadership ; court : modestie, réticence à prendre la tête.",
+"Ambizione e autorità (Giove). Lungo: fiducia, tendenza alla guida; corto: modestia, ritrosia a guidare.",
+"Ambición y autoridad (Júpiter). Largo: confianza, inclinación al liderazgo; corto: modestia, reticencia a liderar.",
+"Ambição e autoridade (Júpiter). Longo: confiança, tendência para liderar; curto: modéstia, relutância em liderar.",
+"Ehrgeiz und Autorität (Jupiter). Lang: Selbstvertrauen, Hang zur Führung; kurz: Bescheidenheit, Zurückhaltung beim Führen.",
+"Ambíció és tekintély (Jupiter). Hosszú: magabiztosság, vezetésre való hajlam; rövid: szerénység, a vezetéstől való tartózkodás."]},
+{id:"mid",k:"fingers",c:"#6366f1",
+n:["Degetul mijlociu","Middle finger","Majeur","Medio","Dedo medio","Dedo médio","Mittelfinger","Középső ujj"],
+d:["Responsabilitate și prudență (Saturn). De obicei cel mai lung deget. Lung: seriozitate, spirit de ordine; scurt: spontaneitate, aversiune față de rutină.",
+"Responsibility and prudence (Saturn). Usually the longest finger. Long: seriousness, sense of order; short: spontaneity, dislike of routine.",
+"Responsabilité et prudence (Saturne). Généralement le doigt le plus long. Long : sérieux, sens de l'ordre ; court : spontanéité, aversion pour la routine.",
+"Responsabilità e prudenza (Saturno). Di solito il dito più lungo. Lungo: serietà, senso dell'ordine; corto: spontaneità, avversione per la routine.",
+"Responsabilidad y prudencia (Saturno). Suele ser el dedo más largo. Largo: seriedad, sentido del orden; corto: espontaneidad, aversión a la rutina.",
+"Responsabilidade e prudência (Saturno). Normalmente o dedo mais longo. Longo: seriedade, sentido de ordem; curto: espontaneidade, aversão à rotina.",
+"Verantwortung und Vorsicht (Saturn). Meist der längste Finger. Lang: Ernst, Ordnungssinn; kurz: Spontaneität, Abneigung gegen Routine.",
+"Felelősség és óvatosság (Szaturnusz). Általában a leghosszabb ujj. Hosszú: komolyság, rendérzék; rövid: spontaneitás, a rutin kerülése."]},
+{id:"ring",k:"fingers",c:"#f59e0b",
+n:["Inelarul","Ring finger","Annulaire","Anulare","Anular","Anelar","Ringfinger","Gyűrűsujj"],
+d:["Creativitate și expresie (Apollo). Lung: gust pentru artă și risc; scurt: pragmatism. Comparat cu arătătorul: mai lung sugerează îndrăzneală, mai scurt prudență.",
+"Creativity and expression (Apollo). Long: taste for art and risk; short: pragmatism. Compared with the index finger: longer suggests boldness, shorter suggests caution.",
+"Créativité et expression (Apollon). Long : goût de l'art et du risque ; court : pragmatisme. Comparé à l'index : plus long suggère l'audace, plus court la prudence.",
+"Creatività ed espressione (Apollo). Lungo: gusto per l'arte e il rischio; corto: pragmatismo. Rispetto all'indice: più lungo suggerisce audacia, più corto prudenza.",
+"Creatividad y expresión (Apolo). Largo: gusto por el arte y el riesgo; corto: pragmatismo. Comparado con el índice: más largo sugiere audacia, más corto prudencia.",
+"Criatividade e expressão (Apolo). Longo: gosto pela arte e pelo risco; curto: pragmatismo. Comparado com o indicador: mais longo sugere ousadia, mais curto prudência.",
+"Kreativität und Ausdruck (Apollo). Lang: Sinn für Kunst und Risiko; kurz: Pragmatismus. Im Vergleich zum Zeigefinger: länger deutet auf Wagemut, kürzer auf Vorsicht.",
+"Kreativitás és önkifejezés (Apollón). Hosszú: művészet és kockázat iránti vonzódás; rövid: pragmatizmus. A mutatóujjhoz képest: hosszabb merészséget, rövidebb óvatosságot sugall."]},
+{id:"lit",k:"fingers",c:"#10b981",
+n:["Degetul mic","Little finger","Auriculaire","Mignolo","Meñique","Mindinho","Kleiner Finger","Kisujj"],
+d:["Comunicare și adaptabilitate (Mercur). Lung: expresivitate, abilitate verbală; scurt: reținere în exprimare.",
+"Communication and adaptability (Mercury). Long: expressiveness, verbal skill; short: reserve in speech.",
+"Communication et adaptabilité (Mercure). Long : expressivité, aisance verbale ; court : retenue dans l'expression.",
+"Comunicazione e adattabilità (Mercurio). Lungo: espressività, abilità verbale; corto: riservatezza nell'espressione.",
+"Comunicación y adaptabilidad (Mercurio). Largo: expresividad, habilidad verbal; corto: reserva al expresarse.",
+"Comunicação e adaptabilidade (Mercúrio). Longo: expressividade, habilidade verbal; curto: reserva ao expressar-se.",
+"Kommunikation und Anpassungsfähigkeit (Merkur). Lang: Ausdrucksstärke, Wortgewandtheit; kurz: Zurückhaltung im Ausdruck.",
+"Kommunikáció és alkalmazkodóképesség (Merkúr). Hosszú: kifejezőkészség, szóbeli ügyesség; rövid: szófukarság."]}
+];
+var EI={};E.forEach(function(e){EI[e.id]=e;});
+
+var TY=[
+{id:"earth",pal:"sq",fin:"sh",c:"#a16207",
+n:["Mâna de Pământ","Earth hand","Main de Terre","Mano di Terra","Mano de Tierra","Mão de Terra","Erdhand","Föld-kéz"],
+d:["Palmă pătrată, degete scurte. Practic, de încredere, iubește stabilitatea și munca concretă.",
+"Square palm, short fingers. Practical, reliable, values stability and tangible work.",
+"Paume carrée, doigts courts. Pratique, fiable, attaché à la stabilité et au travail concret.",
+"Palmo quadrato, dita corte. Pratico, affidabile, ama la stabilità e il lavoro concreto.",
+"Palma cuadrada, dedos cortos. Práctico, fiable, valora la estabilidad y el trabajo concreto.",
+"Palma quadrada, dedos curtos. Prático, fiável, valoriza a estabilidade e o trabalho concreto.",
+"Quadratische Handfläche, kurze Finger. Praktisch, zuverlässig, schätzt Stabilität und konkrete Arbeit.",
+"Négyzetes tenyér, rövid ujjak. Gyakorlatias, megbízható, a stabilitást és a kézzelfogható munkát szereti."]},
+{id:"air",pal:"sq",fin:"lg",c:"#0ea5e9",
+n:["Mâna de Aer","Air hand","Main d'Air","Mano d'Aria","Mano de Aire","Mão de Ar","Lufthand","Levegő-kéz"],
+d:["Palmă pătrată, degete lungi. Comunicativ, curios, înclinat spre idei și analiză.",
+"Square palm, long fingers. Communicative, curious, drawn to ideas and analysis.",
+"Paume carrée, doigts longs. Communicatif, curieux, attiré par les idées et l'analyse.",
+"Palmo quadrato, dita lunghe. Comunicativo, curioso, attratto da idee e analisi.",
+"Palma cuadrada, dedos largos. Comunicativo, curioso, atraído por las ideas y el análisis.",
+"Palma quadrada, dedos longos. Comunicativo, curioso, atraído por ideias e análise.",
+"Quadratische Handfläche, lange Finger. Kommunikativ, neugierig, von Ideen und Analyse angezogen.",
+"Négyzetes tenyér, hosszú ujjak. Kommunikatív, kíváncsi, vonzzák az eszmék és az elemzés."]},
+{id:"fire",pal:"lg",fin:"sh",c:"#ef4444",
+n:["Mâna de Foc","Fire hand","Main de Feu","Mano di Fuoco","Mano de Fuego","Mão de Fogo","Feuerhand","Tűz-kéz"],
+d:["Palmă lungă, degete scurte. Energic, spontan, entuziast, intuitiv.",
+"Long palm, short fingers. Energetic, spontaneous, enthusiastic, intuitive.",
+"Paume longue, doigts courts. Énergique, spontané, enthousiaste, intuitif.",
+"Palmo lungo, dita corte. Energico, spontaneo, entusiasta, intuitivo.",
+"Palma larga, dedos cortos. Enérgico, espontáneo, entusiasta, intuitivo.",
+"Palma longa, dedos curtos. Enérgico, espontâneo, entusiasta, intuitivo.",
+"Lange Handfläche, kurze Finger. Energisch, spontan, begeistert, intuitiv.",
+"Hosszú tenyér, rövid ujjak. Energikus, spontán, lelkes, intuitív."]},
+{id:"water",pal:"lg",fin:"lg",c:"#3b82f6",
+n:["Mâna de Apă","Water hand","Main d'Eau","Mano d'Acqua","Mano de Agua","Mão de Água","Wasserhand","Víz-kéz"],
+d:["Palmă lungă, degete lungi. Sensibil, empatic, imaginativ, atent la atmosferă.",
+"Long palm, long fingers. Sensitive, empathetic, imaginative, attuned to atmosphere.",
+"Paume longue, doigts longs. Sensible, empathique, imaginatif, attentif à l'atmosphère.",
+"Palmo lungo, dita lunghe. Sensibile, empatico, fantasioso, attento all'atmosfera.",
+"Palma larga, dedos largos. Sensible, empático, imaginativo, atento al ambiente.",
+"Palma longa, dedos longos. Sensível, empático, imaginativo, atento ao ambiente.",
+"Lange Handfläche, lange Finger. Sensibel, einfühlsam, fantasievoll, aufmerksam für Stimmungen.",
+"Hosszú tenyér, hosszú ujjak. Érzékeny, empatikus, képzeletgazdag, fogékony a hangulatokra."]}
+];
+
+var SG=[
+{id:"star",ic:'<path d="M30 8v44M10 19l40 22M50 19L10 41"/>',
+n:["Stea","Star","Étoile","Stella","Estrella","Estrela","Stern","Csillag"],
+d:["Marchează un moment intens – de succes sau de șoc – în zona unde apare. Se citește după loc.","Marks an intense moment — of success or shock — in the area where it appears. Read it by location.","Marque un moment intense — de réussite ou de choc — là où elle apparaît. Elle se lit selon son emplacement.","Segna un momento intenso — di successo o di shock — nella zona in cui compare. Si legge in base alla posizione.","Marca un momento intenso —de éxito o de impacto— en la zona donde aparece. Se interpreta según su ubicación.","Marca um momento intenso — de sucesso ou de choque — na zona onde aparece. Lê-se conforme a localização.","Markiert einen intensiven Moment – Erfolg oder Schock – in dem Bereich, in dem es auftritt. Wird nach dem Ort gedeutet.","Intenzív pillanatot jelöl – sikert vagy megrázkódtatást – ott, ahol megjelenik. A helye szerint értelmezendő."]},
+{id:"cross",ic:'<path d="M14 14l32 32M46 14L14 46"/>',
+n:["Cruce","Cross","Croix","Croce","Cruz","Cruz","Kreuz","Kereszt"],
+d:["Un obstacol sau o încercare, o răscruce de decizie. Contează linia sau muntele pe care apare.","An obstacle or test, a crossroads of decision. What matters is the line or mount where it appears.","Un obstacle ou une épreuve, un carrefour de décision. Compte la ligne ou le mont où elle se trouve.","Un ostacolo o una prova, un bivio decisionale. Conta la linea o il monte in cui si trova.","Un obstáculo o prueba, una encrucijada de decisión. Importa la línea o el monte donde aparece.","Um obstáculo ou prova, uma encruzilhada de decisão. Importa a linha ou o monte onde aparece.","Ein Hindernis oder eine Prüfung, eine Weggabelung. Entscheidend ist die Linie oder der Berg, auf dem es liegt.","Akadály vagy próba, döntési keresztút. Az számít, melyik vonalon vagy dombon jelenik meg."]},
+{id:"island",ic:'<path d="M4 30h15M41 30h15"/><ellipse cx="30" cy="30" rx="11" ry="7"/>',
+n:["Insulă","Island","Île","Isola","Isla","Ilha","Insel","Sziget"],
+d:["Un mic oval pe o linie: perioadă de slăbire a energiei sau de încercare, care trece odată cu închiderea liniei.","A small oval on a line: a period of lowered energy or strain that passes where the line resumes.","Un petit ovale sur une ligne : période d'énergie réduite ou d'épreuve, qui passe là où la ligne reprend.","Un piccolo ovale su una linea: periodo di energia ridotta o di prova, che passa dove la linea riprende.","Un pequeño óvalo en una línea: periodo de energía baja o de prueba, que pasa donde la línea continúa.","Um pequeno oval numa linha: período de energia reduzida ou de prova, que passa onde a linha retoma.","Ein kleines Oval auf einer Linie: Phase geringer Energie oder Belastung, die endet, wo die Linie weiterläuft.","Kis ovális egy vonalon: csökkent energiájú vagy megterhelő időszak, amely ott ér véget, ahol a vonal folytatódik."]},
+{id:"chain",ic:'<circle cx="13" cy="30" r="8"/><circle cx="30" cy="30" r="8"/><circle cx="47" cy="30" r="8"/>',
+n:["Lanț","Chain","Chaîne","Catena","Cadena","Cadeia","Kette","Lánc"],
+d:["O linie făcută din inele mici: dispersie a energiei, sensibilitate sau perioade de nesiguranță.","A line made of small links: scattered energy, sensitivity or periods of uncertainty.","Une ligne faite de petits maillons : énergie dispersée, sensibilité ou périodes d'incertitude.","Una linea fatta di piccoli anelli: energia dispersa, sensibilità o periodi di incertezza.","Una línea hecha de pequeños eslabones: energía dispersa, sensibilidad o periodos de incertidumbre.","Uma linha feita de pequenos elos: energia dispersa, sensibilidade ou períodos de incerteza.","Eine Linie aus kleinen Gliedern: zerstreute Energie, Sensibilität oder Phasen der Unsicherheit.","Apró láncszemekből álló vonal: szétszóródó energia, érzékenység vagy bizonytalan időszakok."]},
+{id:"triangle",ic:'<path d="M30 10L52 48H8z"/>',
+n:["Triunghi","Triangle","Triangle","Triangolo","Triángulo","Triângulo","Dreieck","Háromszög"],
+d:["Semn favorabil: talent, ingeniozitate sau aptitudini intelectuale în zona respectivă.","A favorable sign: talent, ingenuity or intellectual aptitude in that area.","Signe favorable : talent, ingéniosité ou aptitudes intellectuelles dans cette zone.","Segno favorevole: talento, ingegno o attitudini intellettuali in quella zona.","Signo favorable: talento, ingenio o aptitudes intelectuales en esa zona.","Sinal favorável: talento, engenho ou aptidões intelectuais nessa zona.","Günstiges Zeichen: Talent, Einfallsreichtum oder intellektuelle Begabung in diesem Bereich.","Kedvező jel: tehetség, találékonyság vagy szellemi képesség az adott területen."]},
+{id:"grille",ic:'<path d="M20 10v40M40 10v40M10 20h40M10 40h40"/>',
+n:["Grilaj","Grille","Grille","Griglia","Reja","Grelha","Gitter","Rács"],
+d:["Linii încrucișate pe un munte: energia zonei este intensificată, dar și dispersată sau frânată.","Crossed lines on a mount: the energy of that area is intensified but also scattered or held back.","Lignes croisées sur un mont : l'énergie de la zone est intensifiée mais aussi dispersée ou freinée.","Linee incrociate su un monte: l'energia della zona è intensificata ma anche dispersa o frenata.","Líneas cruzadas sobre un monte: la energía de esa zona se intensifica, pero también se dispersa o frena.","Linhas cruzadas num monte: a energia da zona é intensificada, mas também dispersa ou travada.","Gekreuzte Linien auf einem Berg: Die Energie des Bereichs ist verstärkt, aber auch zerstreut oder gebremst.","Keresztező vonalak egy dombon: a terület energiája felerősödik, de szét is szóródhat vagy gátolt lehet."]},
+{id:"square",ic:'<rect x="12" y="12" width="36" height="36"/>',
+n:["Pătrat","Square","Carré","Quadrato","Cuadrado","Quadrado","Quadrat","Négyzet"],
+d:["Semn de protecție: întărește sau „repară” o linie întreruptă, adică stabilitate după o perioadă dificilă.","A sign of protection: it reinforces or 'mends' a broken line — stability after a difficult period.","Signe de protection : il renforce ou « répare » une ligne interrompue — stabilité après une période difficile.","Segno di protezione: rinforza o «ripara» una linea interrotta — stabilità dopo un periodo difficile.","Signo de protección: refuerza o «repara» una línea interrumpida — estabilidad tras un periodo difícil.","Sinal de proteção: reforça ou «repara» uma linha interrompida — estabilidade após um período difícil.","Zeichen des Schutzes: Es stärkt oder „repariert“ eine unterbrochene Linie – Stabilität nach einer schwierigen Phase.","A védelem jele: megerősíti vagy „megjavítja” a megszakadt vonalat – stabilitás egy nehéz időszak után."]},
+{id:"fork",ic:'<path d="M30 52V30M30 30L14 10M30 30L46 10"/>',
+n:["Bifurcație","Fork","Fourche","Biforcazione","Bifurcación","Bifurcação","Gabelung","Elágazás"],
+d:["Linia se desparte: două direcții sau două laturi ale aceleiași trăsături; la capătul liniei capului arată versatilitate.","A line splits: two directions or two sides of the same trait; at the end of the head line it suggests versatility.","La ligne se divise : deux directions ou deux facettes d'un même trait ; au bout de la ligne de tête, elle suggère la polyvalence.","La linea si divide: due direzioni o due lati di uno stesso tratto; alla fine della linea della testa suggerisce versatilità.","La línea se divide: dos direcciones o dos caras de un mismo rasgo; al final de la línea de la cabeza sugiere versatilidad.","A linha divide-se: duas direções ou dois lados do mesmo traço; no fim da linha da cabeça sugere versatilidade.","Die Linie teilt sich: zwei Richtungen oder zwei Seiten desselben Zugs; am Ende der Kopflinie deutet sie Vielseitigkeit an.","A vonal kettéválik: két irány vagy ugyanazon vonás két oldala; a fejvonal végén sokoldalúságra utal."]}
+];
+
+/* reader options: aspect -> 3 options (each 8 langs) */
+var RO={
+life:[
+["Adâncă și clară — vitalitate și energie constantă","Deep and clear — steady vitality and energy","Profonde et nette — vitalité et énergie constantes","Profonda e nitida — vitalità ed energia costanti","Profunda y nítida — vitalidad y energía constantes","Profunda e nítida — vitalidade e energia constantes","Tief und klar — beständige Vitalität und Energie","Mély és tiszta — állandó életerő és energia"],
+["Subțire sau ștearsă — energie mai discretă, preferință pentru ritm calm","Thin or faint — quieter energy, preference for a calm rhythm","Fine ou pâle — énergie plus discrète, goût pour un rythme calme","Sottile o sbiadita — energia più discreta, preferenza per un ritmo calmo","Fina o tenue — energía más discreta, preferencia por un ritmo tranquilo","Fina ou ténue — energia mais discreta, preferência por um ritmo calmo","Dünn oder blass — leisere Energie, Vorliebe für ruhigen Rhythmus","Vékony vagy halvány — csendesebb energia, a nyugodt ritmus kedvelése"],
+["În lanț sau întreruptă — perioade de schimbare și adaptare","Chained or broken — periods of change and adaptation","En chaîne ou interrompue — périodes de changement et d'adaptation","A catena o interrotta — periodi di cambiamento e adattamento","Encadenada o interrumpida — periodos de cambio y adaptación","Em cadeia ou interrompida — períodos de mudança e adaptação","Gekettet oder unterbrochen — Phasen von Wandel und Anpassung","Láncolt vagy megszakadt — változás és alkalmazkodás időszakai"]],
+head:[
+["Lungă și dreaptă — gândire analitică, practică","Long and straight — analytical, practical thinking","Longue et droite — pensée analytique et pratique","Lunga e dritta — pensiero analitico e pratico","Larga y recta — pensamiento analítico y práctico","Longa e reta — pensamento analítico e prático","Lang und gerade — analytisches, praktisches Denken","Hosszú és egyenes — elemző, gyakorlatias gondolkodás"],
+["Coboară spre Lună — imaginație și creativitate","Sloping toward the Moon — imagination and creativity","Descendant vers la Lune — imagination et créativité","Inclinata verso la Luna — immaginazione e creatività","Inclinada hacia la Luna — imaginación y creatividad","Inclinada para a Lua — imaginação e criatividade","Zum Mond abfallend — Fantasie und Kreativität","A Hold felé lejt — képzelet és kreativitás"],
+["Scurtă — gândire directă, orientată spre concret","Short — direct, concrete-minded thinking","Courte — pensée directe, tournée vers le concret","Corta — pensiero diretto, orientato al concreto","Corta — pensamiento directo, orientado a lo concreto","Curta — pensamento direto, orientado para o concreto","Kurz — direktes, auf Konkretes gerichtetes Denken","Rövid — közvetlen, a konkrétumokra irányuló gondolkodás"]],
+heart:[
+["Lungă și curbată — afecțiune deschisă, expresivă","Long and curved — open, expressive affection","Longue et courbe — affection ouverte et expressive","Lunga e curva — affetto aperto ed espressivo","Larga y curva — afecto abierto y expresivo","Longa e curva — afeto aberto e expressivo","Lang und gebogen — offene, ausdrucksstarke Zuneigung","Hosszú és ívelt — nyílt, kifejező szeretet"],
+["Dreaptă și scurtă — sentimente exprimate cu reținere","Straight and short — feelings expressed with reserve","Droite et courte — sentiments exprimés avec retenue","Dritta e corta — sentimenti espressi con riserbo","Recta y corta — sentimientos expresados con reserva","Reta e curta — sentimentos expressos com reserva","Gerade und kurz — Gefühle werden zurückhaltend gezeigt","Egyenes és rövid — az érzelmeket visszafogottan fejezi ki"],
+["În lanț sau întreruptă — emoții intense, perioade de frământare","Chained or broken — intense emotions, periods of turmoil","En chaîne ou interrompue — émotions intenses, périodes de trouble","A catena o interrotta — emozioni intense, periodi di tumulto","Encadenada o interrumpida — emociones intensas, periodos de agitación","Em cadeia ou interrompida — emoções intensas, períodos de agitação","Gekettet oder unterbrochen — intensive Gefühle, bewegte Phasen","Láncolt vagy megszakadt — heves érzelmek, viharos időszakok"]],
+fate:[
+["Adâncă — direcție profesională clară","Deep — clear professional direction","Profonde — cap professionnel clair","Profonda — direzione professionale chiara","Profunda — rumbo profesional claro","Profunda — rumo profissional claro","Tief — klare berufliche Richtung","Mély — egyértelmű szakmai irány"],
+["Absentă — drum flexibil, făurit singur","Absent — a flexible, self-made path","Absente — voie souple, faite soi-même","Assente — percorso flessibile, costruito da sé","Ausente — camino flexible, hecho por uno mismo","Ausente — caminho flexível, feito por si","Fehlend — flexibler, selbst gebahnter Weg","Hiányzik — rugalmas, önmagunk építette út"],
+["Pornește din linia vieții — independență timpurie","Starts at the life line — early independence","Part de la ligne de vie — indépendance précoce","Parte dalla linea della vita — indipendenza precoce","Nace en la línea de la vida — independencia temprana","Nasce na linha da vida — independência precoce","Beginnt an der Lebenslinie — frühe Unabhängigkeit","Az életvonalból indul — korai függetlenség"]]
+};
+var ASP=["life","head","heart","fate"];
+
+/* ---------- state ---------- */
+var KEY="chiromantia.v1";
+var S={li:0,theme:"",tab:"hand",hand:"l",lay:{lines:1,mounts:1,fingers:1},sel:"life",R:{palm:"",fin:"",life:"",head:"",heart:"",fate:""},done:false};
+try{var raw=localStorage.getItem(KEY);if(raw){var o=JSON.parse(raw);
+ if(typeof o.li==="number"&&o.li>=0&&o.li<8)S.li=o.li;
+ if(o.theme==="dark"||o.theme==="light")S.theme=o.theme;
+ if(o.R&&typeof o.R==="object"){for(var k in S.R){if(typeof o.R[k]==="string")S.R[k]=o.R[k];}}
+ if(o.hand==="l"||o.hand==="r")S.hand=o.hand;
+}else{var nl=(navigator.language||"ro").slice(0,2).toLowerCase();var ix=LG.indexOf(nl);if(ix>=0)S.li=ix;}}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify({li:S.li,theme:S.theme,R:S.R,hand:S.hand}));}catch(e){}}
+function t(k){return U[k][S.li];}
+function applyTheme(){var th=S.theme||(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",th);document.documentElement.lang=LG[S.li];}
+
+/* ---------- SVG hand ---------- */
+function handSVG(){
+ var sel=S.sel,L=S.lay;
+ var F=[["thumb",'<rect x="-17" y="-52" width="34" height="104" rx="17" transform="translate(62 258) rotate(-30)"/>'],
+ ["idx",'<rect x="80" y="100" width="30" height="110" rx="15"/>'],
+ ["mid",'<rect x="112" y="78" width="32" height="132" rx="16"/>'],
+ ["ring",'<rect x="146" y="98" width="30" height="112" rx="15"/>'],
+ ["lit",'<rect x="178" y="134" width="27" height="76" rx="13.5"/>']];
+ var palm='<path d="M80 200H205L208 300Q205 358 145 372Q88 358 80 300Z"/>';
+ var s='<svg class="hand has-sel" viewBox="0 0 300 400" role="group" aria-label="'+t("tHand")+'"><g'+(S.hand==="r"?' transform="translate(300 0) scale(-1 1)"':'')+'>';
+ s+='<g fill="var(--outline)" stroke="var(--outline)" stroke-width="5" stroke-linejoin="round">'+palm+F.map(function(f){return f[1];}).join("")+'</g>';
+ s+='<g fill="var(--skin)" stroke="none">'+palm+'</g>';
+ s+='<g class="'+(L.fingers?"":"hide")+'" fill="var(--skin)">';
+ F.forEach(function(f){var e=EI[f[0]];s+=f[1].replace("<rect",'<rect class="fg'+(sel===f[0]?" sel":"")+'" data-id="'+f[0]+'" tabindex="0" role="button" aria-label="'+e.n[S.li]+'"');});
+ s+='</g>';
+ var M=[["jup",95,212,14,10],["sat",127,208,14,10],["apo",161,210,13,10],["mmer",191,213,12,10],["mars",197,256,10,14],["mars",89,250,8,10],["moon",186,318,15,24],["ven",102,298,20,32]];
+ s+='<g class="'+(L.mounts?"":"hide")+'">';
+ M.forEach(function(m){var e=EI[m[0]];s+='<ellipse class="mt'+(sel===m[0]?" sel":"")+'" data-id="'+m[0]+'" cx="'+m[1]+'" cy="'+m[2]+'" rx="'+m[3]+'" ry="'+m[4]+'" fill="'+e.c+'" stroke="'+e.c+'" tabindex="0" role="button" aria-label="'+e.n[S.li]+'"/>';});
+ s+='</g>';
+ var D={life:"M95 225C135 250 120 310 118 352",head:"M97 238C130 250 170 262 203 275",heart:"M205 232C180 214 140 220 105 214",fate:"M150 362C148 320 152 270 146 215",sun:"M168 322C166 290 163 250 160 218",mer:"M128 332C150 305 172 270 186 224"};
+ s+='<g class="'+(L.lines?"":"hide")+'">';
+ for(var id in D){var e2=EI[id];if(sel===id)s+='<path class="halo" d="'+D[id]+'" stroke="'+e2.c+'"/>';s+='<path class="ln'+(sel===id?" sel":"")+'" data-id="'+id+'" d="'+D[id]+'" stroke="'+e2.c+'"/><path class="hit" data-id="'+id+'" d="'+D[id]+'" tabindex="0" role="button" aria-label="'+e2.n[S.li]+'"/>';}
+ s+='</g></g></svg>';
+ return s;
+}
+
+/* ---------- views ---------- */
+var KL={lines:"lines",mounts:"mounts",fingers:"fingers"};
+function vHand(){
+ var e=EI[S.sel];
+ var h='<div class="grid hand-grid"><div class="card">'+handSVG()+'</div><div><div class="card noprint">';
+ h+='<div class="layers">';
+ ["lines","mounts","fingers"].forEach(function(k){h+='<label><input type="checkbox" data-act="lay" data-k="'+k+'"'+(S.lay[k]?" checked":"")+'> '+t(k)+'</label>';});
+ h+='<span class="seg"><button data-act="hand" data-v="l" class="'+(S.hand==="l"?"on":"")+'">'+t("lh")+'</button><button data-act="hand" data-v="r" class="'+(S.hand==="r"?"on":"")+'">'+t("rh")+'</button></span></div>';
+ h+='<div class="detail"><span class="chip" style="border-color:'+e.c+'">'+t(e.k)+'</span><h2>'+e.n[S.li]+'</h2><p>'+e.d[S.li]+'</p></div></div>';
+ h+='<div class="card" style="margin-top:14px"><p class="sub" style="margin-bottom:4px">'+t("tap")+'</p>';
+ ["lines","mounts","fingers"].forEach(function(k){h+='<div class="h3">'+t(k)+'</div><div class="chips">';E.filter(function(x){return x.k===k;}).forEach(function(x){h+='<button data-act="sel" data-id="'+x.id+'" class="'+(S.sel===x.id?"on":"")+'"><span class="dot" style="background:'+x.c+'"></span>'+x.n[S.li]+'</button>';});h+='</div>';});
+ h+='</div></div></div>';
+ return h;
+}
+function curType(){var p=S.R.palm,f=S.R.fin;if(!p||!f)return null;for(var i=0;i<TY.length;i++){if(TY[i].pal===p&&TY[i].fin===f)return TY[i];}return null;}
+function vTypes(){
+ var ct=curType();
+ var h='<div class="cards">';
+ TY.forEach(function(y){h+='<div class="card'+(ct&&ct.id===y.id?" match":"")+'" style="border-left:6px solid '+y.c+'"><h3>'+y.n[S.li]+'</h3><p>'+y.d[S.li]+'</p></div>';});
+ return h+'</div>';
+}
+function vSigns(){
+ var h='<div class="cards">';
+ SG.forEach(function(g){h+='<div class="card sgn"><svg class="ico" viewBox="0 0 60 60" aria-hidden="true">'+g.ic+'</svg><div><h3>'+g.n[S.li]+'</h3><p>'+g.d[S.li]+'</p></div></div>';});
+ return h+'</div>';
+}
+function sel(name,opts,val){
+ var s='<select data-act="rd" data-k="'+name+'"><option value="">'+t("choose")+'</option>';
+ opts.forEach(function(o,i){s+='<option value="'+i+'"'+(String(val)===String(i)?" selected":"")+'>'+o+'</option>';});
+ return s+'</select>';
+}
+function readingText(){
+ var lines=[],ct=curType();
+ if(ct)lines.push(ct.n[S.li]+" — "+ct.d[S.li]);
+ ASP.forEach(function(a){var v=S.R[a];if(v!==""&&RO[a][+v])lines.push(EI[a].n[S.li]+": "+RO[a][+v][S.li]);});
+ return lines;
+}
+function vReader(){
+ var R=S.R;
+ var h='<div class="card noprint"><p style="margin-top:0">'+t("readIntro")+'</p><div class="form">';
+ h+='<label>'+t("palmShape")+sel("palm",[t("sq"),t("lg")],R.palm==="sq"?0:R.palm==="lg"?1:"")+'</label>';
+ h+='<label>'+t("fingLen")+sel("fin",[t("sh"),t("lgF")],R.fin==="sh"?0:R.fin==="lg"?1:"")+'</label>';
+ ASP.forEach(function(a){h+='<label>'+EI[a].n[S.li]+sel(a,RO[a].map(function(o){return o[S.li];}),R[a])+'</label>';});
+ h+='</div><div class="row"><button class="btn pri" data-act="gen">'+t("gen")+'</button><button class="btn" data-act="reset">'+t("reset")+'</button></div></div>';
+ if(S.done){var L=readingText();
+  h+='<div class="card" style="margin-top:14px"><div class="reading" id="reading"><h2>'+t("readTitle")+'</h2><ul>'+L.map(function(x){return "<li>"+x+"</li>";}).join("")+'</ul><em>'+t("readNote")+'</em></div>';
+  h+='<div class="row noprint"><button class="btn" data-act="copy">'+t("copy")+'</button><button class="btn" data-act="print">'+t("print")+'</button></div></div>';
+  h+='<p class="pnote">'+t("disc")+'</p>';}
+ return h;
+}
+function vAbout(){
+ return '<div class="card about"><div class="h3">'+t("hDisc")+'</div><p>'+t("disc")+'</p><div class="h3">'+t("hHist")+'</div><p>'+t("hist")+'</p><div class="h3">'+t("hTips")+'</div><p>'+t("tips")+'</p><p>'+t("free")+'</p><p><a href="https://buymeacoffee.com/echo.of.the.strings" target="_blank" rel="noopener noreferrer">'+t("bmc")+'</a></p></div>';
+}
+function render(){
+ applyTheme();
+ var tabs=[["hand","tHand"],["types","tTypes"],["signs","tSigns"],["reader","tReader"],["about","tAbout"]];
+ var h='<header><div><h1>CHIROMANTIA</h1><p class="sub">'+t("sub")+'</p></div><div class="ctl"><select data-act="lang" aria-label="Language">'+LN.map(function(n,i){return '<option value="'+i+'"'+(i===S.li?" selected":"")+'>'+n+'</option>';}).join("")+'</select><button class="btn" data-act="theme" aria-label="Theme">◐</button></div></header>';
+ h+='<nav>'+tabs.map(function(x){return '<button data-act="tab" data-v="'+x[0]+'" class="'+(S.tab===x[0]?"on":"")+'">'+t(x[1])+'</button>';}).join("")+'</nav>';
+ h+=S.tab==="hand"?vHand():S.tab==="types"?vTypes():S.tab==="signs"?vSigns():S.tab==="reader"?vReader():vAbout();
+ h+='<footer>MIT · © Alexandru-Ionuț Chiuță (Alexio) · '+t("ver")+': 1.0 · '+t("upd")+': 04.11.2026</footer>';
+ document.getElementById("app").innerHTML=h;
+}
+
+/* ---------- events ---------- */
+var app=document.getElementById("app");
+function hit(el){while(el&&el!==app){if(el.getAttribute&&el.getAttribute("data-act"))return el;el=el.parentNode;}
+ return null;}
+function pick(el){while(el&&el!==app){if(el.getAttribute&&el.getAttribute("data-id")&&(el.classList.contains("fg")||el.classList.contains("mt")||el.classList.contains("hit")||el.classList.contains("ln")))return el.getAttribute("data-id");el=el.parentNode;}return null;}
+app.addEventListener("click",function(ev){
+ var id=pick(ev.target);if(id){S.sel=id;render();return;}
+ var el=hit(ev.target);if(!el)return;var a=el.getAttribute("data-act");
+ if(a==="tab"){S.tab=el.getAttribute("data-v");render();}
+ else if(a==="sel"){S.sel=el.getAttribute("data-id");render();}
+ else if(a==="hand"){S.hand=el.getAttribute("data-v");save();render();}
+ else if(a==="theme"){var cur=document.documentElement.getAttribute("data-theme");S.theme=cur==="dark"?"light":"dark";save();render();}
+ else if(a==="gen"){S.done=true;render();var r=document.getElementById("reading");if(r&&r.scrollIntoView)r.scrollIntoView({behavior:"smooth",block:"start"});}
+ else if(a==="reset"){S.R={palm:"",fin:"",life:"",head:"",heart:"",fate:""};S.done=false;save();render();}
+ else if(a==="print"){window.print();}
+ else if(a==="copy"){
+  var txt=t("readTitle")+"\n"+readingText().map(function(x){return "• "+x;}).join("\n")+"\n"+t("readNote");
+  var ok=function(){el.textContent=t("copied");setTimeout(function(){el.textContent=t("copy");},1500);};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(ok,function(){fb();});}else{fb();}
+  function fb(){var ta=document.createElement("textarea");ta.value=txt;ta.style.position="fixed";ta.style.opacity="0";document.body.appendChild(ta);ta.select();try{document.execCommand("copy");ok();}catch(e){}document.body.removeChild(ta);}
+ }
+});
+app.addEventListener("change",function(ev){
+ var el=ev.target,a=el.getAttribute("data-act");if(!a)return;
+ if(a==="lang"){S.li=+el.value;save();render();}
+ else if(a==="lay"){S.lay[el.getAttribute("data-k")]=el.checked?1:0;render();}
+ else if(a==="rd"){var k=el.getAttribute("data-k"),v=el.value;
+  if(k==="palm")S.R.palm=v===""?"":(v==="0"?"sq":"lg");
+  else if(k==="fin")S.R.fin=v===""?"":(v==="0"?"sh":"lg");
+  else S.R[k]=v;
+  S.done=false;save();render();}
+});
+app.addEventListener("keydown",function(ev){
+ if(ev.key!=="Enter"&&ev.key!==" ")return;var id=pick(ev.target);
+ if(id){ev.preventDefault();S.sel=id;render();var n=app.querySelector('[data-id="'+id+'"][tabindex]');if(n)n.focus();}
+});
+render();
+})();
+</script>
+</body>
+</html>

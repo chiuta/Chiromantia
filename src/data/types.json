@@ -1,0 +1,106 @@
+[
+ {
+  "id": "earth",
+  "pal": "sq",
+  "fin": "sh",
+  "c": "#a16207",
+  "n": [
+   "Mâna de Pământ",
+   "Earth hand",
+   "Main de Terre",
+   "Mano di Terra",
+   "Mano de Tierra",
+   "Mão de Terra",
+   "Erdhand",
+   "Föld-kéz"
+  ],
+  "d": [
+   "Palmă pătrată, degete scurte. În tradiție: practic, de încredere, iubește stabilitatea și munca concretă.",
+   "Square palm, short fingers. In tradition: practical, reliable, values stability and tangible work.",
+   "Paume carrée, doigts courts. Selon la tradition : pratique, fiable, attaché à la stabilité et au travail concret.",
+   "Palmo quadrato, dita corte. Secondo la tradizione: pratico, affidabile, ama la stabilità e il lavoro concreto.",
+   "Palma cuadrada, dedos cortos. Según la tradición: práctico, fiable, valora la estabilidad y el trabajo concreto.",
+   "Palma quadrada, dedos curtos. Segundo a tradição: prático, fiável, valoriza a estabilidade e o trabalho concreto.",
+   "Quadratische Handfläche, kurze Finger. In der Tradition: praktisch, zuverlässig, schätzt Stabilität und konkrete Arbeit.",
+   "Négyzetes tenyér, rövid ujjak. A hagyomány szerint: gyakorlatias, megbízható, a stabilitást és a kézzelfogható munkát szereti."
+  ]
+ },
+ {
+  "id": "air",
+  "pal": "sq",
+  "fin": "lg",
+  "c": "#0ea5e9",
+  "n": [
+   "Mâna de Aer",
+   "Air hand",
+   "Main d'Air",
+   "Mano d'Aria",
+   "Mano de Aire",
+   "Mão de Ar",
+   "Lufthand",
+   "Levegő-kéz"
+  ],
+  "d": [
+   "Palmă pătrată, degete lungi. În tradiție: comunicativ, curios, înclinat spre idei și analiză.",
+   "Square palm, long fingers. In tradition: communicative, curious, drawn to ideas and analysis.",
+   "Paume carrée, doigts longs. Selon la tradition : communicatif, curieux, attiré par les idées et l'analyse.",
+   "Palmo quadrato, dita lunghe. Secondo la tradizione: comunicativo, curioso, attratto da idee e analisi.",
+   "Palma cuadrada, dedos largos. Según la tradición: comunicativo, curioso, atraído por las ideas y el análisis.",
+   "Palma quadrada, dedos longos. Segundo a tradição: comunicativo, curioso, atraído por ideias e análise.",
+   "Quadratische Handfläche, lange Finger. In der Tradition: kommunikativ, neugierig, von Ideen und Analyse angezogen.",
+   "Négyzetes tenyér, hosszú ujjak. A hagyomány szerint: kommunikatív, kíváncsi, vonzzák az eszmék és az elemzés."
+  ]
+ },
+ {
+  "id": "fire",
+  "pal": "lg",
+  "fin": "sh",
+  "c": "#ef4444",
+  "n": [
+   "Mâna de Foc",
+   "Fire hand",
+   "Main de Feu",
+   "Mano di Fuoco",
+   "Mano de Fuego",
+   "Mão de Fogo",
+   "Feuerhand",
+   "Tűz-kéz"
+  ],
+  "d": [
+   "Palmă lungă, degete scurte. În tradiție: energic, spontan, entuziast, intuitiv.",
+   "Long palm, short fingers. In tradition: energetic, spontaneous, enthusiastic, intuitive.",
+   "Paume longue, doigts courts. Selon la tradition : énergique, spontané, enthousiaste, intuitif.",
+   "Palmo lungo, dita corte. Secondo la tradizione: energico, spontaneo, entusiasta, intuitivo.",
+   "Palma larga, dedos cortos. Según la tradición: enérgico, espontáneo, entusiasta, intuitivo.",
+   "Palma longa, dedos curtos. Segundo a tradição: enérgico, espontâneo, entusiasta, intuitivo.",
+   "Lange Handfläche, kurze Finger. In der Tradition: energisch, spontan, begeistert, intuitiv.",
+   "Hosszú tenyér, rövid ujjak. A hagyomány szerint: energikus, spontán, lelkes, intuitív."
+  ]
+ },
+ {
+  "id": "water",
+  "pal": "lg",
+  "fin": "lg",
+  "c": "#3b82f6",
+  "n": [
+   "Mâna de Apă",
+   "Water hand",
+   "Main d'Eau",
+   "Mano d'Acqua",
+   "Mano de Agua",
+   "Mão de Água",
+   "Wasserhand",
+   "Víz-kéz"
+  ],
+  "d": [
+   "Palmă lungă, degete lungi. În tradiție: sensibil, empatic, imaginativ, atent la atmosferă.",
+   "Long palm, long fingers. In tradition: sensitive, empathetic, imaginative, attuned to atmosphere.",
+   "Paume longue, doigts longs. Selon la tradition : sensible, empathique, imaginatif, attentif à l'atmosphère.",
+   "Palmo lungo, dita lunghe. Secondo la tradizione: sensibile, empatico, fantasioso, attento all'atmosfera.",
+   "Palma larga, dedos largos. Según la tradición: sensible, empático, imaginativo, atento al ambiente.",
+   "Palma longa, dedos longos. Segundo a tradição: sensível, empático, imaginativo, atento ao ambiente.",
+   "Lange Handfläche, lange Finger. In der Tradition: sensibel, einfühlsam, fantasievoll, aufmerksam für Stimmungen.",
+   "Hosszú tenyér, hosszú ujjak. A hagyomány szerint: érzékeny, empatikus, képzeletgazdag, fogékony a hangulatokra."
+  ]
+ }
+]

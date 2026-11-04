@@ -1,0 +1,142 @@
+{
+ "d24": {
+  "male": {
+   "right": {
+    "mean": 0.95,
+    "sd": 0.03
+   },
+   "left": {
+    "mean": 0.96,
+    "sd": 0.03
+   }
+  },
+  "female": {
+   "right": {
+    "mean": 0.96,
+    "sd": 0.03
+   },
+   "left": {
+    "mean": 0.97,
+    "sd": 0.03
+   }
+  },
+  "src": "Xi H, Li M, Fan Y, et al. 2014, Archives of Sexual Behavior 43:329-333; 250 Han Chinese undergraduates aged 18-20 (128 men, 122 women), direct measurement, values rounded to 2 decimals in the source. Single-population reference only: means vary with ethnicity and method (Manning, Churchill & Peters 2007, Arch Sex Behav 36:223-233, BBC Internet study, n=255,116)."
+ },
+ "tests": [
+  {
+   "id": "m_d24",
+   "n": [
+    "Măsurarea raportului 2D:4D",
+    "Measuring the 2D:4D ratio",
+    "Mesurer le rapport 2D:4D",
+    "Misurare il rapporto 2D:4D",
+    "Medir la proporción 2D:4D",
+    "Medir a razão 2D:4D",
+    "Das 2D:4D-Verhältnis messen",
+    "A 2D:4D arány mérése"
+   ],
+   "d": [
+    "Măsoară pe partea palmară, de la pliul proximal al degetului până în vârf, indexul (2D) și inelarul (4D), cu mâna întinsă. Împarte 2D la 4D. Legăturile cu expunerea hormonală prenatală sunt contestate în cercetare; raportul nu are valoare diagnostică sau predictivă pentru o persoană.",
+    "Measure on the palmar side, from the proximal crease of the finger to its tip, the index (2D) and ring (4D) fingers, with the hand held flat. Divide 2D by 4D. Links to prenatal hormone exposure are contested in research; the ratio has no diagnostic or predictive value for an individual.",
+    "Mesurez côté paume, du pli proximal du doigt jusqu'à son extrémité, l'index (2D) et l'annulaire (4D), main à plat. Divisez 2D par 4D. Les liens avec l'exposition hormonale prénatale sont discutés en recherche ; le rapport n'a aucune valeur diagnostique ni prédictive pour une personne.",
+    "Misura sul lato palmare, dalla piega prossimale del dito fino alla punta, l'indice (2D) e l'anulare (4D), con la mano distesa. Dividi 2D per 4D. I legami con l'esposizione ormonale prenatale sono controversi nella ricerca; il rapporto non ha alcun valore diagnostico o predittivo per il singolo individuo.",
+    "Mide por el lado palmar, desde el pliegue proximal del dedo hasta la punta, el índice (2D) y el anular (4D), con la mano extendida. Divide 2D entre 4D. Los vínculos con la exposición hormonal prenatal son discutidos en la investigación; la proporción no tiene valor diagnóstico ni predictivo para una persona.",
+    "Meça, no lado palmar, desde a prega proximal do dedo até à ponta, o indicador (2D) e o anelar (4D), com a mão aberta. Divida 2D por 4D. As ligações à exposição hormonal pré-natal são contestadas na investigação; a razão não tem valor diagnóstico nem preditivo para um indivíduo.",
+    "Miss auf der Handflächenseite von der proximalen Fingerbeugefalte bis zur Fingerspitze den Zeigefinger (2D) und den Ringfinger (4D), die Hand flach gehalten. Teile 2D durch 4D. Zusammenhänge mit pränataler Hormonexposition sind in der Forschung umstritten; das Verhältnis hat für eine Einzelperson keinen diagnostischen oder prädiktiven Wert.",
+    "A tenyéri oldalon mérd meg az ujj proximális redőjétől a hegyéig a mutatóujjat (2D) és a gyűrűsujjat (4D), kiterjesztett tenyérrel. Oszd el a 2D-t a 4D-vel. A születés előtti hormonexpozícióval való kapcsolatról vita folyik a kutatásban; az arány egyes személyre nézve nem rendelkezik diagnosztikai vagy előrejelző értékkel."
+   ]
+  },
+  {
+   "id": "m_handlen",
+   "n": [
+    "Lungimea mâinii",
+    "Hand length",
+    "Longueur de la main",
+    "Lunghezza della mano",
+    "Longitud de la mano",
+    "Comprimento da mão",
+    "Handlänge",
+    "A kéz hossza"
+   ],
+   "d": [
+    "Lungimea mâinii se măsoară de la pliul încheieturii până la vârful degetului mijlociu, cu palma în sus și degetele întinse. Se exprimă în milimetri. Depinde de înălțime, sex și populație; este o dimensiune corporală, nu spune nimic despre caracter sau talente.",
+    "Hand length is measured from the wrist crease to the tip of the middle finger, palm up and fingers extended. It is given in millimetres. It depends on stature, sex and population; it is a body dimension and says nothing about character or talents.",
+    "La longueur de la main se mesure du pli du poignet à l'extrémité du majeur, paume vers le haut, doigts tendus. Elle s'exprime en millimètres. Elle dépend de la taille, du sexe et de la population ; c'est une dimension corporelle, qui ne dit rien du caractère ni des talents.",
+    "La lunghezza della mano si misura dalla piega del polso alla punta del dito medio, con il palmo verso l'alto e le dita distese. Si esprime in millimetri. Dipende da statura, sesso e popolazione; è una dimensione corporea e non dice nulla su carattere o talenti.",
+    "La longitud de la mano se mide desde el pliegue de la muñeca hasta la punta del dedo medio, con la palma hacia arriba y los dedos extendidos. Se expresa en milímetros. Depende de la estatura, el sexo y la población; es una dimensión corporal y no dice nada del carácter ni de los talentos.",
+    "O comprimento da mão mede-se da prega do pulso até à ponta do dedo médio, com a palma para cima e os dedos esticados. Exprime-se em milímetros. Depende da estatura, do sexo e da população; é uma dimensão corporal e nada diz sobre o carácter ou os talentos.",
+    "Die Handlänge wird von der Handgelenkfalte bis zur Spitze des Mittelfingers gemessen, Handfläche nach oben, Finger gestreckt. Sie wird in Millimetern angegeben. Sie hängt von Körpergröße, Geschlecht und Bevölkerung ab; sie ist ein Körpermaß und sagt nichts über Charakter oder Talente.",
+    "A kéz hosszát a csuklóredőtől a középső ujj hegyéig mérjük, tenyérrel felfelé, kinyújtott ujjakkal. Milliméterben adjuk meg. A testmagasságtól, a nemtől és a populációtól függ; testméret, a jellemről vagy a tehetségről semmit sem árul el."
+   ]
+  },
+  {
+   "id": "m_span",
+   "n": [
+    "Fesztávolság (span)",
+    "Hand span",
+    "Empan de la main",
+    "Apertura della mano",
+    "Envergadura de la mano",
+    "Abertura da mão",
+    "Handspanne",
+    "Kézfesztáv"
+   ],
+   "d": [
+    "Deschide mâna cât poți, pe o suprafață plană, și măsoară distanța dintre vârful degetului mare și vârful degetului mic. Este util pentru comparații cu alte dimensiuni ale mâinii, dar depinde mult de flexibilitatea articulațiilor și de cât de tare întinzi mâna.",
+    "Spread your hand as wide as comfortable on a flat surface and measure the distance between the tip of the thumb and the tip of the little finger. It is useful for comparison with other hand dimensions, but it depends strongly on joint flexibility and how hard you stretch.",
+    "Écartez la main autant que possible sur une surface plane et mesurez la distance entre l'extrémité du pouce et celle de l'auriculaire. Utile pour comparer avec d'autres dimensions de la main, elle dépend beaucoup de la souplesse des articulations et de l'effort d'écartement.",
+    "Apri la mano il più possibile su una superficie piana e misura la distanza tra la punta del pollice e quella del mignolo. È utile per confrontarla con altre dimensioni della mano, ma dipende molto dalla flessibilità delle articolazioni e da quanto si forza l'apertura.",
+    "Abre la mano todo lo que puedas sobre una superficie plana y mide la distancia entre la punta del pulgar y la del meñique. Sirve para compararla con otras dimensiones de la mano, pero depende mucho de la flexibilidad de las articulaciones y de cuánto fuerces la apertura.",
+    "Abra a mão o mais que conseguir sobre uma superfície plana e meça a distância entre a ponta do polegar e a do mindinho. É útil para comparar com outras dimensões da mão, mas depende muito da flexibilidade das articulações e do esforço que fizer na abertura.",
+    "Spreize die Hand auf einer ebenen Fläche so weit wie möglich und miss den Abstand zwischen Daumenspitze und Kleinfingerspitze. Das eignet sich zum Vergleich mit anderen Handmaßen, hängt aber stark von der Gelenkbeweglichkeit und davon ab, wie sehr du die Hand dehnst.",
+    "Terpeszd szét a kezed egy sík felületen, amennyire csak kényelmes, és mérd meg a hüvelykujj hegye és a kisujj hegye közti távolságot. Más kézméretekkel való összehasonlításra jó, de nagyban függ az ízületek hajlékonyságától és attól, mennyire feszíted meg a kezed."
+   ]
+  },
+  {
+   "id": "m_palm",
+   "n": [
+    "Lungimea și lățimea palmei",
+    "Palm length and width",
+    "Longueur et largeur de la paume",
+    "Lunghezza e larghezza del palmo",
+    "Longitud y anchura de la palma",
+    "Comprimento e largura da palma",
+    "Länge und Breite der Handfläche",
+    "A tenyér hossza és szélessége"
+   ],
+   "d": [
+    "În chirologie, palma se măsoară de la pliul încheieturii până la baza degetului mijlociu (lungime) și peste articulațiile degetelor, de la marginea indexului la cea a degetului mic (lățime). Raportul dintre palmă și degete este o convenție a tradiției, nu un indicator validat.",
+    "In chirology the palm is measured from the wrist crease to the base of the middle finger (length) and across the knuckles, from the edge of the index to that of the little finger (width). The palm-to-finger ratio is a convention of the tradition, not a validated indicator.",
+    "En chirologie, la paume se mesure du pli du poignet à la base du majeur (longueur) et à travers les articulations des doigts, du bord de l'index à celui de l'auriculaire (largeur). Le rapport paume-doigts est une convention de la tradition, non un indicateur validé.",
+    "In chirologia il palmo si misura dalla piega del polso alla base del dito medio (lunghezza) e attraverso le nocche, dal bordo dell'indice a quello del mignolo (larghezza). Il rapporto palmo-dita è una convenzione della tradizione, non un indicatore validato.",
+    "En quirología la palma se mide desde el pliegue de la muñeca hasta la base del dedo medio (longitud) y a través de los nudillos, del borde del índice al del meñique (anchura). La relación palma-dedos es una convención de la tradición, no un indicador validado.",
+    "Em quirologia a palma mede-se da prega do pulso até à base do dedo médio (comprimento) e através das articulações, do bordo do indicador ao do mindinho (largura). A relação palma-dedos é uma convenção da tradição, não um indicador validado.",
+    "In der Chirologie wird die Handfläche von der Handgelenkfalte bis zur Basis des Mittelfingers (Länge) und über die Fingergrundgelenke, vom Rand des Zeigefingers bis zu dem des Kleinfingers (Breite), gemessen. Das Verhältnis Handfläche zu Fingern ist eine Konvention der Tradition, kein validierter Indikator.",
+    "A chirológiában a tenyeret a csuklóredőtől a középső ujj tövéig (hosszúság), valamint az ujjtőízületeken át, a mutatóujj szélétől a kisujj széléig (szélesség) mérik. A tenyér–ujjak arány a hagyomány megegyezése, nem érvényesített mutató."
+   ]
+  },
+  {
+   "id": "m_caution",
+   "n": [
+    "Erori de măsurare",
+    "Measurement error",
+    "Erreur de mesure",
+    "Errore di misura",
+    "Error de medición",
+    "Erro de medição",
+    "Messfehler",
+    "Mérési hiba"
+   ],
+   "d": [
+    "Eroarea de măsurare contează: o diferență de ±1 mm la un deget de circa 70 mm poate muta raportul 2D:4D cu 0,01–0,015, adică tot cam cât diferența medie dintre sexe în eșantionul de referință (≈0,01). Măsurarea directă și fotocopia dau valori ușor diferite. Un singur set de măsurători este doar un instantaneu, nu o caracteristică stabilă.",
+    "Measurement error matters: a difference of ±1 mm on a finger of about 70 mm can shift the 2D:4D ratio by 0.01–0.015, about as much as the average difference between the sexes in the reference sample (≈0.01). Direct measurement and photocopies give slightly different values. A single set of measurements is only a snapshot, not a stable trait.",
+    "L'erreur de mesure compte : un écart de ±1 mm sur un doigt d'environ 70 mm peut déplacer le rapport 2D:4D de 0,01 à 0,015, soit à peu près autant que la différence moyenne entre les sexes dans l'échantillon de référence (≈ 0,01). La mesure directe et la photocopie donnent des valeurs légèrement différentes. Une seule série de mesures n'est qu'un instantané, non un trait stable.",
+    "L'errore di misura conta: uno scarto di ±1 mm su un dito di circa 70 mm può spostare il rapporto 2D:4D di 0,01–0,015, circa quanto la differenza media tra i sessi nel campione di riferimento (≈0,01). Misura diretta e fotocopia danno valori leggermente diversi. Una sola serie di misure è solo un'istantanea, non un tratto stabile.",
+    "El error de medición importa: una diferencia de ±1 mm en un dedo de unos 70 mm puede desplazar la proporción 2D:4D entre 0,01 y 0,015, aproximadamente tanto como la diferencia media entre sexos en la muestra de referencia (≈0,01). La medición directa y la fotocopia dan valores algo distintos. Una sola serie de medidas es solo una instantánea, no un rasgo estable.",
+    "O erro de medição importa: uma diferença de ±1 mm num dedo de cerca de 70 mm pode deslocar a razão 2D:4D entre 0,01 e 0,015, aproximadamente tanto quanto a diferença média entre os sexos na amostra de referência (≈0,01). A medição direta e a fotocópia dão valores ligeiramente diferentes. Uma única série de medidas é apenas um instantâneo, não uma característica estável.",
+    "Der Messfehler zählt: Eine Abweichung von ±1 mm bei einem Finger von etwa 70 mm kann das 2D:4D-Verhältnis um 0,01–0,015 verschieben, ungefähr so viel wie der mittlere Unterschied zwischen den Geschlechtern in der Referenzstichprobe (≈0,01). Direktmessung und Fotokopie liefern leicht unterschiedliche Werte. Eine einzelne Messreihe ist nur eine Momentaufnahme, kein stabiles Merkmal.",
+    "A mérési hiba számít: egy kb. 70 mm-es ujjon a ±1 mm eltérés 0,01–0,015-del elmozdíthatja a 2D:4D arányt, ami nagyjából akkora, mint a nemek közti átlagos különbség a referenciamintában (≈0,01). A közvetlen mérés és a fénymásolat kissé eltérő értéket ad. Egyetlen méréssorozat csak pillanatfelvétel, nem állandó jellemző."
+   ]
+  }
+ ]
+}

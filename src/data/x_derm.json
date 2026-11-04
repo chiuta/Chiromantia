@@ -1,0 +1,352 @@
+[
+ {
+  "id": "dp_loop_ulnar",
+  "g": "pattern",
+  "n": [
+   "Buclă cubitală",
+   "Ulnar loop",
+   "Boucle cubitale",
+   "Ansa ulnare",
+   "Lazo cubital",
+   "Laçada ulnar",
+   "Ulnare Schleife",
+   "Singcsonti hurok"
+  ],
+  "d": [
+   "Crestele intră pe o parte, se curbează și ies pe aceeași parte, deschizându-se spre marginea cubitală (dinspre degetul mic) a mâinii. Există un singur triradius (deltă). Este cel mai frecvent tip: aproximativ 55–65% din vârfurile degetelor; frecvența variază în funcție de ascendență.",
+   "Ridges enter on one side, curve back and exit on the same side, opening toward the ulnar (little-finger) edge of the hand. One triradius (delta) is present. It is the most common pattern, roughly 55–65% of fingertips; frequency varies with ancestry.",
+   "Les crêtes entrent d'un côté, se recourbent et ressortent du même côté, en s'ouvrant vers le bord cubital (côté du petit doigt) de la main. Un seul triradius (delta) est présent. C'est le motif le plus fréquent : environ 55–65 % des bouts de doigts ; la fréquence varie selon l'ascendance.",
+   "Le creste entrano da un lato, si curvano ed escono dallo stesso lato, aprendosi verso il margine ulnare (lato del mignolo) della mano. È presente un solo triradio (delta). È il disegno più comune: circa il 55–65% dei polpastrelli; la frequenza varia secondo l'ascendenza.",
+   "Las crestas entran por un lado, se curvan y salen por el mismo lado, abriéndose hacia el borde cubital (el del meñique) de la mano. Hay un solo trirradio (delta). Es el patrón más frecuente: alrededor del 55–65 % de las yemas; la frecuencia varía según la ascendencia.",
+   "As cristas entram por um lado, curvam-se e saem pelo mesmo lado, abrindo-se para a margem ulnar (do lado do mindinho) da mão. Existe um único trirrádio (delta). É o padrão mais comum: cerca de 55–65% das polpas digitais; a frequência varia conforme a ascendência.",
+   "Die Papillarleisten treten auf einer Seite ein, biegen um und verlassen die Fingerkuppe auf derselben Seite; die Schleife öffnet sich zum ulnaren Rand (Kleinfingerseite) der Hand. Es gibt genau ein Triradius (Delta). Sie ist das häufigste Muster: etwa 55–65 % der Fingerkuppen; die Häufigkeit hängt von der Abstammung ab.",
+   "A papillavonalak az egyik oldalon lépnek be, visszahajlanak, és ugyanazon az oldalon lépnek ki; a hurok a kéz singcsonti (kisujj felőli) széle felé nyílik. Egy háromsugarú pont (delta) található benne. Ez a leggyakoribb minta: az ujjbegyek kb. 55–65%-a; a gyakoriság származástól függően változik."
+  ],
+  "src": "Cummins & Midlo 1961, Finger Prints, Palms and Soles; Holt 1968, The Genetics of Dermal Ridges"
+ },
+ {
+  "id": "dp_loop_radial",
+  "g": "pattern",
+  "n": [
+   "Buclă radială",
+   "Radial loop",
+   "Boucle radiale",
+   "Ansa radiale",
+   "Lazo radial",
+   "Laçada radial",
+   "Radiale Schleife",
+   "Orsócsonti hurok"
+  ],
+  "d": [
+   "Aceeași formă de buclă, dar crestele se deschid spre marginea radială (dinspre police) a mâinii. Există un singur triradius. Este mult mai rară decât bucla cubitală, cam 1–5% din vârfurile degetelor, și apare mai ales la index; frecvența variază în funcție de ascendență.",
+   "The same loop form, but the ridges open toward the radial (thumb) edge of the hand. One triradius is present. It is much rarer than the ulnar loop, about 1–5% of fingertips, and appears mostly on the index finger; frequency varies with ancestry.",
+   "Même forme de boucle, mais les crêtes s'ouvrent vers le bord radial (côté du pouce) de la main. Un seul triradius est présent. Elle est bien plus rare que la boucle cubitale, environ 1–5 % des bouts de doigts, et se trouve surtout à l'index ; la fréquence varie selon l'ascendance.",
+   "Stessa forma ad ansa, ma le creste si aprono verso il margine radiale (lato del pollice) della mano. È presente un solo triradio. È molto più rara dell'ansa ulnare, circa l'1–5% dei polpastrelli, e compare soprattutto sull'indice; la frequenza varia secondo l'ascendenza.",
+   "Misma forma de lazo, pero las crestas se abren hacia el borde radial (el del pulgar) de la mano. Hay un solo trirradio. Es mucho más rara que el lazo cubital, en torno al 1–5 % de las yemas, y aparece sobre todo en el índice; la frecuencia varía según la ascendencia.",
+   "A mesma forma de laçada, mas as cristas abrem-se para a margem radial (do lado do polegar) da mão. Existe um único trirrádio. É muito mais rara do que a laçada ulnar, cerca de 1–5% das polpas digitais, e surge sobretudo no indicador; a frequência varia conforme a ascendência.",
+   "Gleiche Schleifenform, aber die Leisten öffnen sich zum radialen Rand (Daumenseite) der Hand. Es gibt ein Triradius. Sie ist viel seltener als die ulnare Schleife, etwa 1–5 % der Fingerkuppen, und tritt vor allem am Zeigefinger auf; die Häufigkeit hängt von der Abstammung ab.",
+   "Ugyanaz a hurokforma, de a papillavonalak a kéz orsócsonti (hüvelykujj felőli) széle felé nyílnak. Egy háromsugarú pont található benne. Sokkal ritkább, mint a singcsonti hurok: az ujjbegyek kb. 1–5%-ában fordul elő, főleg a mutatóujjon; a gyakoriság származástól függően változik."
+  ],
+  "src": "Cummins & Midlo 1961, Finger Prints, Palms and Soles; Holt 1968, The Genetics of Dermal Ridges"
+ },
+ {
+  "id": "dp_whorl",
+  "g": "pattern",
+  "n": [
+   "Vârtej",
+   "Whorl",
+   "Tourbillon",
+   "Verticillo",
+   "Verticilo",
+   "Verticilo",
+   "Wirbel",
+   "Örvény"
+  ],
+  "d": [
+   "Crestele fac cercuri în jurul unui punct central, ca inele, spirale sau ovaluri, cu doi triradii (delte). Subtipurile includ bucla dublă (două bucle întrepătrunse) și tipurile accidentale, care combină mai multe modele. Vârtejurile reprezintă cam 25–35% din vârfurile degetelor, mai mult în unele populații est-asiatice; variază în funcție de ascendență.",
+   "Ridges circle around a central point as rings, spirals or ovals, with two triradii (deltas). Subtypes include the double loop (two interlocking loops) and accidental types that combine several patterns. Whorls make up roughly 25–35% of fingertips, more in some East Asian populations; this varies with ancestry.",
+   "Les crêtes tournent autour d'un point central en anneaux, spirales ou ovales, avec deux triradius (deltas). Les sous-types comprennent la boucle double (deux boucles imbriquées) et les types accidentels, qui combinent plusieurs motifs. Les tourbillons représentent environ 25–35 % des bouts de doigts, davantage dans certaines populations d'Asie de l'Est ; cela varie selon l'ascendance.",
+   "Le creste girano attorno a un punto centrale in anelli, spirali o ovali, con due triradi (delta). I sottotipi comprendono l'ansa doppia (due anse intrecciate) e i tipi accidentali, che combinano più disegni. I verticilli sono circa il 25–35% dei polpastrelli, di più in alcune popolazioni dell'Asia orientale; varia secondo l'ascendenza.",
+   "Las crestas giran en torno a un punto central como anillos, espirales u óvalos, con dos trirradios (deltas). Los subtipos incluyen el lazo doble (dos lazos entrelazados) y los tipos accidentales, que combinan varios patrones. Los verticilos son alrededor del 25–35 % de las yemas, más en algunas poblaciones de Asia oriental; varía según la ascendencia.",
+   "As cristas giram em torno de um ponto central como anéis, espirais ou ovais, com dois trirrádios (deltas). Os subtipos incluem a laçada dupla (duas laçadas entrelaçadas) e os tipos acidentais, que combinam vários padrões. Os verticilos são cerca de 25–35% das polpas digitais, mais em algumas populações da Ásia Oriental; varia conforme a ascendência.",
+   "Die Leisten kreisen um einen Mittelpunkt als Ringe, Spiralen oder Ovale und haben zwei Triradien (Deltas). Untertypen sind die Doppelschleife (zwei ineinandergreifende Schleifen) und zufällige Mischtypen, die mehrere Muster verbinden. Wirbel machen etwa 25–35 % der Fingerkuppen aus, in manchen ostasiatischen Populationen mehr; die Häufigkeit hängt von der Abstammung ab.",
+   "A papillavonalak egy középpont körül gyűrűket, spirálokat vagy ovális alakzatokat alkotnak, két háromsugarú ponttal (deltával). Alfajai a kettős hurok (két egymásba kapaszkodó hurok) és a véletlenszerű, kevert típusok, amelyek több mintát egyesítenek. Az ujjbegyek kb. 25–35%-át teszik ki, egyes kelet-ázsiai populációkban többet; a gyakoriság származástól függően változik."
+  ],
+  "src": "Cummins & Midlo 1961, Finger Prints, Palms and Soles; Holt 1968, The Genetics of Dermal Ridges"
+ },
+ {
+  "id": "dp_arch_plain",
+  "g": "pattern",
+  "n": [
+   "Arc simplu",
+   "Plain arch",
+   "Arc simple",
+   "Arco semplice",
+   "Arco simple",
+   "Arco simples",
+   "Einfacher Bogen",
+   "Egyszerű ív"
+  ],
+  "d": [
+   "Crestele intră pe o parte, se ridică într-o undă lină și ies pe cealaltă parte, fără întoarcere și fără triradius. Arcurile simple sunt neobișnuite, cam 3–5% din vârfurile degetelor, și apar mai ales la index; frecvența variază în funcție de ascendență.",
+   "Ridges enter on one side, rise in a gentle wave and exit on the other side, with no backward turn and no triradius. Plain arches are uncommon, about 3–5% of fingertips, and are seen most on the index finger; frequency varies with ancestry.",
+   "Les crêtes entrent d'un côté, montent en une onde douce et ressortent de l'autre côté, sans retour en arrière et sans triradius. Les arcs simples sont peu fréquents, environ 3–5 % des bouts de doigts, surtout à l'index ; la fréquence varie selon l'ascendance.",
+   "Le creste entrano da un lato, salgono in un'onda dolce ed escono dall'altro, senza ripiegarsi e senza triradio. Gli archi semplici sono poco comuni, circa il 3–5% dei polpastrelli, soprattutto sull'indice; la frequenza varia secondo l'ascendenza.",
+   "Las crestas entran por un lado, suben en una onda suave y salen por el otro, sin volver atrás y sin trirradio. Los arcos simples son poco comunes, en torno al 3–5 % de las yemas, sobre todo en el índice; la frecuencia varía según la ascendencia.",
+   "As cristas entram por um lado, sobem numa onda suave e saem pelo outro, sem voltar atrás e sem trirrádio. Os arcos simples são pouco comuns, cerca de 3–5% das polpas digitais, sobretudo no indicador; a frequência varia conforme a ascendência.",
+   "Die Leisten treten auf einer Seite ein, steigen in einer sanften Welle an und verlassen die Fingerkuppe auf der anderen Seite, ohne Rückwärtsbogen und ohne Triradius. Einfache Bögen sind selten, etwa 3–5 % der Fingerkuppen, am häufigsten am Zeigefinger; die Häufigkeit hängt von der Abstammung ab.",
+   "A papillavonalak az egyik oldalon lépnek be, enyhe hullámban emelkednek, és a másik oldalon lépnek ki, visszafordulás és háromsugarú pont nélkül. Az egyszerű ív ritka, az ujjbegyek kb. 3–5%-ában fordul elő, leginkább a mutatóujjon; a gyakoriság származástól függően változik."
+  ],
+  "src": "Cummins & Midlo 1961, Finger Prints, Palms and Soles; Holt 1968, The Genetics of Dermal Ridges"
+ },
+ {
+  "id": "dp_arch_tented",
+  "g": "pattern",
+  "n": [
+   "Arc în cort",
+   "Tented arch",
+   "Arc en tente",
+   "Arco a tenda",
+   "Arco en tienda",
+   "Arco em tenda",
+   "Zeltbogen",
+   "Sátorív"
+  ],
+  "d": [
+   "Ca arcul simplu, dar cu o ridicare bruscă în centru, unde crestele urcă abrupt, ca un stâlp de cort. Poate arăta un punct asemănător unei delte, dar nu are o buclă completă. Este cel mai rar tip principal, cam 1% din vârfurile degetelor; frecvența variază în funcție de ascendență.",
+   "Like the plain arch, but with a sharp central upthrust where the ridges rise steeply, like a tent pole. It may show a delta-like point but has no full loop. It is the rarest main type, about 1% of fingertips; frequency varies with ancestry.",
+   "Comme l'arc simple, mais avec une poussée centrale abrupte où les crêtes montent raide, comme un mât de tente. Il peut présenter un point proche d'un delta, sans boucle complète. C'est le type principal le plus rare, environ 1 % des bouts de doigts ; la fréquence varie selon l'ascendance.",
+   "Come l'arco semplice, ma con una spinta centrale netta in cui le creste salgono ripide, come il palo di una tenda. Può mostrare un punto simile a un delta, ma senza ansa completa. È il tipo principale più raro, circa l'1% dei polpastrelli; la frequenza varia secondo l'ascendenza.",
+   "Como el arco simple, pero con un empuje central marcado en el que las crestas suben abruptamente, como el mástil de una tienda. Puede mostrar un punto parecido a un delta, pero sin lazo completo. Es el tipo principal más raro, en torno al 1 % de las yemas; la frecuencia varía según la ascendencia.",
+   "Como o arco simples, mas com uma subida central acentuada em que as cristas sobem a pique, como o mastro de uma tenda. Pode mostrar um ponto semelhante a um delta, mas sem laçada completa. É o tipo principal mais raro, cerca de 1% das polpas digitais; a frequência varia conforme a ascendência.",
+   "Wie der einfache Bogen, aber mit einer scharfen Aufwölbung in der Mitte, wo die Leisten steil ansteigen, wie eine Zeltstange. Er kann einen deltaähnlichen Punkt zeigen, hat aber keine vollständige Schleife. Er ist der seltenste Haupttyp, etwa 1 % der Fingerkuppen; die Häufigkeit hängt von der Abstammung ab.",
+   "Olyan, mint az egyszerű ív, de középen éles kiemelkedés van, ahol a vonalak meredeken emelkednek, mint egy sátorrúd. Lehet benne deltaszerű pont, de teljes hurok nincs. Ez a legritkább főtípus, az ujjbegyek kb. 1%-ában fordul elő; a gyakoriság származástól függően változik."
+  ],
+  "src": "Cummins & Midlo 1961, Finger Prints, Palms and Soles; Holt 1968, The Genetics of Dermal Ridges"
+ },
+ {
+  "id": "df_formed",
+  "g": "fact",
+  "n": [
+   "Se formează înainte de naștere",
+   "Formed before birth",
+   "Formées avant la naissance",
+   "Si formano prima della nascita",
+   "Se forman antes del nacimiento",
+   "Formam-se antes do nascimento",
+   "Vor der Geburt entstanden",
+   "Születés előtt alakulnak ki"
+  ],
+  "d": [
+   "Crestele amprentelor se formează aproximativ între săptămânile 10 și 16 de sarcină, la cumpăna dintre primul și al doilea trimestru, pe mici umflături numite perne volare. Odată format, modelul rămâne fix pe viață: degetele cresc, dar desenul crestelor nu se schimbă, în afara unei leziuni profunde.",
+   "Fingerprint ridges form between roughly weeks 10 and 16 of pregnancy, spanning the end of the first and the start of the second trimester, on small swellings called volar pads. Once formed, the pattern is fixed for life: fingers grow, but the ridge layout does not change, barring deep injury.",
+   "Les crêtes digitales se forment approximativement entre les semaines 10 et 16 de grossesse, à cheval sur la fin du premier et le début du deuxième trimestre, sur de petits renflements appelés coussinets palmaires. Une fois formé, le dessin est fixe à vie : les doigts grandissent, mais le tracé des crêtes ne change pas, sauf lésion profonde.",
+   "Le creste delle impronte si formano all'incirca tra la 10ª e la 16ª settimana di gravidanza, a cavallo tra la fine del primo e l'inizio del secondo trimestre, su piccoli rigonfiamenti detti cuscinetti volari. Una volta formato, il disegno resta fisso per tutta la vita: le dita crescono, ma la disposizione delle creste non cambia, salvo lesioni profonde.",
+   "Las crestas de las huellas se forman aproximadamente entre las semanas 10 y 16 del embarazo, entre el final del primer trimestre y el comienzo del segundo, sobre pequeñas protuberancias llamadas almohadillas volares. Una vez formado, el dibujo queda fijo de por vida: los dedos crecen, pero la disposición de las crestas no cambia, salvo lesiones profundas.",
+   "As cristas das impressões digitais formam-se aproximadamente entre as semanas 10 e 16 da gravidez, entre o fim do primeiro e o início do segundo trimestre, sobre pequenas saliências chamadas almofadas volares. Depois de formado, o desenho fica fixo para toda a vida: os dedos crescem, mas a disposição das cristas não muda, salvo lesões profundas.",
+   "Die Fingerabdruckleisten bilden sich etwa zwischen der 10. und 16. Schwangerschaftswoche, an der Grenze vom ersten zum zweiten Trimester, auf kleinen Erhebungen, den Tastballen (Volarpolstern). Danach bleibt das Muster ein Leben lang unverändert: Die Finger wachsen, die Leistenanordnung ändert sich nicht, außer bei tiefen Verletzungen.",
+   "Az ujjlenyomat vonalai a terhesség kb. 10–16. hetében alakulnak ki, az első és a második trimeszter határán, a tapintópárnáknak (volaris párnák) nevezett kis dudorokon. Ha egyszer kialakult, a mintázat egész életre rögzített: az ujjak nőnek, de a vonalak elrendeződése nem változik, mély sérülést kivéve."
+  ],
+  "src": "Babler 1991, Am J Phys Anthropol 86; Kücken & Newell 2005, J Theor Biol 235"
+ },
+ {
+  "id": "df_unique",
+  "g": "fact",
+  "n": [
+   "Nu s-au găsit două amprente identice",
+   "No two prints have been found identical",
+   "Aucune paire d'empreintes identiques n'a été trouvée",
+   "Non sono state trovate due impronte identiche",
+   "No se han encontrado dos huellas idénticas",
+   "Não foram encontradas duas impressões digitais idênticas",
+   "Es wurden keine zwei identischen Abdrücke gefunden",
+   "Nem találtak két azonos lenyomatot"
+  ],
+  "d": [
+   "Nu s-au găsit două persoane cu aceleași amprente, nici măcar printre gemenii identici, care au același ADN (unicitatea absolută nu poate fi demonstrată, dar în practică amprentele diferă). Modelul rezultă din gene împreună cu condiții întâmplătoare din uter, precum forma vârfului degetului și mediul local de creștere al fătului.",
+   "No two people have been found with the same fingerprints, not even identical twins, who share the same DNA (absolute uniqueness cannot be proven, but in practice prints differ). The pattern results from genes together with chance conditions in the womb, such as fingertip shape and the local growth environment of the fetus.",
+   "On n'a jamais trouvé deux personnes ayant les mêmes empreintes, pas même des jumeaux identiques, qui partagent le même ADN (l'unicité absolue ne peut pas être démontrée, mais en pratique les empreintes diffèrent). Le dessin résulte des gènes combinés à des conditions aléatoires dans l'utérus, comme la forme du bout du doigt et l'environnement local de croissance du fœtus.",
+   "Non sono state trovate due persone con le stesse impronte digitali, nemmeno i gemelli identici, che condividono lo stesso DNA (l'unicità assoluta non può essere dimostrata, ma in pratica le impronte differiscono). Il disegno nasce dai geni insieme a condizioni casuali nell'utero, come la forma del polpastrello e l'ambiente locale di crescita del feto.",
+   "No se han encontrado dos personas con las mismas huellas dactilares, ni siquiera gemelos idénticos, que comparten el mismo ADN (la unicidad absoluta no puede demostrarse, pero en la práctica las huellas difieren). El dibujo resulta de los genes junto con condiciones aleatorias en el útero, como la forma de la yema del dedo y el entorno local de crecimiento del feto.",
+   "Não foram encontradas duas pessoas com as mesmas impressões digitais, nem mesmo gémeos idênticos, que partilham o mesmo ADN (a unicidade absoluta não pode ser demonstrada, mas na prática as impressões diferem). O desenho resulta dos genes juntamente com condições aleatórias no útero, como a forma da polpa digital e o ambiente local de crescimento do feto.",
+   "Es wurden keine zwei Menschen mit denselben Fingerabdrücken gefunden, nicht einmal eineiige Zwillinge, die dieselbe DNA haben (absolute Einzigartigkeit lässt sich nicht beweisen, in der Praxis unterscheiden sich die Abdrücke aber). Das Muster entsteht aus dem Zusammenspiel von Genen und zufälligen Bedingungen in der Gebärmutter, etwa der Form der Fingerkuppe und dem lokalen Wachstumsumfeld des Fötus.",
+   "Nem találtak két embert azonos ujjlenyomattal, még az egypetéjű ikreket sem, pedig ugyanaz a DNS-ük (az abszolút egyediség nem bizonyítható, de a gyakorlatban a lenyomatok különböznek). A mintázat a gének és a méhen belüli véletlen körülmények – például az ujjbegy alakja és a magzat helyi növekedési környezete – együttes eredménye."
+  ],
+  "src": "Jain, Prabhakar & Pankanti 2002, Pattern Recognit 35; Kücken & Newell 2005, J Theor Biol 235"
+ },
+ {
+  "id": "df_heritable",
+  "g": "fact",
+  "n": [
+   "Ereditabilitate ridicată",
+   "Highly heritable",
+   "Très héritable",
+   "Molto ereditabile",
+   "Muy heredable",
+   "Muito herdável",
+   "Hoch erblich",
+   "Erősen öröklődő"
+  ],
+  "d": [
+   "Studiile pe familii și pe gemeni arată că numărul de creste de pe vârfurile degetelor are o ereditabilitate foarte mare (estimări peste 90%). Tipul de model (buclă, vârtej, arc) este influențat tot de gene, mai multe (poligenic), plus hazardul dezvoltării; nicio genă singură nu îl decide.",
+   "Family and twin studies show that ridge count, the number of ridges on the fingertips, is highly heritable (estimates above 90%). Pattern type (loop, whorl, arch) is also influenced by genes, many of them (polygenic), plus developmental chance; no single gene decides it.",
+   "Les études de familles et de jumeaux montrent que le nombre de crêtes sur les bouts de doigts est très héritable (estimations supérieures à 90 %). Le type de motif (boucle, tourbillon, arc) dépend aussi des gènes, nombreux (polygénique), et du hasard du développement ; aucun gène seul ne le décide.",
+   "Gli studi su famiglie e gemelli mostrano che il numero di creste sui polpastrelli è altamente ereditabile (stime oltre il 90%). Anche il tipo di disegno (ansa, verticillo, arco) dipende dai geni, molti (poligenico), più il caso dello sviluppo; nessun gene singolo lo decide.",
+   "Los estudios de familias y de gemelos muestran que el número de crestas de las yemas es muy heredable (estimaciones superiores al 90 %). El tipo de patrón (lazo, verticilo, arco) también depende de los genes, muchos (poligénico), y del azar del desarrollo; ningún gen lo decide por sí solo.",
+   "Estudos com famílias e gémeos mostram que o número de cristas das polpas digitais é altamente hereditário (estimativas acima de 90%). O tipo de padrão (laçada, verticilo, arco) também depende dos genes, vários (poligénico), e do acaso do desenvolvimento; nenhum gene o decide sozinho.",
+   "Familien- und Zwillingsstudien zeigen, dass die Leistenzahl auf den Fingerkuppen stark erblich ist (Schätzungen über 90 %). Auch der Mustertyp (Schleife, Wirbel, Bogen) wird von Genen beeinflusst, und zwar von vielen (polygen), dazu kommt Entwicklungszufall; kein einzelnes Gen entscheidet.",
+   "Család- és ikervizsgálatok szerint az ujjbegyeken lévő vonalak száma erősen öröklődő (becslések szerint 90% felett). A mintázat típusát (hurok, örvény, ív) is befolyásolják a gének, méghozzá sok gén (poligénes), valamint a fejlődés véletlene; egyetlen gén sem dönti el."
+  ],
+  "src": "Holt 1968; Medland et al. 2007, Twin Res Hum Genet 10 (h2 about 0.9)"
+ },
+ {
+  "id": "df_noperson",
+  "g": "fact",
+  "n": [
+   "Nicio legătură cu personalitatea",
+   "No link to personality",
+   "Aucun lien avec la personnalité",
+   "Nessun legame con la personalità",
+   "Sin relación con la personalidad",
+   "Sem relação com a personalidade",
+   "Kein Bezug zur Persönlichkeit",
+   "Nincs köze a személyiséghez"
+  ],
+  "d": [
+   "Nu există nicio relație validată între modelele amprentelor și personalitate, talent, inteligență sau succes profesional. Testele vândute pe baza unor asemenea afirmații nu au susținere științifică. Amprentele sunt utile pentru identificare și cercetare genetică, nu pentru a judeca caracterul sau aptitudinile.",
+   "There is no validated relationship between fingerprint patterns and personality, talent, intelligence or career success. Tests marketed on such claims lack scientific support. Fingerprints are valuable for identification and genetic research, not for judging character or abilities.",
+   "Aucune relation validée n'existe entre les motifs des empreintes et la personnalité, le talent, l'intelligence ou la réussite professionnelle. Les tests vendus sur de telles affirmations n'ont aucun fondement scientifique. Les empreintes servent à l'identification et à la recherche génétique, pas à juger le caractère ou les aptitudes.",
+   "Non esiste alcuna relazione validata tra i disegni delle impronte e personalità, talento, intelligenza o successo professionale. I test venduti su tali affermazioni non hanno fondamento scientifico. Le impronte servono per l'identificazione e la ricerca genetica, non per giudicare carattere o capacità.",
+   "No existe ninguna relación validada entre los patrones de las huellas y la personalidad, el talento, la inteligencia o el éxito profesional. Las pruebas comercializadas con tales afirmaciones carecen de respaldo científico. Las huellas sirven para la identificación y la investigación genética, no para juzgar el carácter ni las aptitudes.",
+   "Não existe nenhuma relação validada entre os padrões das impressões digitais e a personalidade, o talento, a inteligência ou o sucesso profissional. Os testes vendidos com base nessas afirmações não têm fundamento científico. As impressões digitais servem para identificação e investigação genética, não para julgar o carácter ou as aptidões.",
+   "Es gibt keinen gesicherten Zusammenhang zwischen Fingerabdruckmustern und Persönlichkeit, Begabung, Intelligenz oder Berufserfolg. Tests, die mit solchen Behauptungen verkauft werden, haben keine wissenschaftliche Grundlage. Fingerabdrücke dienen der Identifizierung und der genetischen Forschung, nicht der Beurteilung von Charakter oder Fähigkeiten.",
+   "Az ujjlenyomat-mintázatok és a személyiség, a tehetség, az intelligencia vagy a karriersiker között nincs igazolt összefüggés. Az ilyen állításokra épülő, forgalmazott tesztek nem rendelkeznek tudományos alappal. Az ujjlenyomat azonosításra és genetikai kutatásra hasznos, nem jellem vagy képességek megítélésére."
+  ],
+  "src": "No validated studies; consensus of dermatoglyphics literature (Cummins & Midlo 1961; Schaumann & Alter 1976)"
+ },
+ {
+  "id": "dc_simian",
+  "g": "crease",
+  "n": [
+   "Pliu palmar transversal unic",
+   "Single transverse palmar crease",
+   "Pli palmaire transverse unique",
+   "Piega palmare trasversa unica",
+   "Pliegue palmar transverso único",
+   "Prega palmar transversa única",
+   "Vierfingerfurche (einzelne Querfurche)",
+   "Egyetlen haránt tenyérredő"
+  ],
+  "d": [
+   "Un singur pliu adânc traversează palma, în loc de cele două obișnuite. Aproximativ 1,5–3% dintre oameni îl au, la una sau la ambele mâini. Este mai frecvent în unele afecțiuni cromozomiale, inclusiv sindromul Down, dar doar ca asociere la nivel de grup: majoritatea celor care îl au sunt sănătoși, iar el nu este un diagnostic.",
+   "A single deep crease crosses the palm instead of the usual two. About 1.5–3% of people have it, on one or both hands. It is more frequent in some chromosomal conditions, including Down syndrome, but only as a group-level association: most people with it are healthy, and it is not a diagnosis.",
+   "Un seul pli profond traverse la paume, au lieu des deux habituels. Environ 1,5 à 3 % des personnes l'ont, sur une main ou sur les deux. Il est plus fréquent dans certaines affections chromosomiques, dont la trisomie 21, mais seulement comme association à l'échelle d'un groupe : la plupart des personnes qui l'ont sont en bonne santé, et ce n'est pas un diagnostic.",
+   "Un'unica piega profonda attraversa il palmo, invece delle due consuete. Circa l'1,5–3% delle persone ce l'ha, su una o su entrambe le mani. È più frequente in alcune condizioni cromosomiche, inclusa la sindrome di Down, ma solo come associazione a livello di gruppo: la maggior parte di chi ce l'ha è sana, e non è una diagnosi.",
+   "Un único pliegue profundo cruza la palma, en lugar de los dos habituales. Entre el 1,5 y el 3 % de las personas lo tiene, en una o en ambas manos. Es más frecuente en algunas afecciones cromosómicas, como el síndrome de Down, pero solo como asociación a nivel de grupo: la mayoría de quienes lo tienen están sanos, y no es un diagnóstico.",
+   "Uma única prega profunda atravessa a palma, em vez das duas habituais. Cerca de 1,5–3% das pessoas apresentam-na, numa ou em ambas as mãos. É mais frequente em algumas condições cromossómicas, incluindo a síndrome de Down, mas apenas como associação a nível de grupo: a maioria das pessoas que a têm é saudável, e não é um diagnóstico.",
+   "Eine einzige tiefe Furche quert die Handfläche statt der üblichen zwei. Etwa 1,5–3 % der Menschen haben sie, an einer oder an beiden Händen. Bei manchen Chromosomenveränderungen, darunter das Down-Syndrom, tritt sie häufiger auf, aber nur als Zusammenhang auf Gruppenebene: Die meisten Menschen mit dieser Furche sind gesund, und sie ist keine Diagnose.",
+   "Az átlagos két redő helyett egyetlen mély redő szeli át a tenyeret. Az emberek kb. 1,5–3%-ánál található meg, az egyik vagy mindkét kézen. Egyes kromoszóma-eltérések, köztük a Down-szindróma esetén gyakoribb, de csak csoportszintű összefüggésként: a legtöbb érintett egészséges, és ez nem diagnózis."
+  ],
+  "src": "Purvis-Smith 1972, Aust Paediatr J 8; Schaumann & Alter 1976; overview: Single transverse palmar crease (reviews)"
+ },
+ {
+  "id": "dc_sydney",
+  "g": "crease",
+  "n": [
+   "Linia Sydney",
+   "Sydney line",
+   "Ligne de Sydney",
+   "Linea di Sydney",
+   "Línea de Sídney",
+   "Linha de Sydney",
+   "Sydney-Linie",
+   "Sydney-vonal"
+  ],
+  "d": [
+   "În linia Sydney, pliul palmar transversal proximal (cel pe care chiromanția îl numește linia capului) se întinde pe toată palma până la marginea cubitală, dinspre degetul mic, în timp ce celălalt pliu transversal rămâne separat. Apare și la persoane sănătoase și este o variantă minoră, nu un diagnostic.",
+   "In the Sydney line, the proximal transverse palmar crease (the one palmistry calls the head line) extends across the whole palm to the ulnar, little-finger edge, while the other transverse crease stays separate. It also occurs in healthy people and is a minor variant, not a diagnosis.",
+   "Dans la ligne de Sydney, le pli palmaire transverse proximal (celui que la chiromancie appelle ligne de tête) s'étend sur toute la paume jusqu'au bord cubital, côté petit doigt, tandis que l'autre pli transverse reste distinct. Elle existe aussi chez des personnes en bonne santé ; c'est une variante mineure, pas un diagnostic.",
+   "Nella linea di Sydney, la piega palmare trasversa prossimale (quella che la chiromanzia chiama linea della testa) si estende per tutto il palmo fino al margine ulnare, dal lato del mignolo, mentre l'altra piega trasversa resta distinta. Compare anche in persone sane ed è una variante minore, non una diagnosi.",
+   "En la línea de Sídney, el pliegue palmar transverso proximal (el que la quiromancia llama línea de la cabeza) se extiende por toda la palma hasta el borde cubital, del lado del meñique, mientras que el otro pliegue transverso permanece separado. También aparece en personas sanas y es una variante menor, no un diagnóstico.",
+   "Na linha de Sydney, a prega palmar transversa proximal (a que a quiromancia chama linha da cabeça) estende-se por toda a palma até à margem ulnar, do lado do mindinho, enquanto a outra prega transversa permanece separada. Também surge em pessoas saudáveis e é uma variante menor, não um diagnóstico.",
+   "Bei der Sydney-Linie reicht die proximale Querfurche der Handfläche (in der Handlesekunst die Kopflinie) über die ganze Hand bis zum ulnaren Rand auf der Kleinfingerseite, während die andere Querfurche getrennt bleibt. Sie kommt auch bei gesunden Menschen vor und ist eine geringfügige Variante, keine Diagnose.",
+   "A Sydney-vonalnál a proximális haránt tenyérredő (amelyet a tenyérjóslás fejvonalnak nevez) az egész tenyéren át a singcsonti, kisujj felőli széléig húzódik, míg a másik haránt redő különálló marad. Egészséges embereknél is előfordul, és apró változat, nem diagnózis."
+  ],
+  "src": "Purvis-Smith 1972, Aust Paediatr J 8; Schaumann & Alter 1976"
+ },
+ {
+  "id": "dc_flexion",
+  "g": "crease",
+  "n": [
+   "Pliurile normale ale palmei",
+   "Normal flexion creases",
+   "Plis de flexion normaux",
+   "Pieghe di flessione normali",
+   "Pliegues de flexión normales",
+   "Pregas de flexão normais",
+   "Normale Beugefurchen",
+   "Normál hajlatredők"
+  ],
+  "d": [
+   "Liniile obișnuite ale palmei, pe care le citește chiromanția, sunt pliuri de flexie: cute ale pielii care apar acolo unde pielea este strâns fixată și mâna se îndoaie, încă dinainte de naștere (în jurul săptămânilor 11–14). Aspectul lor reflectă anatomia și mișcările timpurii ale mâinii; sunt distincte de crestele amprentelor.",
+   "The ordinary palm lines that palmistry reads are flexion creases: skin folds that form where the skin is tightly anchored and the hand bends, already before birth (around weeks 11–14). Their layout reflects anatomy and early hand movement; they are separate from the fingerprint ridges.",
+   "Les lignes ordinaires de la paume que lit la chiromancie sont des plis de flexion : des plis cutanés qui se forment là où la peau est ancrée et où la main se plie, dès avant la naissance (vers les semaines 11 à 14). Leur tracé reflète l'anatomie et les premiers mouvements de la main ; ils sont distincts des crêtes digitales.",
+   "Le normali linee del palmo che la chiromanzia interpreta sono pieghe di flessione: pieghe cutanee che si formano dove la pelle è saldamente ancorata e la mano si piega, già prima della nascita (intorno alle settimane 11–14). La loro disposizione riflette l'anatomia e i primi movimenti della mano; sono distinte dalle creste delle impronte.",
+   "Las líneas habituales de la palma que lee la quiromancia son pliegues de flexión: pliegues de la piel que se forman donde la piel está anclada y la mano se flexiona, ya antes del nacimiento (hacia las semanas 11–14). Su disposición refleja la anatomía y los primeros movimientos de la mano; son distintos de las crestas de las huellas.",
+   "As linhas habituais da palma que a quiromancia lê são pregas de flexão: dobras da pele que se formam onde a pele está firmemente ancorada e a mão dobra, ainda antes do nascimento (por volta das semanas 11–14). A sua disposição reflete a anatomia e os primeiros movimentos da mão; são distintas das cristas das impressões digitais.",
+   "Die gewöhnlichen Handlinien, die die Handlesekunst deutet, sind Beugefurchen: Hautfalten, die dort entstehen, wo die Haut fest verankert ist und sich die Hand beugt, schon vor der Geburt (etwa in der 11.–14. Woche). Ihr Verlauf spiegelt Anatomie und frühe Handbewegungen wider; sie sind von den Fingerabdruckleisten getrennt.",
+   "A tenyér szokásos vonalai, amelyeket a tenyérjóslás olvas, hajlatredők: bőrredők, amelyek ott keletkeznek, ahol a bőr szorosan rögzített és a kéz hajlik, már a születés előtt (kb. a 11–14. héten). Elrendeződésük az anatómiát és a kéz korai mozgását tükrözi; különböznek az ujjlenyomat vonalaitól."
+  ],
+  "src": "Kimura & Kitagawa 1986, Kimura 1991 (Hum Biol / Am J Phys Anthropol); Schaumann & Alter 1976"
+ },
+ {
+  "id": "dc_med",
+  "g": "crease",
+  "n": [
+   "Notă de siguranță",
+   "Safety note",
+   "Note de sécurité",
+   "Nota di sicurezza",
+   "Nota de seguridad",
+   "Nota de segurança",
+   "Sicherheitshinweis",
+   "Biztonsági megjegyzés"
+  ],
+  "d": [
+   "Nu pune niciodată un diagnostic pe baza pliurilor sau a amprentelor. Genetica medicală le folosește doar ca semne minore de sprijin, alături de examen clinic și analize, iar multe persoane sănătoase au pliuri neobișnuite. Pentru orice întrebare despre sănătate, consultă un medic.",
+   "Never diagnose anything from creases or fingerprints. Medical genetics uses them only as minor supportive findings, alongside examination and tests, and many healthy people have unusual creases. For any health question, see a doctor.",
+   "Ne posez jamais de diagnostic à partir des plis ou des empreintes. La génétique médicale ne les utilise que comme signes mineurs d'appoint, en complément de l'examen et des tests, et beaucoup de personnes en bonne santé ont des plis inhabituels. Pour toute question de santé, consultez un médecin.",
+   "Non fare mai diagnosi in base alle pieghe o alle impronte. La genetica medica le usa solo come reperti minori di supporto, accanto a visita ed esami, e molte persone sane hanno pieghe insolite. Per qualsiasi domanda sulla salute, rivolgiti a un medico.",
+   "Nunca hagas un diagnóstico a partir de los pliegues o las huellas. La genética médica solo las usa como hallazgos menores de apoyo, junto con la exploración y las pruebas, y muchas personas sanas tienen pliegues inusuales. Para cualquier duda de salud, consulta a un médico.",
+   "Nunca faça um diagnóstico a partir das pregas ou das impressões digitais. A genética médica usa-as apenas como achados menores de apoio, juntamente com o exame e os testes, e muitas pessoas saudáveis têm pregas incomuns. Para qualquer questão de saúde, consulte um médico.",
+   "Stelle niemals eine Diagnose anhand von Furchen oder Fingerabdrücken. Die medizinische Genetik nutzt sie nur als untergeordnete Zusatzbefunde neben Untersuchung und Tests, und viele gesunde Menschen haben ungewöhnliche Furchen. Bei gesundheitlichen Fragen wende dich an eine Ärztin oder einen Arzt.",
+   "Soha ne állíts fel diagnózist redők vagy ujjlenyomatok alapján. Az orvosi genetika csak kisebb, kiegészítő leletként használja őket, a vizsgálat és a tesztek mellett, és sok egészséges embernek szokatlan a redőzete. Egészségügyi kérdéssel fordulj orvoshoz."
+  ],
+  "src": "Schaumann & Alter 1976, Dermatoglyphics in Medical Disorders"
+ },
+ {
+  "id": "dk_how",
+  "g": "count",
+  "n": [
+   "Cum îți numeri amprentele",
+   "How to tally your prints",
+   "Comment compter vos empreintes",
+   "Come contare le tue impronte",
+   "Cómo contar tus huellas",
+   "Como contar as impressões digitais",
+   "So zählst du deine Abdrücke",
+   "Így számold meg a lenyomataidat"
+  ],
+  "d": [
+   "Privește cele zece vârfuri de degete la lumină bună, cu o lupă. Clasifică fiecare model ca buclă, vârtej sau arc și ține un total. Apoi compară cifrele tale cu intervalele din populație. Este o activitate educativă: totalul tău nu spune nimic despre personalitatea, talentul sau sănătatea ta.",
+   "Look at your ten fingertips in good light, using a magnifier. Classify each as loop, whorl or arch and keep a tally. Then compare your totals with the population ranges. This is an educational pastime: your tally says nothing about your personality, talent or health.",
+   "Observez vos dix bouts de doigts sous une bonne lumière, avec une loupe. Classez chacun comme boucle, tourbillon ou arc et tenez le compte. Comparez ensuite vos totaux aux fourchettes de la population. C'est un passe-temps éducatif : votre décompte ne dit rien de votre personnalité, de vos talents ni de votre santé.",
+   "Osserva i tuoi dieci polpastrelli con buona luce, usando una lente d'ingrandimento. Classifica ciascuno come ansa, verticillo o arco e tieni il conto. Poi confronta i totali con gli intervalli della popolazione. È un passatempo didattico: il tuo conteggio non dice nulla su personalità, talento o salute.",
+   "Observa tus diez yemas con buena luz y una lupa. Clasifica cada una como lazo, verticilo o arco y anota el recuento. Luego compara tus totales con los intervalos de la población. Es un pasatiempo educativo: tu recuento no dice nada sobre tu personalidad, tu talento o tu salud.",
+   "Observe as dez pontas dos dedos com boa luz e uma lupa. Classifique cada uma como laçada, verticilo ou arco e vá anotando a contagem. Depois compare os totais com os intervalos da população. É um passatempo educativo: a contagem não diz nada sobre a personalidade, o talento ou a saúde.",
+   "Betrachte deine zehn Fingerkuppen bei gutem Licht mit einer Lupe. Ordne jede als Schleife, Wirbel oder Bogen ein und führe eine Strichliste. Vergleiche dann deine Summen mit den Bevölkerungswerten. Das ist ein Zeitvertreib zum Lernen: Deine Zählung sagt nichts über Persönlichkeit, Begabung oder Gesundheit aus.",
+   "Nézd meg a tíz ujjbegyedet jó fényben, nagyítóval. Sorold be mindegyiket hurok, örvény vagy ív kategóriába, és vezess összesítést. Majd hasonlítsd össze az összegeket a népességi tartományokkal. Ez tanulságos időtöltés: az összesítésed semmit sem mond a személyiségedről, tehetségedről vagy egészségedről."
+  ],
+  "src": ""
+ }
+]

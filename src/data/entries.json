@@ -1,0 +1,627 @@
+[
+ {
+  "id": "life",
+  "k": "lines",
+  "c": "#e5484d",
+  "n": [
+   "Linia vieții",
+   "Life line",
+   "Ligne de vie",
+   "Linea della vita",
+   "Línea de la vida",
+   "Linha da vida",
+   "Lebenslinie",
+   "Életvonal"
+  ],
+  "d": [
+   "Încercuiește Muntele lui Venus. În tradiție arată vitalitatea, energia și marile schimbări de viață – nu durata vieții și nu starea de sănătate. Adâncă și clară: vigoare; subțire sau ștearsă: energie mai discretă; în lanț sau întreruptă: perioade de schimbare; ramificații: direcții noi.",
+   "Curves around the Mount of Venus. Tradition reads it as vitality, energy and major life changes — not how long you will live, and not health. Deep and clear: vigor; thin or faint: quieter energy; chained or broken: periods of change; branches: new directions.",
+   "Elle contourne le mont de Vénus. La tradition y lit la vitalité, l'énergie et les grands changements de vie — pas la durée de la vie, ni la santé. Profonde et nette : vigueur ; fine ou pâle : énergie plus discrète ; en chaîne ou interrompue : périodes de changement ; ramifications : nouvelles directions.",
+   "Gira attorno al monte di Venere. La tradizione vi legge vitalità, energia e grandi cambiamenti di vita, non la durata della vita né la salute. Profonda e nitida: vigore; sottile o sbiadita: energia più discreta; a catena o interrotta: periodi di cambiamento; ramificazioni: nuove direzioni.",
+   "Rodea el monte de Venus. La tradición ve en ella vitalidad, energía y grandes cambios de vida, no la duración de la vida ni la salud. Profunda y nítida: vigor; fina o tenue: energía más discreta; encadenada o interrumpida: periodos de cambio; ramificaciones: nuevos rumbos.",
+   "Contorna o monte de Vénus. A tradição vê nela vitalidade, energia e grandes mudanças de vida, não a duração da vida nem a saúde. Profunda e nítida: vigor; fina ou ténue: energia mais discreta; em cadeia ou interrompida: períodos de mudança; ramificações: novos rumos.",
+   "Sie umrundet den Venusberg. Die Tradition deutet sie als Vitalität, Energie und große Lebensveränderungen – nicht als Lebensdauer und nicht als Gesundheit. Tief und klar: Vitalität; dünn oder blass: leisere Energie; kettenartig oder unterbrochen: Phasen des Wandels; Verzweigungen: neue Richtungen.",
+   "A Vénusz-domb körül ível. A hagyomány az életerővel, az energiával és a nagy életváltozásokkal hozza összefüggésbe – nem az élet hosszával és nem az egészséggel. Mély és tiszta: életerő; vékony vagy halvány: csendesebb energia; láncszerű vagy megszakadt: a változás időszakai; elágazások: új irányok."
+  ]
+ },
+ {
+  "id": "head",
+  "k": "lines",
+  "c": "#3b82f6",
+  "n": [
+   "Linia capului",
+   "Head line",
+   "Ligne de tête",
+   "Linea della testa",
+   "Línea de la cabeza",
+   "Linha da cabeça",
+   "Kopflinie",
+   "Fejvonal"
+  ],
+  "d": [
+   "Traversează palma pe orizontală. În tradiție arată stilul de gândire și concentrarea (nu inteligența). Lungă și dreaptă: spirit analitic, practic; coboară spre Lună: imaginație, creativitate; scurtă: gândire directă, concretă; capăt bifurcat: vede mai multe fețe ale unei probleme.",
+   "Runs across the palm. Tradition reads it as thinking style and focus (not intelligence). Long and straight: analytical, practical; sloping toward the Moon: imaginative, creative; short: direct, concrete; forked end: sees several sides of a problem.",
+   "Elle traverse la paume. La tradition y lit le style de pensée et la concentration (pas l'intelligence). Longue et droite : analytique, pratique ; descendante vers la Lune : imaginatif, créatif ; courte : direct, concret ; extrémité fourchue : voit plusieurs facettes d'un problème.",
+   "Attraversa il palmo. La tradizione vi legge lo stile di pensiero e la concentrazione (non l'intelligenza). Lunga e dritta: analitico, pratico; inclinata verso la Luna: fantasioso, creativo; corta: diretto, concreto; estremità biforcuta: vede più lati di un problema.",
+   "Cruza la palma. La tradición ve en ella el estilo de pensamiento y la concentración (no la inteligencia). Larga y recta: analítico, práctico; inclinada hacia la Luna: imaginativo, creativo; corta: directo, concreto; extremo bifurcado: ve varios lados de un problema.",
+   "Atravessa a palma. A tradição vê nela o estilo de pensamento e a concentração (não a inteligência). Longa e reta: analítico, prático; inclinada para a Lua: imaginativo, criativo; curta: direto, concreto; extremidade bifurcada: vê vários lados de um problema.",
+   "Verläuft quer über die Handfläche. Die Tradition deutet sie als Denkstil und Konzentration (nicht als Intelligenz). Lang und gerade: analytisch, praktisch; zum Mond abfallend: fantasievoll, kreativ; kurz: direkt, konkret; gegabeltes Ende: sieht mehrere Seiten eines Problems.",
+   "Keresztben húzódik a tenyéren. A hagyomány a gondolkodásmóddal és a koncentrációval hozza összefüggésbe (nem az intelligenciával). Hosszú és egyenes: elemző, gyakorlatias; a Hold felé lejt: képzeletgazdag, kreatív; rövid: közvetlen, konkrét; villás vég: egy probléma több oldalát látja."
+  ]
+ },
+ {
+  "id": "heart",
+  "k": "lines",
+  "c": "#ec4899",
+  "n": [
+   "Linia inimii",
+   "Heart line",
+   "Ligne de cœur",
+   "Linea del cuore",
+   "Línea del corazón",
+   "Linha do coração",
+   "Herzlinie",
+   "Szívvonal"
+  ],
+  "d": [
+   "Merge pe sub degete. În tradiție arată viața afectivă și felul în care cineva își exprimă sentimentele. Lungă și curbată: deschidere, expresivitate; dreaptă și scurtă: reținere; în lanț sau întreruptă: frământări afective; se termină sub Jupiter: idealism în iubire.",
+   "Runs just below the fingers. Tradition reads it as emotional life and how affection is expressed. Long and curved: open, expressive; straight and short: reserved; chained or broken: emotional turbulence; ending under Jupiter: idealism in love.",
+   "Elle court juste sous les doigts. La tradition y lit la vie affective et la façon d'exprimer l'affection. Longue et courbe : ouvert, expressif ; droite et courte : réservé ; en chaîne ou interrompue : turbulences émotionnelles ; se terminant sous Jupiter : idéalisme en amour.",
+   "Corre appena sotto le dita. La tradizione vi legge la vita affettiva e il modo di esprimere l'affetto. Lunga e curva: aperto, espressivo; dritta e corta: riservato; a catena o interrotta: turbolenze emotive; termina sotto Giove: idealismo in amore.",
+   "Recorre la zona justo debajo de los dedos. La tradición ve en ella la vida afectiva y la forma de expresar el afecto. Larga y curva: abierto, expresivo; recta y corta: reservado; encadenada o interrumpida: turbulencias emocionales; termina bajo Júpiter: idealismo en el amor.",
+   "Corre logo abaixo dos dedos. A tradição vê nela a vida afetiva e o modo de expressar afeto. Longa e curva: aberto, expressivo; reta e curta: reservado; em cadeia ou interrompida: turbulência emocional; termina sob Júpiter: idealismo no amor.",
+   "Verläuft knapp unterhalb der Finger. Die Tradition deutet sie als Gefühlsleben und als Art, Zuneigung zu zeigen. Lang und gebogen: offen, ausdrucksstark; gerade und kurz: zurückhaltend; kettenartig oder unterbrochen: emotionale Turbulenzen; endet unter Jupiter: Idealismus in der Liebe.",
+   "Közvetlenül az ujjak alatt fut. A hagyomány az érzelmi élettel és az érzelemkifejezés módjával hozza összefüggésbe. Hosszú és ívelt: nyitott, kifejező; egyenes és rövid: visszafogott; láncszerű vagy megszakadt: érzelmi viharok; a Jupiter alatt végződik: eszményiség a szerelemben."
+  ]
+ },
+ {
+  "id": "fate",
+  "k": "lines",
+  "c": "#8b5cf6",
+  "n": [
+   "Linia destinului",
+   "Fate line",
+   "Ligne de destinée",
+   "Linea del destino",
+   "Línea del destino",
+   "Linha do destino",
+   "Schicksalslinie",
+   "Sorsvonal"
+  ],
+  "d": [
+   "Linie verticală spre degetul mijlociu; nu o are oricine. În tradiție arată drumul profesional, sentimentul de direcție și influențele exterioare. Adâncă: direcție clară; absentă: drum flexibil, făurit singur; pornește din linia vieții: independență timpurie; pornește de la Lună: sprijin din partea altora.",
+   "A vertical line toward the middle finger; not everyone has one. Tradition reads it as career path, sense of direction and outside influences. Deep: clear direction; absent: a flexible, self-made path; starting at the life line: early self-reliance; starting at the Moon: support from others.",
+   "Ligne verticale vers le majeur ; tout le monde n'en a pas. La tradition y lit le parcours professionnel, le sens de la direction et les influences extérieures. Profonde : cap clair ; absente : voie souple, faite soi-même ; partant de la ligne de vie : autonomie précoce ; partant de la Lune : soutien d'autrui.",
+   "Linea verticale verso il medio; non tutti ce l'hanno. La tradizione vi legge il percorso professionale, il senso di direzione e le influenze esterne. Profonda: direzione chiara; assente: percorso flessibile, costruito da sé; parte dalla linea della vita: autonomia precoce; parte dalla Luna: sostegno altrui.",
+   "Línea vertical hacia el dedo medio; no todos la tienen. La tradición ve en ella el camino profesional, el sentido de dirección y las influencias externas. Profunda: rumbo claro; ausente: camino flexible, hecho por uno mismo; nace en la línea de la vida: autonomía temprana; nace en la Luna: apoyo de otros.",
+   "Linha vertical em direção ao dedo médio; nem todos a têm. A tradição vê nela o percurso profissional, o sentido de direção e as influências externas. Profunda: rumo claro; ausente: caminho flexível, feito por si; nasce na linha da vida: autonomia precoce; nasce na Lua: apoio de outros.",
+   "Eine senkrechte Linie zum Mittelfinger; nicht jeder hat sie. Die Tradition deutet sie als Berufsweg, Richtungssinn und äußere Einflüsse. Tief: klare Richtung; fehlend: flexibler, selbst gebahnter Weg; beginnt an der Lebenslinie: frühe Selbstständigkeit; beginnt am Mond: Unterstützung durch andere.",
+   "Függőleges vonal a középső ujj felé; nem mindenkinek van. A hagyomány a pályával, az irányérzékkel és a külső hatásokkal hozza összefüggésbe. Mély: egyértelmű irány; hiányzik: rugalmas, saját erőből épített út; az életvonalból indul: korai önállóság; a Holdból indul: mások támogatása."
+  ]
+ },
+ {
+  "id": "sun",
+  "k": "lines",
+  "c": "#f59e0b",
+  "n": [
+   "Linia Soarelui (Apollo)",
+   "Sun line (Apollo)",
+   "Ligne du Soleil (Apollon)",
+   "Linea del Sole (Apollo)",
+   "Línea del Sol (Apolo)",
+   "Linha do Sol (Apolo)",
+   "Sonnenlinie (Apollo)",
+   "Nap-vonal (Apollón)"
+  ],
+  "d": [
+   "Urcă spre inelar; mulți nu o au. În tradiție se leagă de creativitate, recunoaștere și bucuria în ceea ce faci. Clară: talent apreciat; multiplă: talente variate; absența ei nu are o semnificație negativă.",
+   "Rises toward the ring finger; many people lack it. Tradition links it to creativity, recognition and joy in what you do. Clear: appreciated talent; multiple: varied talents; its absence has no negative meaning.",
+   "Monte vers l'annulaire ; beaucoup n'en ont pas. La tradition la relie à la créativité, à la reconnaissance et à la joie dans ce que l'on fait. Nette : talent apprécié ; multiple : talents variés ; son absence n'a aucun sens négatif.",
+   "Sale verso l'anulare; molti non ce l'hanno. La tradizione la collega a creatività, riconoscimento e gioia in ciò che si fa. Nitida: talento apprezzato; multipla: talenti vari; la sua assenza non ha alcun significato negativo.",
+   "Sube hacia el anular; muchas personas no la tienen. La tradición la vincula con la creatividad, el reconocimiento y la alegría en lo que se hace. Nítida: talento apreciado; múltiple: talentos variados; su ausencia no tiene ningún significado negativo.",
+   "Sobe em direção ao anelar; muitas pessoas não a têm. A tradição associa-a à criatividade, ao reconhecimento e à alegria no que se faz. Nítida: talento apreciado; múltipla: talentos variados; a sua ausência não tem significado negativo.",
+   "Steigt zum Ringfinger auf; viele haben sie nicht. Die Tradition verbindet sie mit Kreativität, Anerkennung und Freude an dem, was man tut. Klar: geschätztes Talent; mehrfach: vielfältige Talente; ihr Fehlen hat keine negative Bedeutung.",
+   "A gyűrűsujj felé emelkedik; sokaknak nincs. A hagyomány a kreativitással, az elismeréssel és a végzett tevékenység örömével kapcsolja össze. Tiszta: elismert tehetség; többszörös: sokféle tehetség; hiányának nincs negatív jelentése."
+  ]
+ },
+ {
+  "id": "mer",
+  "k": "lines",
+  "c": "#10b981",
+  "n": [
+   "Linia lui Mercur (sănătate)",
+   "Mercury line (health)",
+   "Ligne de Mercure (santé)",
+   "Linea di Mercurio (salute)",
+   "Línea de Mercurio (salud)",
+   "Linha de Mercúrio (saúde)",
+   "Merkurlinie (Gesundheit)",
+   "Merkúr-vonal (egészség)"
+  ],
+  "d": [
+   "Diagonală spre degetul mic; mulți nu o au. În tradiție se numește și „linia sănătății”, dar se leagă de comunicare, simț practic și obiceiuri de bunăstare. Nu este un indicator medical: pentru sănătate, consultă un medic.",
+   "A diagonal toward the little finger; many people lack it. Tradition also calls it the 'health line', but links it to communication, practical sense and well-being habits. It is not a medical indicator: for health concerns, see a doctor.",
+   "Diagonale vers l'auriculaire ; beaucoup n'en ont pas. La tradition l'appelle aussi « ligne de santé », mais la relie à la communication, au sens pratique et aux habitudes de bien-être. Ce n'est pas un indicateur médical : en cas de souci de santé, consultez un médecin.",
+   "Diagonale verso il mignolo; molti non ce l'hanno. La tradizione la chiama anche «linea della salute», ma la collega a comunicazione, senso pratico e abitudini di benessere. Non è un indicatore medico: per qualsiasi problema di salute, rivolgiti a un medico.",
+   "Diagonal hacia el meñique; muchas personas no la tienen. La tradición también la llama «línea de la salud», pero la vincula con la comunicación, el sentido práctico y los hábitos de bienestar. No es un indicador médico: ante cualquier problema de salud, consulta a un médico.",
+   "Diagonal em direção ao mindinho; muitas pessoas não a têm. A tradição também lhe chama «linha da saúde», mas associa-a à comunicação, ao sentido prático e aos hábitos de bem-estar. Não é um indicador médico: em caso de problemas de saúde, consulte um médico.",
+   "Eine Diagonale zum kleinen Finger; viele haben sie nicht. Die Tradition nennt sie auch „Gesundheitslinie“, verbindet sie aber mit Kommunikation, praktischem Sinn und Wohlfühlgewohnheiten. Sie ist kein medizinischer Indikator: Bei Gesundheitsfragen geh zum Arzt.",
+   "Átló a kisujj felé; sokaknak nincs. A hagyomány „egészségvonalnak” is nevezi, de a kommunikációval, a gyakorlati érzékkel és a jóllétet szolgáló szokásokkal kapcsolja össze. Nem orvosi mutató: egészségügyi kérdésekkel fordulj orvoshoz."
+  ]
+ },
+ {
+  "id": "jup",
+  "k": "mounts",
+  "c": "#3b82f6",
+  "n": [
+   "Muntele lui Jupiter",
+   "Mount of Jupiter",
+   "Mont de Jupiter",
+   "Monte di Giove",
+   "Monte de Júpiter",
+   "Monte de Júpiter",
+   "Jupiterberg",
+   "Jupiter-domb"
+  ],
+  "d": [
+   "Sub arătător. În tradiție: ambiție, autoritate, încredere în sine. Bine dezvoltat: lider, carismatic; plat: modest, rezervat; exagerat: mândrie.",
+   "Beneath the index finger. In tradition: ambition, authority, self-confidence. Well developed: leader, charismatic; flat: modest, reserved; excessive: pride.",
+   "Sous l'index. Selon la tradition : ambition, autorité, confiance en soi. Bien développé : meneur, charismatique ; plat : modeste, réservé ; excessif : orgueil.",
+   "Sotto l'indice. Secondo la tradizione: ambizione, autorità, fiducia in sé. Ben sviluppato: leader, carismatico; piatto: modesto, riservato; eccessivo: orgoglio.",
+   "Bajo el índice. Según la tradición: ambición, autoridad, confianza en sí mismo. Bien desarrollado: líder, carismático; plano: modesto, reservado; excesivo: orgullo.",
+   "Sob o indicador. Segundo a tradição: ambição, autoridade, autoconfiança. Bem desenvolvido: líder, carismático; plano: modesto, reservado; excessivo: orgulho.",
+   "Unter dem Zeigefinger. In der Tradition: Ehrgeiz, Autorität, Selbstvertrauen. Gut ausgeprägt: Führungsnatur, charismatisch; flach: bescheiden, zurückhaltend; übermäßig: Stolz.",
+   "A mutatóujj alatt. A hagyomány szerint: ambíció, tekintély, önbizalom. Jól fejlett: vezéralkat, karizmatikus; lapos: szerény, visszafogott; túlzott: gőg."
+  ]
+ },
+ {
+  "id": "sat",
+  "k": "mounts",
+  "c": "#6366f1",
+  "n": [
+   "Muntele lui Saturn",
+   "Mount of Saturn",
+   "Mont de Saturne",
+   "Monte di Saturno",
+   "Monte de Saturno",
+   "Monte de Saturno",
+   "Saturnberg",
+   "Szaturnusz-domb"
+  ],
+  "d": [
+   "Sub degetul mijlociu. În tradiție: responsabilitate, prudență, disciplină, nevoia de singurătate. Dezvoltat: serios, metodic; plat: spontan; exagerat: melancolie.",
+   "Beneath the middle finger. In tradition: responsibility, prudence, discipline, need for solitude. Developed: serious, methodical; flat: spontaneous; excessive: melancholy.",
+   "Sous le majeur. Selon la tradition : responsabilité, prudence, discipline, besoin de solitude. Développé : sérieux, méthodique ; plat : spontané ; excessif : mélancolie.",
+   "Sotto il medio. Secondo la tradizione: responsabilità, prudenza, disciplina, bisogno di solitudine. Sviluppato: serio, metodico; piatto: spontaneo; eccessivo: malinconia.",
+   "Bajo el dedo medio. Según la tradición: responsabilidad, prudencia, disciplina, necesidad de soledad. Desarrollado: serio, metódico; plano: espontáneo; excesivo: melancolía.",
+   "Sob o dedo médio. Segundo a tradição: responsabilidade, prudência, disciplina, necessidade de solidão. Desenvolvido: sério, metódico; plano: espontâneo; excessivo: melancolia.",
+   "Unter dem Mittelfinger. In der Tradition: Verantwortung, Vorsicht, Disziplin, Bedürfnis nach Alleinsein. Ausgeprägt: ernst, methodisch; flach: spontan; übermäßig: Schwermut.",
+   "A középső ujj alatt. A hagyomány szerint: felelősség, óvatosság, fegyelem, a magány igénye. Fejlett: komoly, módszeres; lapos: spontán; túlzott: melankólia."
+  ]
+ },
+ {
+  "id": "apo",
+  "k": "mounts",
+  "c": "#f59e0b",
+  "n": [
+   "Muntele lui Apollo",
+   "Mount of Apollo",
+   "Mont d'Apollon",
+   "Monte di Apollo",
+   "Monte de Apolo",
+   "Monte de Apolo",
+   "Apolloberg",
+   "Apollón-domb"
+  ],
+  "d": [
+   "Sub inelar. În tradiție: creativitate, farmec, simțul frumosului, optimism. Dezvoltat: artistic, sociabil; plat: pragmatic; exagerat: nevoia de a fi admirat.",
+   "Beneath the ring finger. In tradition: creativity, charm, sense of beauty, optimism. Developed: artistic, sociable; flat: pragmatic; excessive: need for admiration.",
+   "Sous l'annulaire. Selon la tradition : créativité, charme, sens du beau, optimisme. Développé : artiste, sociable ; plat : pragmatique ; excessif : besoin d'admiration.",
+   "Sotto l'anulare. Secondo la tradizione: creatività, fascino, senso del bello, ottimismo. Sviluppato: artistico, socievole; piatto: pragmatico; eccessivo: bisogno di ammirazione.",
+   "Bajo el anular. Según la tradición: creatividad, encanto, sentido de la belleza, optimismo. Desarrollado: artístico, sociable; plano: pragmático; excesivo: necesidad de admiración.",
+   "Sob o anelar. Segundo a tradição: criatividade, charme, sentido de beleza, otimismo. Desenvolvido: artístico, sociável; plano: pragmático; excessivo: necessidade de admiração.",
+   "Unter dem Ringfinger. In der Tradition: Kreativität, Charme, Schönheitssinn, Optimismus. Ausgeprägt: künstlerisch, gesellig; flach: pragmatisch; übermäßig: Bedürfnis nach Bewunderung.",
+   "A gyűrűsujj alatt. A hagyomány szerint: kreativitás, báj, szépérzék, optimizmus. Fejlett: művészi, társaságkedvelő; lapos: pragmatikus; túlzott: csodálatigény."
+  ]
+ },
+ {
+  "id": "mmer",
+  "k": "mounts",
+  "c": "#10b981",
+  "n": [
+   "Muntele lui Mercur",
+   "Mount of Mercury",
+   "Mont de Mercure",
+   "Monte di Mercurio",
+   "Monte de Mercurio",
+   "Monte de Mercúrio",
+   "Merkurberg",
+   "Merkúr-domb"
+  ],
+  "d": [
+   "Sub degetul mic. În tradiție: comunicare, spirit, simț comercial, adaptabilitate. Dezvoltat: vorbitor abil, versatil; plat: reținut în exprimare; exagerat: volubilitate.",
+   "Beneath the little finger. In tradition: communication, wit, business sense, adaptability. Developed: skilled speaker, versatile; flat: reserved in expression; excessive: talkativeness.",
+   "Sous l'auriculaire. Selon la tradition : communication, esprit, sens des affaires, adaptabilité. Développé : bon orateur, polyvalent ; plat : réservé dans l'expression ; excessif : volubilité.",
+   "Sotto il mignolo. Secondo la tradizione: comunicazione, arguzia, senso degli affari, adattabilità. Sviluppato: buon oratore, versatile; piatto: riservato nell'espressione; eccessivo: loquacità.",
+   "Bajo el meñique. Según la tradición: comunicación, ingenio, sentido comercial, adaptabilidad. Desarrollado: buen orador, versátil; plano: reservado al expresarse; excesivo: locuacidad.",
+   "Sob o mindinho. Segundo a tradição: comunicação, perspicácia, sentido comercial, adaptabilidade. Desenvolvido: bom orador, versátil; plano: reservado ao expressar-se; excessivo: loquacidade.",
+   "Unter dem kleinen Finger. In der Tradition: Kommunikation, Witz, Geschäftssinn, Anpassungsfähigkeit. Ausgeprägt: guter Redner, vielseitig; flach: zurückhaltend im Ausdruck; übermäßig: Redseligkeit.",
+   "A kisujj alatt. A hagyomány szerint: kommunikáció, szellemesség, üzleti érzék, alkalmazkodóképesség. Fejlett: jó szónok, sokoldalú; lapos: szófukar; túlzott: bőbeszédűség."
+  ]
+ },
+ {
+  "id": "mars",
+  "k": "mounts",
+  "c": "#dc2626",
+  "n": [
+   "Muntele lui Marte",
+   "Mount of Mars",
+   "Mont de Mars",
+   "Monte di Marte",
+   "Monte de Marte",
+   "Monte de Marte",
+   "Marsberg",
+   "Mars-domb"
+  ],
+  "d": [
+   "Tradiția distinge două zone: Marte interior (între Jupiter și Venus, curaj activ) și Marte exterior (sub Mercur, rezistență și stăpânire de sine), cu Câmpia lui Marte între ele. Dezvoltat: energic, perseverent; exagerat: impulsivitate.",
+   "Tradition distinguishes two zones: inner Mars (between Jupiter and Venus, active courage) and outer Mars (below Mercury, resilience and self-control), with the Plain of Mars between them. Developed: energetic, persevering; excessive: impulsiveness.",
+   "La tradition distingue deux zones : Mars interne (entre Jupiter et Vénus, courage actif) et Mars externe (sous Mercure, résistance et maîtrise de soi), avec la plaine de Mars entre les deux. Développé : énergique, persévérant ; excessif : impulsivité.",
+   "La tradizione distingue due zone: Marte interno (tra Giove e Venere, coraggio attivo) e Marte esterno (sotto Mercurio, resilienza e autocontrollo), con la pianura di Marte in mezzo. Sviluppato: energico, perseverante; eccessivo: impulsività.",
+   "La tradición distingue dos zonas: Marte interno (entre Júpiter y Venus, valor activo) y Marte externo (bajo Mercurio, resistencia y autocontrol), con la llanura de Marte entre ambas. Desarrollado: enérgico, perseverante; excesivo: impulsividad.",
+   "A tradição distingue duas zonas: Marte interno (entre Júpiter e Vénus, coragem ativa) e Marte externo (sob Mercúrio, resistência e autocontrolo), com a planície de Marte entre elas. Desenvolvido: enérgico, perseverante; excessivo: impulsividade.",
+   "Die Tradition unterscheidet zwei Zonen: innerer Mars (zwischen Jupiter und Venus, aktiver Mut) und äußerer Mars (unter Merkur, Widerstandskraft und Selbstbeherrschung), dazwischen die Marsebene. Ausgeprägt: energisch, ausdauernd; übermäßig: Impulsivität.",
+   "A hagyomány két területet különböztet meg: belső Mars (Jupiter és Vénusz között, tevékeny bátorság) és külső Mars (a Merkúr alatt, ellenállóképesség és önuralom), köztük a Mars-síkság. Fejlett: energikus, kitartó; túlzott: impulzivitás."
+  ]
+ },
+ {
+  "id": "moon",
+  "k": "mounts",
+  "c": "#64748b",
+  "n": [
+   "Muntele Lunii",
+   "Mount of the Moon",
+   "Mont de la Lune",
+   "Monte della Luna",
+   "Monte de la Luna",
+   "Monte da Lua",
+   "Mondberg",
+   "Hold-domb"
+  ],
+  "d": [
+   "Pe marginea palmei dinspre degetul mic, spre încheietură, vizavi de Venus. În tradiție: imaginație, intuiție, vise, creativitate. Dezvoltat: visător, inventiv; plat: realist; exagerat: evadare în fantezie.",
+   "On the little-finger edge of the palm, toward the wrist, opposite Venus. In tradition: imagination, intuition, dreams, creativity. Developed: dreamy, inventive; flat: realistic; excessive: escapism.",
+   "Sur le bord de la paume côté auriculaire, vers le poignet, à l'opposé de Vénus. Selon la tradition : imagination, intuition, rêves, créativité. Développé : rêveur, inventif ; plat : réaliste ; excessif : fuite de la réalité.",
+   "Sul bordo del palmo dal lato del mignolo, verso il polso, opposto a Venere. Secondo la tradizione: immaginazione, intuizione, sogni, creatività. Sviluppato: sognatore, inventivo; piatto: realista; eccessivo: fuga dalla realtà.",
+   "En el borde de la palma, del lado del meñique, hacia la muñeca, opuesto a Venus. Según la tradición: imaginación, intuición, sueños, creatividad. Desarrollado: soñador, inventivo; plano: realista; excesivo: evasión de la realidad.",
+   "No bordo da palma, do lado do mindinho, junto ao pulso, oposto a Vénus. Segundo a tradição: imaginação, intuição, sonhos, criatividade. Desenvolvido: sonhador, inventivo; plano: realista; excessivo: fuga à realidade.",
+   "Am Handrand auf der Kleinfingerseite, zum Handgelenk hin, gegenüber dem Venusberg. In der Tradition: Fantasie, Intuition, Träume, Kreativität. Ausgeprägt: verträumt, erfinderisch; flach: realistisch; übermäßig: Realitätsflucht.",
+   "A tenyér kisujj felőli szélén, a csukló felé, a Vénusz-dombbal szemben. A hagyomány szerint: képzelet, intuíció, álmok, kreativitás. Fejlett: álmodozó, találékony; lapos: realista; túlzott: fantáziába menekülés."
+  ]
+ },
+ {
+  "id": "ven",
+  "k": "mounts",
+  "c": "#ec4899",
+  "n": [
+   "Muntele lui Venus",
+   "Mount of Venus",
+   "Mont de Vénus",
+   "Monte di Venere",
+   "Monte de Venus",
+   "Monte de Vénus",
+   "Venusberg",
+   "Vénusz-domb"
+  ],
+  "d": [
+   "La baza degetului mare, înconjurat de linia vieții. În tradiție: iubire, căldură, vitalitate, generozitate. Dezvoltat: afectuos, plin de energie; plat: rezervat; exagerat: poftă excesivă de plăceri.",
+   "At the base of the thumb, encircled by the life line. In tradition: love, warmth, vitality, generosity. Developed: affectionate, energetic; flat: reserved; excessive: indulgence.",
+   "À la base du pouce, entouré par la ligne de vie. Selon la tradition : amour, chaleur, vitalité, générosité. Développé : affectueux, énergique ; plat : réservé ; excessif : indulgence envers soi-même.",
+   "Alla base del pollice, circondato dalla linea della vita. Secondo la tradizione: amore, calore, vitalità, generosità. Sviluppato: affettuoso, energico; piatto: riservato; eccessivo: indulgenza verso sé stessi.",
+   "En la base del pulgar, rodeado por la línea de la vida. Según la tradición: amor, calidez, vitalidad, generosidad. Desarrollado: afectuoso, enérgico; plano: reservado; excesivo: autoindulgencia.",
+   "Na base do polegar, rodeado pela linha da vida. Segundo a tradição: amor, calor, vitalidade, generosidade. Desenvolvido: afetuoso, enérgico; plano: reservado; excessivo: autoindulgência.",
+   "An der Daumenwurzel, von der Lebenslinie umschlossen. In der Tradition: Liebe, Wärme, Vitalität, Großzügigkeit. Ausgeprägt: liebevoll, energiegeladen; flach: zurückhaltend; übermäßig: Genusssucht.",
+   "A hüvelykujj tövénél, az életvonal övezi. A hagyomány szerint: szeretet, melegség, életerő, nagylelkűség. Fejlett: szeretetteljes, energikus; lapos: tartózkodó; túlzott: mértéktelen élvezetvágy."
+  ]
+ },
+ {
+  "id": "thumb",
+  "k": "fingers",
+  "c": "#a16207",
+  "n": [
+   "Degetul mare",
+   "Thumb",
+   "Pouce",
+   "Pollice",
+   "Pulgar",
+   "Polegar",
+   "Daumen",
+   "Hüvelykujj"
+  ],
+  "d": [
+   "Voința, logica și hotărârea. În tradiție: lung și ferm – voință puternică; scurt – spontaneitate; flexibil (se arcuiește înapoi) – adaptabil, generos; rigid – perseverent, uneori încăpățânat.",
+   "Will, logic and determination. In tradition: long and firm – strong will; short – spontaneity; flexible (bends backward) – adaptable, generous; stiff – persevering, sometimes stubborn.",
+   "Volonté, logique et détermination. Selon la tradition, long et ferme : forte volonté ; court : spontanéité ; souple (se cambre en arrière) : adaptable, généreux ; raide : persévérant, parfois têtu.",
+   "Volontà, logica e determinazione. Secondo la tradizione, lungo e fermo: forte volontà; corto: spontaneità; flessibile (si piega indietro): adattabile, generoso; rigido: perseverante, a volte testardo.",
+   "Voluntad, lógica y determinación. Según la tradición, largo y firme: voluntad fuerte; corto: espontaneidad; flexible (se curva hacia atrás): adaptable, generoso; rígido: perseverante, a veces terco.",
+   "Vontade, lógica e determinação. Segundo a tradição, longo e firme: vontade forte; curto: espontaneidade; flexível (dobra para trás): adaptável, generoso; rígido: perseverante, por vezes teimoso.",
+   "Wille, Logik und Entschlossenheit. In der Tradition: lang und fest – starker Wille; kurz – Spontaneität; beweglich (biegt sich zurück) – anpassungsfähig, großzügig; steif – ausdauernd, mitunter stur.",
+   "Akarat, logika és határozottság. A hagyomány szerint: hosszú és szilárd – erős akarat; rövid – spontaneitás; hajlékony (hátrahajlik) – alkalmazkodó, nagylelkű; merev – kitartó, olykor makacs."
+  ]
+ },
+ {
+  "id": "idx",
+  "k": "fingers",
+  "c": "#3b82f6",
+  "n": [
+   "Arătătorul",
+   "Index finger",
+   "Index",
+   "Indice",
+   "Índice",
+   "Indicador",
+   "Zeigefinger",
+   "Mutatóujj"
+  ],
+  "d": [
+   "Ambiție și autoritate (Jupiter). În tradiție, lung – încredere, înclinație spre conducere; scurt – modestie, reținere în fața rolului de lider.",
+   "Ambition and authority (Jupiter). In tradition, long – confidence, leaning toward leadership; short – modesty, reluctance to take the lead.",
+   "Ambition et autorité (Jupiter). Selon la tradition, long : confiance, penchant pour le leadership ; court : modestie, réticence à prendre la tête.",
+   "Ambizione e autorità (Giove). Secondo la tradizione, lungo: fiducia, tendenza alla guida; corto: modestia, ritrosia a guidare.",
+   "Ambición y autoridad (Júpiter). Según la tradición, largo: confianza, inclinación al liderazgo; corto: modestia, reticencia a liderar.",
+   "Ambição e autoridade (Júpiter). Segundo a tradição, longo: confiança, tendência para liderar; curto: modéstia, relutância em liderar.",
+   "Ehrgeiz und Autorität (Jupiter). In der Tradition: lang – Selbstvertrauen, Hang zur Führung; kurz – Bescheidenheit, Zurückhaltung beim Führen.",
+   "Ambíció és tekintély (Jupiter). A hagyomány szerint: hosszú – magabiztosság, vezetésre való hajlam; rövid – szerénység, a vezetéstől való tartózkodás."
+  ]
+ },
+ {
+  "id": "mid",
+  "k": "fingers",
+  "c": "#6366f1",
+  "n": [
+   "Degetul mijlociu",
+   "Middle finger",
+   "Majeur",
+   "Medio",
+   "Dedo medio",
+   "Dedo médio",
+   "Mittelfinger",
+   "Középső ujj"
+  ],
+  "d": [
+   "Responsabilitate și prudență (Saturn). De obicei cel mai lung deget. În tradiție, lung – seriozitate, spirit de ordine; scurt – spontaneitate, aversiune față de rutină.",
+   "Responsibility and prudence (Saturn). Usually the longest finger. In tradition, long – seriousness, sense of order; short – spontaneity, dislike of routine.",
+   "Responsabilité et prudence (Saturne). Généralement le doigt le plus long. Selon la tradition, long : sérieux, sens de l'ordre ; court : spontanéité, aversion pour la routine.",
+   "Responsabilità e prudenza (Saturno). Di solito il dito più lungo. Secondo la tradizione, lungo: serietà, senso dell'ordine; corto: spontaneità, avversione per la routine.",
+   "Responsabilidad y prudencia (Saturno). Suele ser el dedo más largo. Según la tradición, largo: seriedad, sentido del orden; corto: espontaneidad, aversión a la rutina.",
+   "Responsabilidade e prudência (Saturno). Normalmente o dedo mais longo. Segundo a tradição, longo: seriedade, sentido de ordem; curto: espontaneidade, aversão à rotina.",
+   "Verantwortung und Vorsicht (Saturn). Meist der längste Finger. In der Tradition: lang – Ernst, Ordnungssinn; kurz – Spontaneität, Abneigung gegen Routine.",
+   "Felelősség és óvatosság (Szaturnusz). Általában a leghosszabb ujj. A hagyomány szerint: hosszú – komolyság, rendérzék; rövid – spontaneitás, a rutin kerülése."
+  ]
+ },
+ {
+  "id": "ring",
+  "k": "fingers",
+  "c": "#f59e0b",
+  "n": [
+   "Inelarul",
+   "Ring finger",
+   "Annulaire",
+   "Anulare",
+   "Anular",
+   "Anelar",
+   "Ringfinger",
+   "Gyűrűsujj"
+  ],
+  "d": [
+   "Creativitate și expresie (Apollo). În tradiție, lung – gust pentru artă și risc; scurt – pragmatism. Comparat cu arătătorul, mai lung ar sugera îndrăzneală, mai scurt prudență.",
+   "Creativity and expression (Apollo). In tradition, long – taste for art and risk; short – pragmatism. Compared with the index finger, longer would suggest boldness, shorter caution.",
+   "Créativité et expression (Apollon). Selon la tradition, long : goût de l'art et du risque ; court : pragmatisme. Comparé à l'index : plus long, il suggérerait l'audace ; plus court, la prudence.",
+   "Creatività ed espressione (Apollo). Secondo la tradizione, lungo: gusto per l'arte e il rischio; corto: pragmatismo. Rispetto all'indice: più lungo suggerirebbe audacia, più corto prudenza.",
+   "Creatividad y expresión (Apolo). Según la tradición, largo: gusto por el arte y el riesgo; corto: pragmatismo. Comparado con el índice: más largo sugeriría audacia, más corto prudencia.",
+   "Criatividade e expressão (Apolo). Segundo a tradição, longo: gosto pela arte e pelo risco; curto: pragmatismo. Comparado com o indicador: mais longo sugeriria ousadia, mais curto prudência.",
+   "Kreativität und Ausdruck (Apollo). In der Tradition: lang – Sinn für Kunst und Risiko; kurz – Pragmatismus. Im Vergleich zum Zeigefinger würde länger auf Wagemut hindeuten, kürzer auf Vorsicht.",
+   "Kreativitás és önkifejezés (Apollón). A hagyomány szerint: hosszú – művészet és kockázat iránti vonzódás; rövid – pragmatizmus. A mutatóujjhoz képest a hosszabb merészséget, a rövidebb óvatosságot sugallná."
+  ]
+ },
+ {
+  "id": "lit",
+  "k": "fingers",
+  "c": "#10b981",
+  "n": [
+   "Degetul mic",
+   "Little finger",
+   "Auriculaire",
+   "Mignolo",
+   "Meñique",
+   "Mindinho",
+   "Kleiner Finger",
+   "Kisujj"
+  ],
+  "d": [
+   "Comunicare și adaptabilitate (Mercur). În tradiție, lung – expresivitate, abilitate verbală; scurt – reținere în exprimare.",
+   "Communication and adaptability (Mercury). In tradition, long – expressiveness, verbal skill; short – reserve in speech.",
+   "Communication et adaptabilité (Mercure). Selon la tradition, long : expressivité, aisance verbale ; court : retenue dans l'expression.",
+   "Comunicazione e adattabilità (Mercurio). Secondo la tradizione, lungo: espressività, abilità verbale; corto: riservatezza nell'espressione.",
+   "Comunicación y adaptabilidad (Mercurio). Según la tradición, largo: expresividad, habilidad verbal; corto: reserva al expresarse.",
+   "Comunicação e adaptabilidade (Mercúrio). Segundo a tradição, longo: expressividade, habilidade verbal; curto: reserva ao expressar-se.",
+   "Kommunikation und Anpassungsfähigkeit (Merkur). In der Tradition: lang – Ausdrucksstärke, Wortgewandtheit; kurz – Zurückhaltung im Ausdruck.",
+   "Kommunikáció és alkalmazkodóképesség (Merkúr). A hagyomány szerint: hosszú – kifejezőkészség, szóbeli ügyesség; rövid – szófukarság."
+  ]
+ },
+ {
+  "id": "girdle",
+  "k": "minor",
+  "c": "#14b8a6",
+  "n": [
+   "Centura lui Venus",
+   "Girdle of Venus",
+   "Ceinture de Vénus",
+   "Cintura di Venere",
+   "Cinturón de Venus",
+   "Cinto de Vénus",
+   "Venusgürtel",
+   "Vénusz-öv"
+  ],
+  "d": [
+   "Arc semicircular deasupra liniei inimii, sub degetele mijlociu și inelar (Saturn și Apollo). În tradiție este citită ca sensibilitate, intensitate emoțională și tensiune nervoasă. Apare rar și adesea fragmentată; nu este un indicator medical sau psihologic.",
+   "A semicircular arc above the heart line, under the middle and ring fingers (Saturn and Apollo). Traditionally read as sensitivity, emotional intensity and nervous tension. Uncommon and often fragmented; it is not a medical or psychological indicator.",
+   "Arc en demi-cercle au-dessus de la ligne de cœur, sous le majeur et l'annulaire (Saturne et Apollon). La tradition y lit sensibilité, intensité émotionnelle et tension nerveuse. Assez rare et souvent fragmenté ; ce n'est pas un indicateur médical ou psychologique.",
+   "Arco semicircolare sopra la linea del cuore, sotto medio e anulare (Saturno e Apollo). Nella tradizione è letto come sensibilità, intensità emotiva e tensione nervosa. Piuttosto raro e spesso frammentato; non è un indicatore medico o psicologico.",
+   "Arco semicircular sobre la línea del corazón, bajo el dedo medio y el anular (Saturno y Apolo). En la tradición se interpreta como sensibilidad, intensidad emocional y tensión nerviosa. Poco común y a menudo fragmentado; no es un indicador médico ni psicológico.",
+   "Arco semicircular acima da linha do coração, sob o dedo médio e o anelar (Saturno e Apolo). Na tradição é interpretado como sensibilidade, intensidade emocional e tensão nervosa. Pouco comum e muitas vezes fragmentado; não é um indicador médico nem psicológico.",
+   "Ein halbkreisförmiger Bogen über der Herzlinie, unter Mittel- und Ringfinger (Saturn und Apollo). In der Tradition wird er als Sensibilität, emotionale Intensität und nervöse Anspannung gedeutet. Selten und oft unterbrochen; er ist kein medizinischer oder psychologischer Indikator.",
+   "Félkör alakú ív a szívvonal felett, a középső ujj és a gyűrűsujj alatt (Szaturnusz és Apollón). A hagyomány érzékenységként, érzelmi intenzitásként és idegi feszültségként értelmezi. Ritka és gyakran megszakadt; nem orvosi vagy pszichológiai mutató."
+  ]
+ },
+ {
+  "id": "intu",
+  "k": "minor",
+  "c": "#a855f7",
+  "n": [
+   "Linia intuiției",
+   "Intuition line",
+   "Ligne d'intuition",
+   "Linea dell'intuizione",
+   "Línea de la intuición",
+   "Linha da intuição",
+   "Intuitionslinie",
+   "Intuíció-vonal"
+  ],
+  "d": [
+   "Arc de semilună de-a lungul marginii palmei dinspre degetul mic, de la Muntele Lunii spre Muntele lui Mercur. Rară. În tradiție este citită ca intuiție și empatie; nu dovedește vreo abilitate reală.",
+   "A crescent-shaped curve along the little-finger edge of the palm, from the Mount of the Moon toward the Mount of Mercury. Rare. Traditionally read as intuition and empathy; it does not demonstrate any real ability.",
+   "Courbe en croissant le long du bord de la paume côté auriculaire, du mont de la Lune vers le mont de Mercure. Rare. La tradition y lit intuition et empathie ; elle ne prouve aucune capacité réelle.",
+   "Curva a mezzaluna lungo il bordo del palmo dal lato del mignolo, dal monte della Luna verso il monte di Mercurio. Rara. La tradizione vi legge intuizione ed empatia; non dimostra alcuna capacità reale.",
+   "Curva en forma de media luna a lo largo del borde de la palma, del lado del meñique, desde el monte de la Luna hacia el monte de Mercurio. Rara. La tradición ve en ella intuición y empatía; no demuestra ninguna capacidad real.",
+   "Curva em meia-lua ao longo do bordo da palma, do lado do mindinho, do monte da Lua para o monte de Mercúrio. Rara. A tradição vê nela intuição e empatia; não demonstra qualquer capacidade real.",
+   "Eine halbmondförmige Kurve am Handrand auf der Kleinfingerseite, vom Mondberg zum Merkurberg. Selten. Die Tradition deutet sie als Intuition und Empathie; sie belegt keine tatsächliche Fähigkeit.",
+   "Holdsarló alakú ív a tenyér kisujj felőli szélén, a Hold-dombtól a Merkúr-domb felé. Ritka. A hagyomány intuícióként és empátiaként értelmezi; semmilyen valódi képességet nem bizonyít."
+  ]
+ },
+ {
+  "id": "brac",
+  "k": "minor",
+  "c": "#78716c",
+  "n": [
+   "Brățările (rascettele)",
+   "Bracelets (rascettes)",
+   "Bracelets (rascettes)",
+   "Braccialetti (rascette)",
+   "Pulseras (rascetas)",
+   "Pulseiras (rascetas)",
+   "Armbänder (Rascetten)",
+   "Karkötővonalak (rascetták)"
+  ],
+  "d": [
+   "Linii orizontale la baza palmei, la încheietură. În tradiție sunt citite ca vitalitate și stabilitate. Unele tradiții le numără drept „trei perioade” ale vieții, dar aceasta este doar o credință populară, fără temei dovedit.",
+   "Horizontal lines at the base of the palm, at the wrist. Traditionally read as vitality and steadiness. Some traditions count them as 'three periods' of life, but this is only a folk belief with no demonstrated basis.",
+   "Lignes horizontales à la base de la paume, au poignet. La tradition y lit vitalité et stabilité. Certaines traditions les comptent comme « trois périodes » de la vie ; ce n'est qu'une croyance populaire, sans fondement démontré.",
+   "Linee orizzontali alla base del palmo, al polso. Nella tradizione sono lette come vitalità e stabilità. Alcune tradizioni le contano come «tre periodi» della vita, ma è solo una credenza popolare, senza fondamento dimostrato.",
+   "Líneas horizontales en la base de la palma, en la muñeca. En la tradición se interpretan como vitalidad y estabilidad. Algunas tradiciones las cuentan como «tres periodos» de la vida, pero es solo una creencia popular, sin fundamento demostrado.",
+   "Linhas horizontais na base da palma, no pulso. Na tradição são interpretadas como vitalidade e estabilidade. Algumas tradições contam-nas como «três períodos» da vida, mas é apenas uma crença popular, sem fundamento demonstrado.",
+   "Waagerechte Linien an der Handwurzel, am Handgelenk. In der Tradition werden sie als Vitalität und Beständigkeit gedeutet. Manche Überlieferungen zählen sie als „drei Lebensabschnitte“, doch das ist nur ein Volksglaube ohne nachgewiesene Grundlage.",
+   "Vízszintes vonalak a tenyér tövénél, a csuklónál. A hagyomány életerőként és kiegyensúlyozottságként értelmezi őket. Egyes hagyományok az élet „három szakaszaként” számolják, de ez csak népi hiedelem, bizonyított alap nélkül."
+  ]
+ },
+ {
+  "id": "rel",
+  "k": "minor",
+  "c": "#f43f5e",
+  "n": [
+   "Liniile relațiilor",
+   "Relationship lines",
+   "Lignes de relations",
+   "Linee delle relazioni",
+   "Líneas de las relaciones",
+   "Linhas das relações",
+   "Beziehungslinien",
+   "Kapcsolatvonalak"
+  ],
+  "d": [
+   "Linii scurte orizontale pe marginea palmei, între baza degetului mic și linia inimii. În tradiție sunt citite ca relații afective importante (număr, adâncime). Liniuțele verticale fine deasupra lor ar însemna „copii” – doar credință populară.",
+   "Short horizontal lines on the little-finger edge, between the base of the little finger and the heart line. Traditionally read as significant relationships (number, depth). Tiny vertical lines above them are folk-read as children, a folk belief only.",
+   "Courtes lignes horizontales sur le bord côté auriculaire, entre la base de l'auriculaire et la ligne de cœur. La tradition y lit les relations importantes (nombre, profondeur). De minuscules traits verticaux au-dessus seraient des enfants : simple croyance populaire.",
+   "Brevi linee orizzontali sul bordo dal lato del mignolo, tra la base del mignolo e la linea del cuore. Nella tradizione sono lette come relazioni importanti (numero, profondità). Minuscole lineette verticali sopra sarebbero figli: solo credenza popolare.",
+   "Líneas horizontales cortas en el borde del lado del meñique, entre la base del meñique y la línea del corazón. En la tradición se interpretan como relaciones importantes (número, profundidad). Pequeñas rayas verticales encima serían hijos: solo creencia popular.",
+   "Linhas horizontais curtas no bordo do lado do mindinho, entre a base do mindinho e a linha do coração. Na tradição são interpretadas como relações importantes (número, profundidade). Pequenos traços verticais por cima seriam filhos: apenas crença popular.",
+   "Kurze waagerechte Linien am Rand auf der Kleinfingerseite, zwischen der Kleinfingerwurzel und der Herzlinie. Die Tradition deutet sie als bedeutsame Beziehungen (Anzahl, Tiefe). Winzige senkrechte Striche darüber werden im Volksglauben als Kinder gelesen, ein rein volkstümlicher Glaube.",
+   "Rövid vízszintes vonalak a kisujj felőli szélen, a kisujj töve és a szívvonal között. A hagyomány jelentős kapcsolatokként értelmezi őket (szám, mélység). A fölöttük lévő apró függőleges vonalakat népi hiedelem gyerekeknek tartja, de ez csak hiedelem."
+  ]
+ },
+ {
+  "id": "solo",
+  "k": "minor",
+  "c": "#eab308",
+  "n": [
+   "Inelul lui Solomon",
+   "Ring of Solomon",
+   "Anneau de Salomon",
+   "Anello di Salomone",
+   "Anillo de Salomón",
+   "Anel de Salomão",
+   "Salomonsring",
+   "Salamon gyűrűje"
+  ],
+  "d": [
+   "Semicerc în jurul bazei arătătorului (Muntele lui Jupiter). În tradiție este citit ca înțelegerea oamenilor și înclinație spre a preda sau a conduce. Rar; este o interpretare simbolică, nu o aptitudine dovedită.",
+   "A semicircle around the base of the index finger (Mount of Jupiter). Traditionally read as an understanding of people and a flair for teaching or leading. Uncommon; it is a symbolic reading, not a demonstrated aptitude.",
+   "Demi-cercle autour de la base de l'index (mont de Jupiter). La tradition y lit la compréhension des gens et un don pour enseigner ou diriger. Peu courant ; c'est une lecture symbolique, non une aptitude démontrée.",
+   "Semicerchio attorno alla base dell'indice (monte di Giove). Nella tradizione è letto come comprensione delle persone e talento per insegnare o guidare. Poco comune; è una lettura simbolica, non un'attitudine dimostrata.",
+   "Semicírculo alrededor de la base del índice (monte de Júpiter). En la tradición se interpreta como comprensión de las personas y don para enseñar o liderar. Poco común; es una lectura simbólica, no una aptitud demostrada.",
+   "Semicírculo à volta da base do indicador (monte de Júpiter). Na tradição é interpretado como compreensão das pessoas e jeito para ensinar ou liderar. Pouco comum; é uma leitura simbólica, não uma aptidão demonstrada.",
+   "Ein Halbkreis um die Wurzel des Zeigefingers (Jupiterberg). In der Tradition wird er als Menschenkenntnis und Gespür fürs Lehren oder Führen gedeutet. Selten; es ist eine symbolische Deutung, keine nachgewiesene Begabung.",
+   "Félkör a mutatóujj töve körül (Jupiter-domb). A hagyomány emberismeretként, valamint tanításra vagy vezetésre való hajlamként értelmezi. Nem gyakori; csupán szimbolikus olvasat, semmiképp sem bizonyított képesség vagy valódi vezetői rátermettség."
+  ]
+ },
+ {
+  "id": "trav",
+  "k": "minor",
+  "c": "#0ea5e9",
+  "n": [
+   "Liniile călătoriilor",
+   "Travel lines",
+   "Lignes de voyage",
+   "Linee dei viaggi",
+   "Líneas de los viajes",
+   "Linhas das viagens",
+   "Reiselinien",
+   "Utazásvonalak"
+  ],
+  "d": [
+   "Linii scurte orizontale pe marginea exterioară a Muntelui Lunii. În tradiție sunt citite ca simbol al călătoriilor, al schimbării locului și al dorului de ducă. Nu spun nimic despre călătorii reale sau viitoare.",
+   "Short horizontal lines on the outer edge of the Mount of the Moon. Traditionally read as a symbol of journeys, change of place and wanderlust. They say nothing about actual or future trips.",
+   "Courtes lignes horizontales sur le bord extérieur du mont de la Lune. La tradition y lit un symbole de voyages, de changement de lieu et de bougeotte. Elles ne disent rien de voyages réels ou futurs.",
+   "Brevi linee orizzontali sul bordo esterno del monte della Luna. Nella tradizione sono lette come simbolo di viaggi, cambiamento di luogo e voglia di vagabondare. Non dicono nulla su viaggi reali o futuri.",
+   "Líneas horizontales cortas en el borde exterior del monte de la Luna. En la tradición se interpretan como símbolo de viajes, cambio de lugar y afán de vagar. No dicen nada sobre viajes reales o futuros.",
+   "Linhas horizontais curtas no bordo exterior do monte da Lua. Na tradição são interpretadas como símbolo de viagens, mudança de lugar e vontade de andar pelo mundo. Nada dizem sobre viagens reais ou futuras.",
+   "Kurze waagerechte Linien am äußeren Rand des Mondbergs. In der Tradition gelten sie als Sinnbild für Reisen, Ortswechsel und Fernweh. Über tatsächliche oder künftige Reisen sagen sie nichts aus.",
+   "Rövid vízszintes vonalak a Hold-domb külső szélén. A hagyomány az utazások, a helyváltoztatás és a vándorszellem jelképeként értelmezi őket. Valódi vagy jövőbeli utazásokról semmit sem árulnak el."
+  ]
+ },
+ {
+  "id": "marsl",
+  "k": "minor",
+  "c": "#dc2626",
+  "n": [
+   "Linia lui Marte",
+   "Mars line",
+   "Ligne de Mars",
+   "Linea di Marte",
+   "Línea de Marte",
+   "Linha de Marte",
+   "Marslinie",
+   "Mars-vonal"
+  ],
+  "d": [
+   "Linie paralelă cu linia vieții, în interiorul ei, pe Muntele lui Venus; numită și „linia soră”. În tradiție este citită ca energie suplimentară sau sprijin într-o perioadă. Rară; nu are valoare medicală.",
+   "A line running parallel to the life line, just inside it on the Mount of Venus; also called the sister line. Traditionally read as extra energy or support during a period. Uncommon; it has no medical meaning.",
+   "Ligne parallèle à la ligne de vie, juste à l'intérieur, sur le mont de Vénus ; on l'appelle aussi ligne sœur. La tradition y lit un surcroît d'énergie ou un soutien durant une période. Peu courante ; sans valeur médicale.",
+   "Linea parallela alla linea della vita, appena all'interno, sul monte di Venere; detta anche linea sorella. Nella tradizione è letta come energia in più o sostegno in un periodo. Poco comune; non ha valore medico.",
+   "Línea paralela a la línea de la vida, justo por dentro, sobre el monte de Venus; también llamada línea hermana. En la tradición se interpreta como energía extra o apoyo durante un periodo. Poco común; carece de valor médico.",
+   "Linha paralela à linha da vida, logo por dentro, sobre o monte de Vénus; também chamada linha irmã. Na tradição é interpretada como energia extra ou apoio durante um período. Pouco comum; não tem valor médico.",
+   "Eine Linie parallel zur Lebenslinie, knapp innerhalb davon auf dem Venusberg; auch Schwesterlinie genannt. In der Tradition wird sie als zusätzliche Energie oder Rückhalt in einer Phase gedeutet. Selten; ohne medizinische Aussagekraft.",
+   "Az életvonallal párhuzamos vonal, közvetlenül belül, a Vénusz-dombon; testvérvonalnak is hívják. A hagyomány többletenergiaként vagy egy időszakban kapott támaszként értelmezi. Nem gyakori; orvosi értéke nincs."
+  ]
+ }
+]

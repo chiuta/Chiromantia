@@ -1,0 +1,19 @@
+{
+ "sqMaxRatio": 1.25,
+ "longFingerMinRatio": 0.8,
+ "rule": [
+  "Convenție orientativă: palma e „pătrată” dacă lungimea depășește lățimea cu cel mult ~25%; degetele sunt „lungi” dacă mijlociul atinge ~80% din lungimea palmei. Pragurile sunt alese aproape de valorile medii și nu sunt norme științifice; sursele diferă.",
+  "Rough convention: a palm counts as square if its length exceeds its width by at most about 25%, and fingers as long if the middle finger reaches about 80% of palm length. Thresholds sit near population averages and are not scientific norms; sources differ.",
+  "Convention indicative : la paume est « carrée » si sa longueur dépasse sa largeur d'au plus 25 % environ ; les doigts sont « longs » si le majeur atteint environ 80 % de la longueur de la paume. Les seuils sont choisis près des moyennes de la population et ne sont pas des normes scientifiques ; les sources divergent.",
+  "Convenzione indicativa: il palmo è «quadrato» se la lunghezza supera la larghezza di al più il 25% circa; le dita sono «lunghe» se il medio raggiunge circa l'80% della lunghezza del palmo. Le soglie sono scelte vicino alle medie della popolazione e non sono norme scientifiche; le fonti divergono.",
+  "Convención orientativa: la palma es «cuadrada» si su longitud supera la anchura en un 25 % como máximo, aproximadamente; los dedos son «largos» si el corazón alcanza cerca del 80 % de la longitud de la palma. Los umbrales se sitúan cerca de los promedios de la población y no son normas científicas; las fuentes difieren.",
+  "Convenção orientativa: a palma é «quadrada» se o comprimento exceder a largura em cerca de 25% no máximo; os dedos são «longos» se o médio atingir cerca de 80% do comprimento da palma. Os limiares situam-se perto das médias da população e não são normas científicas; as fontes divergem.",
+  "Grobe Konvention: Die Handfläche gilt als „quadratisch“, wenn ihre Länge die Breite um höchstens etwa 25 % übersteigt; Finger gelten als „lang“, wenn der Mittelfinger etwa 80 % der Handflächenlänge erreicht. Die Schwellenwerte liegen nahe an den Durchschnittswerten der Bevölkerung und sind keine wissenschaftlichen Normen; die Quellen weichen ab.",
+  "Tájékoztató konvenció: a tenyér „négyzetes”, ha hossza legfeljebb kb. 25%-kal haladja meg a szélességét; az ujjak „hosszúak”, ha a középső ujj eléri a tenyér hosszának kb. 80%-át. A küszöbértékek a népességi átlagok közelében vannak, és nem tudományos normák; a források eltérnek."
+ ],
+ "src": "d'Arpentigny 1839; Cheiro 1894; Benham 1900; Hand-Reading (Chestofbooks); thresholds rounded",
+ "typical": {
+  "fingerPalmRatioMean": 0.75,
+  "src": "ANSUR II (US Army 2012), Pheasant & Haslegrave Bodyspace: middle finger ~80 mm / palm ~107 mm (approx.)"
+ }
+}

@@ -1,0 +1,10 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const p=await b.newPage();require('./_tab')(p);const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+process.argv[2]);
+await p.click('button[data-v="types"]');
+await p.fill('input[data-k="pl"]','18');await p.fill('input[data-k="pw"]','8.5');await p.fill('input[data-k="ml"]','7.5');
+const txt=await p.textContent('#calcres');console.log(txt.slice(0,200));
+await p.click('[data-act="calcuse"]');
+const st=await p.evaluate(()=>localStorage.getItem('chiromantia.v1'));console.log(st.slice(0,200));
+console.log(errs.length?'ERR '+errs:'no errors');await b.close();})();

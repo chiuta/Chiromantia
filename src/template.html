@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none';style-src 'unsafe-inline';script-src 'unsafe-inline';img-src 'self' data: blob:;manifest-src 'self';worker-src 'self';base-uri 'none';form-action 'none'">
+<title>CHIROMANTIA</title>
+<meta name="theme-color" content="#8b4a2b">
+<meta name="description" content="CHIROMANTIA — interactive palmistry atlas, offline, 8 languages. MIT.">
+<style>
+/*@CSS@*/
+</style>
+</head>
+<body>
+<a class="skip" href="#main" id="skip">Skip</a>
+<div id="live" class="sr" role="status" aria-live="polite"></div>
+<div class="wrap"><div id="app"></div></div>
+<noscript><p>Această aplicație are nevoie de JavaScript. · This app needs JavaScript.</p></noscript>
+<script>
+(function(){
+"use strict";
+/*@JS@*/
+document.getElementById("skip").textContent=t("skip");
+try{if(/^https?:$/.test(location.protocol)){[["manifest","manifest.webmanifest"],["icon","icon.svg"]].forEach(function(a){var l=document.createElement("link");l.rel=a[0];l.href=a[1];document.head.appendChild(l);});if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js");}}catch(e){}
+})();
+</script>
+</body>
+</html>

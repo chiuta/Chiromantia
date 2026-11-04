@@ -1,0 +1,503 @@
+{
+ "claims": [
+  {
+   "id": "lifeline",
+   "lvl": 1,
+   "n": [
+    "Lungimea liniei vieții și durata vieții",
+    "Life-line length and lifespan",
+    "Longueur de la ligne de vie et durée de vie",
+    "Lunghezza della linea della vita e durata della vita",
+    "Longitud de la línea de la vida y duración de la vida",
+    "Comprimento da linha da vida e duração da vida",
+    "Länge der Lebenslinie und Lebensdauer",
+    "Az életvonal hossza és az élettartam"
+   ],
+   "d": [
+    "Un studiu din 1990 pe 100 de autopsii a raportat o asociere între lungimea liniei vieții și vârsta la deces; un studiu din 2019 pe 60 de cadavre nu a găsit nicio corelație semnificativă. Durata vieții nu poate fi citită din linie.",
+    "A 1990 study of 100 autopsy cases reported an association between life-line length and age at death; a 2019 study of 60 cadavers found no significant correlation. Lifespan cannot be read from the line.",
+    "Une étude de 1990 portant sur 100 autopsies a rapporté une association entre la longueur de la ligne de vie et l'âge au décès ; une étude de 2019 portant sur 60 cadavres n'a trouvé aucune corrélation significative. La durée de vie ne se lit pas dans la ligne.",
+    "Uno studio del 1990 su 100 autopsie ha riportato un'associazione tra la lunghezza della linea della vita e l'età al decesso; uno studio del 2019 su 60 cadaveri non ha trovato alcuna correlazione significativa. La durata della vita non si legge dalla linea.",
+    "Un estudio de 1990 sobre 100 autopsias informó de una asociación entre la longitud de la línea de la vida y la edad al fallecer; un estudio de 2019 con 60 cadáveres no halló ninguna correlación significativa. La duración de la vida no puede leerse en la línea.",
+    "Um estudo de 1990 com 100 autópsias relatou uma associação entre o comprimento da linha da vida e a idade à morte; um estudo de 2019 com 60 cadáveres não encontrou nenhuma correlação significativa. A duração da vida não se pode ler na linha.",
+    "Eine Studie von 1990 an 100 Autopsiefällen berichtete einen Zusammenhang zwischen der Länge der Lebenslinie und dem Sterbealter; eine Studie von 2019 an 60 Leichnamen fand keine signifikante Korrelation. Die Lebensdauer lässt sich nicht aus der Linie lesen.",
+    "Egy 1990-es, 100 boncolásra kiterjedő vizsgálat összefüggést jelentett az életvonal hossza és a halálozási kor között; egy 2019-es, 60 holttesten végzett vizsgálat nem talált szignifikáns korrelációt. Az élettartam nem olvasható ki a vonalból."
+   ],
+   "src": "Newrick, Affie & Corrall 1990, J R Soc Med 83:499–501; Lucas, Dhugga & Henneberg 2019, Anthropol Rev 82(2):155–162"
+  },
+  {
+   "id": "personality",
+   "lvl": 0,
+   "n": [
+    "Personalitatea citită din liniile palmei",
+    "Personality read from palm lines",
+    "Personnalité lue dans les lignes de la paume",
+    "Personalità letta dalle linee del palmo",
+    "Personalidad leída en las líneas de la palma",
+    "Personalidade lida nas linhas da palma",
+    "Persönlichkeit aus den Handlinien",
+    "Személyiség kiolvasása a tenyérvonalakból"
+   ],
+   "d": [
+    "Nu am găsit niciun studiu validat care să arate că liniile palmei prezic trăsăturile de personalitate. Tradiția oferă interpretări, dar acestea nu au fost confirmate prin teste controlate.",
+    "We found no validated study showing that palm lines predict personality traits. The tradition offers interpretations, but they have not been confirmed by controlled tests.",
+    "Nous n'avons trouvé aucune étude validée montrant que les lignes de la paume prédisent des traits de personnalité. La tradition propose des interprétations, mais elles n'ont pas été confirmées par des tests contrôlés.",
+    "Non abbiamo trovato alcuno studio validato che dimostri che le linee del palmo predicano tratti di personalità. La tradizione offre interpretazioni, ma non sono state confermate da test controllati.",
+    "No hemos encontrado ningún estudio validado que demuestre que las líneas de la palma predicen rasgos de personalidad. La tradición ofrece interpretaciones, pero no se han confirmado mediante pruebas controladas.",
+    "Não encontrámos nenhum estudo validado que mostre que as linhas da palma preveem traços de personalidade. A tradição oferece interpretações, mas estas não foram confirmadas por testes controlados.",
+    "Wir haben keine validierte Studie gefunden, die zeigt, dass Handlinien Persönlichkeitsmerkmale vorhersagen. Die Tradition bietet Deutungen, doch sie wurden nicht durch kontrollierte Tests bestätigt.",
+    "Nem találtunk olyan validált tanulmányt, amely azt mutatná, hogy a tenyérvonalak előrejelzik a személyiségjegyeket. A hagyomány értelmezéseket kínál, de ezeket kontrollált vizsgálatok nem igazolták."
+   ],
+   "src": "No validation study located (literature search, 2026)"
+  },
+  {
+   "id": "forer",
+   "lvl": 3,
+   "n": [
+    "Efectul Forer (Barnum)",
+    "The Forer (Barnum) effect",
+    "L'effet Forer (Barnum)",
+    "L'effetto Forer (Barnum)",
+    "El efecto Forer (Barnum)",
+    "O efeito Forer (Barnum)",
+    "Der Forer-(Barnum-)Effekt",
+    "A Forer- (Barnum-) hatás"
+   ],
+   "d": [
+    "În 1948, Forer a dat la 39 de studenți același profil „personal”, copiat dintr-o carte de astrologie. L-au apreciat în medie cu 4,26 din 5 pentru exactitate. Fenomenul psihologic este solid documentat.",
+    "In 1948 Forer gave 39 students the same 'personal' profile, taken from an astrology book. They rated its accuracy 4.26 out of 5 on average. The psychological phenomenon is robustly documented.",
+    "En 1948, Forer a remis à 39 étudiants le même profil « personnel », tiré d'un livre d'astrologie. Ils l'ont jugé exact à 4,26 sur 5 en moyenne. Ce phénomène psychologique est solidement documenté.",
+    "Nel 1948 Forer diede a 39 studenti lo stesso profilo «personale», tratto da un libro di astrologia. Lo valutarono in media 4,26 su 5 per accuratezza. Il fenomeno psicologico è ben documentato.",
+    "En 1948, Forer entregó a 39 estudiantes el mismo perfil «personal», sacado de un libro de astrología. Lo valoraron con una exactitud media de 4,26 sobre 5. El fenómeno psicológico está sólidamente documentado.",
+    "Em 1948, Forer deu a 39 estudantes o mesmo perfil «pessoal», retirado de um livro de astrologia. Avaliaram a sua exatidão com uma média de 4,26 em 5. O fenómeno psicológico está solidamente documentado.",
+    "1948 gab Forer 39 Studierenden dasselbe „persönliche“ Profil, entnommen einem Astrologiebuch. Sie bewerteten seine Treffsicherheit im Mittel mit 4,26 von 5. Das psychologische Phänomen ist gut belegt.",
+    "1948-ban Forer 39 diáknak ugyanazt a „személyes” profilt adta, amelyet egy asztrológiai könyvből vett. A pontosságát átlagosan 4,26-ra értékelték az 5-ös skálán. A lélektani jelenség jól dokumentált."
+   ],
+   "src": "Forer 1949, J Abnorm Soc Psychol 44:118–123"
+  },
+  {
+   "id": "barnumfactors",
+   "lvl": 3,
+   "n": [
+    "Ce crește acceptarea afirmațiilor vagi",
+    "What raises acceptance of vague statements",
+    "Ce qui augmente l'adhésion aux énoncés vagues",
+    "Cosa aumenta l'accettazione di affermazioni vaghe",
+    "Qué aumenta la aceptación de afirmaciones vagas",
+    "O que aumenta a aceitação de afirmações vagas",
+    "Was die Zustimmung zu vagen Aussagen erhöht",
+    "Mi növeli a homályos állítások elfogadását"
+   ],
+   "d": [
+    "Revizuirea literaturii arată că oamenii acceptă mai ușor afirmațiile vagi când sunt în mare parte pozitive, când cred că sunt personalizate și când au încredere în autoritatea celui care le spune.",
+    "Literature reviews show that people accept vague statements more readily when they are mostly positive, when they believe them to be personalised, and when they trust the authority of the person giving them.",
+    "Les revues de la littérature montrent que les gens acceptent plus volontiers des énoncés vagues lorsqu'ils sont surtout positifs, qu'on les croit personnalisés et qu'on fait confiance à l'autorité de celui qui les énonce.",
+    "Le rassegne della letteratura mostrano che le persone accettano più facilmente affermazioni vaghe quando sono per lo più positive, quando le credono personalizzate e quando si fidano dell'autorità di chi le pronuncia.",
+    "Las revisiones de la literatura muestran que las personas aceptan más fácilmente afirmaciones vagas cuando son sobre todo positivas, cuando creen que están personalizadas y cuando confían en la autoridad de quien las dice.",
+    "As revisões da literatura mostram que as pessoas aceitam mais facilmente afirmações vagas quando são sobretudo positivas, quando acreditam que são personalizadas e quando confiam na autoridade de quem as diz.",
+    "Literaturübersichten zeigen, dass Menschen vage Aussagen eher akzeptieren, wenn sie überwiegend positiv sind, wenn sie sie für persönlich zugeschnitten halten und wenn sie der Autorität der sprechenden Person vertrauen.",
+    "Az irodalmi áttekintések szerint az emberek könnyebben elfogadják a homályos állításokat, ha azok többnyire pozitívak, ha személyre szabottnak hiszik őket, és ha megbíznak az őket kimondó személy tekintélyében."
+   ],
+   "src": "Dickson & Kelly 1985 (review)"
+  },
+  {
+   "id": "cold",
+   "lvl": 3,
+   "n": [
+    "Citirea „la rece” (cold reading)",
+    "Cold reading",
+    "La lecture à froid (cold reading)",
+    "La lettura a freddo (cold reading)",
+    "La lectura en frío (cold reading)",
+    "A leitura a frio (cold reading)",
+    "Cold Reading (kalte Deutung)",
+    "Hidegolvasás (cold reading)"
+   ],
+   "d": [
+    "Un set de tehnici de comunicare prin care o persoană face afirmații aparent exacte despre un străin, fără informații prealabile, folosind reacțiile lui. Tehnica este descrisă și documentată în literatura de specialitate.",
+    "A set of communication techniques that let someone make apparently accurate statements about a stranger with no prior information, by using the person's own reactions. It is described and documented in the literature.",
+    "Un ensemble de techniques de communication permettant de faire des déclarations apparemment exactes sur un inconnu, sans information préalable, en s'appuyant sur ses réactions. Elle est décrite et documentée dans la littérature.",
+    "Un insieme di tecniche di comunicazione che permettono di fare affermazioni apparentemente accurate su uno sconosciuto, senza informazioni preliminari, sfruttandone le reazioni. È descritta e documentata nella letteratura.",
+    "Un conjunto de técnicas de comunicación que permiten hacer afirmaciones aparentemente exactas sobre un desconocido, sin información previa, aprovechando sus reacciones. Está descrita y documentada en la literatura.",
+    "Um conjunto de técnicas de comunicação que permitem fazer afirmações aparentemente exatas sobre um desconhecido, sem informação prévia, aproveitando as suas reações. Está descrita e documentada na literatura.",
+    "Eine Reihe von Kommunikationstechniken, mit denen man ohne Vorinformationen scheinbar treffende Aussagen über eine fremde Person macht, indem man ihre Reaktionen nutzt. Sie ist in der Fachliteratur beschrieben und dokumentiert.",
+    "Kommunikációs technikák összessége, amelyekkel előzetes információ nélkül, a másik reakcióit felhasználva látszólag pontos állításokat tehetünk egy idegenről. A szakirodalom leírja és dokumentálja."
+   ],
+   "src": "Roe & Roxburgh 2013, in Moreman (ed.), The Spiritualist Movement, Praeger; Rowland, The Full Facts Book of Cold Reading"
+  },
+  {
+   "id": "digit",
+   "lvl": 2,
+   "n": [
+    "Raportul 2D:4D și testosteronul prenatal",
+    "2D:4D ratio and prenatal testosterone",
+    "Rapport 2D:4D et testostérone prénatale",
+    "Rapporto 2D:4D e testosterone prenatale",
+    "Relación 2D:4D y testosterona prenatal",
+    "Razão 2D:4D e testosterona pré-natal",
+    "2D:4D-Verhältnis und pränatales Testosteron",
+    "A 2D:4D arány és a születés előtti tesztoszteron"
+   ],
+   "d": [
+    "Bărbații au în medie un raport 2D:4D mai mic decât femeile, iar raportul pare legat de hormonii prenatali, dar legătura este disputată. Raportul nu spune nimic fiabil despre o persoană anume.",
+    "Men have on average a lower 2D:4D ratio than women, and the ratio seems linked to prenatal hormones, but the link is contested. It tells nothing reliable about an individual person.",
+    "Les hommes ont en moyenne un rapport 2D:4D plus faible que les femmes, et ce rapport semble lié aux hormones prénatales, mais le lien est contesté. Il ne dit rien de fiable sur une personne en particulier.",
+    "Gli uomini hanno in media un rapporto 2D:4D più basso delle donne e il rapporto sembra legato agli ormoni prenatali, ma il legame è controverso. Non dice nulla di affidabile su una singola persona.",
+    "Los hombres tienen de media una relación 2D:4D más baja que las mujeres, y la relación parece ligada a las hormonas prenatales, pero el vínculo es discutido. No dice nada fiable sobre una persona concreta.",
+    "Os homens têm em média uma razão 2D:4D mais baixa do que as mulheres, e a razão parece ligada às hormonas pré-natais, mas a ligação é contestada. Não diz nada fiável sobre uma pessoa em particular.",
+    "Männer haben im Mittel ein niedrigeres 2D:4D-Verhältnis als Frauen, und es scheint mit pränatalen Hormonen zusammenzuhängen, doch dieser Zusammenhang ist umstritten. Über eine einzelne Person sagt es nichts Verlässliches.",
+    "A férfiaknak átlagosan alacsonyabb a 2D:4D aránya, mint a nőknek, és az arány összefügghet a születés előtti hormonokkal, de ez az összefüggés vitatott. Egy adott személyről semmi megbízhatót nem mond."
+   ],
+   "src": "Hönekopp & Watson 2010, Am J Hum Biol 22:619–630; Zheng & Cohn 2011, PNAS (mouse study; commentary by Manning, PNAS 108:16143)"
+  },
+  {
+   "id": "amnio",
+   "lvl": 1,
+   "n": [
+    "Testosteronul din lichidul amniotic și 2D:4D",
+    "Amniotic testosterone and 2D:4D",
+    "Testostérone amniotique et 2D:4D",
+    "Testosterone amniotico e 2D:4D",
+    "Testosterona amniótica y 2D:4D",
+    "Testosterona amniótica e 2D:4D",
+    "Fruchtwasser-Testosteron und 2D:4D",
+    "Magzatvíz-tesztoszteron és 2D:4D"
+   ],
+   "d": [
+    "O încercare de replicare a unui studiu clasic din 2004 a măsurat testosteronul din lichidul amniotic la 66 de sarcini; el nu a prezis raportul 2D:4D al copiilor la 4 ani și jumătate. Dovezi directe lipsesc.",
+    "An attempted replication of a classic 2004 study measured amniotic-fluid testosterone in 66 pregnancies; it did not predict the children's 2D:4D at about 4.5 years. Direct evidence is lacking.",
+    "Une tentative de réplication d'une étude classique de 2004 a mesuré la testostérone du liquide amniotique dans 66 grossesses ; elle n'a pas prédit le 2D:4D des enfants à environ 4 ans et demi. Les preuves directes manquent.",
+    "Un tentativo di replica di uno studio classico del 2004 ha misurato il testosterone nel liquido amniotico in 66 gravidanze; non ha predetto il 2D:4D dei bambini a circa 4 anni e mezzo. Mancano prove dirette.",
+    "Un intento de replicación de un estudio clásico de 2004 midió la testosterona del líquido amniótico en 66 embarazos; no predijo el 2D:4D de los niños a los cuatro años y medio. Faltan pruebas directas.",
+    "Uma tentativa de replicação de um estudo clássico de 2004 mediu a testosterona do líquido amniótico em 66 gravidezes; não previu o 2D:4D das crianças aos quatro anos e meio. Faltam provas diretas.",
+    "Ein Replikationsversuch einer klassischen Studie von 2004 maß das Testosteron im Fruchtwasser bei 66 Schwangerschaften; es sagte das 2D:4D der Kinder mit etwa viereinhalb Jahren nicht voraus. Direkte Belege fehlen.",
+    "Egy klasszikus, 2004-es vizsgálat megismétlési kísérlete 66 terhesség magzatvizében mérte a tesztoszteront; ez nem jelezte előre a gyerekek 2D:4D arányát nagyjából négy és fél évesen. Közvetlen bizonyíték hiányzik."
+   ],
+   "src": "Richards, Brown & Constantinescu 2021, J Dev Orig Health Dis (attempted replication of Lutchmaya et al. 2004; bioRxiv preprint 2020)"
+  },
+  {
+   "id": "fingerprint",
+   "lvl": 3,
+   "n": [
+    "Amprentele: unicitate și formare",
+    "Fingerprints: uniqueness and formation",
+    "Empreintes digitales : unicité et formation",
+    "Impronte digitali: unicità e formazione",
+    "Huellas dactilares: unicidad y formación",
+    "Impressões digitais: unicidade e formação",
+    "Fingerabdrücke: Einzigartigkeit und Entstehung",
+    "Ujjlenyomatok: egyedisége és kialakulása"
+   ],
+   "d": [
+    "Crestele papilare apar între săptămânile 10 și 16 de sarcină. Tipul modelului (buclă, vârtej, arc) depinde parțial de ereditate, dar detaliile fine sunt aleatorii: chiar și gemenii identici au amprente diferite.",
+    "Friction ridges appear between about weeks 10 and 16 of gestation. The pattern type (loop, whorl, arch) is partly inherited, but fine details are random: even identical twins have different fingerprints.",
+    "Les crêtes papillaires apparaissent entre la 10e et la 16e semaine de grossesse environ. Le type de motif (boucle, tourbillon, arc) est en partie héréditaire, mais les détails fins sont aléatoires : même les jumeaux identiques ont des empreintes différentes.",
+    "Le creste papillari compaiono tra la 10ª e la 16ª settimana di gravidanza circa. Il tipo di disegno (ansa, verticillo, arco) è in parte ereditario, ma i dettagli fini sono casuali: anche i gemelli identici hanno impronte diverse.",
+    "Las crestas papilares aparecen aproximadamente entre las semanas 10 y 16 del embarazo. El tipo de dibujo (lazo, verticilo, arco) es en parte hereditario, pero los detalles finos son aleatorios: incluso los gemelos idénticos tienen huellas distintas.",
+    "As cristas papilares surgem aproximadamente entre as semanas 10 e 16 da gravidez. O tipo de desenho (laçada, verticilo, arco) é em parte hereditário, mas os pormenores finos são aleatórios: até os gémeos idênticos têm impressões digitais diferentes.",
+    "Die Papillarleisten entstehen etwa zwischen der 10. und 16. Schwangerschaftswoche. Der Mustertyp (Schleife, Wirbel, Bogen) ist teils erblich, die feinen Details sind jedoch zufällig: Selbst eineiige Zwillinge haben verschiedene Fingerabdrücke.",
+    "A papilláris vonalak nagyjából a 10. és 16. terhességi hét között jelennek meg. A mintázat típusa (hurok, örvény, ív) részben öröklött, a finom részletek viszont véletlenszerűek: még az egypetéjű ikreknek is különbözik az ujjlenyomatuk."
+   ],
+   "src": "Scientific American, Q&A on fingerprint inheritance (secondary source)"
+  },
+  {
+   "id": "simian",
+   "lvl": 3,
+   "n": [
+    "Pliul simian și sindromul Down",
+    "Simian crease and Down syndrome",
+    "Pli simien et trisomie 21",
+    "Piega scimmiesca e sindrome di Down",
+    "Pliegue simiano y síndrome de Down",
+    "Prega simiesca e síndrome de Down",
+    "Vierfingerfurche und Down-Syndrom",
+    "Majomredő és Down-szindróma"
+   ],
+   "d": [
+    "Un singur pliu transversal al palmei apare la aproximativ 1,5–3% dintre oameni și la circa 45% dintre persoanele cu sindrom Down. Este o asociere de grup, nu un test: nu poate diagnostica nimic la o persoană.",
+    "A single transverse palmar crease occurs in roughly 1.5–3% of people and in about 45% of people with Down syndrome. It is a group-level association, not a test: it cannot diagnose anything in an individual.",
+    "Un pli palmaire transverse unique existe chez environ 1,5 à 3 % des gens et chez environ 45 % des personnes trisomiques. C'est une association de groupe, non un test : il ne permet de diagnostiquer rien chez un individu.",
+    "Una singola piega palmare trasversa è presente in circa l'1,5–3% delle persone e in circa il 45% di quelle con sindrome di Down. È un'associazione di gruppo, non un test: non permette di diagnosticare nulla in un individuo.",
+    "Un único pliegue palmar transversal aparece en aproximadamente el 1,5–3 % de las personas y en cerca del 45 % de las personas con síndrome de Down. Es una asociación de grupo, no una prueba: no permite diagnosticar nada en un individuo.",
+    "Uma única prega palmar transversal ocorre em cerca de 1,5–3 % das pessoas e em cerca de 45 % das pessoas com síndrome de Down. É uma associação de grupo, não um teste: não permite diagnosticar nada num indivíduo.",
+    "Eine einzelne quer verlaufende Handfurche kommt bei etwa 1,5–3 % der Menschen vor und bei rund 45 % der Menschen mit Down-Syndrom. Das ist ein Zusammenhang auf Gruppenebene, kein Test: Bei einem Einzelnen diagnostiziert sie nichts.",
+    "Az egyetlen keresztirányú tenyérredő az emberek nagyjából 1,5–3 százalékánál fordul elő, a Down-szindrómások körülbelül 45 százalékánál. Csoportszintű összefüggés, nem teszt: egyes embernél semmit sem diagnosztizál."
+   ],
+   "src": "Clinical literature as summarised in the reference article 'Single transverse palmar crease' (secondary source)"
+  },
+  {
+   "id": "grip",
+   "lvl": 3,
+   "n": [
+    "Forța de strângere a mâinii",
+    "Hand grip strength",
+    "Force de préhension de la main",
+    "Forza di presa della mano",
+    "Fuerza de prensión de la mano",
+    "Força de preensão da mão",
+    "Handgriffkraft",
+    "A kézszorítás ereje"
+   ],
+   "d": [
+    "În studiul PURE (139 691 de adulți, 17 țări), la fiecare 5 kg în minus la strângerea mâinii, riscul de deces din orice cauză a fost cu 16% mai mare (asociere, nu cauzalitate). Forța se măsoară cu dinamometrul, nu se citește din linii.",
+    "In the PURE study (139,691 adults, 17 countries), each 5 kg lower grip strength was associated with a 16% higher risk of death from any cause (an association, not causation). Strength is measured with a dynamometer, not read from lines.",
+    "Dans l'étude PURE (139 691 adultes, 17 pays), chaque baisse de 5 kg de la force de préhension était associée à un risque de décès toutes causes confondues supérieur de 16 % (une association, non une causalité). La force se mesure au dynamomètre, elle ne se lit pas dans les lignes.",
+    "Nello studio PURE (139.691 adulti, 17 paesi), ogni 5 kg in meno di forza di presa era associato a un rischio di morte per qualsiasi causa più alto del 16% (un'associazione, non una causalità). La forza si misura con il dinamometro, non si legge dalle linee.",
+    "En el estudio PURE (139.691 adultos, 17 países), cada 5 kg menos de fuerza de prensión se asoció con un riesgo de muerte por cualquier causa un 16 % mayor (una asociación, no una causalidad). La fuerza se mide con un dinamómetro, no se lee en las líneas.",
+    "No estudo PURE (139.691 adultos, 17 países), cada 5 kg a menos de força de preensão associou-se a um risco de morte por qualquer causa 16% superior (uma associação, não uma causalidade). A força mede-se com um dinamómetro, não se lê nas linhas.",
+    "In der PURE-Studie (139.691 Erwachsene, 17 Länder) war jede um 5 kg geringere Handgriffkraft mit einem um 16 % höheren Sterberisiko aus jeder Ursache verbunden (ein Zusammenhang, keine Kausalität). Die Kraft wird mit einem Dynamometer gemessen, nicht aus Linien gelesen.",
+    "A PURE vizsgálatban (139 691 felnőtt, 17 ország) minden 5 kg-mal gyengébb szorítóerő bármely okból bekövetkező halálozás 16%-kal magasabb kockázatával járt együtt (összefüggés, nem ok-okozati kapcsolat). Az erőt dinamométerrel mérik, nem a vonalakból olvassák ki."
+   ],
+   "src": "Leong et al. 2015, Lancet (PURE study), PMID 25982160"
+  }
+ ],
+ "barnum": [
+  {
+   "id": "b1",
+   "t": [
+    "Ai o mare nevoie ca ceilalți să te placă și să te admire, dar tinzi să te critici singur/ă.",
+    "You have a great need for other people to like and admire you, yet you tend to be critical of yourself.",
+    "Tu as grand besoin que les autres t'apprécient et t'admirent, pourtant tu as tendance à être critique envers toi-même.",
+    "Hai un grande bisogno che gli altri ti apprezzino e ti ammirino, eppure tendi a essere critico/a con te stesso/a.",
+    "Tienes una gran necesidad de que los demás te aprecien y te admiren, y sin embargo tiendes a ser crítico/a contigo mismo/a.",
+    "Tens uma grande necessidade de que os outros gostem de ti e te admirem, mas tens tendência para ser crítico/a contigo próprio/a.",
+    "Du hast ein großes Bedürfnis, von anderen gemocht und bewundert zu werden, neigst aber dazu, dich selbst kritisch zu sehen.",
+    "Nagy szükséged van arra, hogy mások kedveljenek és csodáljanak, mégis hajlamos vagy kritikus lenni magaddal."
+   ]
+  },
+  {
+   "id": "b2",
+   "t": [
+    "Ai multe capacități neexploatate, pe care încă nu le-ai folosit în avantajul tău.",
+    "You have a lot of unused potential that you have not yet turned to your advantage.",
+    "Tu as beaucoup de potentiel inexploité, que tu n'as pas encore tourné à ton avantage.",
+    "Hai molto potenziale inutilizzato, che non hai ancora volto a tuo vantaggio.",
+    "Tienes mucho potencial sin aprovechar, que todavía no has convertido en una ventaja.",
+    "Tens muito potencial por aproveitar, que ainda não transformaste em vantagem.",
+    "Du hast viel ungenutztes Potenzial, das du noch nicht zu deinem Vorteil eingesetzt hast.",
+    "Sok kiaknázatlan képességed van, amelyet még nem fordítottál a javadra."
+   ]
+  },
+  {
+   "id": "b3",
+   "t": [
+    "Deși ai câteva slăbiciuni de personalitate, ești în general capabil/ă să le compensezi.",
+    "Although you have some personality weaknesses, you are generally able to compensate for them.",
+    "Même si tu as quelques faiblesses de caractère, tu parviens en général à les compenser.",
+    "Pur avendo qualche debolezza di carattere, di solito riesci a compensarla.",
+    "Aunque tienes algunas debilidades de carácter, en general eres capaz de compensarlas.",
+    "Embora tenhas algumas fragilidades de personalidade, és geralmente capaz de as compensar.",
+    "Obwohl du einige Schwächen im Charakter hast, kannst du sie im Allgemeinen ausgleichen.",
+    "Bár vannak jellemgyengeségeid, általában képes vagy kiegyenlíteni őket."
+   ]
+  },
+  {
+   "id": "b4",
+   "t": [
+    "Uneori ești extrovertit/ă și sociabil/ă, alteori reținut/ă și preferi să fii singur/ă.",
+    "At times you are outgoing and sociable; at other times you are reserved and prefer your own company.",
+    "Parfois tu es extraverti(e) et sociable ; d'autres fois, tu es réservé(e) et tu préfères ta propre compagnie.",
+    "A volte sei estroverso/a e socievole; altre volte sei riservato/a e preferisci la tua compagnia.",
+    "A veces eres extrovertido/a y sociable; otras veces eres reservado/a y prefieres estar a solas.",
+    "Por vezes és extrovertido/a e sociável; outras vezes és reservado/a e preferes a tua própria companhia.",
+    "Manchmal bist du kontaktfreudig und gesellig, manchmal zurückhaltend und bevorzugst deine eigene Gesellschaft.",
+    "Néha nyitott és társaságkedvelő vagy, máskor visszahúzódó, és a saját társaságodat részesíted előnyben."
+   ]
+  },
+  {
+   "id": "b5",
+   "t": [
+    "Unele dintre aspirațiile tale tind să fie destul de nerealiste.",
+    "Some of your aspirations tend to be rather unrealistic.",
+    "Certaines de tes aspirations ont tendance à être plutôt irréalistes.",
+    "Alcune delle tue aspirazioni tendono a essere piuttosto irrealistiche.",
+    "Algunas de tus aspiraciones tienden a ser bastante poco realistas.",
+    "Algumas das tuas aspirações tendem a ser bastante irrealistas.",
+    "Manche deiner Wünsche und Ziele sind eher unrealistisch.",
+    "Néhány törekvésed meglehetősen irreális."
+   ]
+  },
+  {
+   "id": "b6",
+   "t": [
+    "Uneori te îndoiești serios dacă ai luat decizia corectă sau dacă ai făcut ce trebuia.",
+    "At times you have serious doubts about whether you made the right decision or did the right thing.",
+    "Parfois, tu doutes sérieusement d'avoir pris la bonne décision ou d'avoir fait ce qu'il fallait.",
+    "A volte hai seri dubbi di aver preso la decisione giusta o di aver fatto la cosa giusta.",
+    "A veces dudas seriamente de si tomaste la decisión correcta o hiciste lo correcto.",
+    "Por vezes duvidas seriamente se tomaste a decisão certa ou se fizeste o que devias.",
+    "Manchmal zweifelst du ernsthaft daran, ob du die richtige Entscheidung getroffen oder das Richtige getan hast.",
+    "Időnként komolyan kételkedsz abban, hogy jól döntöttél-e, vagy a helyes dolgot tetted-e."
+   ]
+  },
+  {
+   "id": "b7",
+   "t": [
+    "Preferi o anumită doză de schimbare și varietate și te simți nemulțumit/ă când ești limitat/ă de restricții.",
+    "You prefer a certain amount of change and variety, and become dissatisfied when hemmed in by restrictions.",
+    "Tu préfères un certain degré de changement et de variété, et tu deviens insatisfait(e) quand des restrictions t'enferment.",
+    "Preferisci una certa dose di cambiamento e varietà, e diventi insoddisfatto/a quando ti senti limitato/a da restrizioni.",
+    "Prefieres una cierta dosis de cambio y variedad, y te sientes insatisfecho/a cuando te ves limitado/a por restricciones.",
+    "Preferes uma certa dose de mudança e variedade, e ficas insatisfeito/a quando te sentes limitado/a por restrições.",
+    "Du magst ein gewisses Maß an Abwechslung und Veränderung und wirst unzufrieden, wenn Einschränkungen dich einengen.",
+    "Kedveled a változatosságot és egy bizonyos mértékű változást, és elégedetlenné válsz, ha megkötések szorítanak."
+   ]
+  },
+  {
+   "id": "b8",
+   "t": [
+    "Ești mândru/ă că gândești independent și nu accepți părerile altora fără dovezi suficiente.",
+    "You pride yourself on thinking independently and do not accept others' opinions without satisfactory proof.",
+    "Tu es fier(ère) de penser de façon indépendante et tu n'acceptes pas l'opinion des autres sans preuves satisfaisantes.",
+    "Sei orgoglioso/a di pensare in modo indipendente e non accetti le opinioni altrui senza prove soddisfacenti.",
+    "Te enorgullece pensar de forma independiente y no aceptas las opiniones de los demás sin pruebas satisfactorias.",
+    "Orgulhas-te de pensar de forma independente e não aceitas as opiniões dos outros sem provas satisfatórias.",
+    "Du bist stolz darauf, unabhängig zu denken, und nimmst die Meinung anderer nicht ohne ausreichende Belege an.",
+    "Büszke vagy arra, hogy önállóan gondolkodsz, és mások véleményét nem fogadod el kielégítő bizonyíték nélkül."
+   ]
+  },
+  {
+   "id": "b9",
+   "t": [
+    "Ai constatat că nu e înțelept să te dezvălui prea sincer în fața altora.",
+    "You have found it unwise to be too frank in revealing yourself to others.",
+    "Tu as constaté qu'il n'est pas sage de se révéler trop franchement aux autres.",
+    "Hai scoperto che non è saggio rivelarti con troppa franchezza agli altri.",
+    "Has comprobado que no es prudente mostrarte con demasiada franqueza ante los demás.",
+    "Descobriste que não é sensato revelares-te com demasiada franqueza aos outros.",
+    "Du hast gemerkt, dass es nicht klug ist, dich anderen gegenüber allzu offen zu zeigen.",
+    "Rájöttél, hogy nem bölcs dolog túl őszintén feltárulkozni mások előtt."
+   ]
+  },
+  {
+   "id": "b10",
+   "t": [
+    "Pe dinafară ești disciplinat/ă și stăpân/ă pe tine, dar pe dinăuntru tinzi să fii îngrijorat/ă și nesigur/ă.",
+    "Disciplined and controlled on the outside, you tend to be worried and insecure on the inside.",
+    "Discipliné(e) et maître(sse) de toi à l'extérieur, tu as tendance à être inquiet(ète) et peu sûr(e) de toi à l'intérieur.",
+    "Disciplinato/a e controllato/a all'esterno, dentro tendi a essere preoccupato/a e insicuro/a.",
+    "Disciplinado/a y controlado/a por fuera, por dentro tiendes a estar preocupado/a e inseguro/a.",
+    "Disciplinado/a e controlado/a por fora, por dentro tens tendência a ser preocupado/a e inseguro/a.",
+    "Nach außen diszipliniert und beherrscht, neigst du innerlich dazu, besorgt und unsicher zu sein.",
+    "Kívülről fegyelmezett és önuralmú vagy, belül viszont hajlamos vagy az aggodalomra és a bizonytalanságra."
+   ]
+  }
+ ],
+ "cold": [
+  {
+   "id": "shotgun",
+   "n": [
+    "Tehnica „alicei” (shotgunning)",
+    "Shotgunning",
+    "Le tir de chevrotine (shotgunning)",
+    "Il colpo di fucile a pallini (shotgunning)",
+    "La escopeta (shotgunning)",
+    "A espingarda (shotgunning)",
+    "Schrotflinten-Methode (Shotgunning)",
+    "Sörétes módszer (shotgunning)"
+   ],
+   "d": [
+    "Se aruncă rapid multe afirmații diferite, iar clientul reține doar pe cele care se potrivesc.",
+    "Many different statements are fired off quickly, and the client remembers only the ones that fit.",
+    "On lance rapidement de nombreuses affirmations différentes, et le client ne retient que celles qui lui correspondent.",
+    "Si lanciano rapidamente molte affermazioni diverse, e il cliente ricorda solo quelle che gli calzano.",
+    "Se lanzan rápidamente muchas afirmaciones distintas y el cliente solo recuerda las que le encajan.",
+    "Lançam-se rapidamente muitas afirmações diferentes, e o cliente só se lembra das que lhe encaixam.",
+    "Man feuert rasch viele verschiedene Aussagen ab, und die Person behält nur die, die passen.",
+    "Gyorsan sok különböző állítást lőnek ki, és az ügyfél csak azokra emlékszik, amelyek illenek rá."
+   ]
+  },
+  {
+   "id": "barnum",
+   "n": [
+    "Afirmații Barnum",
+    "Barnum statements",
+    "Les énoncés Barnum",
+    "Affermazioni Barnum",
+    "Afirmaciones Barnum",
+    "Afirmações Barnum",
+    "Barnum-Aussagen",
+    "Barnum-állítások"
+   ],
+   "d": [
+    "Descrieri atât de generale și echilibrate („ești uneori sociabil, alteori retras”) încât se potrivesc aproape oricui.",
+    "Descriptions so general and balanced ('sometimes sociable, sometimes withdrawn') that they fit almost anyone.",
+    "Des descriptions si générales et équilibrées (« tantôt sociable, tantôt retiré ») qu'elles conviennent à presque tout le monde.",
+    "Descrizioni così generiche ed equilibrate («a volte socievole, a volte riservato») da adattarsi a quasi chiunque.",
+    "Descripciones tan generales y equilibradas («a veces sociable, a veces retraído») que encajan con casi cualquiera.",
+    "Descrições tão gerais e equilibradas («por vezes sociável, por vezes retraído») que servem a quase toda a gente.",
+    "Beschreibungen, die so allgemein und ausgewogen sind („mal gesellig, mal zurückgezogen“), dass sie auf fast jeden passen.",
+    "Olyan általános és kiegyensúlyozott leírások („néha társaságkedvelő, néha visszahúzódó”), hogy szinte bárkire illenek."
+   ]
+  },
+  {
+   "id": "fishing",
+   "n": [
+    "Pescuitul de informații (fishing)",
+    "Fishing for feedback",
+    "La pêche aux informations (fishing)",
+    "La pesca di informazioni (fishing)",
+    "La pesca de información (fishing)",
+    "A pesca de informação (fishing)",
+    "Informationen angeln (Fishing)",
+    "Információhalászat (fishing)"
+   ],
+   "d": [
+    "Se fac afirmații vagi sau întrebări prefăcute și se urmăresc reacțiile; clientul oferă singur detaliile, iar cititorul le repetă ca pe o revelație.",
+    "Vague statements or disguised questions are offered and the reactions watched; the client supplies the details, and the reader repeats them back as if revealed.",
+    "On avance des affirmations vagues ou des questions déguisées en observant les réactions ; le client fournit lui-même les détails, que le lecteur lui renvoie comme une révélation.",
+    "Si offrono affermazioni vaghe o domande mascherate osservando le reazioni; il cliente fornisce da sé i dettagli, che il lettore ripete come una rivelazione.",
+    "Se ofrecen afirmaciones vagas o preguntas disfrazadas observando las reacciones; el cliente aporta los detalles y el lector se los devuelve como una revelación.",
+    "Oferecem-se afirmações vagas ou perguntas disfarçadas observando as reações; o cliente fornece os pormenores e o leitor devolve-os como uma revelação.",
+    "Man macht vage Aussagen oder verdeckte Fragen und beobachtet die Reaktionen; die Person liefert die Details selbst, und der Deuter gibt sie als Enthüllung zurück.",
+    "Homályos állításokat vagy álcázott kérdéseket tesznek fel, és figyelik a reakciókat; az ügyfél maga szolgáltatja a részleteket, az olvasó pedig kinyilatkoztatásként ismétli vissza."
+   ]
+  },
+  {
+   "id": "appearance",
+   "n": [
+    "Citirea aspectului",
+    "Reading appearance",
+    "La lecture de l'apparence",
+    "La lettura dell'aspetto",
+    "La lectura de la apariencia",
+    "A leitura da aparência",
+    "Das Lesen des Erscheinungsbilds",
+    "A külső leolvasása"
+   ],
+   "d": [
+    "Vârsta, hainele, bijuteriile, accentul și limbajul corpului oferă indicii despre statut, ocupație sau preocupări, prezentate apoi ca „intuiții”.",
+    "Age, clothing, jewellery, accent and body language give clues about status, occupation or worries, later presented as 'insights'.",
+    "L'âge, les vêtements, les bijoux, l'accent et le langage corporel donnent des indices sur le statut, la profession ou les préoccupations, présentés ensuite comme des « intuitions ».",
+    "Età, abbigliamento, gioielli, accento e linguaggio del corpo offrono indizi su status, professione o preoccupazioni, presentati poi come «intuizioni».",
+    "La edad, la ropa, las joyas, el acento y el lenguaje corporal dan pistas sobre el estatus, la profesión o las preocupaciones, que luego se presentan como «intuiciones».",
+    "A idade, a roupa, as joias, o sotaque e a linguagem corporal dão pistas sobre o estatuto, a profissão ou as preocupações, depois apresentadas como «intuições».",
+    "Alter, Kleidung, Schmuck, Akzent und Körpersprache liefern Hinweise auf Status, Beruf oder Sorgen, die dann als „Eingebungen“ präsentiert werden.",
+    "A kor, a ruházat, az ékszerek, a kiejtés és a testbeszéd támpontot ad a státuszra, a foglalkozásra vagy a gondokra, amelyeket aztán „megérzésként” adnak elő."
+   ]
+  },
+  {
+   "id": "reframe",
+   "n": [
+    "Transformarea ratărilor în reușite",
+    "Reframing misses as hits",
+    "Transformer les ratés en réussites",
+    "Trasformare i fallimenti in successi",
+    "Convertir los fallos en aciertos",
+    "Transformar falhas em acertos",
+    "Fehlschläge in Treffer umdeuten",
+    "A tévedések találattá alakítása"
+   ],
+   "d": [
+    "O afirmație greșită este reinterpretată („poate nu acum, ci în trecut”, „poate e vorba de un prieten”) până se potrivește, iar ratările sunt uitate.",
+    "A wrong statement is reinterpreted ('maybe not now, but in the past', 'perhaps it is a friend') until it fits, and the misses are forgotten.",
+    "Une affirmation erronée est réinterprétée (« peut-être pas maintenant, mais dans le passé », « peut-être un ami ») jusqu'à ce qu'elle convienne, et les ratés sont oubliés.",
+    "Un'affermazione sbagliata viene reinterpretata («forse non ora, ma in passato», «forse un amico») finché non calza, e gli errori vengono dimenticati.",
+    "Una afirmación errónea se reinterpreta («quizá no ahora, sino en el pasado», «tal vez un amigo») hasta que encaja, y los fallos se olvidan.",
+    "Uma afirmação errada é reinterpretada («talvez não agora, mas no passado», «talvez um amigo») até encaixar, e as falhas são esquecidas.",
+    "Eine falsche Aussage wird umgedeutet („vielleicht nicht jetzt, sondern früher“, „vielleicht ein Freund“), bis sie passt, und die Fehlschläge geraten in Vergessenheit.",
+    "A téves állítást újraértelmezik („talán nem most, hanem régen”, „talán egy barát”), amíg nem illik, a tévedések pedig feledésbe merülnek."
+   ]
+  }
+ ]
+}

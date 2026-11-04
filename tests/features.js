@@ -1,0 +1,28 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const p=await b.newPage({viewport:{width:390,height:900},acceptDownloads:true});require('./_tab')(p);const errs=[];p.on('pageerror',e=>errs.push(e.message));
+const fail=[];const ck=(c,m)=>{if(!c)fail.push(m)};
+await p.goto('file://'+process.argv[2]);
+ck(await p.locator('#bgh').count()===1,'beginner default');
+await p.click('[data-act="bgmove"][data-v="1"]');ck((await p.textContent('#bgh')).length>3,'step2');
+await p.click('[data-act="bgsee"]');ck(await p.locator('svg.hand').count()>0,'goto hand');
+await p.click('[data-act="std"]');let st=await p.evaluate(()=>JSON.parse(localStorage.getItem('chiromantia.v1')).st);ck(Object.keys(st).length===1,'study');
+await p.click('button[data-v="cards"]');await p.click('[data-act="cdflip"]');await p.click('[data-act="cdans"][data-v="1"]');
+ck(Object.keys(await p.evaluate(()=>JSON.parse(localStorage.getItem('chiromantia.v1')).lt)).length===1,'leitner');
+await p.click('button[data-v="game"]');await p.click('[data-act="gstart"]');
+for(let i=0;i<10;i++){const opts=await p.$$eval('#gsel option',o=>o.map(x=>x.value).filter(Boolean));await p.selectOption('#gsel',opts[i%opts.length]);await p.click('[data-act="gcheck"]');await p.click('[data-act="gnext"]');}
+ck(/\d/.test(await p.textContent('#gres')),'game score');
+await p.click('button[data-v="meas"]');await p.fill('input[data-k="idx"]','7.1');await p.fill('input[data-k="ring"]','7.5');await p.click('[data-act="mlsave"]');await p.click('[data-act="mlsave"]');
+ck((await p.locator('.plist li').count())===2,'ml log');ck(await p.locator('svg.spark').count()===1,'spark');
+await p.click('button[data-v="reader"]');await p.selectOption('select[data-k="life"]','1');await p.click('[data-act="gen"]');
+await p.fill('#pname','A');await p.fill('#pnote','nota <b>x</b>');await p.click('[data-act="profsave"]');
+await p.selectOption('select[data-k="life"]','2');await p.fill('#pname','B');await p.click('[data-act="profsave"]');
+ck(await p.locator('table.cmp tr').count()>5,'compare');
+await p.click('[data-act="profload"]');await p.click('[data-act="gen"]');
+const [dl]=await Promise.all([p.waitForEvent('download'),p.click('[data-act="shimg"]')]);ck(dl.suggestedFilename()==='chiromantia-reading.png','share');
+ck(await p.locator('.plist b').count()===0,'note xss');
+await p.click('[data-act="fs"]');ck((await p.evaluate(()=>document.documentElement.style.fontSize))==='115%','fs');
+await p.click('[data-act="hc"]');ck(await p.evaluate(()=>document.documentElement.dataset.contrast)==='high','hc');
+await p.click('button[data-v="sheet"]');ck(await p.locator('.sheet li').count()>=29,'sheet');
+ck(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'overflow');
+console.log(fail.length?'FAIL '+fail:'features ok',errs);await b.close();})();

@@ -1,0 +1,140 @@
+[
+ {
+  "id": "noDiag",
+  "n": [
+   "Nu diagnostica",
+   "Do not diagnose",
+   "Ne pas diagnostiquer",
+   "Non diagnosticare",
+   "No diagnosticar",
+   "Não diagnosticar",
+   "Nicht diagnostizieren",
+   "Ne diagnosztizálj"
+  ],
+  "d": [
+   "Liniile, semnele și formele mâinii nu spun nimic dovedit despre sănătate sau boală. Nu interpreta o trăsătură ca simptom și nu liniști ori alarma pe nimeni; pentru orice îngrijorare, vorbește cu un medic.",
+   "Lines, marks and hand shapes tell us nothing proven about health or illness. Do not treat a feature as a symptom, and do not reassure or alarm anyone with it; for any concern, speak to a doctor.",
+   "Les lignes, signes et formes de la main n'apprennent rien de prouvé sur la santé ou la maladie. Ne traitez pas un trait comme un symptôme, et ne rassurez ni n'alarmez personne ; pour toute inquiétude, consultez un médecin.",
+   "Linee, segni e forme della mano non dicono nulla di dimostrato sulla salute o sulla malattia. Non trattare un tratto come un sintomo e non rassicurare né allarmare nessuno; per qualsiasi preoccupazione, rivolgiti a un medico.",
+   "Las líneas, marcas y formas de la mano no dicen nada demostrado sobre la salud o la enfermedad. No trates un rasgo como un síntoma ni tranquilices o alarmes a nadie con él; ante cualquier preocupación, consulta a un médico.",
+   "As linhas, sinais e formas da mão nada dizem de comprovado sobre saúde ou doença. Não trate uma característica como sintoma nem tranquilize ou alarme ninguém com ela; perante qualquer preocupação, fale com um médico.",
+   "Linien, Zeichen und Handformen sagen nichts Belegtes über Gesundheit oder Krankheit. Behandle ein Merkmal nicht als Symptom und beruhige oder alarmiere damit niemanden; bei Sorgen sprich mit einer Ärztin oder einem Arzt.",
+   "A kéz vonalai, jelei és formái semmi bizonyítottat nem mondanak az egészségről vagy betegségről. Ne kezelj egy jegyet tünetként, és ne nyugtass vagy riassz meg vele senkit; bármilyen aggodalommal fordulj orvoshoz."
+  ]
+ },
+ {
+  "id": "noDecisions",
+  "n": [
+   "Nu decide pe baza ei",
+   "Do not base decisions on it",
+   "Ne pas décider sur cette base",
+   "Non decidere in base a essa",
+   "No decidas basándote en ella",
+   "Não decida com base nela",
+   "Keine Entscheidungen darauf stützen",
+   "Ne erre alapozz döntéseket"
+  ],
+  "d": [
+   "Chiromanția nu este validată științific. Nu o folosi pentru decizii medicale, juridice, financiare, de angajare sau despre relații; o persoană nu trebuie judecată ori selectată după forma sau liniile mâinii.",
+   "Palmistry is not scientifically validated. Do not use it for medical, legal, financial, hiring or relationship decisions; no person should be judged or selected by the shape or lines of their hand.",
+   "La chiromancie n'est pas validée scientifiquement. Ne l'utilisez pas pour des décisions médicales, juridiques, financières, de recrutement ou de couple ; nul ne doit être jugé ou sélectionné d'après la forme ou les lignes de sa main.",
+   "La chiromanzia non è validata scientificamente. Non usarla per decisioni mediche, legali, finanziarie, di assunzione o di coppia; nessuno va giudicato o selezionato in base alla forma o alle linee della mano.",
+   "La quiromancia no está validada científicamente. No la uses para decisiones médicas, jurídicas, financieras, de contratación o de pareja; nadie debe ser juzgado ni seleccionado por la forma o las líneas de su mano.",
+   "A quiromancia não está validada cientificamente. Não a use em decisões médicas, jurídicas, financeiras, de contratação ou de relacionamento; ninguém deve ser julgado ou selecionado pela forma ou pelas linhas da mão.",
+   "Chiromantie ist wissenschaftlich nicht validiert. Nutze sie nicht für medizinische, rechtliche, finanzielle, Einstellungs- oder Beziehungsentscheidungen; niemand darf nach Form oder Linien seiner Hand beurteilt oder ausgewählt werden.",
+   "A kézjóslás tudományosan nem igazolt. Ne használd orvosi, jogi, pénzügyi, felvételi vagy párkapcsolati döntésekhez; senkit sem szabad a keze formája vagy vonalai alapján megítélni vagy kiválogatni."
+  ]
+ },
+ {
+  "id": "noBiometric",
+  "n": [
+   "Nu e identificare biometrică",
+   "Not biometric identification",
+   "Pas d'identification biométrique",
+   "Non è identificazione biometrica",
+   "No es identificación biométrica",
+   "Não é identificação biométrica",
+   "Keine biometrische Identifikation",
+   "Nem biometrikus azonosítás"
+  ],
+  "d": [
+   "Atlasul explică amprentele doar didactic. Nu folosi aplicația și nu încărca amprente reale pentru a identifica, verifica sau urmări persoane; datele biometrice folosite pentru identificarea unică a unei persoane sunt o categorie specială de date cu caracter personal (art. 9 GDPR) și cer temei legal și protecție specială.",
+   "The atlas explains fingerprints for teaching only. Do not use the app, or upload real fingerprints, to identify, verify or track people; biometric data used to uniquely identify a person is a special category of personal data under the GDPR (Art. 9) and requires a legal basis and special protection.",
+   "L'atlas présente les empreintes à titre pédagogique seulement. N'utilisez pas l'application, et n'importez pas de vraies empreintes, pour identifier, vérifier ou suivre des personnes ; les données biométriques utilisées pour identifier une personne de manière unique constituent une catégorie particulière de données personnelles au sens du RGPD (art. 9) et exigent une base légale et une protection particulière.",
+   "L'atlante illustra le impronte solo a scopo didattico. Non usare l'app e non caricare impronte reali per identificare, verificare o tracciare persone; i dati biometrici usati per identificare in modo univoco una persona sono una categoria particolare di dati personali ai sensi del GDPR (art. 9) e richiedono una base giuridica e una tutela speciale.",
+   "El atlas explica las huellas solo con fines didácticos. No uses la aplicación ni subas huellas reales para identificar, verificar o rastrear personas; los datos biométricos utilizados para identificar de forma única a una persona son una categoría especial de datos personales según el RGPD (art. 9) y exigen una base legal y una protección especial.",
+   "O atlas explica as impressões digitais apenas para fins didáticos. Não use a aplicação nem carregue impressões digitais reais para identificar, verificar ou rastrear pessoas; os dados biométricos utilizados para identificar de forma inequívoca uma pessoa constituem uma categoria especial de dados pessoais nos termos do RGPD (art. 9.º) e exigem uma base legal e uma proteção especial.",
+   "Der Atlas erklärt Fingerabdrücke nur zu Lehrzwecken. Nutze die App nicht und lade keine echten Fingerabdrücke hoch, um Personen zu identifizieren, zu überprüfen oder zu verfolgen; biometrische Daten, die zur eindeutigen Identifizierung einer Person verwendet werden, sind nach der DSGVO (Art. 9) eine besondere Kategorie personenbezogener Daten und erfordern eine Rechtsgrundlage und besonderen Schutz.",
+   "Az atlasz az ujjlenyomatokat csak oktatási céllal mutatja be. Ne használd az alkalmazást, és ne tölts fel valódi ujjlenyomatot személyek azonosítására, ellenőrzésére vagy követésére; a személy egyedi azonosítására használt biometrikus adat a GDPR (9. cikk) szerint a személyes adatok különleges kategóriája, és jogalapot, valamint különleges védelmet igényel."
+  ]
+ },
+ {
+  "id": "photoPrivacy",
+  "n": [
+   "Fotografiile rămân la tine",
+   "Photos stay with you",
+   "Les photos restent chez vous",
+   "Le foto restano con te",
+   "Las fotos se quedan contigo",
+   "As fotografias ficam consigo",
+   "Fotos bleiben bei dir",
+   "A fotók nálad maradnak"
+  ],
+  "d": [
+   "Dacă folosești o fotografie a mâinii, ea este prelucrată doar în browserul tău și nu este trimisă nicăieri. Nu o salva în afara dispozitivului fără acordul persoanei fotografiate; poți șterge datele locale oricând. O fotografie cu trăsături recognoscibile (inele, tatuaje, cicatrici, chipul în cadru) poate fi dată cu caracter personal; pentru minori, cere acordul părintelui sau al tutorelui. Profilurile salvate (nume și alegeri) rămân tot local, în browser, și apar în exportul JSON: nu salva numele altor persoane fără acordul lor.",
+   "If you use a photo of a hand, it is processed only in your browser and is never sent anywhere. Do not store it outside your device without the photographed person's agreement; you can clear local data at any time. A photo with recognisable features (rings, tattoos, scars, a face in the frame) may be personal data; for minors, get a parent or guardian's agreement. Saved profiles (names and choices) also stay local in your browser and appear in the JSON export: do not save other people's names without their agreement.",
+   "Si vous utilisez une photo de main, elle est traitée uniquement dans votre navigateur et n'est envoyée nulle part. Ne la conservez pas hors de votre appareil sans l'accord de la personne photographiée ; vous pouvez effacer les données locales à tout moment. Une photo présentant des traits reconnaissables (bagues, tatouages, cicatrices, visage dans le cadre) peut constituer une donnée personnelle ; pour les mineurs, obtenez l'accord d'un parent ou d'un tuteur. Les profils enregistrés (noms et choix) restent eux aussi en local, dans le navigateur, et figurent dans l'export JSON : n'enregistrez pas le nom d'autres personnes sans leur accord.",
+   "Se usi la foto di una mano, viene elaborata solo nel tuo browser e non viene inviata da nessuna parte. Non conservarla fuori dal dispositivo senza l'accordo della persona fotografata; puoi cancellare i dati locali in qualsiasi momento. Una foto con tratti riconoscibili (anelli, tatuaggi, cicatrici, un volto nell'inquadratura) può essere un dato personale; per i minori, ottieni l'accordo di un genitore o di un tutore. Anche i profili salvati (nomi e scelte) restano in locale, nel browser, e compaiono nell'esportazione JSON: non salvare i nomi di altre persone senza il loro accordo.",
+   "Si usas la foto de una mano, se procesa solo en tu navegador y no se envía a ningún sitio. No la guardes fuera de tu dispositivo sin el acuerdo de la persona fotografiada; puedes borrar los datos locales en cualquier momento. Una foto con rasgos reconocibles (anillos, tatuajes, cicatrices, un rostro en el encuadre) puede ser un dato personal; en el caso de menores, obtén el acuerdo de un progenitor o tutor. Los perfiles guardados (nombres y elecciones) también permanecen en local, en tu navegador, y aparecen en la exportación JSON: no guardes los nombres de otras personas sin su acuerdo.",
+   "Se usar uma fotografia de uma mão, ela é tratada apenas no seu navegador e não é enviada para lado nenhum. Não a guarde fora do dispositivo sem o acordo da pessoa fotografada; pode apagar os dados locais a qualquer momento. Uma fotografia com traços reconhecíveis (anéis, tatuagens, cicatrizes, um rosto no enquadramento) pode ser um dado pessoal; no caso de menores, obtenha o acordo de um progenitor ou tutor. Os perfis guardados (nomes e escolhas) também ficam apenas localmente, no navegador, e aparecem na exportação JSON: não guarde os nomes de outras pessoas sem o acordo delas.",
+   "Wenn du ein Foto einer Hand verwendest, wird es nur in deinem Browser verarbeitet und nirgendwohin gesendet. Speichere es nicht ohne Einverständnis der fotografierten Person außerhalb deines Geräts; lokale Daten lassen sich jederzeit löschen. Ein Foto mit erkennbaren Merkmalen (Ringe, Tattoos, Narben, ein Gesicht im Bild) kann ein personenbezogenes Datum sein; bei Minderjährigen hol das Einverständnis eines Elternteils oder Vormunds ein. Gespeicherte Profile (Namen und Auswahlen) bleiben ebenfalls lokal in deinem Browser und erscheinen im JSON-Export: Speichere die Namen anderer Personen nicht ohne deren Einverständnis.",
+   "Ha egy kézről készült fényképet használsz, azt csak a böngésződ dolgozza fel, és sehová sem kerül elküldésre. Ne tárold az eszközödön kívül a lefényképezett személy beleegyezése nélkül; a helyi adatokat bármikor törölheted. A felismerhető jegyeket (gyűrűk, tetoválások, hegek, a képen látható arc) mutató fénykép személyes adat lehet; kiskorúak esetén kérd szülő vagy gondviselő beleegyezését. A mentett profilok (nevek és választások) szintén csak helyben, a böngészőben maradnak, és megjelennek a JSON-exportban: mások nevét ne mentsd el az ő beleegyezésük nélkül."
+  ]
+ },
+ {
+  "id": "cultures",
+  "n": [
+   "Tradiții culturale diverse",
+   "Diverse cultural traditions",
+   "Traditions culturelles diverses",
+   "Tradizioni culturali diverse",
+   "Tradiciones culturales diversas",
+   "Tradições culturais diversas",
+   "Vielfältige kulturelle Traditionen",
+   "Sokféle kulturális hagyomány"
+  ],
+  "d": [
+   "Lectura mâinii apare în mai multe tradiții: în India, în textele samudrika, în China, în fizionomia tradițională, în Grecia antică prin legende și în Europa prin tratate medievale. Fiecare are propriile reguli; atlasul urmează aici doar tradiția europeană (secolele XIX–XX) și nu le ierarhizează pe celelalte.",
+   "Hand reading appears in several traditions: in India within samudrika texts, in China within traditional physiognomy, in ancient Greece through legends, and in Europe through medieval treatises. Each has its own rules; this atlas follows only the European tradition (19th–20th centuries) and does not rank the others.",
+   "La lecture de la main apparaît dans plusieurs traditions : en Inde dans les textes samudrika, en Chine dans la physiognomonie traditionnelle, dans la Grèce antique à travers des légendes, et en Europe à travers des traités médiévaux. Chacune a ses propres règles ; cet atlas ne suit ici que la tradition européenne (XIXe-XXe siècles) et ne hiérarchise pas les autres.",
+   "La lettura della mano compare in più tradizioni: in India nei testi samudrika, in Cina nella fisiognomica tradizionale, nell'antica Grecia attraverso leggende, in Europa con trattati medievali. Ognuna ha regole proprie; questo atlante segue qui solo la tradizione europea (secoli XIX–XX) e non gerarchizza le altre.",
+   "La lectura de la mano aparece en varias tradiciones: en la India, en los textos samudrika; en China, en la fisonomía tradicional; en la Grecia antigua, mediante leyendas; en Europa, en tratados medievales. Cada una tiene sus propias reglas; este atlas sigue aquí solo la tradición europea (siglos XIX–XX) y no jerarquiza las demás.",
+   "A leitura da mão surge em várias tradições: na Índia, nos textos samudrika; na China, na fisionomia tradicional; na Grécia antiga, através de lendas; na Europa, em tratados medievais. Cada uma tem as suas regras; este atlas segue aqui apenas a tradição europeia (séculos XIX–XX) e não hierarquiza as outras.",
+   "Handlesen findet sich in mehreren Traditionen: in Indien in den Samudrika-Texten, in China in der traditionellen Physiognomik, im antiken Griechenland durch Legenden, in Europa in mittelalterlichen Traktaten. Jede hat eigene Regeln; dieser Atlas folgt hier nur der europäischen Tradition (19.–20. Jahrhundert) und wertet die anderen nicht.",
+   "A kézolvasás több hagyományban megjelenik: Indiában a számudrika-szövegekben, Kínában a hagyományos fiziognómiában, az ókori Görögországban legendákon át, Európában középkori értekezésekben. Mindnek megvannak a maga szabályai; ez az atlasz itt csak az európai hagyományt követi (19–20. század), a többit nem rangsorolja."
+  ]
+ },
+ {
+  "id": "consent",
+  "n": [
+   "Consimțământ",
+   "Consent",
+   "Consentement",
+   "Consenso",
+   "Consentimiento",
+   "Consentimento",
+   "Einwilligung",
+   "Beleegyezés"
+  ],
+  "d": [
+   "Citește mâna cuiva doar cu acordul lui. Spune clar că e vorba de joc cultural, nu de adevăr; oprește-te dacă persoana se simte stânjenită, evită subiectele sensibile și nu face afirmații categorice. Pentru copii și minori, cere și acordul unui părinte sau tutore.",
+   "Read someone's hand only with their agreement. Say clearly that this is a cultural pastime, not truth; stop if the person feels uneasy, avoid sensitive subjects, and make no categorical claims. For children and minors, also get the agreement of a parent or guardian.",
+   "Ne lisez la main de quelqu'un qu'avec son accord. Précisez clairement qu'il s'agit d'un jeu culturel, non d'une vérité ; arrêtez si la personne est mal à l'aise, évitez les sujets sensibles et ne faites aucune affirmation catégorique. Pour les enfants et les mineurs, obtenez aussi l'accord d'un parent ou d'un tuteur.",
+   "Leggi la mano di qualcuno solo con il suo accordo. Chiarisci che è un gioco culturale, non una verità; fermati se la persona è a disagio, evita i temi sensibili e non fare affermazioni categoriche. Per bambini e minori, ottieni anche l'accordo di un genitore o di un tutore.",
+   "Lee la mano de alguien solo con su acuerdo. Aclara que es un juego cultural, no una verdad; para si la persona se siente incómoda, evita los temas sensibles y no hagas afirmaciones categóricas. En el caso de niños y menores, obtén además el acuerdo de un progenitor o tutor.",
+   "Leia a mão de alguém apenas com o seu acordo. Esclareça que é um jogo cultural, não uma verdade; pare se a pessoa se sentir desconfortável, evite temas sensíveis e não faça afirmações categóricas. No caso de crianças e menores, obtenha também o acordo de um progenitor ou tutor.",
+   "Lies die Hand eines anderen nur mit dessen Einverständnis. Mach deutlich, dass es ein kulturelles Spiel ist, keine Wahrheit; hör auf, wenn sich die Person unwohl fühlt, meide heikle Themen und triff keine kategorischen Aussagen. Bei Kindern und Minderjährigen hol zusätzlich das Einverständnis eines Elternteils oder Vormunds ein.",
+   "Csak az illető beleegyezésével olvass valaki kezéből. Mondd el világosan, hogy ez kulturális játék, nem igazság; hagyd abba, ha a személy kényelmetlenül érzi magát, kerüld az érzékeny témákat, és ne tégy kategorikus állításokat. Gyermekek és kiskorúak esetén kérd emellett szülő vagy gondviselő beleegyezését is."
+  ]
+ }
+]

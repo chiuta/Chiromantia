@@ -1,0 +1,15 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const p=await b.newPage({viewport:{width:390,height:900}});require('./_tab')(p);const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+process.argv[2]);await p.click('button[data-v="photo"]');
+await p.setInputFiles('input[data-act="phfile"]','/tmp/p.png');await p.waitForSelector('#phc');
+const cnt=()=>p.evaluate(()=>{const c=document.getElementById('phc');const d=c.getContext('2d',{willReadFrequently:true}).getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<d.length;i+=4)if(d[i]!==200||d[i+1]!==150)n++;return n});
+const a=await cnt();
+await p.locator('input[data-k="x"]').fill('30');const b2=await cnt();
+await p.locator('input[data-k="s"]').fill('60');const c2=await cnt();
+await p.click('[data-act="phtpreset"]');
+await p.uncheck('input[data-act="phtpon"]');const d2=await cnt();
+console.log('template px',a>50,'moved',a!==b2,'scaled',b2!==c2,'off',d2===0,errs);
+await p.check('input[data-act="phtpon"]');
+await p.screenshot({path:'/home/claude/chiromantia/audit/shots_it7/photo_tpl.png',fullPage:true});
+await b.close();})();

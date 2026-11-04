@@ -1,0 +1,3212 @@
+{
+ "sub": [
+  "Atlas interactiv al citirii palmei",
+  "Interactive palm reading atlas",
+  "Atlas interactif de lecture de la main",
+  "Atlante interattivo della lettura della mano",
+  "Atlas interactivo de la quiromancia",
+  "Atlas interativo da quiromancia",
+  "Interaktiver Atlas der Handlesekunst",
+  "Interaktív tenyérjóslás-atlasz"
+ ],
+ "tHand": [
+  "Harta mâinii",
+  "Hand map",
+  "Carte de la main",
+  "Mappa della mano",
+  "Mapa de la mano",
+  "Mapa da mão",
+  "Handkarte",
+  "Kéztérkép"
+ ],
+ "tTypes": [
+  "Tipuri de mână",
+  "Hand types",
+  "Types de main",
+  "Tipi di mano",
+  "Tipos de mano",
+  "Tipos de mão",
+  "Handtypen",
+  "Kéztípusok"
+ ],
+ "tSigns": [
+  "Semne",
+  "Signs",
+  "Signes",
+  "Segni",
+  "Signos",
+  "Sinais",
+  "Zeichen",
+  "Jelek"
+ ],
+ "tReader": [
+  "Citire ghidată",
+  "Guided reading",
+  "Lecture guidée",
+  "Lettura guidata",
+  "Lectura guiada",
+  "Leitura guiada",
+  "Geführte Deutung",
+  "Vezetett olvasás"
+ ],
+ "tAbout": [
+  "Despre",
+  "About",
+  "À propos",
+  "Informazioni",
+  "Acerca de",
+  "Sobre",
+  "Über",
+  "Névjegy"
+ ],
+ "lines": [
+  "Linii",
+  "Lines",
+  "Lignes",
+  "Linee",
+  "Líneas",
+  "Linhas",
+  "Linien",
+  "Vonalak"
+ ],
+ "mounts": [
+  "Munți",
+  "Mounts",
+  "Monts",
+  "Monti",
+  "Montes",
+  "Montes",
+  "Berge",
+  "Dombok"
+ ],
+ "fingers": [
+  "Degete",
+  "Fingers",
+  "Doigts",
+  "Dita",
+  "Dedos",
+  "Dedos",
+  "Finger",
+  "Ujjak"
+ ],
+ "rh": [
+  "Mâna dreaptă",
+  "Right hand",
+  "Main droite",
+  "Mano destra",
+  "Mano derecha",
+  "Mão direita",
+  "Rechte Hand",
+  "Jobb kéz"
+ ],
+ "lh": [
+  "Mâna stângă",
+  "Left hand",
+  "Main gauche",
+  "Mano sinistra",
+  "Mano izquierda",
+  "Mão esquerda",
+  "Linke Hand",
+  "Bal kéz"
+ ],
+ "tap": [
+  "Atinge o linie, un munte sau un deget.",
+  "Tap a line, a mount or a finger.",
+  "Touchez une ligne, un mont ou un doigt.",
+  "Tocca una linea, un monte o un dito.",
+  "Toca una línea, un monte o un dedo.",
+  "Toque numa linha, num monte ou num dedo.",
+  "Tippe auf eine Linie, einen Berg oder einen Finger.",
+  "Érints meg egy vonalat, egy dombot vagy egy ujjat."
+ ],
+ "palmShape": [
+  "Forma palmei (lățime / lungime)",
+  "Palm shape (width / length)",
+  "Forme de la paume (largeur / longueur)",
+  "Forma del palmo (larghezza / lunghezza)",
+  "Forma de la palma (ancho / largo)",
+  "Forma da palma (largura / comprimento)",
+  "Form der Handfläche (Breite / Länge)",
+  "A tenyér alakja (szélesség / hosszúság)"
+ ],
+ "sq": [
+  "Pătrată",
+  "Square",
+  "Carrée",
+  "Quadrata",
+  "Cuadrada",
+  "Quadrada",
+  "Quadratisch",
+  "Négyzetes"
+ ],
+ "lg": [
+  "Lungă",
+  "Long",
+  "Longue",
+  "Lunga",
+  "Larga",
+  "Longa",
+  "Lang",
+  "Hosszú"
+ ],
+ "fingLen": [
+  "Lungimea degetelor (față de palmă)",
+  "Finger length (vs. palm)",
+  "Longueur des doigts (par rapport à la paume)",
+  "Lunghezza delle dita (rispetto al palmo)",
+  "Longitud de los dedos (respecto a la palma)",
+  "Comprimento dos dedos (em relação à palma)",
+  "Fingerlänge (im Vergleich zur Handfläche)",
+  "Az ujjak hossza (a tenyérhez képest)"
+ ],
+ "sh": [
+  "Scurte",
+  "Short",
+  "Courts",
+  "Corte",
+  "Cortos",
+  "Curtos",
+  "Kurz",
+  "Rövid"
+ ],
+ "lgF": [
+  "Lungi",
+  "Long",
+  "Longs",
+  "Lunghe",
+  "Largos",
+  "Longos",
+  "Lang",
+  "Hosszú"
+ ],
+ "choose": [
+  "— alege —",
+  "— choose —",
+  "— choisir —",
+  "— scegli —",
+  "— elegir —",
+  "— escolher —",
+  "— wählen —",
+  "— válassz —"
+ ],
+ "gen": [
+  "Generează citirea",
+  "Generate reading",
+  "Générer la lecture",
+  "Genera la lettura",
+  "Generar la lectura",
+  "Gerar leitura",
+  "Deutung erstellen",
+  "Olvasat készítése"
+ ],
+ "copy": [
+  "Copiază",
+  "Copy",
+  "Copier",
+  "Copia",
+  "Copiar",
+  "Copiar",
+  "Kopieren",
+  "Másolás"
+ ],
+ "print": [
+  "Tipărește",
+  "Print",
+  "Imprimer",
+  "Stampa",
+  "Imprimir",
+  "Imprimir",
+  "Drucken",
+  "Nyomtatás"
+ ],
+ "copied": [
+  "Copiat!",
+  "Copied!",
+  "Copié !",
+  "Copiato!",
+  "¡Copiado!",
+  "Copiado!",
+  "Kopiert!",
+  "Másolva!"
+ ],
+ "reset": [
+  "Resetează",
+  "Reset",
+  "Réinitialiser",
+  "Reimposta",
+  "Restablecer",
+  "Repor",
+  "Zurücksetzen",
+  "Visszaállítás"
+ ],
+ "readTitle": [
+  "Citirea ta",
+  "Your reading",
+  "Votre lecture",
+  "La tua lettura",
+  "Tu lectura",
+  "A sua leitura",
+  "Deine Deutung",
+  "Az olvasatod"
+ ],
+ "readIntro": [
+  "Privește-ți palma și alege ce observi. Rezultatul este un punct de plecare pentru reflecție.",
+  "Look at your palm and choose what you notice. The result is a starting point for reflection.",
+  "Regardez votre paume et choisissez ce que vous observez. Le résultat est un point de départ pour la réflexion.",
+  "Guarda il tuo palmo e scegli ciò che noti. Il risultato è un punto di partenza per riflettere.",
+  "Mira tu palma y elige lo que observas. El resultado es un punto de partida para la reflexión.",
+  "Olhe para a sua palma e escolha o que observa. O resultado é um ponto de partida para a reflexão.",
+  "Betrachte deine Handfläche und wähle, was du bemerkst. Das Ergebnis ist ein Ausgangspunkt zum Nachdenken.",
+  "Nézd meg a tenyered, és válaszd ki, amit észreveszel. Az eredmény kiindulópont az elmélkedéshez."
+ ],
+ "readNote": [
+  "Lectură simbolică din tradiția chiromanției: o oglindă pentru reflecție, nu o previziune, un diagnostic sau o descriere sigură a ta.",
+  "A symbolic reading from the palmistry tradition: a mirror for reflection, not a prediction, a diagnosis or a reliable description of you.",
+  "Une lecture symbolique issue de la tradition de la chiromancie : un miroir pour la réflexion, non une prédiction, un diagnostic ou une description fiable de vous.",
+  "Una lettura simbolica della tradizione chiromantica: uno specchio per riflettere, non una previsione, una diagnosi o una descrizione affidabile di te.",
+  "Una lectura simbólica de la tradición quiromántica: un espejo para la reflexión, no una predicción, un diagnóstico ni una descripción fiable de ti.",
+  "Uma leitura simbólica da tradição da quiromancia: um espelho para a reflexão, não uma previsão, um diagnóstico nem uma descrição fiável de si.",
+  "Eine symbolische Deutung aus der Tradition der Handlesekunst: ein Spiegel zur Reflexion, keine Vorhersage, keine Diagnose und keine verlässliche Beschreibung von dir.",
+  "Szimbolikus olvasat a tenyérjóslás hagyományából: tükör az elmélkedéshez, nem jóslat, diagnózis vagy megbízható leírás rólad."
+ ],
+ "hDisc": [
+  "Avertisment",
+  "Disclaimer",
+  "Avertissement",
+  "Avvertenza",
+  "Aviso",
+  "Aviso",
+  "Hinweis",
+  "Figyelmeztetés"
+ ],
+ "disc": [
+  "Chiromanția este o tradiție culturală și un joc de reflecție, nu o știință: nu i s-a demonstrat valoarea predictivă. Nu poate prezice viitorul și nu înlocuiește sfatul medical, juridic sau financiar. Folosește-o cu curiozitate și spirit critic.",
+  "Palmistry is a cultural tradition and a game of reflection, not a science: no predictive validity has been demonstrated. It cannot predict the future and does not replace medical, legal or financial advice. Use it with curiosity and a critical mind.",
+  "La chiromancie est une tradition culturelle et un jeu de réflexion, non une science : aucune validité prédictive n'a été démontrée. Elle ne peut pas prédire l'avenir et ne remplace pas un avis médical, juridique ou financier. Utilisez-la avec curiosité et esprit critique.",
+  "La chiromanzia è una tradizione culturale e un gioco di riflessione, non una scienza: non ne è stata dimostrata alcuna validità predittiva. Non può predire il futuro e non sostituisce un parere medico, legale o finanziario. Usala con curiosità e spirito critico.",
+  "La quiromancia es una tradición cultural y un juego de reflexión, no una ciencia: no se ha demostrado ninguna validez predictiva. No puede predecir el futuro ni sustituye el consejo médico, jurídico o financiero. Úsala con curiosidad y espíritu crítico.",
+  "A quiromancia é uma tradição cultural e um jogo de reflexão, não uma ciência: não foi demonstrada qualquer validade preditiva. Não pode prever o futuro nem substitui aconselhamento médico, jurídico ou financeiro. Use-a com curiosidade e espírito crítico.",
+  "Handlesekunst ist eine kulturelle Tradition und ein Spiel der Reflexion, keine Wissenschaft: Eine Vorhersagekraft ist nicht nachgewiesen. Sie kann die Zukunft nicht vorhersagen und ersetzt keine medizinische, rechtliche oder finanzielle Beratung. Nutze sie mit Neugier und kritischem Geist.",
+  "A tenyérjóslás kulturális hagyomány és az önreflexió játéka, nem tudomány: előrejelző értéke nem bizonyított. Nem képes megjósolni a jövőt, és nem helyettesíti az orvosi, jogi vagy pénzügyi tanácsot. Használd kíváncsisággal és kritikus szemlélettel."
+ ],
+ "hHist": [
+  "Istorie",
+  "History",
+  "Histoire",
+  "Storia",
+  "Historia",
+  "História",
+  "Geschichte",
+  "Történet"
+ ],
+ "hist": [
+  "Chiromanția (gr. cheir „mână” + manteia „divinație”) este creditată în mod tradițional cu rădăcini în India, China și Grecia antică. În secolul al XIX-lea a fost sistematizată în Europa de autori precum Casimir d'Arpentigny, care a clasificat formele mâinii, și popularizată de Cheiro.",
+  "Chiromancy (Greek cheir 'hand' + manteia 'divination') is traditionally credited with roots in India, China and ancient Greece. In the 19th century it was systematized in Europe by authors such as Casimir d'Arpentigny, who classified hand shapes, and popularized by Cheiro.",
+  "La chiromancie (gr. cheir « main » + manteia « divination ») se voit traditionnellement attribuer des racines en Inde, en Chine et dans la Grèce antique. Au XIXe siècle, elle fut systématisée en Europe par des auteurs comme Casimir d'Arpentigny, qui classa les formes de la main, puis popularisée par Cheiro.",
+  "Alla chiromanzia (gr. cheir «mano» + manteia «divinazione») si attribuiscono tradizionalmente radici in India, Cina e Grecia antica. Nell'Ottocento fu sistematizzata in Europa da autori come Casimir d'Arpentigny, che classificò le forme della mano, e resa popolare da Cheiro.",
+  "A la quiromancia (gr. cheir «mano» + manteia «adivinación») se le atribuyen tradicionalmente raíces en la India, en China y en la Grecia antigua. En el siglo XIX fue sistematizada en Europa por autores como Casimir d'Arpentigny, que clasificó las formas de la mano, y popularizada por Cheiro.",
+  "À quiromancia (gr. cheir «mão» + manteia «adivinhação») atribuem-se tradicionalmente raízes na Índia, na China e na Grécia antiga. No século XIX foi sistematizada na Europa por autores como Casimir d'Arpentigny, que classificou as formas da mão, e popularizada por Cheiro.",
+  "Die Chiromantie (gr. cheir „Hand“ + manteia „Weissagung“) wird der Überlieferung nach auf Wurzeln in Indien, China und im antiken Griechenland zurückgeführt. Im 19. Jahrhundert wurde sie in Europa von Autoren wie Casimir d'Arpentigny systematisiert, der die Handformen klassifizierte, und von Cheiro populär gemacht.",
+  "A kiromancia (gör. cheir „kéz” + manteia „jóslás”) gyökereit a hagyomány az ókori Indiába, Kínába és Görögországba vezeti vissza. A 19. században Európában olyan szerzők rendszerezték, mint Casimir d'Arpentigny, aki a kézformákat osztályozta, és Cheiro tette népszerűvé."
+ ],
+ "hTips": [
+  "Sfaturi",
+  "Tips",
+  "Conseils",
+  "Consigli",
+  "Consejos",
+  "Dicas",
+  "Tipps",
+  "Tippek"
+ ],
+ "tips": [
+  "Privește mâna la lumină bună, relaxată. Tradiția citește mâna dominantă ca „ce ai făcut din tine”, iar cealaltă ca potențial. Privește ansamblul, nu un singur semn.",
+  "Look at your hand in good light, relaxed. Tradition reads the dominant hand as 'what you made of yourself' and the other as potential. Read the whole picture, not a single sign.",
+  "Observez la main sous une bonne lumière, détendue. La tradition lit la main dominante comme « ce que vous avez fait de vous » et l'autre comme le potentiel. Lisez l'ensemble, pas un seul signe.",
+  "Osserva la mano con buona luce, rilassata. La tradizione legge la mano dominante come «ciò che hai fatto di te» e l'altra come potenziale. Leggi l'insieme, non un solo segno.",
+  "Observa la mano con buena luz y relajada. La tradición lee la mano dominante como «lo que has hecho de ti» y la otra como potencial. Lee el conjunto, no un solo signo.",
+  "Observe a mão com boa luz e relaxada. A tradição lê a mão dominante como «o que fez de si» e a outra como potencial. Leia o conjunto, não um único sinal.",
+  "Betrachte die Hand bei gutem Licht und entspannt. Die Tradition liest die dominante Hand als „was du aus dir gemacht hast“, die andere als Potenzial. Deute das Gesamtbild, nicht ein einzelnes Zeichen.",
+  "Jó fényben, ellazult kézzel vizsgáld a tenyered. A hagyomány szerint a domináns kéz azt mutatja, mit tettél magadból, a másik a lehetőségeket. A teljes képet nézd, ne egyetlen jelet."
+ ],
+ "free": [
+  "Fără urmărire, fără conturi, fără conexiune externă — funcționează offline.",
+  "No tracking, no accounts, no external connections — works offline.",
+  "Sans suivi, sans compte, sans connexion externe — fonctionne hors ligne.",
+  "Nessun tracciamento, nessun account, nessuna connessione esterna — funziona offline.",
+  "Sin rastreo, sin cuentas, sin conexiones externas — funciona sin conexión.",
+  "Sem rastreio, sem contas, sem ligações externas — funciona offline.",
+  "Kein Tracking, keine Konten, keine externen Verbindungen — funktioniert offline.",
+  "Nyomkövetés, fiókok és külső kapcsolatok nélkül — offline működik."
+ ],
+ "ver": [
+  "Versiune",
+  "Version",
+  "Version",
+  "Versione",
+  "Versión",
+  "Versão",
+  "Version",
+  "Verzió"
+ ],
+ "upd": [
+  "Ultima actualizare",
+  "Last updated",
+  "Dernière mise à jour",
+  "Ultimo aggiornamento",
+  "Última actualización",
+  "Última atualização",
+  "Zuletzt aktualisiert",
+  "Utolsó frissítés"
+ ],
+ "bmc": [
+  "Cumpără-mi o cafea",
+  "Buy me a coffee",
+  "Offrez-moi un café",
+  "Offrimi un caffè",
+  "Invítame a un café",
+  "Ofereça-me um café",
+  "Spendiere mir einen Kaffee",
+  "Hívj meg egy kávéra"
+ ],
+ "tNav": [
+  "Navigare",
+  "Navigation",
+  "Navigation",
+  "Navigazione",
+  "Navegación",
+  "Navegação",
+  "Navigation",
+  "Navigáció"
+ ],
+ "langLbl": [
+  "Limba",
+  "Language",
+  "Langue",
+  "Lingua",
+  "Idioma",
+  "Idioma",
+  "Sprache",
+  "Nyelv"
+ ],
+ "themeLbl": [
+  "Temă luminoasă / întunecată",
+  "Light / dark theme",
+  "Thème clair / sombre",
+  "Tema chiaro / scuro",
+  "Tema claro / oscuro",
+  "Tema claro / escuro",
+  "Helles / dunkles Design",
+  "Világos / sötét téma"
+ ],
+ "handLbl": [
+  "Alege mâna",
+  "Choose hand",
+  "Choisir la main",
+  "Scegli la mano",
+  "Elegir la mano",
+  "Escolher a mão",
+  "Hand wählen",
+  "Kéz kiválasztása"
+ ],
+ "layersLbl": [
+  "Straturi vizibile",
+  "Visible layers",
+  "Calques visibles",
+  "Livelli visibili",
+  "Capas visibles",
+  "Camadas visíveis",
+  "Sichtbare Ebenen",
+  "Látható rétegek"
+ ],
+ "readEmpty": [
+  "Alege cel puțin o opțiune pentru a genera citirea.",
+  "Choose at least one option to generate a reading.",
+  "Choisissez au moins une option pour générer la lecture.",
+  "Scegli almeno un'opzione per generare la lettura.",
+  "Elige al menos una opción para generar la lectura.",
+  "Escolha pelo menos uma opção para gerar a leitura.",
+  "Wähle mindestens eine Option, um eine Deutung zu erstellen.",
+  "Válassz legalább egy lehetőséget az olvasat elkészítéséhez."
+ ],
+ "kbd": [
+  "Tastatură: săgețile mută selecția, Enter alege.",
+  "Keyboard: arrow keys move, Enter selects.",
+  "Clavier : les flèches déplacent, Entrée sélectionne.",
+  "Tastiera: le frecce spostano, Invio seleziona.",
+  "Teclado: las flechas mueven, Intro selecciona.",
+  "Teclado: as setas movem, Enter seleciona.",
+  "Tastatur: Pfeiltasten bewegen die Auswahl, Enter wählt aus.",
+  "Billentyűzet: a nyilak mozgatnak, az Enter kiválaszt."
+ ],
+ "skip": [
+  "Salt la conținut",
+  "Skip to content",
+  "Aller au contenu",
+  "Vai al contenuto",
+  "Saltar al contenido",
+  "Saltar para o conteúdo",
+  "Zum Inhalt springen",
+  "Ugrás a tartalomra"
+ ],
+ "nojs": [
+  "Această aplicație are nevoie de JavaScript.",
+  "This app needs JavaScript.",
+  "Cette application nécessite JavaScript.",
+  "Questa app richiede JavaScript.",
+  "Esta aplicación necesita JavaScript.",
+  "Esta aplicação precisa de JavaScript.",
+  "Diese App benötigt JavaScript.",
+  "Ehhez az alkalmazáshoz JavaScript szükséges."
+ ],
+ "minor": [
+  "Linii secundare",
+  "Minor lines",
+  "Lignes secondaires",
+  "Linee secondarie",
+  "Líneas secundarias",
+  "Linhas secundárias",
+  "Nebenlinien",
+  "Másodlagos vonalak"
+ ],
+ "tyH7": [
+  "Cele 7 tipuri clasice (d'Arpentigny)",
+  "The 7 classical types (d'Arpentigny)",
+  "Les 7 types classiques (d'Arpentigny)",
+  "I 7 tipi classici (d'Arpentigny)",
+  "Los 7 tipos clásicos (d'Arpentigny)",
+  "Os 7 tipos clássicos (d'Arpentigny)",
+  "Die 7 klassischen Typen (d'Arpentigny)",
+  "A 7 klasszikus típus (d'Arpentigny)"
+ ],
+ "tyH4": [
+  "Cele 4 elemente",
+  "The 4 elements",
+  "Les 4 éléments",
+  "I 4 elementi",
+  "Los 4 elementos",
+  "Os 4 elementos",
+  "Die 4 Elemente",
+  "A 4 elem"
+ ],
+ "calcT": [
+  "Măsoară-ți mâna",
+  "Measure your hand",
+  "Mesurez votre main",
+  "Misura la tua mano",
+  "Mide tu mano",
+  "Meça a sua mão",
+  "Miss deine Hand",
+  "Mérd meg a kezed"
+ ],
+ "palmLen": [
+  "Lungimea palmei (mm)",
+  "Palm length (mm)",
+  "Longueur de la paume (mm)",
+  "Lunghezza del palmo (mm)",
+  "Longitud de la palma (mm)",
+  "Comprimento da palma (mm)",
+  "Handflächenlänge (mm)",
+  "Tenyér hossza (mm)"
+ ],
+ "palmWid": [
+  "Lățimea palmei (mm)",
+  "Palm width (mm)",
+  "Largeur de la paume (mm)",
+  "Larghezza del palmo (mm)",
+  "Anchura de la palma (mm)",
+  "Largura da palma (mm)",
+  "Handflächenbreite (mm)",
+  "Tenyér szélessége (mm)"
+ ],
+ "midLen": [
+  "Lungimea degetului mijlociu (mm)",
+  "Middle finger length (mm)",
+  "Longueur du majeur (mm)",
+  "Lunghezza del dito medio (mm)",
+  "Longitud del dedo corazón (mm)",
+  "Comprimento do dedo médio (mm)",
+  "Länge des Mittelfingers (mm)",
+  "Középső ujj hossza (mm)"
+ ],
+ "calcHow": [
+  "Ține mâna întinsă: măsoară palma de la pliul încheieturii până la baza degetului mijlociu și lățimea pe linia articulațiilor, apoi degetul mijlociu de la bază până la vârf.",
+  "Hold your hand flat: measure the palm from the wrist crease to the base of the middle finger, its width across the knuckle line, then the middle finger from base to tip.",
+  "Main à plat : mesurez la paume du pli du poignet à la base du majeur, sa largeur sur la ligne des articulations, puis le majeur de sa base à son extrémité.",
+  "Tieni la mano distesa: misura il palmo dalla piega del polso alla base del medio, la larghezza sulla linea delle nocche, poi il medio dalla base alla punta.",
+  "Mantén la mano extendida: mide la palma del pliegue de la muñeca a la base del corazón, su anchura por los nudillos y el dedo corazón de la base a la punta.",
+  "Mantenha a mão estendida: meça a palma da prega do pulso à base do dedo médio, a largura pela linha das articulações e depois o dedo médio da base à ponta.",
+  "Halte die Hand flach: Miss die Handfläche von der Handgelenkfalte bis zum Ansatz des Mittelfingers, die Breite über der Knöchellinie, dann den Mittelfinger von Ansatz bis Spitze.",
+  "Tartsd laposan a kezed: mérd a tenyeret a csuklóredőtől a középső ujj tövéig, a szélességét az ujjtőízületek vonalán, majd a középső ujjat a töve és a hegye között."
+ ],
+ "calcRes": [
+  "Rezultat",
+  "Result",
+  "Résultat",
+  "Risultato",
+  "Resultado",
+  "Resultado",
+  "Ergebnis",
+  "Eredmény"
+ ],
+ "calcWarn": [
+  "Verifică numerele: par neobișnuite.",
+  "Check the numbers: they look unusual.",
+  "Vérifiez les chiffres : ils semblent inhabituels.",
+  "Controlla i numeri: sembrano insoliti.",
+  "Revisa los números: parecen inusuales.",
+  "Verifique os números: parecem invulgares.",
+  "Prüfe die Zahlen: Sie wirken ungewöhnlich.",
+  "Ellenőrizd a számokat: szokatlannak tűnnek."
+ ],
+ "calcUse": [
+  "Folosește în lectura ghidată",
+  "Use in guided reading",
+  "Utiliser en lecture guidée",
+  "Usa nella lettura guidata",
+  "Usar en la lectura guiada",
+  "Usar na leitura guiada",
+  "In Deutung übernehmen",
+  "Használat az olvasatban"
+ ],
+ "tMeas": [
+  "Măsurători",
+  "Measurements",
+  "Mesures",
+  "Misurazioni",
+  "Mediciones",
+  "Medições",
+  "Messungen",
+  "Mérések"
+ ],
+ "idxLen": [
+  "Lungimea degetului arătător (mm)",
+  "Index finger length (mm)",
+  "Longueur de l'index (mm)",
+  "Lunghezza dell'indice (mm)",
+  "Longitud del dedo índice (mm)",
+  "Comprimento do indicador (mm)",
+  "Länge des Zeigefingers (mm)",
+  "A mutatóujj hossza (mm)"
+ ],
+ "ringLen": [
+  "Lungimea inelarului (mm)",
+  "Ring finger length (mm)",
+  "Longueur de l'annulaire (mm)",
+  "Lunghezza dell'anulare (mm)",
+  "Longitud del dedo anular (mm)",
+  "Comprimento do anelar (mm)",
+  "Länge des Ringfingers (mm)",
+  "A gyűrűsujj hossza (mm)"
+ ],
+ "sexLbl": [
+  "Grup de referință (după sex, ca în studiul-sursă)",
+  "Reference group (by sex, as in the source study)",
+  "Groupe de référence (selon le sexe, comme dans l'étude source)",
+  "Gruppo di riferimento (per sesso, come nello studio di origine)",
+  "Grupo de referencia (según el sexo, como en el estudio de origen)",
+  "Grupo de referência (por sexo, como no estudo de origem)",
+  "Referenzgruppe (nach Geschlecht, wie in der Ursprungsstudie)",
+  "Referenciacsoport (nem szerint, mint a forrástanulmányban)"
+ ],
+ "male": [
+  "Bărbat",
+  "Male",
+  "Homme",
+  "Maschio",
+  "Hombre",
+  "Homem",
+  "Männlich",
+  "Férfi"
+ ],
+ "female": [
+  "Femeie",
+  "Female",
+  "Femme",
+  "Femmina",
+  "Mujer",
+  "Mulher",
+  "Weiblich",
+  "Nő"
+ ],
+ "ratioLbl": [
+  "Raport 2D:4D",
+  "Ratio 2D:4D",
+  "Rapport 2D:4D",
+  "Rapporto 2D:4D",
+  "Proporción 2D:4D",
+  "Razão 2D:4D",
+  "Verhältnis 2D:4D",
+  "2D:4D arány"
+ ],
+ "zLbl": [
+  "Distanța față de media eșantionului de referință (unități SD)",
+  "Distance from the reference sample average (SD units)",
+  "Écart par rapport à la moyenne de l'échantillon de référence (en unités d'écart-type)",
+  "Distanza dalla media del campione di riferimento (in unità SD)",
+  "Distancia respecto a la media de la muestra de referencia (en unidades de DE)",
+  "Distância à média da amostra de referência (em unidades de DP)",
+  "Abstand vom Durchschnitt der Referenzstichprobe (in SD-Einheiten)",
+  "Eltérés a referenciaminta átlagától (SD-egységben)"
+ ],
+ "measNote": [
+  "Valorile de referință vin dintr-un singur eșantion (studenți han din Liaoning, 18–20 de ani; Xi et al. 2014) și pot să nu se potrivească altor populații; sunt statistici de grup, nu un diagnostic individual. Rezultatul nu spune nimic despre personalitate, sănătate sau abilități. Instrument pentru distracție și educație.",
+  "Reference values come from a single sample (Han students from Liaoning aged 18–20; Xi et al. 2014) and may not fit other populations; they are group statistics, not an individual diagnosis. The result says nothing about personality, health or abilities. A tool for fun and education.",
+  "Les valeurs de référence proviennent d'un seul échantillon (étudiants han du Liaoning âgés de 18 à 20 ans ; Xi et al., 2014) et peuvent ne pas convenir à d'autres populations ; ce sont des statistiques de groupe, non un diagnostic individuel. Le résultat ne dit rien de la personnalité, de la santé ni des aptitudes. Un outil pour le plaisir et l'éducation.",
+  "I valori di riferimento provengono da un unico campione (studenti han del Liaoning di 18–20 anni; Xi et al., 2014) e possono non adattarsi ad altre popolazioni; sono statistiche di gruppo, non una diagnosi individuale. Il risultato non dice nulla su personalità, salute o abilità. Uno strumento per divertimento ed educazione.",
+  "Los valores de referencia proceden de una única muestra (estudiantes han de Liaoning de 18 a 20 años; Xi et al., 2014) y pueden no ajustarse a otras poblaciones; son estadísticas de grupo, no un diagnóstico individual. El resultado no dice nada sobre personalidad, salud ni aptitudes. Una herramienta para el entretenimiento y la educación.",
+  "Os valores de referência provêm de uma única amostra (estudantes han de Liaoning, dos 18 aos 20 anos; Xi et al., 2014) e podem não se ajustar a outras populações; são estatísticas de grupo, não um diagnóstico individual. O resultado nada diz sobre personalidade, saúde ou capacidades. Uma ferramenta para diversão e educação.",
+  "Die Referenzwerte stammen aus einer einzigen Stichprobe (Han-Studierende aus Liaoning im Alter von 18 bis 20 Jahren; Xi et al., 2014) und passen möglicherweise nicht auf andere Bevölkerungsgruppen; es sind Gruppenstatistiken, keine Einzeldiagnose. Das Ergebnis sagt nichts über Persönlichkeit, Gesundheit oder Fähigkeiten aus. Ein Werkzeug zur Unterhaltung und Bildung.",
+  "A referenciaértékek egyetlen mintából származnak (liaoningi han egyetemisták, 18–20 évesek; Xi és mtsai, 2014), és más populációkra nem biztos, hogy illenek; csoportszintű statisztikák, nem egyéni diagnózis. Az eredmény semmit sem mond a személyiségről, az egészségről vagy a képességekről. Szórakozásra és oktatásra szánt eszköz."
+ ],
+ "handLen": [
+  "Lungimea mâinii (mm)",
+  "Hand length (mm)",
+  "Longueur de la main (mm)",
+  "Lunghezza della mano (mm)",
+  "Longitud de la mano (mm)",
+  "Comprimento da mão (mm)",
+  "Handlänge (mm)",
+  "A kéz hossza (mm)"
+ ],
+ "statLbl": [
+  "Înălțime (cm)",
+  "Stature (cm)",
+  "Taille (cm)",
+  "Statura (cm)",
+  "Estatura (cm)",
+  "Estatura (cm)",
+  "Körpergröße (cm)",
+  "Testmagasság (cm)"
+ ],
+ "tFing": [
+  "Degete și unghii",
+  "Fingers & nails",
+  "Doigts et ongles",
+  "Dita e unghie",
+  "Dedos y uñas",
+  "Dedos e unhas",
+  "Finger & Nägel",
+  "Ujjak és körmök"
+ ],
+ "gTip": [
+  "Vârfurile degetelor",
+  "Fingertips",
+  "Bouts des doigts",
+  "Punte delle dita",
+  "Puntas de los dedos",
+  "Pontas dos dedos",
+  "Fingerspitzen",
+  "Ujjhegyek"
+ ],
+ "gNail": [
+  "Unghiile",
+  "Nails",
+  "Ongles",
+  "Unghie",
+  "Uñas",
+  "Unhas",
+  "Nägel",
+  "Körmök"
+ ],
+ "gJoint": [
+  "Articulațiile",
+  "Joints",
+  "Articulations",
+  "Articolazioni",
+  "Articulaciones",
+  "Articulações",
+  "Gelenke",
+  "Ízületek"
+ ],
+ "gGap": [
+  "Spațiul dintre degete",
+  "Finger spacing",
+  "Écart entre les doigts",
+  "Spazio tra le dita",
+  "Espacio entre dedos",
+  "Espaço entre dedos",
+  "Fingerabstand",
+  "Ujjak távolsága"
+ ],
+ "gPhal": [
+  "Falangele",
+  "Phalanges",
+  "Phalanges",
+  "Falangi",
+  "Falanges",
+  "Falanges",
+  "Fingerglieder",
+  "Ujjpercek"
+ ],
+ "gThumb": [
+  "Degetul mare",
+  "Thumb",
+  "Pouce",
+  "Pollice",
+  "Pulgar",
+  "Polegar",
+  "Daumen",
+  "Hüvelykujj"
+ ],
+ "tSci": [
+  "Știință și gândire critică",
+  "Science & critical thinking",
+  "Science et esprit critique",
+  "Scienza e pensiero critico",
+  "Ciencia y pensamiento crítico",
+  "Ciência e pensamento crítico",
+  "Wissenschaft & Kritik",
+  "Tudomány és kritika"
+ ],
+ "lvl0": [
+  "Nicio dovadă găsită",
+  "No evidence found",
+  "Aucune preuve trouvée",
+  "Nessuna prova trovata",
+  "No se han encontrado pruebas",
+  "Nenhuma prova encontrada",
+  "Keine Belege gefunden",
+  "Nem találtunk bizonyítékot"
+ ],
+ "lvl1": [
+  "Testat, nesusținut",
+  "Tested, not supported",
+  "Testé, non confirmé",
+  "Testato, non supportato",
+  "Probado, no respaldado",
+  "Testado, não suportado",
+  "Geprüft, nicht gestützt",
+  "Vizsgálták, nem támasztották alá"
+ ],
+ "lvl2": [
+  "Dovezi limitate / disputate",
+  "Limited / contested evidence",
+  "Preuves limitées / contestées",
+  "Prove limitate / controverse",
+  "Pruebas limitadas / discutidas",
+  "Provas limitadas / contestadas",
+  "Begrenzte / umstrittene Belege",
+  "Korlátozott / vitatott bizonyíték"
+ ],
+ "lvl3": [
+  "Bine stabilit",
+  "Well established",
+  "Bien établi",
+  "Ben consolidato",
+  "Bien establecido",
+  "Bem estabelecido",
+  "Gut belegt",
+  "Jól megalapozott"
+ ],
+ "hClaims": [
+  "Ce spun dovezile?",
+  "What does the evidence say?",
+  "Que disent les preuves ?",
+  "Cosa dicono le prove?",
+  "¿Qué dicen las pruebas?",
+  "O que dizem as provas?",
+  "Was sagen die Belege?",
+  "Mit mondanak a bizonyítékok?"
+ ],
+ "hBarnum": [
+  "Încearcă testul Barnum",
+  "Try the Barnum test",
+  "Essaie le test de Barnum",
+  "Prova il test di Barnum",
+  "Prueba el test de Barnum",
+  "Experimenta o teste de Barnum",
+  "Probiere den Barnum-Test aus",
+  "Próbáld ki a Barnum-tesztet"
+ ],
+ "barnumIntro": [
+  "Citește paragraful „personal” de mai jos și notează de la 0 la 5 cât de bine te descrie. Apoi vei vedea că este exact același pentru toată lumea.",
+  "Read the 'personal' paragraph below and rate from 0 to 5 how well it describes you. Then you will see that it is exactly the same for everyone.",
+  "Lis le paragraphe « personnel » ci-dessous et note de 0 à 5 à quel point il te décrit. Tu verras ensuite qu'il est exactement le même pour tout le monde.",
+  "Leggi il paragrafo «personale» qui sotto e valuta da 0 a 5 quanto ti descrive. Poi vedrai che è identico per tutti.",
+  "Lee el párrafo «personal» de abajo y puntúa de 0 a 5 cuánto te describe. Después verás que es exactamente el mismo para todo el mundo.",
+  "Lê o parágrafo «pessoal» abaixo e avalia de 0 a 5 quanto ele te descreve. Depois verás que é exatamente o mesmo para toda a gente.",
+  "Lies den „persönlichen“ Absatz unten und bewerte von 0 bis 5, wie gut er dich beschreibt. Danach siehst du, dass er für alle genau gleich ist.",
+  "Olvasd el az alábbi „személyes” bekezdést, és 0-tól 5-ig értékeld, mennyire jellemez téged. Utána látni fogod, hogy mindenkinek pontosan ugyanez szól."
+ ],
+ "barnumRate": [
+  "Cât de exact este pentru tine? (0–5)",
+  "How accurate is this for you? (0–5)",
+  "Dans quelle mesure est-ce exact pour toi ? (0–5)",
+  "Quanto è accurato per te? (0–5)",
+  "¿Cuán acertado es para ti? (0–5)",
+  "Quão exato é para ti? (0–5)",
+  "Wie zutreffend ist das für dich? (0–5)",
+  "Mennyire pontos ez rád nézve? (0–5)"
+ ],
+ "barnumShow": [
+  "Dezvăluie",
+  "Reveal",
+  "Révéler",
+  "Rivela",
+  "Revelar",
+  "Revelar",
+  "Aufdecken",
+  "Felfedés"
+ ],
+ "barnumRes": [
+  "Ai dat nota {r}/5. Studenții lui Forer din 1948 au dat în medie 4,26/5 unui text de același fel. Afirmațiile atât de generale se potrivesc aproape tuturor.",
+  "You rated it {r}/5. Forer's 1948 students gave an average of 4.26/5 for the same kind of text. Statements this general fit almost everyone.",
+  "Tu as donné {r}/5. Les étudiants de Forer, en 1948, ont donné en moyenne 4,26/5 à un texte du même genre. Des énoncés aussi généraux conviennent à presque tout le monde.",
+  "Hai dato {r}/5. Gli studenti di Forer nel 1948 hanno dato in media 4,26/5 a un testo dello stesso tipo. Affermazioni così generiche si adattano a quasi tutti.",
+  "Lo has puntuado con {r}/5. Los estudiantes de Forer en 1948 dieron una media de 4,26/5 a un texto del mismo tipo. Afirmaciones tan generales encajan con casi todo el mundo.",
+  "Deste {r}/5. Os estudantes de Forer em 1948 deram em média 4,26/5 a um texto do mesmo género. Afirmações tão gerais servem a quase toda a gente.",
+  "Du hast {r}/5 vergeben. Forers Studierende gaben 1948 im Durchschnitt 4,26/5 für einen Text derselben Art. So allgemeine Aussagen passen auf fast jeden.",
+  "{r}/5-öt adtál. Forer diákjai 1948-ban átlagosan 4,26/5-öt adtak ugyanilyen jellegű szövegre. Ilyen általános állítások szinte mindenkire illenek."
+ ],
+ "barnumAgain": [
+  "Încearcă din nou",
+  "Try again",
+  "Réessayer",
+  "Riprova",
+  "Inténtalo de nuevo",
+  "Tentar novamente",
+  "Noch einmal versuchen",
+  "Próbáld újra"
+ ],
+ "hCold": [
+  "Cum funcționează citirea „la rece”",
+  "How cold reading works",
+  "Comment fonctionne la lecture à froid",
+  "Come funziona la lettura a freddo",
+  "Cómo funciona la lectura en frío",
+  "Como funciona a leitura a frio",
+  "Wie Cold Reading funktioniert",
+  "Hogyan működik a hidegolvasás"
+ ],
+ "srcLbl": [
+  "Sursă",
+  "Source",
+  "Source",
+  "Fonte",
+  "Fuente",
+  "Fonte",
+  "Quelle",
+  "Forrás"
+ ],
+ "tDerm": [
+  "Amprente și pliuri",
+  "Fingerprints & creases",
+  "Empreintes & plis",
+  "Impronte e pieghe",
+  "Huellas y pliegues",
+  "Impressões e pregas",
+  "Fingerabdrücke & Furchen",
+  "Ujjlenyomatok és redők"
+ ],
+ "gPattern": [
+  "Tipuri de modele",
+  "Pattern types",
+  "Types de motifs",
+  "Tipi di disegno",
+  "Tipos de patrón",
+  "Tipos de padrão",
+  "Mustertypen",
+  "Mintatípusok"
+ ],
+ "gFact": [
+  "Fapte științifice",
+  "Scientific facts",
+  "Faits scientifiques",
+  "Fatti scientifici",
+  "Datos científicos",
+  "Factos científicos",
+  "Fakten",
+  "Tudományos tények"
+ ],
+ "gCrease": [
+  "Pliurile palmei",
+  "Palm creases",
+  "Plis de la paume",
+  "Pieghe del palmo",
+  "Pliegues de la palma",
+  "Pregas da palma",
+  "Handfurchen",
+  "Tenyérredők"
+ ],
+ "gCount": [
+  "Numără-ți amprentele",
+  "Count your prints",
+  "Comptez vos empreintes",
+  "Conta le tue impronte",
+  "Cuenta tus huellas",
+  "Conte as impressões",
+  "Zähl deine Abdrücke",
+  "Számold meg őket"
+ ],
+ "cntLoop": [
+  "Bucle",
+  "Loops",
+  "Boucles",
+  "Anse",
+  "Lazos",
+  "Laçadas",
+  "Schleifen",
+  "Hurkok"
+ ],
+ "cntWhorl": [
+  "Vârtejuri",
+  "Whorls",
+  "Tourbillons",
+  "Verticilli",
+  "Verticilos",
+  "Verticilos",
+  "Wirbel",
+  "Örvények"
+ ],
+ "cntArch": [
+  "Arcuri",
+  "Arches",
+  "Arcs",
+  "Archi",
+  "Arcos",
+  "Arcos",
+  "Bögen",
+  "Ívek"
+ ],
+ "cntTotal": [
+  "Total",
+  "Total",
+  "Total",
+  "Totale",
+  "Total",
+  "Total",
+  "Gesamt",
+  "Összesen"
+ ],
+ "cntRef": [
+  "Interval de referință în populație",
+  "Reference range in the population",
+  "Plage de référence dans la population",
+  "Intervallo di riferimento nella popolazione",
+  "Rango de referencia en la población",
+  "Intervalo de referência na população",
+  "Referenzbereich in der Bevölkerung",
+  "Referenciatartomány a népességben"
+ ],
+ "cntReset": [
+  "Resetează numărătoarea",
+  "Reset tally",
+  "Réinitialiser le décompte",
+  "Azzera il conteggio",
+  "Reiniciar el recuento",
+  "Repor a contagem",
+  "Zählung zurücksetzen",
+  "Számláló nullázása"
+ ],
+ "tEthics": [
+  "Despre / Etică și limite",
+  "About / Ethics and limits",
+  "À propos / Éthique et limites",
+  "Informazioni / Etica e limiti",
+  "Acerca de / Ética y límites",
+  "Sobre / Ética e limites",
+  "Über / Ethik und Grenzen",
+  "Névjegy / Etika és korlátok"
+ ],
+ "tCredits": [
+  "Credite și tradiții",
+  "Credits and traditions",
+  "Crédits et traditions",
+  "Crediti e tradizioni",
+  "Créditos y tradiciones",
+  "Créditos e tradições",
+  "Quellen und Traditionen",
+  "Források és hagyományok"
+ ],
+ "credTxt": [
+  "Atlasul se inspiră din tradiția chiromanției europene: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) și William G. Benham (The Laws of Scientific Hand Reading, 1900). Pentru amprente și creste cutanate, știința relevantă este dermatoglifele. Aceste nume sunt citate doar istoric; nu există nicio afiliere sau aprobare. Text original, fără material copiat.",
+  "The atlas draws on the European palmistry tradition: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) and William G. Benham (The Laws of Scientific Hand Reading, 1900). For fingerprints and skin ridges, the relevant science is dermatoglyphics. These names are cited for history only; no affiliation or endorsement is claimed. Original text, no copied material.",
+  "L'atlas s'inspire de la tradition chiromantique européenne : Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) et William G. Benham (The Laws of Scientific Hand Reading, 1900). Pour les empreintes et les crêtes cutanées, la science pertinente est la dermatoglyphie. Ces noms sont cités à titre historique ; aucune affiliation ni approbation n'est revendiquée. Texte original, sans matériel copié.",
+  "L'atlante si ispira alla tradizione chiromantica europea: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) e William G. Benham (The Laws of Scientific Hand Reading, 1900). Per impronte e creste cutanee la scienza pertinente è la dermatoglifica. Questi nomi sono citati solo a titolo storico; non si dichiara alcuna affiliazione o approvazione. Testo originale, nessun materiale copiato.",
+  "El atlas se inspira en la tradición quiromántica europea: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) y William G. Benham (The Laws of Scientific Hand Reading, 1900). Para huellas y crestas cutáneas, la ciencia pertinente es la dermatoglifia. Estos nombres se citan solo con fines históricos; no se alega afiliación ni aval. Texto original, sin material copiado.",
+  "O atlas inspira-se na tradição quiromântica europeia: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) e William G. Benham (The Laws of Scientific Hand Reading, 1900). Para impressões digitais e cristas cutâneas, a ciência pertinente é a dermatoglifia. Estes nomes são citados apenas por razões históricas; não se alega afiliação nem aval. Texto original, sem material copiado.",
+  "Der Atlas stützt sich auf die europäische chiromantische Tradition: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) und William G. Benham (The Laws of Scientific Hand Reading, 1900). Für Fingerabdrücke und Hautleisten ist die Dermatoglyphik die einschlägige Wissenschaft. Die Namen werden nur historisch genannt; es wird keine Zugehörigkeit oder Billigung behauptet. Eigener Text, kein kopiertes Material.",
+  "Az atlasz az európai kézjóslási hagyományra támaszkodik: Casimir Stanislas d'Arpentigny (La Chirognomie, 1839), Adolphe Desbarrolles, Cheiro (William John Warner) és William G. Benham (The Laws of Scientific Hand Reading, 1900). Az ujjlenyomatok és bőrbarázdák vonatkozó tudománya a dermatoglifia. E neveket csak történeti okból említjük; nem állítunk kapcsolatot vagy jóváhagyást. Eredeti szöveg, átvett anyag nélkül."
+ ],
+ "tRd2Mounts": [
+  "Înălțimea munților",
+  "Mount height",
+  "Hauteur des monts",
+  "Altezza dei monti",
+  "Altura de los montes",
+  "Altura dos montes",
+  "Höhe der Berge",
+  "Dombok magassága"
+ ],
+ "tRd2Extra": [
+  "Linii suplimentare",
+  "Extra lines",
+  "Lignes en plus",
+  "Linee aggiuntive",
+  "Líneas adicionales",
+  "Linhas adicionais",
+  "Weitere Linien",
+  "További vonalak"
+ ],
+ "mtLow": [
+  "Plat",
+  "Flat",
+  "Plat",
+  "Piatto",
+  "Plano",
+  "Plano",
+  "Flach",
+  "Lapos"
+ ],
+ "mtMid": [
+  "Mediu",
+  "Medium",
+  "Moyen",
+  "Medio",
+  "Medio",
+  "Médio",
+  "Mittel",
+  "Közepes"
+ ],
+ "mtHigh": [
+  "Pronunțat",
+  "Pronounced",
+  "Prononcé",
+  "Pronunciato",
+  "Pronunciado",
+  "Pronunciado",
+  "Ausgeprägt",
+  "Hangsúlyos"
+ ],
+ "tProfiles": [
+  "Profiluri",
+  "Profiles",
+  "Profils",
+  "Profili",
+  "Perfiles",
+  "Perfis",
+  "Profile",
+  "Profilok"
+ ],
+ "profName": [
+  "Nume profil",
+  "Profile name",
+  "Nom du profil",
+  "Nome profilo",
+  "Nombre del perfil",
+  "Nome do perfil",
+  "Profilname",
+  "Profil neve"
+ ],
+ "profSave": [
+  "Salvează profilul",
+  "Save profile",
+  "Enregistrer",
+  "Salva profilo",
+  "Guardar perfil",
+  "Guardar perfil",
+  "Profil speichern",
+  "Profil mentése"
+ ],
+ "profLoad": [
+  "Încarcă",
+  "Load",
+  "Charger",
+  "Carica",
+  "Cargar",
+  "Carregar",
+  "Laden",
+  "Betöltés"
+ ],
+ "profDel": [
+  "Șterge",
+  "Delete",
+  "Supprimer",
+  "Elimina",
+  "Eliminar",
+  "Eliminar",
+  "Löschen",
+  "Törlés"
+ ],
+ "profExport": [
+  "Exportă profilurile",
+  "Export profiles",
+  "Exporter les profils",
+  "Esporta profili",
+  "Exportar perfiles",
+  "Exportar perfis",
+  "Profile exportieren",
+  "Profilok exportálása"
+ ],
+ "profImport": [
+  "Importă profilurile",
+  "Import profiles",
+  "Importer les profils",
+  "Importa profili",
+  "Importar perfiles",
+  "Importar perfis",
+  "Profile importieren",
+  "Profilok importálása"
+ ],
+ "profEmpty": [
+  "Niciun profil salvat",
+  "No saved profiles",
+  "Aucun profil enregistré",
+  "Nessun profilo salvato",
+  "Ningún perfil guardado",
+  "Nenhum perfil guardado",
+  "Keine Profile gespeichert",
+  "Nincs mentett profil"
+ ],
+ "handCmp": [
+  "Compară mâinile",
+  "Compare hands",
+  "Comparer les mains",
+  "Confronta le mani",
+  "Comparar las manos",
+  "Comparar as mãos",
+  "Hände vergleichen",
+  "Kezek összehasonlítása"
+ ],
+ "leftHand": [
+  "Mâna stângă",
+  "Left hand",
+  "Main gauche",
+  "Mano sinistra",
+  "Mano izquierda",
+  "Mão esquerda",
+  "Linke Hand",
+  "Bal kéz"
+ ],
+ "rightHandX": [
+  "Mâna dreaptă",
+  "Right hand",
+  "Main droite",
+  "Mano destra",
+  "Mano derecha",
+  "Mão direita",
+  "Rechte Hand",
+  "Jobb kéz"
+ ],
+ "expJson": [
+  "Exportă JSON",
+  "Export JSON",
+  "Exporter en JSON",
+  "Esporta JSON",
+  "Exportar JSON",
+  "Exportar JSON",
+  "JSON exportieren",
+  "JSON exportálása"
+ ],
+ "impJson": [
+  "Importă JSON",
+  "Import JSON",
+  "Importer un JSON",
+  "Importa JSON",
+  "Importar JSON",
+  "Importar JSON",
+  "JSON importieren",
+  "JSON importálása"
+ ],
+ "impErr": [
+  "Fișier invalid",
+  "Invalid file",
+  "Fichier invalide",
+  "File non valido",
+  "Archivo no válido",
+  "Ficheiro inválido",
+  "Ungültige Datei",
+  "Érvénytelen fájl"
+ ],
+ "tTimeline": [
+  "Cronologia liniei vieții",
+  "Life-line timeline",
+  "Chronologie de la ligne",
+  "Cronologia della linea",
+  "Cronología de la línea",
+  "Cronologia da linha",
+  "Zeitleiste Lebenslinie",
+  "Életvonal idővonala"
+ ],
+ "tlNote": [
+  "Despre cronologie",
+  "About the timeline",
+  "À propos",
+  "Sulla cronologia",
+  "Sobre la cronología",
+  "Sobre a cronologia",
+  "Zur Zeitleiste",
+  "Az idővonalról"
+ ],
+ "tlHow": [
+  "Cum se estimează",
+  "How it is estimated",
+  "Comment l'estimer",
+  "Come si stima",
+  "Cómo se estima",
+  "Como se estima",
+  "So wird geschätzt",
+  "Hogyan becsülik"
+ ],
+ "srchGo": [
+  "Deschide",
+  "Open",
+  "Ouvrir",
+  "Apri",
+  "Abrir",
+  "Abrir",
+  "Öffnen",
+  "Megnyitás"
+ ],
+ "tPhoto": [
+  "Fotografie",
+  "Photo",
+  "Photo",
+  "Foto",
+  "Foto",
+  "Foto",
+  "Foto",
+  "Fénykép"
+ ],
+ "phPrivacy": [
+  "Încarcă o fotografie a palmei: rămâne doar în acest browser, nu se trimite nicăieri. Desenează peste ea liniile, pentru exercițiu.",
+  "Load a photo of a palm: it stays in this browser only and is never sent anywhere. Draw the lines over it as an exercise.",
+  "Chargez une photo de paume : elle reste dans ce navigateur et n'est envoyée nulle part. Tracez les lignes dessus pour vous exercer.",
+  "Carica una foto del palmo: resta solo in questo browser e non viene inviata altrove. Disegna le linee sopra per esercizio.",
+  "Carga una foto de la palma: se queda solo en este navegador y no se envía a ningún sitio. Dibuja las líneas encima como ejercicio.",
+  "Carregue uma foto da palma: fica apenas neste navegador e não é enviada para lado nenhum. Desenhe as linhas por cima como exercício.",
+  "Lade ein Foto einer Handfläche hoch: Es bleibt nur in diesem Browser und wird nirgendwohin gesendet. Zeichne die Linien zur Übung darüber.",
+  "Tölts be egy tenyérfotót: csak ebben a böngészőben marad, sehová sem küldjük el. Gyakorlásként rajzold rá a vonalakat."
+ ],
+ "phLoad": [
+  "Alege fotografie",
+  "Choose photo",
+  "Choisir une photo",
+  "Scegli foto",
+  "Elegir foto",
+  "Escolher foto",
+  "Foto wählen",
+  "Fotó kiválasztása"
+ ],
+ "phColor": [
+  "Culoare linie",
+  "Line color",
+  "Couleur de ligne",
+  "Colore linea",
+  "Color de línea",
+  "Cor da linha",
+  "Linienfarbe",
+  "Vonal színe"
+ ],
+ "phHint": [
+  "Atinge sau trage pe imagine ca să desenezi linia aleasă.",
+  "Touch or drag on the image to draw the selected line.",
+  "Touchez ou faites glisser sur l'image pour tracer la ligne choisie.",
+  "Tocca o trascina sull'immagine per disegnare la linea scelta.",
+  "Toca o arrastra sobre la imagen para dibujar la línea elegida.",
+  "Toque ou arraste sobre a imagem para desenhar a linha escolhida.",
+  "Tippe oder ziehe auf das Bild, um die gewählte Linie zu zeichnen.",
+  "Érintsd vagy húzd a képen a kiválasztott vonal megrajzolásához."
+ ],
+ "phUndo": [
+  "Anulează",
+  "Undo",
+  "Annuler",
+  "Annulla",
+  "Deshacer",
+  "Desfazer",
+  "Rückgängig",
+  "Visszavonás"
+ ],
+ "phClear": [
+  "Șterge desenul",
+  "Clear drawing",
+  "Effacer le dessin",
+  "Cancella disegno",
+  "Borrar dibujo",
+  "Limpar desenho",
+  "Zeichnung löschen",
+  "Rajz törlése"
+ ],
+ "phExport": [
+  "Salvează PNG",
+  "Save PNG",
+  "Enregistrer en PNG",
+  "Salva PNG",
+  "Guardar PNG",
+  "Guardar PNG",
+  "Als PNG speichern",
+  "Mentés PNG-ként"
+ ],
+ "phDrop": [
+  "Elimină fotografia",
+  "Remove photo",
+  "Retirer la photo",
+  "Rimuovi foto",
+  "Quitar foto",
+  "Remover foto",
+  "Foto entfernen",
+  "Fotó eltávolítása"
+ ],
+ "tQuiz": [
+  "Test grilă",
+  "Quiz",
+  "Quiz",
+  "Quiz",
+  "Cuestionario",
+  "Questionário",
+  "Quiz",
+  "Kvíz"
+ ],
+ "qStart": [
+  "Începe testul",
+  "Start the quiz",
+  "Commencer le quiz",
+  "Inizia il quiz",
+  "Empezar el cuestionario",
+  "Iniciar o questionário",
+  "Quiz starten",
+  "Kvíz indítása"
+ ],
+ "qNext": [
+  "Următoarea",
+  "Next",
+  "Suivante",
+  "Avanti",
+  "Siguiente",
+  "Seguinte",
+  "Weiter",
+  "Következő"
+ ],
+ "qCheck": [
+  "Verifică",
+  "Check",
+  "Vérifier",
+  "Verifica",
+  "Comprobar",
+  "Verificar",
+  "Prüfen",
+  "Ellenőrzés"
+ ],
+ "qScore": [
+  "Scor",
+  "Score",
+  "Score",
+  "Punteggio",
+  "Puntuación",
+  "Pontuação",
+  "Ergebnis",
+  "Pontszám"
+ ],
+ "qRetry": [
+  "Reîncearcă",
+  "Try again",
+  "Réessayer",
+  "Riprova",
+  "Reintentar",
+  "Tentar novamente",
+  "Nochmal",
+  "Újra"
+ ],
+ "qCorrect": [
+  "Corect!",
+  "Correct!",
+  "Correct !",
+  "Corretto!",
+  "¡Correcto!",
+  "Correto!",
+  "Richtig!",
+  "Helyes!"
+ ],
+ "qWrong": [
+  "Greșit",
+  "Incorrect",
+  "Incorrect",
+  "Sbagliato",
+  "Incorrecto",
+  "Incorreto",
+  "Falsch",
+  "Helytelen"
+ ],
+ "qOf": [
+  "din",
+  "of",
+  "sur",
+  "su",
+  "de",
+  "de",
+  "von",
+  "/"
+ ],
+ "qCat": [
+  "Categorie",
+  "Category",
+  "Catégorie",
+  "Categoria",
+  "Categoría",
+  "Categoria",
+  "Kategorie",
+  "Kategória"
+ ],
+ "qAll": [
+  "Toate",
+  "All",
+  "Toutes",
+  "Tutte",
+  "Todas",
+  "Todas",
+  "Alle",
+  "Mind"
+ ],
+ "tGloss": [
+  "Glosar",
+  "Glossary",
+  "Glossaire",
+  "Glossario",
+  "Glosario",
+  "Glossário",
+  "Glossar",
+  "Szójegyzék"
+ ],
+ "glSearch": [
+  "Caută un termen",
+  "Search a term",
+  "Chercher un terme",
+  "Cerca un termine",
+  "Buscar un término",
+  "Procurar um termo",
+  "Begriff suchen",
+  "Kifejezés keresése"
+ ],
+ "glNone": [
+  "Niciun termen găsit",
+  "No terms found",
+  "Aucun terme trouvé",
+  "Nessun termine trovato",
+  "Ningún término encontrado",
+  "Nenhum termo encontrado",
+  "Keine Begriffe gefunden",
+  "Nincs találat"
+ ],
+ "glSee": [
+  "Vezi și",
+  "See also",
+  "Voir aussi",
+  "Vedi anche",
+  "Véase también",
+  "Ver também",
+  "Siehe auch",
+  "Lásd még"
+ ],
+ "srch": [
+  "Căutare",
+  "Search",
+  "Recherche",
+  "Ricerca",
+  "Búsqueda",
+  "Pesquisa",
+  "Suche",
+  "Keresés"
+ ],
+ "srchPh": [
+  "Caută în atlas…",
+  "Search the atlas…",
+  "Rechercher dans l’atlas…",
+  "Cerca nell’atlante…",
+  "Buscar en el atlas…",
+  "Pesquisar no atlas…",
+  "Im Atlas suchen…",
+  "Keresés az atlaszban…"
+ ],
+ "srchNone": [
+  "Niciun rezultat",
+  "No results",
+  "Aucun résultat",
+  "Nessun risultato",
+  "Sin resultados",
+  "Sem resultados",
+  "Keine Ergebnisse",
+  "Nincs találat"
+ ],
+ "srchHits": [
+  "{n} rezultate",
+  "{n} results",
+  "{n} résultats",
+  "{n} risultati",
+  "{n} resultados",
+  "{n} resultados",
+  "{n} Ergebnisse",
+  "{n} találat"
+ ],
+ "tSearch": [
+  "Căutare",
+  "Search",
+  "Recherche",
+  "Ricerca",
+  "Búsqueda",
+  "Pesquisa",
+  "Suche",
+  "Keresés"
+ ],
+ "phMode": [
+  "Mod desen",
+  "Drawing mode",
+  "Mode dessin",
+  "Modalità disegno",
+  "Modo dibujo",
+  "Modo desenho",
+  "Zeichenmodus",
+  "Rajzmód"
+ ],
+ "phA11y": [
+  "exercițiu vizual opțional; toate informațiile sunt în celelalte file",
+  "optional visual exercise; all information is in the other tabs",
+  "exercice visuel facultatif ; toutes les informations sont dans les autres onglets",
+  "esercizio visivo facoltativo; tutte le informazioni sono nelle altre schede",
+  "ejercicio visual opcional; toda la información está en las otras pestañas",
+  "exercício visual opcional; toda a informação está nos outros separadores",
+  "optionale visuelle Übung; alle Informationen stehen in den anderen Tabs",
+  "opcionális vizuális gyakorlat; minden információ a többi lapon található"
+ ],
+ "bdLbl": [
+  "Caracteristici",
+  "Features",
+  "Caractéristiques",
+  "Caratteristiche",
+  "Características",
+  "Características",
+  "Merkmale",
+  "Jellemzők"
+ ],
+ "bdOff": [
+  "Offline",
+  "Offline",
+  "Hors ligne",
+  "Offline",
+  "Sin conexión",
+  "Offline",
+  "Offline",
+  "Offline"
+ ],
+ "bdLang": [
+  "8 limbi",
+  "8 languages",
+  "8 langues",
+  "8 lingue",
+  "8 idiomas",
+  "8 idiomas",
+  "8 Sprachen",
+  "8 nyelv"
+ ],
+ "bdMit": [
+  "Licență MIT",
+  "MIT license",
+  "Licence MIT",
+  "Licenza MIT",
+  "Licencia MIT",
+  "Licença MIT",
+  "MIT-Lizenz",
+  "MIT licenc"
+ ],
+ "bdFree": [
+  "Fără urmărire",
+  "No tracking",
+  "Sans traçage",
+  "Senza tracciamento",
+  "Sin rastreo",
+  "Sem rastreio",
+  "Ohne Tracking",
+  "Követés nélkül"
+ ],
+ "phCam": [
+  "Fă o poză",
+  "Take a photo",
+  "Prendre une photo",
+  "Scatta una foto",
+  "Hacer una foto",
+  "Tirar uma foto",
+  "Foto aufnehmen",
+  "Fénykép készítése"
+ ],
+ "phTpl": [
+  "Șablon de aliniere",
+  "Alignment template",
+  "Gabarit d'alignement",
+  "Sagoma di allineamento",
+  "Plantilla de alineación",
+  "Modelo de alinhamento",
+  "Ausrichtungsschablone",
+  "Igazító sablon"
+ ],
+ "phTplHint": [
+  "Potrivește șablonul peste palmă: degetele sus, încheietura jos. Nu e detecție automată; tu decizi unde sunt liniile.",
+  "Fit the template over the palm: fingers up, wrist at the bottom. This is not automatic detection; you decide where the lines are.",
+  "Ajustez le gabarit sur la paume : doigts en haut, poignet en bas. Ce n'est pas une détection automatique ; c'est vous qui décidez où sont les lignes.",
+  "Adatta la sagoma al palmo: dita in alto, polso in basso. Non è un rilevamento automatico: sei tu a decidere dove sono le linee.",
+  "Ajusta la plantilla sobre la palma: dedos arriba, muñeca abajo. No es detección automática; tú decides dónde están las líneas.",
+  "Ajuste o modelo sobre a palma: dedos para cima, pulso em baixo. Não é deteção automática; é você que decide onde estão as linhas.",
+  "Passe die Schablone über der Handfläche an: Finger oben, Handgelenk unten. Das ist keine automatische Erkennung; du entscheidest, wo die Linien liegen.",
+  "Igazítsd a sablont a tenyérre: ujjak felül, csukló alul. Ez nem automatikus felismerés; te döntöd el, hol vannak a vonalak."
+ ],
+ "phX": [
+  "Poziție stânga–dreapta",
+  "Move left–right",
+  "Position gauche–droite",
+  "Posizione sinistra–destra",
+  "Posición izquierda–derecha",
+  "Posição esquerda–direita",
+  "Position links–rechts",
+  "Vízszintes helyzet"
+ ],
+ "phY": [
+  "Poziție sus–jos",
+  "Move up–down",
+  "Position haut–bas",
+  "Posizione alto–basso",
+  "Posición arriba–abajo",
+  "Posição cima–baixo",
+  "Position oben–unten",
+  "Függőleges helyzet"
+ ],
+ "phScale": [
+  "Mărime",
+  "Size",
+  "Taille",
+  "Dimensione",
+  "Tamaño",
+  "Tamanho",
+  "Größe",
+  "Méret"
+ ],
+ "phRot": [
+  "Rotire",
+  "Rotation",
+  "Rotation",
+  "Rotazione",
+  "Rotación",
+  "Rotação",
+  "Drehung",
+  "Forgatás"
+ ],
+ "phOp": [
+  "Opacitate",
+  "Opacity",
+  "Opacité",
+  "Opacità",
+  "Opacidad",
+  "Opacidade",
+  "Deckkraft",
+  "Átlátszóság"
+ ],
+ "phFlip": [
+  "Oglindește (mâna dreaptă)",
+  "Mirror (right hand)",
+  "Miroir (main droite)",
+  "Specchia (mano destra)",
+  "Reflejar (mano derecha)",
+  "Espelhar (mão direita)",
+  "Spiegeln (rechte Hand)",
+  "Tükrözés (jobb kéz)"
+ ],
+ "phReset": [
+  "Resetează șablonul",
+  "Reset template",
+  "Réinitialiser le gabarit",
+  "Reimposta sagoma",
+  "Restablecer plantilla",
+  "Repor modelo",
+  "Schablone zurücksetzen",
+  "Sablon visszaállítása"
+ ],
+ "fsLbl": [
+  "Dimensiune text",
+  "Text size",
+  "Taille du texte",
+  "Dimensione del testo",
+  "Tamaño del texto",
+  "Tamanho do texto",
+  "Textgröße",
+  "Szövegméret"
+ ],
+ "hcLbl": [
+  "Contrast ridicat",
+  "High contrast",
+  "Contraste élevé",
+  "Contrasto elevato",
+  "Contraste alto",
+  "Contraste elevado",
+  "Hoher Kontrast",
+  "Magas kontraszt"
+ ],
+ "tBeg": [
+  "Începător",
+  "Beginner",
+  "Débutant",
+  "Principiante",
+  "Principiante",
+  "Iniciante",
+  "Anfänger",
+  "Kezdő"
+ ],
+ "bgTitle": [
+  "Ghid în 5 pași",
+  "5-step guide",
+  "Guide en 5 étapes",
+  "Guida in 5 passi",
+  "Guía en 5 pasos",
+  "Guia em 5 passos",
+  "Anleitung in 5 Schritten",
+  "5 lépéses útmutató"
+ ],
+ "bgStep": [
+  "Pasul {n} din {m}",
+  "Step {n} of {m}",
+  "Étape {n} sur {m}",
+  "Passo {n} di {m}",
+  "Paso {n} de {m}",
+  "Passo {n} de {m}",
+  "Schritt {n} von {m}",
+  "{n}. lépés / {m}"
+ ],
+ "bgPrev": [
+  "Înapoi",
+  "Back",
+  "Retour",
+  "Indietro",
+  "Atrás",
+  "Voltar",
+  "Zurück",
+  "Vissza"
+ ],
+ "bgNext": [
+  "Mai departe",
+  "Next",
+  "Suivant",
+  "Avanti",
+  "Siguiente",
+  "Seguinte",
+  "Weiter",
+  "Tovább"
+ ],
+ "bgSee": [
+  "Vezi pe hartă",
+  "See on the map",
+  "Voir sur la carte",
+  "Vedi sulla mappa",
+  "Ver en el mapa",
+  "Ver no mapa",
+  "Auf der Karte ansehen",
+  "Nézd a térképen"
+ ],
+ "bg1t": [
+  "Mâna care se citește",
+  "Which hand to read",
+  "La main à lire",
+  "La mano da leggere",
+  "La mano que se lee",
+  "A mão a ler",
+  "Welche Hand du liest",
+  "Melyik kezet olvasd"
+ ],
+ "bg1d": [
+  "În tradiție, mâna nedominantă arată ce ai moștenit, iar cea dominantă ce ai făcut cu asta. Aplicația pornește cu mâna stângă; poți compara oricând cu dreapta.",
+  "In tradition, the non-dominant hand shows what you were born with and the dominant hand what you made of it. The app starts with the left hand; you can compare with the right at any time.",
+  "Dans la tradition, la main non dominante montre ce que vous avez reçu en héritage, et la main dominante ce que vous en avez fait. L’application commence par la main gauche ; vous pouvez comparer avec la droite à tout moment.",
+  "Nella tradizione, la mano non dominante mostra ciò che hai ereditato, e quella dominante ciò che ne hai fatto. L’app parte dalla mano sinistra; puoi confrontarla con la destra in qualsiasi momento.",
+  "Según la tradición, la mano no dominante muestra lo que has heredado y la dominante lo que has hecho con ello. La aplicación empieza con la mano izquierda; puedes compararla con la derecha en cualquier momento.",
+  "Na tradição, a mão não dominante mostra o que herdaste e a dominante o que fizeste com isso. A aplicação começa pela mão esquerda; podes compará-la com a direita a qualquer momento.",
+  "In der Tradition zeigt die nicht dominante Hand, was du mitbekommen hast, und die dominante, was du daraus gemacht hast. Die App beginnt mit der linken Hand; du kannst jederzeit mit der rechten vergleichen.",
+  "A hagyomány szerint a nem domináns kéz azt mutatja, mit kaptál örökül, a domináns pedig azt, mit kezdtél vele. Az alkalmazás a bal kézzel indul; bármikor összehasonlíthatod a jobbal."
+ ],
+ "bg2t": [
+  "Cele patru linii mari",
+  "The four major lines",
+  "Les quatre grandes lignes",
+  "Le quattro linee principali",
+  "Las cuatro líneas principales",
+  "As quatro linhas principais",
+  "Die vier Hauptlinien",
+  "A négy fő vonal"
+ ],
+ "bg2d": [
+  "Linia vieții, a capului, a inimii și a destinului sunt punctele de plecare. Fiecare are o poveste în tradiție, nu o predicție: caută-le pe hartă și citește descrierea.",
+  "The life, head, heart and fate lines are the starting points. Each has a story in tradition, not a prediction: find them on the map and read the description.",
+  "Les lignes de vie, de tête, de cœur et de destin sont les points de départ. Chacune porte une histoire dans la tradition, et non une prédiction : cherchez-les sur la carte et lisez la description.",
+  "Le linee della vita, della testa, del cuore e del destino sono i punti di partenza. Ognuna ha una storia nella tradizione, non una predizione: cercale sulla mappa e leggi la descrizione.",
+  "Las líneas de la vida, la cabeza, el corazón y el destino son los puntos de partida. Cada una tiene una historia en la tradición, no una predicción: búscalas en el mapa y lee la descripción.",
+  "As linhas da vida, da cabeça, do coração e do destino são os pontos de partida. Cada uma tem uma história na tradição, não uma previsão: procura-as no mapa e lê a descrição.",
+  "Lebens-, Kopf-, Herz- und Schicksalslinie sind die Ausgangspunkte. Jede hat in der Tradition eine Geschichte, keine Vorhersage: Such sie auf der Karte und lies die Beschreibung.",
+  "Az életvonal, a fejvonal, a szívvonal és a sorsvonal a kiindulópontok. Mindegyikhez a hagyományban egy történet kapcsolódik, nem jóslat: keresd meg őket a térképen, és olvasd el a leírást."
+ ],
+ "bg3t": [
+  "Coline și degete",
+  "Mounts and fingers",
+  "Monts et doigts",
+  "Monti e dita",
+  "Montes y dedos",
+  "Montes e dedos",
+  "Hügel und Finger",
+  "Dombok és ujjak"
+ ],
+ "bg3d": [
+  "Colinele sunt zonele cărnoase de sub degete, iar degetele au forme și proporții. Tradiția le leagă de planete și de teme de caracter, ca simboluri culturale.",
+  "Mounts are the fleshy areas under the fingers, and fingers have shapes and proportions. Tradition links them to planets and character themes, as cultural symbols.",
+  "Les monts sont les zones charnues sous les doigts, et les doigts ont des formes et des proportions. La tradition les relie aux planètes et à des thèmes de caractère, comme symboles culturels.",
+  "I monti sono le zone carnose sotto le dita, e le dita hanno forme e proporzioni. La tradizione li collega ai pianeti e a temi del carattere, come simboli culturali.",
+  "Los montes son las zonas carnosas bajo los dedos, y los dedos tienen formas y proporciones. La tradición los vincula con los planetas y con temas de carácter, como símbolos culturales.",
+  "Os montes são as zonas carnudas sob os dedos, e os dedos têm formas e proporções. A tradição associa-os aos planetas e a temas de carácter, como símbolos culturais.",
+  "Die Hügel sind die fleischigen Bereiche unter den Fingern, und die Finger haben Formen und Proportionen. Die Tradition verbindet sie mit Planeten und Charakterthemen, als kulturelle Symbole.",
+  "A dombok az ujjak alatti húsos területek, az ujjaknak pedig formájuk és arányaik vannak. A hagyomány bolygókhoz és jellemvonásokhoz köti őket, kulturális szimbólumként."
+ ],
+ "bg4t": [
+  "Tipul de mână",
+  "Hand type",
+  "Le type de main",
+  "Il tipo di mano",
+  "El tipo de mano",
+  "O tipo de mão",
+  "Der Handtyp",
+  "A kéztípus"
+ ],
+ "bg4d": [
+  "Forma palmei și lungimea degetelor dau un tip tradițional (Foc, Pământ, Aer, Apă și altele). Măsoară-ți mâna în fila Tipuri de mână sau alege manual.",
+  "Palm shape and finger length give a traditional type (Fire, Earth, Air, Water and others). Measure your hand in the Hand types tab or choose manually.",
+  "La forme de la paume et la longueur des doigts donnent un type traditionnel (Feu, Terre, Air, Eau et d’autres). Mesurez votre main dans l’onglet Types de mains ou choisissez manuellement.",
+  "La forma del palmo e la lunghezza delle dita indicano un tipo tradizionale (Fuoco, Terra, Aria, Acqua e altri). Misura la tua mano nella scheda Tipi di mano o scegli manualmente.",
+  "La forma de la palma y la longitud de los dedos dan un tipo tradicional (Fuego, Tierra, Aire, Agua y otros). Mide tu mano en la pestaña Tipos de mano o elige manualmente.",
+  "A forma da palma e o comprimento dos dedos dão um tipo tradicional (Fogo, Terra, Ar, Água e outros). Mede a tua mão no separador Tipos de mão ou escolhe manualmente.",
+  "Handflächenform und Fingerlänge ergeben einen traditionellen Typ (Feuer, Erde, Luft, Wasser und weitere). Miss deine Hand im Tab Handtypen oder wähle manuell.",
+  "A tenyér alakja és az ujjak hossza egy hagyományos típust ad (Tűz, Föld, Levegő, Víz és mások). Mérd meg a kezed a Kéztípusok fülön, vagy válassz kézzel."
+ ],
+ "bg5t": [
+  "Privește critic",
+  "Think critically",
+  "Gardez l’esprit critique",
+  "Osserva con spirito critico",
+  "Mira con espíritu crítico",
+  "Olha com espírito crítico",
+  "Bleib kritisch",
+  "Légy kritikus"
+ ],
+ "bg5d": [
+  "Chiromanția nu e validată științific. Joacă demonstrația Barnum din fila Știință, apoi folosește lectura ghidată ca exercițiu de reflecție, nu ca verdict.",
+  "Palmistry is not scientifically validated. Try the Barnum demo in the Science tab, then use guided reading as a reflection exercise, not a verdict.",
+  "La chiromancie n’est pas validée scientifiquement. Essayez la démonstration Barnum dans l’onglet Science, puis utilisez la lecture guidée comme exercice de réflexion, et non comme un verdict.",
+  "La chiromanzia non è convalidata scientificamente. Prova la dimostrazione Barnum nella scheda Scienza, poi usa la lettura guidata come esercizio di riflessione, non come verdetto.",
+  "La quiromancia no está validada científicamente. Prueba la demostración Barnum en la pestaña Ciencia y luego usa la lectura guiada como ejercicio de reflexión, no como veredicto.",
+  "A quiromancia não está validada cientificamente. Experimenta a demonstração Barnum no separador Ciência e usa depois a leitura guiada como exercício de reflexão, não como veredicto.",
+  "Die Handlesekunst ist wissenschaftlich nicht belegt. Probiere die Barnum-Demo im Tab Wissenschaft aus und nutze die geführte Deutung dann als Reflexionsübung, nicht als Urteil.",
+  "A kézjóslás tudományosan nem igazolt. Próbáld ki a Barnum-bemutatót a Tudomány fülön, majd használd a vezetett olvasást önreflexiós gyakorlatnak, ne ítéletnek."
+ ],
+ "stdMark": [
+  "Marchează ca studiat",
+  "Mark as studied",
+  "Marquer comme étudié",
+  "Segna come studiato",
+  "Marcar como estudiado",
+  "Marcar como estudado",
+  "Als gelernt markieren",
+  "Megjelölés tanultként"
+ ],
+ "stdDone": [
+  "Studiat",
+  "Studied",
+  "Étudié",
+  "Studiato",
+  "Estudiado",
+  "Estudado",
+  "Gelernt",
+  "Tanulva"
+ ],
+ "stdProg": [
+  "Studiat: {n} din {m}",
+  "Studied: {n} of {m}",
+  "Étudié : {n} sur {m}",
+  "Studiato: {n} di {m}",
+  "Estudiado: {n} de {m}",
+  "Estudado: {n} de {m}",
+  "Gelernt: {n} von {m}",
+  "Tanulva: {n} / {m}"
+ ],
+ "spkRead": [
+  "Citește cu voce",
+  "Read aloud",
+  "Lire à voix haute",
+  "Leggi ad alta voce",
+  "Leer en voz alta",
+  "Ler em voz alta",
+  "Vorlesen",
+  "Felolvasás"
+ ],
+ "spkStop": [
+  "Oprește citirea",
+  "Stop reading",
+  "Arrêter la lecture",
+  "Interrompi la lettura",
+  "Detener la lectura",
+  "Parar a leitura",
+  "Vorlesen beenden",
+  "Felolvasás leállítása"
+ ],
+ "spkNo": [
+  "Sinteza vocală nu e disponibilă în acest browser.",
+  "Speech synthesis is not available in this browser.",
+  "La synthèse vocale n’est pas disponible dans ce navigateur.",
+  "La sintesi vocale non è disponibile in questo browser.",
+  "La síntesis de voz no está disponible en este navegador.",
+  "A síntese de voz não está disponível neste navegador.",
+  "Die Sprachausgabe ist in diesem Browser nicht verfügbar.",
+  "A beszédszintézis ebben a böngészőben nem érhető el."
+ ],
+ "tCards": [
+  "Fișe",
+  "Flashcards",
+  "Fiches",
+  "Schede",
+  "Fichas",
+  "Cartões",
+  "Karteikarten",
+  "Kártyák"
+ ],
+ "cdFlip": [
+  "Arată răspunsul",
+  "Show answer",
+  "Afficher la réponse",
+  "Mostra la risposta",
+  "Mostrar respuesta",
+  "Mostrar resposta",
+  "Antwort zeigen",
+  "Válasz mutatása"
+ ],
+ "cdKnew": [
+  "Știam",
+  "I knew it",
+  "Je le savais",
+  "Lo sapevo",
+  "Lo sabía",
+  "Eu sabia",
+  "Wusste ich",
+  "Tudtam"
+ ],
+ "cdMiss": [
+  "Nu știam",
+  "I didn't know",
+  "Je ne le savais pas",
+  "Non lo sapevo",
+  "No lo sabía",
+  "Não sabia",
+  "Wusste ich nicht",
+  "Nem tudtam"
+ ],
+ "cdProg": [
+  "Stăpânite: {n} din {m}",
+  "Mastered: {n} of {m}",
+  "Maîtrisées : {n} sur {m}",
+  "Padroneggiate: {n} di {m}",
+  "Dominadas: {n} de {m}",
+  "Dominados: {n} de {m}",
+  "Gemeistert: {n} von {m}",
+  "Elsajátítva: {n} / {m}"
+ ],
+ "cdReset": [
+  "Resetează progresul",
+  "Reset progress",
+  "Réinitialiser",
+  "Azzera i progressi",
+  "Reiniciar progreso",
+  "Repor progresso",
+  "Fortschritt zurücksetzen",
+  "Haladás törlése"
+ ],
+ "cdIntro": [
+  "Repetiție spațiată: fișele pe care le știi apar tot mai rar.",
+  "Spaced repetition: cards you know appear less and less often.",
+  "Répétition espacée : les fiches que vous connaissez apparaissent de plus en plus rarement.",
+  "Ripetizione dilazionata: le schede che conosci compaiono sempre più di rado.",
+  "Repetición espaciada: las fichas que conoces aparecen cada vez con menos frecuencia.",
+  "Repetição espaçada: os cartões que já sabes aparecem cada vez com menos frequência.",
+  "Verteilte Wiederholung: Karten, die du kennst, erscheinen immer seltener.",
+  "Térbeli ismétlés: az általad ismert kártyák egyre ritkábban jelennek meg."
+ ],
+ "tGame": [
+  "Joc pe hartă",
+  "Map game",
+  "Jeu sur la carte",
+  "Gioco sulla mappa",
+  "Juego en el mapa",
+  "Jogo no mapa",
+  "Kartenspiel",
+  "Térképes játék"
+ ],
+ "gStart": [
+  "Începe jocul",
+  "Start game",
+  "Commencer le jeu",
+  "Inizia il gioco",
+  "Empezar el juego",
+  "Começar o jogo",
+  "Spiel starten",
+  "Játék indítása"
+ ],
+ "gPrompt": [
+  "Găsește pe palmă: {n}",
+  "Find on the palm: {n}",
+  "Trouvez sur la paume : {n}",
+  "Trova sul palmo: {n}",
+  "Encuentra en la palma: {n}",
+  "Encontra na palma: {n}",
+  "Finde auf der Handfläche: {n}",
+  "Keresd meg a tenyéren: {n}"
+ ],
+ "gOK": [
+  "Corect!",
+  "Correct!",
+  "Correct !",
+  "Corretto!",
+  "¡Correcto!",
+  "Correto!",
+  "Richtig!",
+  "Helyes!"
+ ],
+ "gNo": [
+  "Nu chiar. Era: {n}",
+  "Not quite. It was: {n}",
+  "Pas tout à fait. C’était : {n}",
+  "Non proprio. Era: {n}",
+  "No exactamente. Era: {n}",
+  "Não exatamente. Era: {n}",
+  "Nicht ganz. Es war: {n}",
+  "Nem egészen. Ez volt: {n}"
+ ],
+ "gScore": [
+  "Scor: {n} din {m}",
+  "Score: {n} of {m}",
+  "Score : {n} sur {m}",
+  "Punteggio: {n} su {m}",
+  "Puntuación: {n} de {m}",
+  "Pontuação: {n} de {m}",
+  "Punkte: {n} von {m}",
+  "Pontszám: {n} / {m}"
+ ],
+ "gAgain": [
+  "Joacă din nou",
+  "Play again",
+  "Rejouer",
+  "Gioca ancora",
+  "Jugar de nuevo",
+  "Jogar de novo",
+  "Nochmal spielen",
+  "Új játék"
+ ],
+ "gSelect": [
+  "Sau alege răspunsul din listă",
+  "Or choose the answer from the list",
+  "Ou choisissez la réponse dans la liste",
+  "Oppure scegli la risposta dall’elenco",
+  "O elige la respuesta de la lista",
+  "Ou escolhe a resposta da lista",
+  "Oder wähle die Antwort aus der Liste",
+  "Vagy válaszd ki a választ a listából"
+ ],
+ "gCheck": [
+  "Verifică",
+  "Check",
+  "Vérifier",
+  "Verifica",
+  "Comprobar",
+  "Verificar",
+  "Prüfen",
+  "Ellenőrzés"
+ ],
+ "gNext": [
+  "Următoarea",
+  "Next",
+  "Suivante",
+  "Successiva",
+  "Siguiente",
+  "Seguinte",
+  "Weiter",
+  "Következő"
+ ],
+ "mlTitle": [
+  "Jurnal de măsurători",
+  "Measurement log",
+  "Journal des mesures",
+  "Registro delle misurazioni",
+  "Registro de mediciones",
+  "Registo de medições",
+  "Messprotokoll",
+  "Mérési napló"
+ ],
+ "mlSave": [
+  "Salvează măsurătoarea",
+  "Save measurement",
+  "Enregistrer la mesure",
+  "Salva la misurazione",
+  "Guardar la medición",
+  "Guardar a medição",
+  "Messung speichern",
+  "Mérés mentése"
+ ],
+ "mlEmpty": [
+  "Nicio măsurătoare salvată.",
+  "No saved measurements.",
+  "Aucune mesure enregistrée.",
+  "Nessuna misurazione salvata.",
+  "No hay mediciones guardadas.",
+  "Nenhuma medição guardada.",
+  "Keine Messungen gespeichert.",
+  "Nincs mentett mérés."
+ ],
+ "mlMean": [
+  "Medie ({h}): {v} din {n} măsurători",
+  "Mean ({h}): {v} from {n} measurements",
+  "Moyenne ({h}) : {v} sur {n} mesures",
+  "Media ({h}): {v} da {n} misurazioni",
+  "Media ({h}): {v} de {n} mediciones",
+  "Média ({h}): {v} de {n} medições",
+  "Mittelwert ({h}): {v} aus {n} Messungen",
+  "Átlag ({h}): {v}, {n} mérésből"
+ ],
+ "mlDel": [
+  "Șterge",
+  "Delete",
+  "Supprimer",
+  "Elimina",
+  "Eliminar",
+  "Eliminar",
+  "Löschen",
+  "Törlés"
+ ],
+ "mlClear": [
+  "Șterge tot jurnalul",
+  "Clear the whole log",
+  "Vider le journal",
+  "Svuota il registro",
+  "Borrar todo el registro",
+  "Limpar todo o registo",
+  "Protokoll leeren",
+  "Napló törlése"
+ ],
+ "shImg": [
+  "Salvează lectura ca imagine",
+  "Save reading as image",
+  "Enregistrer en image",
+  "Salva come immagine",
+  "Guardar como imagen",
+  "Guardar como imagem",
+  "Als Bild speichern",
+  "Mentés képként"
+ ],
+ "pfNote": [
+  "Notă (opțional)",
+  "Note (optional)",
+  "Note (facultatif)",
+  "Nota (facoltativa)",
+  "Nota (opcional)",
+  "Nota (opcional)",
+  "Notiz (optional)",
+  "Megjegyzés (nem kötelező)"
+ ],
+ "pfCompare": [
+  "Compară două profiluri",
+  "Compare two profiles",
+  "Comparer deux profils",
+  "Confronta due profili",
+  "Comparar dos perfiles",
+  "Comparar dois perfis",
+  "Zwei Profile vergleichen",
+  "Két profil összehasonlítása"
+ ],
+ "pfA": [
+  "Profil A",
+  "Profile A",
+  "Profil A",
+  "Profilo A",
+  "Perfil A",
+  "Perfil A",
+  "Profil A",
+  "A profil"
+ ],
+ "pfB": [
+  "Profil B",
+  "Profile B",
+  "Profil B",
+  "Profilo B",
+  "Perfil B",
+  "Perfil B",
+  "Profil B",
+  "B profil"
+ ],
+ "pfSame": [
+  "la fel",
+  "same",
+  "identique",
+  "uguale",
+  "igual",
+  "igual",
+  "gleich",
+  "azonos"
+ ],
+ "pfNeed": [
+  "Salvează cel puțin două profiluri ca să le compari.",
+  "Save at least two profiles to compare them.",
+  "Enregistrez au moins deux profils pour les comparer.",
+  "Salva almeno due profili per confrontarli.",
+  "Guarda al menos dos perfiles para compararlos.",
+  "Guarda pelo menos dois perfis para os comparar.",
+  "Speichere mindestens zwei Profile, um sie zu vergleichen.",
+  "Ments legalább két profilt, hogy összehasonlíthasd őket."
+ ],
+ "tSheet": [
+  "Fișă de referință",
+  "Cheat sheet",
+  "Aide-mémoire",
+  "Scheda di riferimento",
+  "Hoja de referencia",
+  "Folha de consulta",
+  "Merkblatt",
+  "Segédlap"
+ ],
+ "shPrint": [
+  "Tipărește fișa",
+  "Print the sheet",
+  "Imprimer la fiche",
+  "Stampa la scheda",
+  "Imprimir la hoja",
+  "Imprimir a folha",
+  "Blatt drucken",
+  "Lap nyomtatása"
+ ],
+ "shNote": [
+  "Rezumat pentru învățare. În tradiție; fără valoare științifică.",
+  "Summary for study. In tradition; no scientific value.",
+  "Résumé pour l’apprentissage. Dans la tradition ; sans valeur scientifique.",
+  "Riepilogo per lo studio. Nella tradizione; senza valore scientifico.",
+  "Resumen para el estudio. Según la tradición; sin valor científico.",
+  "Resumo para estudo. Na tradição; sem valor científico.",
+  "Zusammenfassung zum Lernen. In der Tradition; ohne wissenschaftlichen Wert.",
+  "Összefoglaló tanuláshoz. A hagyomány szerint; tudományos értéke nincs."
+ ],
+ "tCal": [
+  "Măsurare din poză",
+  "Measure from photo",
+  "Mesure à partir d’une photo",
+  "Misura da una foto",
+  "Medir a partir de una foto",
+  "Medição a partir de uma foto",
+  "Messen per Foto",
+  "Mérés fényképről"
+ ],
+ "calIntro": [
+  "Pune un card bancar (85,6 mm) lângă mână, fotografiază totul și marchează punctele cerute. Totul se calculează local, nimic nu se trimite.",
+  "Place a bank card (85.6 mm) next to your hand, photograph both, and mark the requested points. Everything is computed locally; nothing is sent.",
+  "Posez une carte bancaire (85,6 mm, format ISO ID-1) à côté de votre main, photographiez l’ensemble et marquez les points demandés. Tout est calculé localement, rien n’est envoyé.",
+  "Appoggia una carta bancaria (85,6 mm, formato ISO ID-1) accanto alla mano, fotografa tutto e segna i punti richiesti. Tutto viene calcolato in locale, non viene inviato nulla.",
+  "Coloca una tarjeta bancaria (85,6 mm, formato ISO ID-1) junto a tu mano, fotografía todo y marca los puntos solicitados. Todo se calcula en local; no se envía nada.",
+  "Coloque um cartão bancário (85,6 mm, formato ISO ID-1) ao lado da mão, fotografe tudo e marque os pontos pedidos. Tudo é calculado localmente; nada é enviado.",
+  "Leg eine Bankkarte (85,6 mm, ISO-ID-1-Format) neben deine Hand, fotografiere beides und markiere die verlangten Punkte. Alles wird lokal berechnet, nichts wird gesendet.",
+  "Tegyél egy bankkártyát (85,6 mm, ISO ID-1 méret) a kezed mellé, fényképezd le mindkettőt, és jelöld meg a kért pontokat. Minden számítás helyben történik, semmi sem kerül elküldésre."
+ ],
+ "calStep": [
+  "Pasul {n} din {m}: {p}",
+  "Step {n} of {m}: {p}",
+  "Étape {n} sur {m} : {p}",
+  "Passo {n} di {m}: {p}",
+  "Paso {n} de {m}: {p}",
+  "Passo {n} de {m}: {p}",
+  "Schritt {n} von {m}: {p}",
+  "{n}. lépés / {m}: {p}"
+ ],
+ "stCard1": [
+  "capătul stâng al laturii lungi a cardului",
+  "left end of the card's long edge",
+  "extrémité gauche du grand côté de la carte",
+  "estremità sinistra del lato lungo della carta",
+  "extremo izquierdo del lado largo de la tarjeta",
+  "extremidade esquerda do lado maior do cartão",
+  "linkes Ende der langen Kartenkante",
+  "a kártya hosszú oldalának bal vége"
+ ],
+ "stCard2": [
+  "capătul drept al laturii lungi a cardului",
+  "right end of the card's long edge",
+  "extrémité droite du grand côté de la carte",
+  "estremità destra del lato lungo della carta",
+  "extremo derecho del lado largo de la tarjeta",
+  "extremidade direita do lado maior do cartão",
+  "rechtes Ende der langen Kartenkante",
+  "a kártya hosszú oldalának jobb vége"
+ ],
+ "stWrist": [
+  "mijlocul pliului încheieturii",
+  "middle of the wrist crease",
+  "milieu du pli du poignet",
+  "centro della piega del polso",
+  "centro del pliegue de la muñeca",
+  "meio da prega do pulso",
+  "Mitte der Handgelenkfalte",
+  "a csuklóredő közepe"
+ ],
+ "stMidBase": [
+  "baza degetului mijlociu, pe partea palmei",
+  "base of the middle finger, palm side",
+  "base du majeur, côté paume",
+  "base del dito medio, sul lato del palmo",
+  "base del dedo corazón, en el lado de la palma",
+  "base do dedo médio, do lado da palma",
+  "Basis des Mittelfingers, Handflächenseite",
+  "a középső ujj töve, a tenyér felőli oldalon"
+ ],
+ "stMidTip": [
+  "vârful degetului mijlociu",
+  "tip of the middle finger",
+  "bout du majeur",
+  "punta del dito medio",
+  "punta del dedo corazón",
+  "ponta do dedo médio",
+  "Spitze des Mittelfingers",
+  "a középső ujj hegye"
+ ],
+ "stIdxBase": [
+  "baza degetului arătător, pe partea palmei",
+  "base of the index finger, palm side",
+  "base de l’index, côté paume",
+  "base dell’indice, sul lato del palmo",
+  "base del dedo índice, en el lado de la palma",
+  "base do indicador, do lado da palma",
+  "Basis des Zeigefingers, Handflächenseite",
+  "a mutatóujj töve, a tenyér felőli oldalon"
+ ],
+ "stIdxTip": [
+  "vârful degetului arătător",
+  "tip of the index finger",
+  "bout de l’index",
+  "punta dell’indice",
+  "punta del dedo índice",
+  "ponta do indicador",
+  "Spitze des Zeigefingers",
+  "a mutatóujj hegye"
+ ],
+ "stRingBase": [
+  "baza degetului inelar, pe partea palmei",
+  "base of the ring finger, palm side",
+  "base de l’annulaire, côté paume",
+  "base dell’anulare, sul lato del palmo",
+  "base del dedo anular, en el lado de la palma",
+  "base do anelar, do lado da palma",
+  "Basis des Ringfingers, Handflächenseite",
+  "a gyűrűsujj töve, a tenyér felőli oldalon"
+ ],
+ "stRingTip": [
+  "vârful degetului inelar",
+  "tip of the ring finger",
+  "bout de l’annulaire",
+  "punta dell’anulare",
+  "punta del dedo anular",
+  "ponta do anelar",
+  "Spitze des Ringfingers",
+  "a gyűrűsujj hegye"
+ ],
+ "stPalmA": [
+  "marginea palmei, lângă degetul mic, la baza degetelor",
+  "edge of the palm near the little finger, at the base of the fingers",
+  "bord de la paume près de l’auriculaire, à la base des doigts",
+  "bordo del palmo vicino al mignolo, alla base delle dita",
+  "borde de la palma junto al meñique, en la base de los dedos",
+  "bordo da palma junto ao dedo mindinho, na base dos dedos",
+  "Handflächenrand beim kleinen Finger, an der Fingerbasis",
+  "a tenyér széle a kisujj mellett, az ujjak tövénél"
+ ],
+ "stPalmB": [
+  "marginea palmei, lângă police, la baza degetelor",
+  "edge of the palm near the thumb, at the base of the fingers",
+  "bord de la paume près du pouce, à la base des doigts",
+  "bordo del palmo vicino al pollice, alla base delle dita",
+  "borde de la palma junto al pulgar, en la base de los dedos",
+  "bordo da palma junto ao polegar, na base dos dedos",
+  "Handflächenrand beim Daumen, an der Fingerbasis",
+  "a tenyér széle a hüvelykujj mellett, az ujjak tövénél"
+ ],
+ "calKbd": [
+  "Tastatură: săgețile mută crucea (Shift = pas mic), Enter plasează punctul.",
+  "Keyboard: arrow keys move the crosshair (Shift = small step), Enter places the point.",
+  "Clavier : les flèches déplacent le réticule (Maj = petit pas), Entrée place le point.",
+  "Tastiera: le frecce spostano il mirino (Maiusc = passo piccolo), Invio posiziona il punto.",
+  "Teclado: las flechas mueven la cruz (Mayús = paso pequeño), Intro coloca el punto.",
+  "Teclado: as setas movem a cruz (Shift = passo pequeno), Enter coloca o ponto.",
+  "Tastatur: Die Pfeiltasten bewegen das Fadenkreuz (Umschalt = kleiner Schritt), Enter setzt den Punkt.",
+  "Billentyűzet: a nyilak mozgatják a célkeresztet (Shift = kis lépés), az Enter lerakja a pontot."
+ ],
+ "calUndo": [
+  "Anulează punctul",
+  "Undo point",
+  "Annuler le point",
+  "Annulla il punto",
+  "Deshacer el punto",
+  "Anular o ponto",
+  "Punkt zurücknehmen",
+  "Pont visszavonása"
+ ],
+ "calReset": [
+  "Reia măsurarea",
+  "Restart measuring",
+  "Recommencer la mesure",
+  "Ricomincia la misura",
+  "Reiniciar la medición",
+  "Recomeçar a medição",
+  "Messung neu starten",
+  "Mérés újraindítása"
+ ],
+ "calDone": [
+  "Rezultate",
+  "Results",
+  "Résultats",
+  "Risultati",
+  "Resultados",
+  "Resultados",
+  "Ergebnisse",
+  "Eredmények"
+ ],
+ "calPx": [
+  "Un pixel din poză ≈ {v} mm.",
+  "One photo pixel ≈ {v} mm.",
+  "Un pixel de la photo ≈ {v} mm.",
+  "Un pixel della foto ≈ {v} mm.",
+  "Un píxel de la foto ≈ {v} mm.",
+  "Um píxel da foto ≈ {v} mm.",
+  "Ein Foto-Pixel ≈ {v} mm.",
+  "Egy fényképpixel ≈ {v} mm."
+ ],
+ "calUseC": [
+  "Folosește în calculator",
+  "Use in calculator",
+  "Utiliser dans le calcul",
+  "Usa nel calcolatore",
+  "Usar en la calculadora",
+  "Usar na calculadora",
+  "Im Rechner verwenden",
+  "Használat a számolóban"
+ ],
+ "calUseM": [
+  "Folosește în măsurători",
+  "Use in measurements",
+  "Utiliser dans les mesures",
+  "Usa nelle misure",
+  "Usar en las medidas",
+  "Usar nas medidas",
+  "In Messwerten verwenden",
+  "Használat a mérésekben"
+ ],
+ "calUsed": [
+  "Valorile au fost trecute în câmpuri (în mm).",
+  "Values were copied into the fields (in mm).",
+  "Les valeurs ont été copiées dans les champs (en mm).",
+  "I valori sono stati copiati nei campi (in mm).",
+  "Los valores se han copiado en los campos (en mm).",
+  "Os valores foram copiados para os campos (em mm).",
+  "Die Werte wurden in die Felder übernommen (in mm).",
+  "Az értékek bekerültek a mezőkbe (mm-ben)."
+ ],
+ "calErr": [
+  "Marcarea e aproximativă; o eroare de câțiva pixeli schimbă rezultatul. Ține cardul în același plan cu palma, aparatul perpendicular pe ele, și marchează mereu latura lungă; perspectiva și distorsiunea lentilei pot falsifica măsurătorile.",
+  "Marking is approximate; an error of a few pixels changes the result. Keep the card in the same plane as the palm, the camera perpendicular to both, and always mark the long edge; perspective and lens distortion can skew the measurements.",
+  "Le marquage est approximatif ; une erreur de quelques pixels modifie le résultat. Gardez la carte dans le même plan que la paume, l’appareil perpendiculaire aux deux, et marquez toujours le grand côté ; la perspective et la distorsion de l’objectif peuvent fausser les mesures.",
+  "La marcatura è approssimativa; un errore di pochi pixel cambia il risultato. Tieni la carta sullo stesso piano del palmo, la fotocamera perpendicolare a entrambi, e segna sempre il lato lungo; prospettiva e distorsione dell’obiettivo possono falsare le misure.",
+  "El marcado es aproximado; un error de unos pocos píxeles cambia el resultado. Mantén la tarjeta en el mismo plano que la palma, la cámara perpendicular a ambas, y marca siempre el lado largo; la perspectiva y la distorsión de la lente pueden falsear las medidas.",
+  "A marcação é aproximada; um erro de poucos píxeis altera o resultado. Mantenha o cartão no mesmo plano da palma, a câmara perpendicular a ambos, e marque sempre o lado maior; a perspetiva e a distorção da lente podem falsear as medições.",
+  "Die Markierung ist ungenau; ein Fehler von wenigen Pixeln verändert das Ergebnis. Halten Sie die Karte in derselben Ebene wie die Handfläche, die Kamera senkrecht zu beiden, und markieren Sie immer die lange Kante; Perspektive und Objektivverzerrung können die Messung verfälschen.",
+  "A jelölés megközelítő; néhány pixeles hiba is megváltoztatja az eredményt. Tartsd a kártyát a tenyérrel azonos síkban, a kamerát merőlegesen mindkettőre, és mindig a hosszú élt jelöld; a perspektíva és az objektív torzítása meghamisíthatja a mérést."
+ ],
+ "unRel": [
+  "Eroare de măsurare (±%)",
+  "Measurement error (±%)",
+  "Erreur de mesure (± %)",
+  "Errore di misura (±%)",
+  "Error de medición (±%)",
+  "Erro de medição (±%)",
+  "Messfehler (±%)",
+  "Mérési hiba (±%)"
+ ],
+ "unCalc": [
+  "Cu o eroare de ±{p}%, tipul rămâne același în {v}% din simulări.",
+  "With an error of ±{p}%, the type stays the same in {v}% of simulations.",
+  "Avec une erreur de ±{p} %, le type reste le même dans {v} % des simulations.",
+  "Con un errore di ±{p}%, il tipo resta lo stesso nel {v}% delle simulazioni.",
+  "Con un error de ±{p}%, el tipo sigue siendo el mismo en el {v}% de las simulaciones.",
+  "Com um erro de ±{p}%, o tipo mantém-se o mesmo em {v}% das simulações.",
+  "Bei einem Fehler von ±{p}% bleibt der Typ in {v}% der Simulationen gleich.",
+  "±{p}% hiba mellett a típus a szimulációk {v}%-ában ugyanaz marad."
+ ],
+ "unMeas": [
+  "Cu ±{p}%, raportul 2D:4D variază între {a} și {b} (interval în 95% din simulări).",
+  "With ±{p}%, the 2D:4D ratio ranges from {a} to {b} (95% of simulations).",
+  "Avec ±{p} %, le rapport 2D:4D varie entre {a} et {b} (intervalle à 95 % des simulations).",
+  "Con ±{p}%, il rapporto 2D:4D varia tra {a} e {b} (intervallo del 95% delle simulazioni).",
+  "Con ±{p}%, la proporción 2D:4D varía entre {a} y {b} (intervalo del 95% de las simulaciones).",
+  "Com ±{p}%, a razão 2D:4D varia entre {a} e {b} (intervalo de 95% das simulações).",
+  "Bei ±{p}% schwankt das 2D:4D-Verhältnis zwischen {a} und {b} (Intervall von 95% der Simulationen).",
+  "±{p}% mellett a 2D:4D arány {a} és {b} között változik (a szimulációk 95%-át lefedő tartomány)."
+ ],
+ "unNote": [
+  "Simulare locală cu 2000 de tragere aleatorii; arată cât de fragilă e o clasificare.",
+  "Local simulation with 2000 random draws; it shows how fragile a classification is.",
+  "Simulation locale avec 2000 tirages aléatoires ; elle montre à quel point un classement est fragile.",
+  "Simulazione locale con 2000 estrazioni casuali; mostra quanto sia fragile una classificazione.",
+  "Simulación local con 2000 extracciones aleatorias; muestra lo frágil que es una clasificación.",
+  "Simulação local com 2000 sorteios aleatórios; mostra quão frágil é uma classificação.",
+  "Lokale Simulation mit 2000 Zufallsziehungen; sie zeigt, wie anfällig eine Klassifizierung ist.",
+  "Helyi szimuláció 2000 véletlen húzással; megmutatja, mennyire törékeny egy besorolás."
+ ],
+ "tBlind": [
+  "Test orb",
+  "Blind test",
+  "Test en aveugle",
+  "Test alla cieca",
+  "Prueba a ciegas",
+  "Teste cego",
+  "Blindtest",
+  "Vakteszt"
+ ],
+ "blIntro": [
+  "Vei primi 6 lecturi. Unele sunt făcute din alegerile tale, altele sunt generate la întâmplare. Nu știi care e care. Notează cât ți se potrivește fiecare.",
+  "You will get 6 readings. Some are built from your choices, others are generated at random. You will not know which is which. Rate how well each one fits you.",
+  "Vous recevrez 6 lectures. Certaines sont construites à partir de vos choix, d’autres sont générées au hasard. Vous ne savez pas lesquelles. Notez dans quelle mesure chacune vous correspond.",
+  "Riceverai 6 letture. Alcune sono costruite a partire dalle tue scelte, altre sono generate a caso. Non sai quali siano. Valuta quanto ciascuna ti corrisponde.",
+  "Recibirás 6 lecturas. Algunas se construyen a partir de tus elecciones y otras se generan al azar. No sabrás cuáles son cuáles. Valora cuánto se ajusta cada una a ti.",
+  "Vai receber 6 leituras. Algumas são construídas a partir das suas escolhas, outras são geradas ao acaso. Não sabe quais são quais. Avalie em que medida cada uma se aplica a si.",
+  "Du bekommst 6 Deutungen. Manche entstehen aus deinen Entscheidungen, andere werden zufällig erzeugt. Du weißt nicht, welche welche ist. Bewerte, wie gut jede zu dir passt.",
+  "6 értelmezést kapsz. Egy részük a te választásaidból készül, más részük véletlenszerűen jön létre. Nem tudod, melyik melyik. Értékeld, mennyire illik rád mindegyik."
+ ],
+ "blNeed": [
+  "Pentru testul complet alege cel puțin 3 aspecte în Lectura ghidată; altfel toate lecturile vor fi aleatorii.",
+  "For the full test choose at least 3 aspects in Guided reading; otherwise all readings will be random.",
+  "Pour le test complet, choisissez au moins 3 aspects dans la Lecture guidée ; sinon toutes les lectures seront aléatoires.",
+  "Per il test completo scegli almeno 3 aspetti nella Lettura guidata; altrimenti tutte le letture saranno casuali.",
+  "Para la prueba completa elige al menos 3 aspectos en la Lectura guiada; de lo contrario, todas las lecturas serán aleatorias.",
+  "Para o teste completo, escolha pelo menos 3 aspetos na Leitura guiada; caso contrário, todas as leituras serão aleatórias.",
+  "Für den vollständigen Test wähle mindestens 3 Aspekte in der geführten Deutung; sonst sind alle Deutungen zufällig.",
+  "A teljes teszthez válassz legalább 3 szempontot a Vezetett olvasatban; különben minden olvasat véletlenszerű lesz."
+ ],
+ "blStart": [
+  "Începe testul",
+  "Start the test",
+  "Démarrer le test",
+  "Avvia il test",
+  "Empezar la prueba",
+  "Iniciar o teste",
+  "Test starten",
+  "Teszt indítása"
+ ],
+ "blRate": [
+  "Cât ți se potrivește (1 = deloc, 5 = foarte mult)?",
+  "How well does it fit you (1 = not at all, 5 = very well)?",
+  "Dans quelle mesure cela vous correspond-il (1 = pas du tout, 5 = tout à fait) ?",
+  "Quanto ti corrisponde (1 = per niente, 5 = moltissimo)?",
+  "¿Cuánto se ajusta a ti (1 = nada, 5 = muchísimo)?",
+  "Em que medida se aplica a si (1 = nada, 5 = muito)?",
+  "Wie gut passt es zu dir (1 = gar nicht, 5 = sehr gut)?",
+  "Mennyire illik rád (1 = egyáltalán nem, 5 = nagyon)?"
+ ],
+ "blNext": [
+  "Mai departe",
+  "Next",
+  "Suivant",
+  "Avanti",
+  "Siguiente",
+  "Seguinte",
+  "Weiter",
+  "Tovább"
+ ],
+ "blRes": [
+  "Rezultatul testului",
+  "Test result",
+  "Résultat du test",
+  "Risultato del test",
+  "Resultado de la prueba",
+  "Resultado do teste",
+  "Testergebnis",
+  "A teszt eredménye"
+ ],
+ "blMine": [
+  "Lecturi din alegerile tale",
+  "Readings from your choices",
+  "Lectures issues de vos choix",
+  "Letture dalle tue scelte",
+  "Lecturas de tus elecciones",
+  "Leituras das suas escolhas",
+  "Deutungen aus deinen Entscheidungen",
+  "Olvasatok a választásaidból"
+ ],
+ "blRand": [
+  "Lecturi la întâmplare",
+  "Random readings",
+  "Lectures aléatoires",
+  "Letture casuali",
+  "Lecturas aleatorias",
+  "Leituras aleatórias",
+  "Zufällige Deutungen",
+  "Véletlenszerű olvasatok"
+ ],
+ "blMean": [
+  "{k}: nota medie {v}",
+  "{k}: average rating {v}",
+  "{k} : note moyenne {v}",
+  "{k}: voto medio {v}",
+  "{k}: nota media {v}",
+  "{k}: nota média {v}",
+  "{k}: Durchschnittsnote {v}",
+  "{k}: átlagos pontszám {v}"
+ ],
+ "blLesson": [
+  "Dacă notele sunt apropiate, lecturile pe care le-ai primit nu depindeau de mâna ta. Lecturile generale par personale: e efectul Barnum. Cu doar câteva lecturi, rezultatul e ilustrativ, nu o dovadă.",
+  "If the ratings are close, the readings did not depend on your hand. General readings feel personal: that is the Barnum effect. With only a few readings, the result is illustrative, not proof.",
+  "Si les notes sont proches, les lectures reçues ne dépendaient pas de votre main. Les lectures générales paraissent personnelles : c’est l’effet Barnum. Avec seulement quelques lectures, le résultat est illustratif, pas une preuve.",
+  "Se i voti sono vicini, le letture ricevute non dipendevano dalla tua mano. Le letture generiche sembrano personali: è l’effetto Barnum. Con poche letture il risultato è illustrativo, non una prova.",
+  "Si las notas son parecidas, las lecturas que recibiste no dependían de tu mano. Las lecturas generales parecen personales: es el efecto Barnum. Con solo unas pocas lecturas, el resultado es ilustrativo, no una prueba.",
+  "Se as notas forem próximas, as leituras recebidas não dependiam da sua mão. As leituras gerais parecem pessoais: é o efeito Barnum. Com apenas algumas leituras, o resultado é ilustrativo, não uma prova.",
+  "Liegen die Bewertungen nah beieinander, hingen die erhaltenen Deutungen nicht von deiner Hand ab. Allgemeine Deutungen wirken persönlich: Das ist der Barnum-Effekt. Mit nur wenigen Deutungen ist das Ergebnis anschaulich, kein Beweis.",
+  "Ha a pontszámok közel vannak egymáshoz, a kapott olvasatok nem a kezedtől függtek. Az általános olvasatok személyesnek tűnnek: ez a Barnum-hatás. Csak néhány olvasat esetén az eredmény szemléltető, nem bizonyíték."
+ ],
+ "blAgain": [
+  "Repetă testul",
+  "Repeat the test",
+  "Refaire le test",
+  "Ripeti il test",
+  "Repetir la prueba",
+  "Repetir o teste",
+  "Test wiederholen",
+  "Teszt ismétlése"
+ ],
+ "tPrint": [
+  "Antrenament amprente",
+  "Fingerprint trainer",
+  "Entraînement aux empreintes",
+  "Allenamento sulle impronte",
+  "Entrenamiento de huellas",
+  "Treino de impressões digitais",
+  "Fingerabdruck-Training",
+  "Ujjlenyomat-gyakorlás"
+ ],
+ "prIntro": [
+  "Amprentele de mai jos sunt desenate de calculator, nu sunt ale cuiva. Alege tipul de model.",
+  "The fingerprints below are drawn by the computer and belong to nobody. Choose the pattern type.",
+  "Les empreintes ci-dessous sont dessinées par l’ordinateur et n’appartiennent à personne. Choisissez le type de motif.",
+  "Le impronte qui sotto sono disegnate dal computer e non appartengono a nessuno. Scegli il tipo di disegno.",
+  "Las huellas de abajo las dibuja el ordenador y no pertenecen a nadie. Elige el tipo de patrón.",
+  "As impressões digitais abaixo são desenhadas pelo computador e não pertencem a ninguém. Escolha o tipo de padrão.",
+  "Die Fingerabdrücke unten wurden vom Computer gezeichnet und gehören niemandem. Wähle den Mustertyp.",
+  "Az alábbi ujjlenyomatokat a számítógép rajzolta, senkihez sem tartoznak. Válaszd ki a minta típusát."
+ ],
+ "prQ": [
+  "Ce model este?",
+  "Which pattern is it?",
+  "Quel est ce motif ?",
+  "Che disegno è?",
+  "¿Qué patrón es?",
+  "Que padrão é?",
+  "Welches Muster ist es?",
+  "Milyen minta ez?"
+ ],
+ "prExp": [
+  "Bucla are creste care intră și ies pe aceeași parte; vârtejul are cercuri; arcul are creste care urcă și coboară fără buclă.",
+  "A loop has ridges that enter and leave on the same side; a whorl has circles; an arch has ridges that rise and fall without a loop.",
+  "Une boucle a des crêtes qui entrent et sortent du même côté ; un tourbillon a des cercles ; un arc a des crêtes qui montent et descendent sans boucle.",
+  "Un’ansa ha creste che entrano e escono dallo stesso lato; un verticillo ha cerchi; un arco ha creste che salgono e scendono senza ansa.",
+  "Un lazo tiene crestas que entran y salen por el mismo lado; un verticilo tiene círculos; un arco tiene crestas que suben y bajan sin lazo.",
+  "Uma laçada tem cristas que entram e saem pelo mesmo lado; um verticilo tem círculos; um arco tem cristas que sobem e descem sem presilha.",
+  "Eine Schleife hat Papillarleisten, die auf derselben Seite ein- und austreten; ein Wirbel hat Kreise; ein Bogen hat Leisten, die ohne Schlinge auf- und absteigen.",
+  "A hurokban a bőrléc ugyanazon az oldalon lép be és ki; az örvényben körök vannak; az ívben a bőrléc hurok nélkül emelkedik és süllyed."
+ ],
+ "tPred": [
+  "Predicții testabile",
+  "Testable predictions",
+  "Prédictions testables",
+  "Previsioni verificabili",
+  "Predicciones comprobables",
+  "Previsões testáveis",
+  "Überprüfbare Vorhersagen",
+  "Ellenőrizhető előrejelzések"
+ ],
+ "pdIntro": [
+  "Scrie o afirmație pe care o poți verifica (ceva măsurabil, cu dată). Când data trece, aplicația te întreabă dacă s-a întâmplat. Așa vezi dacă o lectură poate fi testată.",
+  "Write a statement you can check (something measurable, with a date). When the date passes, the app asks whether it happened. This shows whether a reading can be tested.",
+  "Écrivez une affirmation vérifiable (quelque chose de mesurable, avec une date). Quand la date est passée, l’application vous demande si cela s’est produit. Vous voyez ainsi si une lecture peut être testée.",
+  "Scrivi un’affermazione verificabile (qualcosa di misurabile, con una data). Quando la data è passata, l’app ti chiede se si è avverata. Così vedi se una lettura può essere messa alla prova.",
+  "Escribe una afirmación que puedas comprobar (algo medible, con fecha). Cuando pase la fecha, la aplicación te preguntará si ocurrió. Así ves si una lectura se puede poner a prueba.",
+  "Escreva uma afirmação que possa verificar (algo mensurável, com data). Quando a data passar, a aplicação pergunta-lhe se aconteceu. Assim vê se uma leitura pode ser testada.",
+  "Schreibe eine Aussage, die du überprüfen kannst (etwas Messbares, mit Datum). Wenn das Datum verstrichen ist, fragt dich die App, ob es eingetreten ist. So siehst du, ob sich eine Deutung testen lässt.",
+  "Írj egy ellenőrizhető állítást (valami mérhetőt, dátummal). Amikor a dátum elmúlik, az alkalmazás megkérdezi, megtörtént-e. Így látod, hogy egy olvasat tesztelhető-e."
+ ],
+ "pdText": [
+  "Afirmația ta",
+  "Your statement",
+  "Votre affirmation",
+  "La tua affermazione",
+  "Tu afirmación",
+  "A sua afirmação",
+  "Deine Aussage",
+  "Az állításod"
+ ],
+ "pdDate": [
+  "Data verificării",
+  "Check date",
+  "Date de vérification",
+  "Data di verifica",
+  "Fecha de comprobación",
+  "Data de verificação",
+  "Prüfdatum",
+  "Ellenőrzés dátuma"
+ ],
+ "pdAdd": [
+  "Salvează predicția",
+  "Save prediction",
+  "Enregistrer la prédiction",
+  "Salva la previsione",
+  "Guardar la predicción",
+  "Guardar a previsão",
+  "Vorhersage speichern",
+  "Jóslat mentése"
+ ],
+ "pdBad": [
+  "Completează afirmația și o dată viitoare.",
+  "Fill in the statement and a future date.",
+  "Renseignez l’affirmation et une date future.",
+  "Compila l’affermazione e una data futura.",
+  "Completa la afirmación y una fecha futura.",
+  "Preencha a afirmação e uma data futura.",
+  "Fülle die Aussage und ein zukünftiges Datum aus.",
+  "Töltsd ki az állítást és egy jövőbeli dátumot."
+ ],
+ "pdDue": [
+  "Ai {n} predicții de verificat",
+  "You have {n} predictions to check",
+  "Vous avez {n} prédictions à vérifier",
+  "Hai {n} previsioni da verificare",
+  "Tienes {n} predicciones por comprobar",
+  "Tem {n} previsões para verificar",
+  "Du hast {n} Vorhersagen zu prüfen",
+  "{n} jóslatot kell ellenőrizned"
+ ],
+ "pdYes": [
+  "S-a întâmplat",
+  "It happened",
+  "Cela s’est produit",
+  "Si è avverata",
+  "Ocurrió",
+  "Aconteceu",
+  "Es ist eingetreten",
+  "Megtörtént"
+ ],
+ "pdNo": [
+  "Nu s-a întâmplat",
+  "It did not happen",
+  "Cela ne s’est pas produit",
+  "Non si è avverata",
+  "No ocurrió",
+  "Não aconteceu",
+  "Es ist nicht eingetreten",
+  "Nem történt meg"
+ ],
+ "pdUnc": [
+  "Neclar",
+  "Unclear",
+  "Incertain",
+  "Incerto",
+  "Poco claro",
+  "Pouco claro",
+  "Unklar",
+  "Bizonytalan"
+ ],
+ "pdPend": [
+  "În așteptare",
+  "Pending",
+  "En attente",
+  "In attesa",
+  "Pendiente",
+  "Pendente",
+  "Ausstehend",
+  "Függőben"
+ ],
+ "pdDel": [
+  "Șterge",
+  "Delete",
+  "Supprimer",
+  "Elimina",
+  "Eliminar",
+  "Eliminar",
+  "Löschen",
+  "Törlés"
+ ],
+ "pdEmpty": [
+  "Nicio predicție salvată.",
+  "No saved predictions.",
+  "Aucune prédiction enregistrée.",
+  "Nessuna previsione salvata.",
+  "Ninguna predicción guardada.",
+  "Nenhuma previsão guardada.",
+  "Keine Vorhersage gespeichert.",
+  "Nincs mentett jóslat."
+ ],
+ "pdStats": [
+  "Rezultat: {y} da, {n} nu, {u} neclar.",
+  "Result: {y} yes, {n} no, {u} unclear.",
+  "Résultat : {y} oui, {n} non, {u} incertain.",
+  "Risultato: {y} sì, {n} no, {u} incerto.",
+  "Resultado: {y} sí, {n} no, {u} poco claro.",
+  "Resultado: {y} sim, {n} não, {u} pouco claro.",
+  "Ergebnis: {y} ja, {n} nein, {u} unklar.",
+  "Eredmény: {y} igen, {n} nem, {u} bizonytalan."
+ ],
+ "pdLesson": [
+  "O afirmație vagă („vei avea o schimbare”) se potrivește mereu și nu poate fi testată. Una precisă poate fi greșită, de aceea contează.",
+  "A vague statement (“you will have a change”) always fits and cannot be tested. A precise one can be wrong, which is why it matters.",
+  "Une affirmation vague (« vous aurez un changement ») convient toujours et ne peut pas être testée. Une affirmation précise peut être fausse, et c’est pourquoi elle compte.",
+  "Un’affermazione vaga («avrai un cambiamento») va sempre bene e non si può verificare. Una precisa può essere sbagliata, ed è per questo che conta.",
+  "Una afirmación vaga («tendrás un cambio») siempre encaja y no se puede comprobar. Una precisa puede ser errónea, y por eso importa.",
+  "Uma afirmação vaga («vai ter uma mudança») serve sempre e não pode ser testada. Uma precisa pode estar errada, e é por isso que importa.",
+  "Eine vage Aussage („du wirst eine Veränderung erleben“) passt immer und lässt sich nicht testen. Eine präzise Aussage kann falsch sein, und gerade deshalb zählt sie.",
+  "Egy homályos állítás („változás lesz az életedben”) mindig illik, és nem tesztelhető. Egy pontos állítás lehet téves, és éppen ezért számít."
+ ],
+ "pdWhen": [
+  "până la {d}",
+  "by {d}",
+  "jusqu’au {d}",
+  "entro il {d}",
+  "hasta el {d}",
+  "até {d}",
+  "bis {d}",
+  "eddig: {d}"
+ ],
+ "tWs": [
+  "Foaie de lucru",
+  "Worksheet",
+  "Feuille de travail",
+  "Foglio di lavoro",
+  "Hoja de trabajo",
+  "Folha de trabalho",
+  "Arbeitsblatt",
+  "Munkalap"
+ ],
+ "wsIntro": [
+  "Tipărește la 100% (fără „potrivire la pagină”). Pune mâna pe foaie, conturează-o și măsoară cu rigla de pe margine.",
+  "Print at 100% (no “fit to page”). Place your hand on the sheet, trace it and measure with the ruler on the edge.",
+  "Imprimez à 100 % (sans « ajuster à la page »). Posez la main sur la feuille, tracez son contour et mesurez avec la règle du bord.",
+  "Stampa al 100% (senza «adatta alla pagina»). Appoggia la mano sul foglio, tracciane il contorno e misura con il righello sul bordo.",
+  "Imprime al 100 % (sin «ajustar a la página»). Apoya la mano en la hoja, dibuja su contorno y mide con la regla del borde.",
+  "Imprima a 100% (sem «ajustar à página»). Pouse a mão na folha, desenhe o contorno e meça com a régua da margem.",
+  "Drucke mit 100% (ohne „An Seite anpassen“). Lege die Hand auf das Blatt, zeichne sie nach und miss mit dem Lineal am Rand.",
+  "Nyomtasd 100%-on (az „oldalhoz igazítás” nélkül). Tedd a kezed a lapra, rajzold körbe, és mérj a szélén lévő vonalzóval."
+ ],
+ "wsPrint": [
+  "Tipărește foaia",
+  "Print the worksheet",
+  "Imprimer la feuille",
+  "Stampa il foglio",
+  "Imprimir la hoja",
+  "Imprimir a folha",
+  "Arbeitsblatt drucken",
+  "Munkalap nyomtatása"
+ ],
+ "wsTrace": [
+  "Pune mâna aici și conturează-o",
+  "Place your hand here and trace it",
+  "Posez la main ici et tracez son contour",
+  "Appoggia la mano qui e tracciane il contorno",
+  "Apoya la mano aquí y dibuja su contorno",
+  "Pouse a mão aqui e desenhe o contorno",
+  "Lege die Hand hierher und zeichne sie nach",
+  "Tedd ide a kezed, és rajzold körbe"
+ ],
+ "wsFill": [
+  "Completează în mm",
+  "Fill in (mm)",
+  "Renseigner en mm",
+  "Compila in mm",
+  "Rellena en mm",
+  "Preencha em mm",
+  "In mm ausfüllen",
+  "Töltsd ki mm-ben"
+ ],
+ "wsCheck": [
+  "Verificare: linia trebuie să măsoare exact 100 mm.",
+  "Check: the line must measure exactly 100 mm.",
+  "Vérification : la ligne doit mesurer exactement 100 mm.",
+  "Verifica: la linea deve misurare esattamente 100 mm.",
+  "Comprobación: la línea debe medir exactamente 100 mm.",
+  "Verificação: a linha deve medir exatamente 100 mm.",
+  "Kontrolle: Die Linie muss genau 100 mm messen.",
+  "Ellenőrzés: a vonalnak pontosan 100 mm-nek kell lennie."
+ ],
+ "tListen": [
+  "Ascultă harta",
+  "Listen to the map",
+  "Écouter la carte",
+  "Ascoltare la mappa",
+  "Escuchar el mapa",
+  "Ouvir o mapa",
+  "Die Karte hören",
+  "A térkép meghallgatása"
+ ],
+ "lsIntro": [
+  "Fiecare linie se aude ca un sunet care urcă sau coboară: cu cât linia e mai sus pe palmă, cu atât tonul e mai înalt; stânga și dreapta se aud în urechea corespunzătoare.",
+  "Each line is played as a sound that rises or falls: the higher the line on the palm, the higher the pitch; left and right are heard in the matching ear.",
+  "Chaque ligne s’entend comme un son qui monte ou descend : plus la ligne est haute sur la paume, plus la hauteur est aiguë ; la gauche et la droite s’entendent dans l’oreille correspondante.",
+  "Ogni linea si ascolta come un suono che sale o scende: più la linea è in alto sul palmo, più il tono è acuto; sinistra e destra si sentono nell’orecchio corrispondente.",
+  "Cada línea se oye como un sonido que sube o baja: cuanto más arriba está la línea en la palma, más agudo es el tono; la izquierda y la derecha se oyen en el oído correspondiente.",
+  "Cada linha ouve-se como um som que sobe ou desce: quanto mais alta a linha na palma, mais agudo o tom; a esquerda e a direita ouvem-se no ouvido correspondente.",
+  "Jede Linie wird als Klang wiedergegeben, der steigt oder fällt: Je höher die Linie auf der Handfläche liegt, desto höher der Ton; links und rechts hört man im entsprechenden Ohr.",
+  "Minden vonal egy emelkedő vagy süllyedő hangként szólal meg: minél följebb van a vonal a tenyéren, annál magasabb a hang; a bal és a jobb oldal a megfelelő fülben hallható."
+ ],
+ "lsPlay": [
+  "Ascultă: {n}",
+  "Listen: {n}",
+  "Écouter : {n}",
+  "Ascolta: {n}",
+  "Escuchar: {n}",
+  "Ouvir: {n}",
+  "Anhören: {n}",
+  "Meghallgatás: {n}"
+ ],
+ "lsStop": [
+  "Oprește sunetul",
+  "Stop sound",
+  "Arrêter le son",
+  "Ferma il suono",
+  "Detener el sonido",
+  "Parar o som",
+  "Ton stoppen",
+  "Hang leállítása"
+ ],
+ "lsNoAudio": [
+  "Sunetul nu este disponibil în acest browser.",
+  "Audio is not available in this browser.",
+  "Le son n’est pas disponible dans ce navigateur.",
+  "L’audio non è disponibile in questo browser.",
+  "El sonido no está disponible en este navegador.",
+  "O som não está disponível neste navegador.",
+  "Ton ist in diesem Browser nicht verfügbar.",
+  "A hang ebben a böngészőben nem érhető el."
+ ],
+ "lsDescH": [
+  "Descrierea palmei în cuvinte",
+  "The palm described in words",
+  "La paume décrite en mots",
+  "Il palmo descritto a parole",
+  "La palma descrita con palabras",
+  "A palma descrita por palavras",
+  "Die Handfläche in Worten",
+  "A tenyér szavakkal leírva"
+ ],
+ "lsDesc": [
+  "Palma stângă, cu degetele în sus. Degetul mare e în stânga. Sub degete, de la stânga la dreapta, sunt colinele Jupiter, Saturn, Apollo și Mercur. Linia inimii pornește de lângă degetul mic și traversează palma spre degetul arătător, sub colinele degetelor. Linia capului pornește de lângă police și merge spre marginea din dreapta, la mijlocul palmei. Linia vieții pornește între police și arătător și se curbează în jurul colinei Venus, în partea de jos stânga. Linia destinului urcă din centrul jos spre degetul mijlociu. Mai jos, spre încheietură, sunt linia Soarelui și a lui Mercur, în dreapta.",
+  "Left palm, fingers up. The thumb is on the left. Under the fingers, from left to right, are the mounts of Jupiter, Saturn, Apollo and Mercury. The heart line starts near the little finger and crosses the palm toward the index finger, below the finger mounts. The head line starts near the thumb side and runs toward the right edge, across the middle of the palm. The life line starts between the thumb and index finger and curves around the Mount of Venus, at the lower left. The fate line rises from the bottom center toward the middle finger. Lower down, toward the wrist, are the Sun and Mercury lines, on the right.",
+  "Paume gauche, doigts vers le haut. Le pouce est à gauche. Sous les doigts, de gauche à droite, se trouvent les monts de Jupiter, Saturne, Apollon et Mercure. La ligne de cœur part de l’auriculaire et traverse la paume vers l’index, sous les monts des doigts. La ligne de tête part du côté du pouce et se dirige vers le bord droit, au milieu de la paume. La ligne de vie part entre le pouce et l’index et s’incurve autour du mont de Vénus, en bas à gauche. La ligne de destin monte du centre du bas vers le majeur. Plus bas, vers le poignet, se trouvent les lignes du Soleil et de Mercure, à droite.",
+  "Palmo sinistro, con le dita in alto. Il pollice è a sinistra. Sotto le dita, da sinistra a destra, ci sono i monti di Giove, Saturno, Apollo e Mercurio. La linea del cuore parte vicino al mignolo e attraversa il palmo verso l’indice, sotto i monti delle dita. La linea della testa parte dal lato del pollice e corre verso il bordo destro, a metà del palmo. La linea della vita parte tra il pollice e l’indice e si curva attorno al monte di Venere, in basso a sinistra. La linea del destino sale dal centro in basso verso il dito medio. Più in basso, verso il polso, ci sono le linee del Sole e di Mercurio, a destra.",
+  "Palma izquierda, con los dedos hacia arriba. El pulgar está a la izquierda. Bajo los dedos, de izquierda a derecha, están los montes de Júpiter, Saturno, Apolo y Mercurio. La línea del corazón parte junto al meñique y cruza la palma hacia el índice, por debajo de los montes de los dedos. La línea de la cabeza parte del lado del pulgar y va hacia el borde derecho, por el centro de la palma. La línea de la vida parte entre el pulgar y el índice y se curva alrededor del monte de Venus, abajo a la izquierda. La línea del destino sube desde el centro inferior hacia el dedo corazón. Más abajo, hacia la muñeca, están las líneas del Sol y de Mercurio, a la derecha.",
+  "Palma esquerda, com os dedos para cima. O polegar está à esquerda. Sob os dedos, da esquerda para a direita, estão os montes de Júpiter, Saturno, Apolo e Mercúrio. A linha do coração parte junto ao dedo mindinho e atravessa a palma em direção ao indicador, abaixo dos montes dos dedos. A linha da cabeça parte do lado do polegar e segue para o bordo direito, pelo meio da palma. A linha da vida parte entre o polegar e o indicador e curva-se em torno do monte de Vénus, em baixo à esquerda. A linha do destino sobe do centro inferior em direção ao dedo médio. Mais abaixo, em direção ao pulso, estão as linhas do Sol e de Mercúrio, à direita.",
+  "Linke Handfläche, Finger nach oben. Der Daumen ist links. Unter den Fingern liegen von links nach rechts die Berge von Jupiter, Saturn, Apollo und Merkur. Die Herzlinie beginnt beim kleinen Finger und quert die Handfläche zum Zeigefinger hin, unterhalb der Fingerberge. Die Kopflinie beginnt auf der Daumenseite und verläuft zum rechten Rand, quer durch die Mitte der Handfläche. Die Lebenslinie beginnt zwischen Daumen und Zeigefinger und biegt sich um den Venusberg, unten links. Die Schicksalslinie steigt von der unteren Mitte zum Mittelfinger auf. Weiter unten, zum Handgelenk hin, liegen rechts die Sonnenlinie und die Merkurlinie.",
+  "Bal tenyér, az ujjak felfelé néznek. A hüvelykujj balra van. Az ujjak alatt balról jobbra a Jupiter-, Szaturnusz-, Apolló- és Merkúr-domb található. A szívvonal a kisujj mellett indul, és a tenyéren át a mutatóujj felé halad, az ujjdombok alatt. A fejvonal a hüvelykujj oldaláról indul, és a jobb szél felé tart, a tenyér közepén át. Az életvonal a hüvelykujj és a mutatóujj között indul, és a Vénusz-domb körül ível, balra lent. A sorsvonal alulról, középről emelkedik a középső ujj felé. Lejjebb, a csukló felé, jobbra a Nap- és a Merkúr-vonal található."
+ ],
+ "shLink": [
+  "Copiază linkul de partajare",
+  "Copy share link",
+  "Copier le lien de partage",
+  "Copia link di condivisione",
+  "Copiar enlace para compartir",
+  "Copiar a ligação de partilha",
+  "Teilen-Link kopieren",
+  "Megosztási link másolása"
+ ],
+ "shQR": [
+  "Arată codul QR",
+  "Show QR code",
+  "Afficher le code QR",
+  "Mostra il codice QR",
+  "Mostrar el código QR",
+  "Mostrar o código QR",
+  "QR-Code anzeigen",
+  "QR-kód megjelenítése"
+ ],
+ "shQRHide": [
+  "Ascunde codul QR",
+  "Hide QR code",
+  "Masquer le code QR",
+  "Nascondi il codice QR",
+  "Ocultar el código QR",
+  "Ocultar o código QR",
+  "QR-Code ausblenden",
+  "QR-kód elrejtése"
+ ],
+ "shCopied": [
+  "Link copiat",
+  "Link copied",
+  "Lien copié",
+  "Link copiato",
+  "Enlace copiado",
+  "Ligação copiada",
+  "Link kopiert",
+  "Link másolva"
+ ],
+ "shLoaded": [
+  "Am încărcat lectura din link.",
+  "Loaded the reading from the link.",
+  "La lecture a été chargée depuis le lien.",
+  "Ho caricato la lettura dal link.",
+  "Se ha cargado la lectura desde el enlace.",
+  "A leitura foi carregada a partir da ligação.",
+  "Die Deutung wurde aus dem Link geladen.",
+  "Az olvasat betöltődött a linkből."
+ ],
+ "tSim": [
+  "Simulator cold reading",
+  "Cold-reading simulator",
+  "Simulateur de cold reading",
+  "Simulatore di cold reading",
+  "Simulador de cold reading",
+  "Simulador de cold reading",
+  "Cold-Reading-Simulator",
+  "Cold reading szimulátor"
+ ],
+ "smIntro": [
+  "Ești cititorul. La fiecare pas alegi ce spui; clientul simulat reacționează. La final vezi ce tehnici ai folosit și cum funcționează. Scop: să recunoști tehnicile, nu să le aplici pe oameni.",
+  "You are the reader. At each step you choose what to say; the simulated client reacts. At the end you see which techniques you used and how they work. Purpose: to recognize the techniques, not to use them on people.",
+  "Vous êtes le lecteur. À chaque étape, vous choisissez ce que vous dites ; le client simulé réagit. À la fin, vous voyez quelles techniques vous avez utilisées et comment elles fonctionnent. But : reconnaître les techniques, pas les employer sur les gens.",
+  "Sei il lettore. A ogni passo scegli cosa dire; il cliente simulato reagisce. Alla fine vedi quali tecniche hai usato e come funzionano. Scopo: riconoscere le tecniche, non usarle sulle persone.",
+  "Eres el lector. En cada paso eliges qué decir; el cliente simulado reacciona. Al final ves qué técnicas has usado y cómo funcionan. Objetivo: reconocer las técnicas, no usarlas con las personas.",
+  "É o leitor. Em cada passo escolhe o que diz; o cliente simulado reage. No fim vê que técnicas utilizou e como funcionam. Objetivo: reconhecer as técnicas, não usá-las nas pessoas.",
+  "Du bist der Leser. In jedem Schritt wählst du, was du sagst; der simulierte Kunde reagiert. Am Ende siehst du, welche Techniken du eingesetzt hast und wie sie funktionieren. Ziel: die Techniken erkennen, nicht an Menschen anwenden.",
+  "Te vagy az olvasó. Minden lépésben te választod meg, mit mondasz; a szimulált ügyfél reagál. A végén látod, mely technikákat használtad, és hogyan működnek. Cél: felismerni a technikákat, nem alkalmazni őket emberekön."
+ ],
+ "smPick": [
+  "Ce spui?",
+  "What do you say?",
+  "Que dites-vous ?",
+  "Cosa dici?",
+  "¿Qué dices?",
+  "O que diz?",
+  "Was sagst du?",
+  "Mit mondasz?"
+ ],
+ "smTech": [
+  "Tehnica",
+  "Technique",
+  "Technique",
+  "Tecnica",
+  "Técnica",
+  "Técnica",
+  "Technik",
+  "Technika"
+ ],
+ "smScore": [
+  "Reacții bune: {n} din {m}",
+  "Good reactions: {n} of {m}",
+  "Bonnes réactions : {n} sur {m}",
+  "Reazioni positive: {n} su {m}",
+  "Reacciones buenas: {n} de {m}",
+  "Boas reações: {n} de {m}",
+  "Gute Reaktionen: {n} von {m}",
+  "Jó reakciók: {n} / {m}"
+ ],
+ "smNext": [
+  "Pasul următor",
+  "Next step",
+  "Étape suivante",
+  "Passo successivo",
+  "Paso siguiente",
+  "Passo seguinte",
+  "Nächster Schritt",
+  "Következő lépés"
+ ],
+ "smAgain": [
+  "Alt client",
+  "Another client",
+  "Autre client",
+  "Altro cliente",
+  "Otro cliente",
+  "Outro cliente",
+  "Anderer Kunde",
+  "Másik ügyfél"
+ ],
+ "smStart": [
+  "Începe",
+  "Start",
+  "Commencer",
+  "Inizia",
+  "Empezar",
+  "Começar",
+  "Starten",
+  "Indítás"
+ ],
+ "smDebrief": [
+  "Ce ai făcut",
+  "What you did",
+  "Ce que vous avez fait",
+  "Cosa hai fatto",
+  "Lo que hiciste",
+  "O que fez",
+  "Was du getan hast",
+  "Amit tettél"
+ ],
+ "smLesson": [
+  "Reacțiile bune vin din afirmații generale sau din indicii pe care clientul ți le-a dat, nu dintr-o citire reală a mâinii.",
+  "Good reactions come from general statements or from clues the client gave you, not from actually reading the hand.",
+  "Les bonnes réactions viennent d’affirmations générales ou d’indices donnés par le client, pas d’une véritable lecture de la main.",
+  "Le reazioni positive nascono da affermazioni generiche o da indizi che il cliente ti ha dato, non da una vera lettura della mano.",
+  "Las buenas reacciones vienen de afirmaciones generales o de pistas que te dio el cliente, no de una lectura real de la mano.",
+  "As boas reações vêm de afirmações gerais ou de pistas dadas pelo cliente, não de uma leitura real da mão.",
+  "Gute Reaktionen entstehen aus allgemeinen Aussagen oder aus Hinweisen, die der Kunde dir gegeben hat, nicht aus einer echten Deutung der Hand.",
+  "A jó reakciók általános állításokból vagy az ügyfél által adott támpontokból erednek, nem a kéz valódi olvasásából."
+ ],
+ "tHist": [
+  "Istoria chirologiei",
+  "History of chirology",
+  "Histoire de la chirologie",
+  "Storia della chirologia",
+  "Historia de la quirología",
+  "História da quirologia",
+  "Geschichte der Chirologie",
+  "A kirológia története"
+ ],
+ "hsIntro": [
+  "Repere istorice, cu surse. Datele vechi sunt legende sau tradiții, nu fapte documentate.",
+  "Historical milestones, with sources. Old dates are legends or traditions, not documented facts.",
+  "Repères historiques, avec sources. Les dates anciennes relèvent de légendes ou de traditions, non de faits documentés.",
+  "Cenni storici, con fonti. Le date antiche sono leggende o tradizioni, non fatti documentati.",
+  "Hitos históricos, con fuentes. Las fechas antiguas son leyendas o tradiciones, no hechos documentados.",
+  "Marcos históricos, com fontes. As datas antigas são lendas ou tradições, não factos documentados.",
+  "Historische Eckpunkte mit Quellen. Alte Daten sind Legenden oder Überlieferungen, keine belegten Fakten.",
+  "Történeti kiindulópontok, forrásokkal. A régi dátumok legendák vagy hagyományok, nem dokumentált tények."
+ ],
+ "shareNote": [
+  "Linkul conține doar alegerile tale din lectură, nu poze. Ele stau după semnul # și nu sunt trimise unui site, dar cine primește linkul (și serviciul de mesagerie prin care îl trimiți) le poate vedea.",
+  "The link contains only your reading choices, no photos. They sit after the # sign and are not sent to a website, but whoever receives the link (and the messaging service you send it through) can see them.",
+  "Le lien ne contient que vos choix de lecture, pas de photos. Ils se trouvent après le signe # et ne sont pas envoyés à un site web, mais quiconque reçoit le lien (et le service de messagerie utilisé) peut les voir.",
+  "Il link contiene solo le tue scelte di lettura, nessuna foto. Si trovano dopo il segno # e non vengono inviate a un sito web, ma chi riceve il link (e il servizio di messaggistica che usi) può vederle.",
+  "El enlace contiene solo tus elecciones de lectura, sin fotos. Están después del signo # y no se envían a ningún sitio web, pero quien reciba el enlace (y el servicio de mensajería que uses) puede verlas.",
+  "A ligação contém apenas as suas escolhas de leitura, sem fotografias. Ficam depois do sinal # e não são enviadas a nenhum site, mas quem receber a ligação (e o serviço de mensagens que utilizar) pode vê-las.",
+  "Der Link enthält nur Ihre Deutungsauswahl, keine Fotos. Sie stehen hinter dem #-Zeichen und werden nicht an eine Website gesendet, aber wer den Link erhält (und der Nachrichtendienst, über den Sie ihn senden), kann sie sehen.",
+  "A link csak az olvasási választásaidat tartalmazza, fényképet nem. Ezek a # jel után állnak, és nem kerülnek el egy weboldalhoz, de aki megkapja a linket (és az üzenetküldő szolgáltatás, amelyen elküldöd), láthatja őket."
+ ],
+ "shLocal": [
+  "Linkul și codul QR funcționează doar când aplicația e deschisă de la o adresă web (https). Din fișier local, folosește imaginea de partajat.",
+  "The link and QR code only work when the app is opened from a web address (https). From a local file, use the share image instead.",
+  "Le lien et le code QR ne fonctionnent que si l’application est ouverte depuis une adresse web (https). Depuis un fichier local, utilisez l’image à partager.",
+  "Il link e il codice QR funzionano solo se l’app è aperta da un indirizzo web (https). Da file locale, usa l’immagine da condividere.",
+  "El enlace y el código QR solo funcionan si la aplicación se abre desde una dirección web (https). Desde un archivo local, usa la imagen para compartir.",
+  "A ligação e o código QR só funcionam se a aplicação for aberta a partir de um endereço web (https). A partir de um ficheiro local, utilize a imagem para partilhar.",
+  "Link und QR-Code funktionieren nur, wenn die App über eine Webadresse (https) geöffnet wird. Nutzen Sie bei einer lokalen Datei stattdessen das Teilbild.",
+  "A link és a QR-kód csak akkor működik, ha az alkalmazást webcímről (https) nyitod meg. Helyi fájlból használd inkább a megosztható képet."
+ ],
+ "pdFull": [
+  "Ai atins limita de 20 de predicții; șterge una rezolvată înainte să adaugi alta.",
+  "You have reached the limit of 20 predictions; delete a resolved one before adding another.",
+  "Vous avez atteint la limite de 20 prédictions ; supprimez-en une résolue avant d’en ajouter une.",
+  "Hai raggiunto il limite di 20 previsioni; elimina una risolta prima di aggiungerne un’altra.",
+  "Has alcanzado el límite de 20 predicciones; elimina una resuelta antes de añadir otra.",
+  "Atingiu o limite de 20 previsões; elimine uma resolvida antes de adicionar outra.",
+  "Sie haben das Limit von 20 Vorhersagen erreicht; löschen Sie eine erledigte, bevor Sie eine neue hinzufügen.",
+  "Elérted a 20 előrejelzés korlátját; törölj egy lezártat, mielőtt újat adnál hozzá."
+ ]
+}

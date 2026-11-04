@@ -1,0 +1,2682 @@
+[
+ {
+  "id": "q1",
+  "cat": "lines",
+  "q": [
+   "În jurul cărui munte se curbează linia vieții?",
+   "Around which mount does the life line curve?",
+   "Autour de quel mont la ligne de vie s’incurve-t-elle ?",
+   "Attorno a quale monte si curva la linea della vita?",
+   "¿Alrededor de qué monte se curva la línea de la vida?",
+   "À volta de que monte se curva a linha da vida?",
+   "Um welchen Berg schwingt sich die Lebenslinie?",
+   "Melyik domb körül ível az életvonal?"
+  ],
+  "o": [
+   [
+    "Muntele lui Venus",
+    "Mount of Venus",
+    "Mont de Vénus",
+    "Monte di Venere",
+    "Monte de Venus",
+    "Monte de Vénus",
+    "Venusberg",
+    "Vénusz-domb"
+   ],
+   [
+    "Muntele Lunii",
+    "Mount of the Moon",
+    "Mont de la Lune",
+    "Monte della Luna",
+    "Monte de la Luna",
+    "Monte da Lua",
+    "Mondberg",
+    "Hold-domb"
+   ],
+   [
+    "Muntele lui Jupiter",
+    "Mount of Jupiter",
+    "Mont de Jupiter",
+    "Monte di Giove",
+    "Monte de Júpiter",
+    "Monte de Júpiter",
+    "Jupiterberg",
+    "Jupiter-domb"
+   ],
+   [
+    "Muntele lui Saturn",
+    "Mount of Saturn",
+    "Mont de Saturne",
+    "Monte di Saturno",
+    "Monte de Saturno",
+    "Monte de Saturno",
+    "Saturnberg",
+    "Szaturnusz-domb"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "În tradiția chiromanției, linia vieții încercuiește Muntele lui Venus, de la baza degetului mare. Este o convenție simbolică a tradiției, fără validare științifică.",
+   "In palmistry tradition, the life line encircles the Mount of Venus at the base of the thumb. This is a symbolic convention of the tradition, without scientific validation.",
+   "Dans la tradition chiromantique, la ligne de vie entoure le mont de Vénus, à la base du pouce. C’est une convention symbolique, sans validation scientifique.",
+   "Nella tradizione chiromantica, la linea della vita circonda il monte di Venere, alla base del pollice. È una convenzione simbolica, priva di validazione scientifica.",
+   "En la tradición quiromántica, la línea de la vida rodea el monte de Venus, en la base del pulgar. Es una convención simbólica, sin validación científica.",
+   "Na tradição da quiromancia, a linha da vida contorna o monte de Vénus, na base do polegar. É uma convenção simbólica, sem validação científica.",
+   "In der Tradition der Handlesekunst umschließt die Lebenslinie den Venusberg am Daumenansatz. Das ist eine symbolische Konvention ohne wissenschaftliche Bestätigung.",
+   "A kézjóslás hagyománya szerint az életvonal a hüvelykujj tövénél a Vénusz-dombot öleli körül. Ez a hagyomány jelképes megállapodása, tudományos igazolás nélkül."
+  ]
+ },
+ {
+  "id": "q2",
+  "cat": "lines",
+  "q": [
+   "Ce citește tradiția în linia vieții?",
+   "What does tradition read in the life line?",
+   "Que lit la tradition dans la ligne de vie ?",
+   "Che cosa legge la tradizione nella linea della vita?",
+   "¿Qué lee la tradición en la línea de la vida?",
+   "O que lê a tradição na linha da vida?",
+   "Was liest die Tradition aus der Lebenslinie?",
+   "Mit lát a hagyomány az életvonalban?"
+  ],
+  "o": [
+   [
+    "Vârsta exactă la care va muri persoana",
+    "The exact age at which the person will die",
+    "L’âge exact auquel la personne mourra",
+    "L’età esatta in cui la persona morirà",
+    "La edad exacta a la que morirá la persona",
+    "A idade exata em que a pessoa morrerá",
+    "Das genaue Alter, in dem die Person stirbt",
+    "Azt a pontos életkort, amikor a személy meghal"
+   ],
+   [
+    "Vitalitate, energie și schimbări mari de viață",
+    "Vitality, energy and major life changes",
+    "Vitalité, énergie et grands changements de vie",
+    "Vitalità, energia e grandi cambiamenti di vita",
+    "Vitalidad, energía y grandes cambios de vida",
+    "Vitalidade, energia e grandes mudanças de vida",
+    "Vitalität, Energie und große Lebensveränderungen",
+    "Életerőt, energiát és nagy életváltozásokat"
+   ],
+   [
+    "Numărul de copii pe care îi va avea",
+    "The number of children the person will have",
+    "Le nombre d’enfants que la personne aura",
+    "Il numero di figli che la persona avrà",
+    "El número de hijos que tendrá la persona",
+    "O número de filhos que a pessoa terá",
+    "Die Zahl der Kinder, die die Person haben wird",
+    "A gyermekek számát, akik majd születnek"
+   ],
+   [
+    "Nivelul de inteligență",
+    "The level of intelligence",
+    "Le niveau d’intelligence",
+    "Il livello di intelligenza",
+    "El nivel de inteligencia",
+    "O nível de inteligência",
+    "Das Intelligenzniveau",
+    "Az intelligencia szintjét"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Tradiția citește linia vieții ca vitalitate, energie și schimbări majore, nu ca durată a vieții sau stare de sănătate. Un studiu pe 60 de cadavre nu a găsit nicio corelație cu vârsta la deces.",
+   "Tradition reads the life line as vitality, energy and major life changes, not as lifespan or health. A study of 60 cadavers found no correlation with age at death.",
+   "La tradition lit la ligne de vie comme vitalité, énergie et grands changements, non comme durée de vie ou santé. Une étude sur 60 cadavres n’a trouvé aucune corrélation avec l’âge au décès.",
+   "La tradizione legge la linea della vita come vitalità, energia e grandi cambiamenti, non come durata della vita o salute. Uno studio su 60 cadaveri non ha trovato correlazione con l’età al decesso.",
+   "La tradición lee la línea de la vida como vitalidad, energía y grandes cambios, no como duración de la vida ni salud. Un estudio con 60 cadáveres no halló correlación con la edad de fallecimiento.",
+   "A tradição lê a linha da vida como vitalidade, energia e grandes mudanças, não como duração da vida nem saúde. Um estudo com 60 cadáveres não encontrou correlação com a idade à morte.",
+   "Die Tradition liest die Lebenslinie als Vitalität, Energie und große Veränderungen, nicht als Lebensdauer oder Gesundheit. Eine Studie an 60 Leichen fand keine Korrelation mit dem Sterbealter.",
+   "A hagyomány az életvonalat életerőként, energiaként és nagy változásokként olvassa, nem élettartamként vagy egészségként. Egy 60 holttesten végzett vizsgálat nem talált összefüggést a halálozási életkorral."
+  ]
+ },
+ {
+  "id": "q3",
+  "cat": "lines",
+  "q": [
+   "Ce descrie linia capului, în tradiția chiromanției?",
+   "What does the head line describe in palmistry tradition?",
+   "Que décrit la ligne de tête dans la tradition chiromantique ?",
+   "Che cosa descrive la linea della testa nella tradizione chiromantica?",
+   "¿Qué describe la línea de la cabeza en la tradición quiromántica?",
+   "O que descreve a linha da cabeça na tradição da quiromancia?",
+   "Was beschreibt die Kopflinie in der Tradition der Handlesekunst?",
+   "Mit ír le a fejvonal a kézjóslás hagyománya szerint?"
+  ],
+  "o": [
+   [
+    "Viața emoțională și felul de a arăta afecțiunea",
+    "Emotional life and how affection is expressed",
+    "La vie émotionnelle et la façon d’exprimer l’affection",
+    "La vita emotiva e il modo di esprimere l’affetto",
+    "La vida emocional y cómo se expresa el afecto",
+    "A vida emocional e a forma de expressar afeto",
+    "Das Gefühlsleben und den Ausdruck von Zuneigung",
+    "Az érzelmi életet és a szeretet kifejezésének módját"
+   ],
+   [
+    "Calea profesională și sentimentul direcției",
+    "Career path and sense of direction",
+    "Le parcours professionnel et le sens de l’orientation",
+    "Il percorso professionale e il senso di direzione",
+    "La trayectoria profesional y el sentido de dirección",
+    "O percurso profissional e o sentido de direção",
+    "Den Berufsweg und den Sinn für die Richtung",
+    "A szakmai utat és az irányérzéket"
+   ],
+   [
+    "Stilul de gândire și concentrarea (nu inteligența)",
+    "Thinking style and focus (not intelligence)",
+    "Le style de pensée et la concentration (pas l’intelligence)",
+    "Lo stile di pensiero e la concentrazione (non l’intelligenza)",
+    "El estilo de pensamiento y la concentración (no la inteligencia)",
+    "O estilo de pensamento e a concentração (não a inteligência)",
+    "Denkstil und Konzentration (nicht Intelligenz)",
+    "A gondolkodásmódot és a koncentrációt (nem az intelligenciát)"
+   ],
+   [
+    "Numărul și profunzimea relațiilor",
+    "The number and depth of relationships",
+    "Le nombre et la profondeur des relations",
+    "Il numero e la profondità delle relazioni",
+    "El número y la profundidad de las relaciones",
+    "O número e a profundidade das relações",
+    "Zahl und Tiefe der Beziehungen",
+    "A kapcsolatok számát és mélységét"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Linia capului traversează palma; tradiția o citește ca mod de a gândi și de a se concentra. Ea nu măsoară inteligența, iar lectura rămâne simbolică, fără dovezi științifice.",
+   "The head line crosses the palm; tradition reads it as a way of thinking and focusing. It does not measure intelligence, and the reading stays symbolic, without scientific evidence.",
+   "La ligne de tête traverse la paume ; la tradition y lit une manière de penser et de se concentrer. Elle ne mesure pas l’intelligence, et la lecture reste symbolique, sans preuve scientifique.",
+   "La linea della testa attraversa il palmo; la tradizione vi legge un modo di pensare e concentrarsi. Non misura l’intelligenza e la lettura resta simbolica, senza prove scientifiche.",
+   "La línea de la cabeza cruza la palma; la tradición la lee como una manera de pensar y concentrarse. No mide la inteligencia y la lectura sigue siendo simbólica, sin pruebas científicas.",
+   "A linha da cabeça atravessa a palma; a tradição lê nela uma forma de pensar e de se concentrar. Não mede a inteligência e a leitura continua simbólica, sem provas científicas.",
+   "Die Kopflinie quert die Handfläche; die Tradition liest darin eine Art zu denken und sich zu konzentrieren. Sie misst keine Intelligenz, und die Deutung bleibt symbolisch, ohne wissenschaftlichen Beleg.",
+   "A fejvonal keresztülhalad a tenyéren; a hagyomány a gondolkodás és a figyelem módját olvassa belőle. Az intelligenciát nem méri, az olvasat jelképes marad, tudományos bizonyíték nélkül."
+  ]
+ },
+ {
+  "id": "q4",
+  "cat": "lines",
+  "q": [
+   "Unde se află linia inimii?",
+   "Where is the heart line?",
+   "Où se trouve la ligne de cœur ?",
+   "Dove si trova la linea del cuore?",
+   "¿Dónde está la línea del corazón?",
+   "Onde fica a linha do coração?",
+   "Wo verläuft die Herzlinie?",
+   "Hol található a szívvonal?"
+  ],
+  "o": [
+   [
+    "În jurul bazei degetului mare",
+    "Around the base of the thumb",
+    "Autour de la base du pouce",
+    "Attorno alla base del pollice",
+    "Alrededor de la base del pulgar",
+    "À volta da base do polegar",
+    "Um den Daumenballen",
+    "A hüvelykujj tövét körülölelve"
+   ],
+   [
+    "Vertical, spre degetul mijlociu",
+    "Vertical, toward the middle finger",
+    "À la verticale, vers le majeur",
+    "In verticale, verso il medio",
+    "En vertical, hacia el dedo medio",
+    "Na vertical, para o dedo médio",
+    "Senkrecht zum Mittelfinger hin",
+    "Függőlegesen a középső ujj felé"
+   ],
+   [
+    "Orizontal, la încheietura mâinii",
+    "Horizontal, at the wrist",
+    "À l’horizontale, au poignet",
+    "In orizzontale, al polso",
+    "En horizontal, en la muñeca",
+    "Na horizontal, no pulso",
+    "Waagerecht am Handgelenk",
+    "Vízszintesen, a csuklónál"
+   ],
+   [
+    "Chiar sub degete, de-a latul palmei",
+    "Just below the fingers, across the palm",
+    "Juste sous les doigts, en travers de la paume",
+    "Subito sotto le dita, attraverso il palmo",
+    "Justo debajo de los dedos, a lo ancho de la palma",
+    "Logo abaixo dos dedos, atravessando a palma",
+    "Direkt unter den Fingern, quer über die Handfläche",
+    "Közvetlenül az ujjak alatt, a tenyéren keresztben"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Linia inimii merge chiar sub degete și e citită, în tradiție, ca viață afectivă și mod de a exprima afecțiunea.",
+   "The heart line runs just below the fingers and is read in tradition as emotional life and the way affection is expressed.",
+   "La ligne de cœur passe juste sous les doigts et se lit, selon la tradition, comme vie affective et manière d’exprimer l’affection.",
+   "La linea del cuore corre subito sotto le dita e secondo la tradizione si legge come vita affettiva e modo di esprimere l’affetto.",
+   "La línea del corazón pasa justo bajo los dedos y la tradición la lee como vida afectiva y manera de expresar el afecto.",
+   "A linha do coração passa logo abaixo dos dedos e a tradição lê nela a vida afetiva e a forma de expressar afeto.",
+   "Die Herzlinie verläuft direkt unter den Fingern und wird in der Tradition als Gefühlsleben und Ausdruck von Zuneigung gedeutet.",
+   "A szívvonal közvetlenül az ujjak alatt fut, és a hagyomány az érzelmi életként és a szeretet kifejezésének módjaként olvassa."
+  ]
+ },
+ {
+  "id": "q5",
+  "cat": "lines",
+  "q": [
+   "Care linie urcă vertical spre degetul mijlociu și lipsește la mulți oameni?",
+   "Which line rises vertically toward the middle finger and is missing in many people?",
+   "Quelle ligne monte à la verticale vers le majeur et manque chez beaucoup de gens ?",
+   "Quale linea sale in verticale verso il medio e manca in molte persone?",
+   "¿Qué línea sube en vertical hacia el dedo medio y falta en muchas personas?",
+   "Que linha sobe na vertical para o dedo médio e falta em muitas pessoas?",
+   "Welche Linie steigt senkrecht zum Mittelfinger und fehlt bei vielen Menschen?",
+   "Melyik vonal fut függőlegesen a középső ujj felé, és sokaknál hiányzik?"
+  ],
+  "o": [
+   [
+    "Linia inimii",
+    "Heart line",
+    "Ligne de cœur",
+    "Linea del cuore",
+    "Línea del corazón",
+    "Linha do coração",
+    "Herzlinie",
+    "Szívvonal"
+   ],
+   [
+    "Linia destinului",
+    "Fate line",
+    "Ligne de destinée",
+    "Linea del destino",
+    "Línea del destino",
+    "Linha do destino",
+    "Schicksalslinie",
+    "Sorsvonal"
+   ],
+   [
+    "Linia vieții",
+    "Life line",
+    "Ligne de vie",
+    "Linea della vita",
+    "Línea de la vida",
+    "Linha da vida",
+    "Lebenslinie",
+    "Életvonal"
+   ],
+   [
+    "Linia capului",
+    "Head line",
+    "Ligne de tête",
+    "Linea della testa",
+    "Línea de la cabeza",
+    "Linha da cabeça",
+    "Kopflinie",
+    "Fejvonal"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Linia destinului urcă spre degetul mijlociu, dar nu toți o au. Absența ei nu are sens negativ: tradiția o citește doar ca o cale mai flexibilă, făurită de sine.",
+   "The fate line rises toward the middle finger, but not everyone has one. Its absence has no negative meaning: tradition reads it simply as a more flexible, self-made path.",
+   "La ligne de destinée monte vers le majeur, mais tout le monde n’en a pas. Son absence n’a aucun sens négatif : la tradition y voit simplement un chemin plus souple, façonné par soi-même.",
+   "La linea del destino sale verso il medio, ma non tutti ce l’hanno. La sua assenza non ha significato negativo: la tradizione vi legge solo un percorso più flessibile, costruito da sé.",
+   "La línea del destino sube hacia el dedo medio, pero no todos la tienen. Su ausencia no tiene sentido negativo: la tradición solo ve un camino más flexible, hecho por uno mismo.",
+   "A linha do destino sobe para o dedo médio, mas nem todos a têm. A sua ausência não tem sentido negativo: a tradição vê nela apenas um caminho mais flexível, feito por si.",
+   "Die Schicksalslinie steigt zum Mittelfinger auf, doch nicht jeder hat sie. Ihr Fehlen hat keine negative Bedeutung: Die Tradition sieht darin nur einen flexibleren, selbst gebahnten Weg.",
+   "A sorsvonal a középső ujj felé halad, de nem mindenkinek van. Hiánya nem jelent semmi rosszat: a hagyomány egyszerűen rugalmasabb, önállóan kialakított útként olvassa."
+  ]
+ },
+ {
+  "id": "q6",
+  "cat": "lines",
+  "q": [
+   "Spre ce deget urcă linia Soarelui (Apollo)?",
+   "Toward which finger does the Sun line (Apollo) rise?",
+   "Vers quel doigt monte la ligne du Soleil (Apollon) ?",
+   "Verso quale dito sale la linea del Sole (Apollo)?",
+   "¿Hacia qué dedo sube la línea del Sol (Apolo)?",
+   "Para que dedo sobe a linha do Sol (Apolo)?",
+   "Zu welchem Finger steigt die Sonnenlinie (Apollo) auf?",
+   "Melyik ujj felé halad a Nap-vonal (Apollón)?"
+  ],
+  "o": [
+   [
+    "Arătătorul",
+    "Index finger",
+    "Index",
+    "Indice",
+    "Índice",
+    "Indicador",
+    "Zeigefinger",
+    "Mutatóujj"
+   ],
+   [
+    "Degetul mijlociu",
+    "Middle finger",
+    "Majeur",
+    "Medio",
+    "Dedo medio",
+    "Dedo médio",
+    "Mittelfinger",
+    "Középső ujj"
+   ],
+   [
+    "Inelarul",
+    "Ring finger",
+    "Annulaire",
+    "Anulare",
+    "Anular",
+    "Anelar",
+    "Ringfinger",
+    "Gyűrűsujj"
+   ],
+   [
+    "Degetul mic",
+    "Little finger",
+    "Auriculaire",
+    "Mignolo",
+    "Meñique",
+    "Mindinho",
+    "Kleiner Finger",
+    "Kisujj"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Linia Soarelui urcă spre inelar, degetul lui Apollo. Tradiția o leagă de creativitate și recunoaștere; lipsa ei, frecventă, nu are nicio semnificație negativă.",
+   "The Sun line rises toward the ring finger, Apollo’s finger. Tradition links it to creativity and recognition; its frequent absence carries no negative meaning.",
+   "La ligne du Soleil monte vers l’annulaire, le doigt d’Apollon. La tradition la relie à la créativité et à la reconnaissance ; son absence, fréquente, n’a aucun sens négatif.",
+   "La linea del Sole sale verso l’anulare, il dito di Apollo. La tradizione la collega a creatività e riconoscimento; la sua assenza, frequente, non ha alcun significato negativo.",
+   "La línea del Sol sube hacia el anular, el dedo de Apolo. La tradición la vincula con la creatividad y el reconocimiento; su ausencia, frecuente, no tiene ningún sentido negativo.",
+   "A linha do Sol sobe para o anelar, o dedo de Apolo. A tradição liga-a à criatividade e ao reconhecimento; a sua ausência, frequente, não tem qualquer sentido negativo.",
+   "Die Sonnenlinie steigt zum Ringfinger auf, dem Finger des Apollo. Die Tradition verbindet sie mit Kreativität und Anerkennung; ihr häufiges Fehlen hat keine negative Bedeutung.",
+   "A Nap-vonal a gyűrűsujj, Apollón ujja felé halad. A hagyomány a kreativitással és az elismeréssel kapcsolja össze; gyakori hiányának nincs semmilyen negatív jelentése."
+  ]
+ },
+ {
+  "id": "q7",
+  "cat": "lines",
+  "q": [
+   "Cum se tratează corect linia lui Mercur, numită uneori „linia sănătății”?",
+   "How should the Mercury line, sometimes called the “health line”, be treated?",
+   "Comment faut-il traiter la ligne de Mercure, parfois appelée « ligne de santé » ?",
+   "Come va trattata la linea di Mercurio, a volte detta «linea della salute»?",
+   "¿Cómo debe tratarse la línea de Mercurio, llamada a veces «línea de la salud»?",
+   "Como deve ser tratada a linha de Mercúrio, por vezes chamada «linha da saúde»?",
+   "Wie ist die Merkurlinie, manchmal „Gesundheitslinie“ genannt, richtig einzuordnen?",
+   "Hogyan kezelendő a Merkúr-vonal, amelyet néha „egészségvonalnak” is neveznek?"
+  ],
+  "o": [
+   [
+    "Ca test fiabil pentru depistarea bolilor",
+    "As a reliable test for detecting illness",
+    "Comme un test fiable pour détecter les maladies",
+    "Come un test affidabile per individuare le malattie",
+    "Como una prueba fiable para detectar enfermedades",
+    "Como um teste fiável para detetar doenças",
+    "Als verlässlichen Test zur Erkennung von Krankheiten",
+    "Megbízható tesztként a betegségek felismerésére"
+   ],
+   [
+    "Ca înlocuitor al unui control medical",
+    "As a replacement for a medical check-up",
+    "Comme un substitut à un examen médical",
+    "Come sostituto di una visita medica",
+    "Como sustituto de un examen médico",
+    "Como substituto de uma consulta médica",
+    "Als Ersatz für eine ärztliche Untersuchung",
+    "Az orvosi vizsgálat helyettesítőjeként"
+   ],
+   [
+    "Ca previziune a speranței de viață",
+    "As a forecast of life expectancy",
+    "Comme une prévision de l’espérance de vie",
+    "Come previsione dell’aspettativa di vita",
+    "Como un pronóstico de la esperanza de vida",
+    "Como previsão da esperança de vida",
+    "Als Vorhersage der Lebenserwartung",
+    "Az élettartam előrejelzéseként"
+   ],
+   [
+    "Ca simbol tradițional legat de comunicare, nu ca indicator medical",
+    "As a traditional symbol linked to communication, not a medical indicator",
+    "Comme un symbole traditionnel lié à la communication, non comme un indicateur médical",
+    "Come simbolo tradizionale legato alla comunicazione, non come indicatore medico",
+    "Como un símbolo tradicional ligado a la comunicación, no como indicador médico",
+    "Como símbolo tradicional ligado à comunicação, não como indicador médico",
+    "Als traditionelles Symbol für Kommunikation, nicht als medizinischer Indikator",
+    "Hagyományos, a kommunikációhoz kötődő jelképként, nem orvosi jelzőként"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Deși tradiția o numește linia sănătății, o leagă de comunicare, simț practic și obiceiuri de bunăstare. Nu este un indicator medical: pentru probleme de sănătate, consultă un medic.",
+   "Although tradition calls it the health line, it links it to communication, practical sense and well-being habits. It is not a medical indicator: for health concerns, see a doctor.",
+   "Bien que la tradition l’appelle ligne de santé, elle la relie à la communication, au sens pratique et aux habitudes de bien-être. Ce n’est pas un indicateur médical : pour la santé, consultez un médecin.",
+   "Sebbene la tradizione la chiami linea della salute, la collega a comunicazione, senso pratico e abitudini di benessere. Non è un indicatore medico: per questioni di salute rivolgiti a un medico.",
+   "Aunque la tradición la llama línea de la salud, la vincula con la comunicación, el sentido práctico y los hábitos de bienestar. No es un indicador médico: ante dudas de salud, consulta a un médico.",
+   "Embora a tradição lhe chame linha da saúde, liga-a à comunicação, ao sentido prático e aos hábitos de bem-estar. Não é um indicador médico: para questões de saúde, consulte um médico.",
+   "Obwohl die Tradition sie Gesundheitslinie nennt, verbindet sie sie mit Kommunikation, praktischem Sinn und Wohlfühlgewohnheiten. Sie ist kein medizinischer Indikator: Bei Gesundheitsfragen bitte zum Arzt.",
+   "Bár a hagyomány egészségvonalnak nevezi, a kommunikációval, a gyakorlatias érzékkel és a jólléti szokásokkal hozza kapcsolatba. Nem orvosi jelző: egészségügyi kérdésben fordulj orvoshoz."
+  ]
+ },
+ {
+  "id": "q8",
+  "cat": "lines",
+  "q": [
+   "Unde se află Inelul lui Solomon, în tradiție?",
+   "Where is the Ring of Solomon located, in tradition?",
+   "Où se trouve l’anneau de Salomon, selon la tradition ?",
+   "Dove si trova l’anello di Salomone, secondo la tradizione?",
+   "¿Dónde se sitúa el anillo de Salomón, según la tradición?",
+   "Onde fica o anel de Salomão, segundo a tradição?",
+   "Wo liegt der Salomonsring nach der Tradition?",
+   "Hol található a hagyomány szerint Salamon gyűrűje?"
+  ],
+  "o": [
+   [
+    "Semicerc în jurul bazei arătătorului (Muntele lui Jupiter)",
+    "A semicircle around the base of the index finger (Mount of Jupiter)",
+    "Un demi-cercle autour de la base de l’index (mont de Jupiter)",
+    "Un semicerchio attorno alla base dell’indice (monte di Giove)",
+    "Un semicírculo alrededor de la base del índice (monte de Júpiter)",
+    "Um semicírculo à volta da base do indicador (monte de Júpiter)",
+    "Ein Halbkreis um den Ansatz des Zeigefingers (Jupiterberg)",
+    "Félkör a mutatóujj töve körül (Jupiter-domb)"
+   ],
+   [
+    "Un arc deasupra liniei inimii, sub mijlociu și inelar",
+    "An arc above the heart line, under the middle and ring fingers",
+    "Un arc au-dessus de la ligne de cœur, sous le majeur et l’annulaire",
+    "Un arco sopra la linea del cuore, sotto medio e anulare",
+    "Un arco sobre la línea del corazón, bajo el medio y el anular",
+    "Um arco acima da linha do coração, sob o médio e o anelar",
+    "Ein Bogen über der Herzlinie, unter Mittel- und Ringfinger",
+    "Ív a szívvonal felett, a középső és a gyűrűsujj alatt"
+   ],
+   [
+    "Linii scurte pe marginea dinspre degetul mic",
+    "Short lines on the little-finger edge",
+    "De courtes lignes sur le bord du petit doigt",
+    "Brevi linee sul bordo del mignolo",
+    "Líneas cortas en el borde del meñique",
+    "Linhas curtas no bordo do mindinho",
+    "Kurze Linien am Kleinfingerrand",
+    "Rövid vonalak a kisujj felőli szélen"
+   ],
+   [
+    "Linii orizontale la baza palmei, la încheietură",
+    "Horizontal lines at the base of the palm, at the wrist",
+    "Des lignes horizontales à la base de la paume, au poignet",
+    "Linee orizzontali alla base del palmo, al polso",
+    "Líneas horizontales en la base de la palma, en la muñeca",
+    "Linhas horizontais na base da palma, no pulso",
+    "Waagerechte Linien am Handansatz, am Gelenk",
+    "Vízszintes vonalak a tenyér tövénél, a csuklónál"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Inelul lui Solomon înconjoară pe jumătate baza arătătorului. Tradiția îl citește ca înțelegere a oamenilor și aptitudine de a îndruma.",
+   "The Ring of Solomon half-encircles the base of the index finger. Tradition reads it as understanding of people and a flair for guiding others.",
+   "L’anneau de Salomon entoure à demi la base de l’index. La tradition y lit la compréhension des gens et un don pour guider les autres.",
+   "L’anello di Salomone circonda per metà la base dell’indice. La tradizione vi legge comprensione delle persone e attitudine a guidare.",
+   "El anillo de Salomón rodea a medias la base del índice. La tradición lo lee como comprensión de las personas y don para guiar.",
+   "O anel de Salomão rodeia em parte a base do indicador. A tradição lê nele a compreensão das pessoas e o jeito para orientar.",
+   "Der Salomonsring umschließt den Zeigefingeransatz halbkreisförmig. Die Tradition liest darin Menschenkenntnis und Führungsgeschick.",
+   "Salamon gyűrűje félig körülöleli a mutatóujj tövét. A hagyomány emberismeretként és vezetői érzékként olvassa."
+  ]
+ },
+ {
+  "id": "q9",
+  "cat": "mounts",
+  "q": [
+   "Ce munte se află sub degetul arătător?",
+   "Which mount lies beneath the index finger?",
+   "Quel mont se trouve sous l’index ?",
+   "Quale monte si trova sotto l’indice?",
+   "¿Qué monte se halla bajo el índice?",
+   "Que monte fica sob o indicador?",
+   "Welcher Berg liegt unter dem Zeigefinger?",
+   "Melyik domb van a mutatóujj alatt?"
+  ],
+  "o": [
+   [
+    "Muntele lui Saturn",
+    "Mount of Saturn",
+    "Mont de Saturne",
+    "Monte di Saturno",
+    "Monte de Saturno",
+    "Monte de Saturno",
+    "Saturnberg",
+    "Szaturnusz-domb"
+   ],
+   [
+    "Muntele lui Apollo",
+    "Mount of Apollo",
+    "Mont d'Apollon",
+    "Monte di Apollo",
+    "Monte de Apolo",
+    "Monte de Apolo",
+    "Apolloberg",
+    "Apollón-domb"
+   ],
+   [
+    "Muntele lui Jupiter",
+    "Mount of Jupiter",
+    "Mont de Jupiter",
+    "Monte di Giove",
+    "Monte de Júpiter",
+    "Monte de Júpiter",
+    "Jupiterberg",
+    "Jupiter-domb"
+   ],
+   [
+    "Muntele lui Mercur",
+    "Mount of Mercury",
+    "Mont de Mercure",
+    "Monte di Mercurio",
+    "Monte de Mercurio",
+    "Monte de Mercúrio",
+    "Merkurberg",
+    "Merkúr-domb"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Muntele lui Jupiter, sub arătător, este legat în tradiție de ambiție, autoritate și încredere în sine. Citirea este simbolică și nu a fost validată științific.",
+   "The Mount of Jupiter, beneath the index finger, is linked in tradition with ambition, authority and self-confidence. The reading is symbolic and has not been scientifically validated.",
+   "Le mont de Jupiter, sous l’index, est lié dans la tradition à l’ambition, à l’autorité et à la confiance en soi. La lecture est symbolique et n’a pas été validée scientifiquement.",
+   "Il monte di Giove, sotto l’indice, è legato nella tradizione ad ambizione, autorità e fiducia in sé. La lettura è simbolica e non è stata validata scientificamente.",
+   "El monte de Júpiter, bajo el índice, se asocia en la tradición con la ambición, la autoridad y la confianza en uno mismo. La lectura es simbólica y no ha sido validada científicamente.",
+   "O monte de Júpiter, sob o indicador, está ligado na tradição à ambição, à autoridade e à autoconfiança. A leitura é simbólica e não foi validada cientificamente.",
+   "Der Jupiterberg unter dem Zeigefinger steht in der Tradition für Ehrgeiz, Autorität und Selbstvertrauen. Die Deutung ist symbolisch und wissenschaftlich nicht bestätigt.",
+   "A mutatóujj alatti Jupiter-dombot a hagyomány az ambícióval, a tekintéllyel és az önbizalommal kapcsolja össze. Az olvasat jelképes, tudományosan nem igazolt."
+  ]
+ },
+ {
+  "id": "q10",
+  "cat": "mounts",
+  "q": [
+   "Care munte este asociat în tradiție cu responsabilitatea, prudența și disciplina?",
+   "Which mount is associated in tradition with responsibility, prudence and discipline?",
+   "Quel mont est associé, dans la tradition, à la responsabilité, à la prudence et à la discipline ?",
+   "Quale monte è associato nella tradizione a responsabilità, prudenza e disciplina?",
+   "¿Qué monte se asocia en la tradición con la responsabilidad, la prudencia y la disciplina?",
+   "Que monte é associado na tradição à responsabilidade, à prudência e à disciplina?",
+   "Welcher Berg steht in der Tradition für Verantwortung, Besonnenheit und Disziplin?",
+   "Melyik dombot társítja a hagyomány a felelősséggel, az óvatossággal és a fegyelemmel?"
+  ],
+  "o": [
+   [
+    "Muntele lui Jupiter",
+    "Mount of Jupiter",
+    "Mont de Jupiter",
+    "Monte di Giove",
+    "Monte de Júpiter",
+    "Monte de Júpiter",
+    "Jupiterberg",
+    "Jupiter-domb"
+   ],
+   [
+    "Muntele lui Venus",
+    "Mount of Venus",
+    "Mont de Vénus",
+    "Monte di Venere",
+    "Monte de Venus",
+    "Monte de Vénus",
+    "Venusberg",
+    "Vénusz-domb"
+   ],
+   [
+    "Muntele Lunii",
+    "Mount of the Moon",
+    "Mont de la Lune",
+    "Monte della Luna",
+    "Monte de la Luna",
+    "Monte da Lua",
+    "Mondberg",
+    "Hold-domb"
+   ],
+   [
+    "Muntele lui Saturn",
+    "Mount of Saturn",
+    "Mont de Saturne",
+    "Monte di Saturno",
+    "Monte de Saturno",
+    "Monte de Saturno",
+    "Saturnberg",
+    "Szaturnusz-domb"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Muntele lui Saturn, sub degetul mijlociu, e citit ca responsabilitate, prudență, disciplină și nevoie de singurătate. Dezvoltat excesiv, tradiția îl asociază cu melancolia.",
+   "The Mount of Saturn, beneath the middle finger, is read as responsibility, prudence, discipline and a need for solitude. Excessively developed, tradition links it with melancholy.",
+   "Le mont de Saturne, sous le majeur, se lit comme responsabilité, prudence, discipline et besoin de solitude. Trop développé, la tradition l’associe à la mélancolie.",
+   "Il monte di Saturno, sotto il medio, si legge come responsabilità, prudenza, disciplina e bisogno di solitudine. Se eccessivo, la tradizione lo associa alla malinconia.",
+   "El monte de Saturno, bajo el dedo medio, se lee como responsabilidad, prudencia, disciplina y necesidad de soledad. Muy desarrollado, la tradición lo asocia con la melancolía.",
+   "O monte de Saturno, sob o dedo médio, lê-se como responsabilidade, prudência, disciplina e necessidade de solidão. Em excesso, a tradição associa-o à melancolia.",
+   "Der Saturnberg unter dem Mittelfinger gilt als Verantwortung, Besonnenheit, Disziplin und Bedürfnis nach Alleinsein. Übermäßig ausgeprägt verbindet ihn die Tradition mit Schwermut.",
+   "A középső ujj alatti Szaturnusz-dombot felelősségként, óvatosságként, fegyelemként és magányigényként olvassák. Túlzott fejlettségét a hagyomány a melankóliával kapcsolja össze."
+  ]
+ },
+ {
+  "id": "q11",
+  "cat": "mounts",
+  "q": [
+   "Sub ce deget se află Muntele lui Apollo?",
+   "Beneath which finger is the Mount of Apollo?",
+   "Sous quel doigt se trouve le mont d’Apollon ?",
+   "Sotto quale dito si trova il monte di Apollo?",
+   "¿Bajo qué dedo está el monte de Apolo?",
+   "Sob que dedo fica o monte de Apolo?",
+   "Unter welchem Finger liegt der Apolloberg?",
+   "Melyik ujj alatt van az Apollón-domb?"
+  ],
+  "o": [
+   [
+    "Inelarul",
+    "Ring finger",
+    "Annulaire",
+    "Anulare",
+    "Anular",
+    "Anelar",
+    "Ringfinger",
+    "Gyűrűsujj"
+   ],
+   [
+    "Degetul mic",
+    "Little finger",
+    "Auriculaire",
+    "Mignolo",
+    "Meñique",
+    "Mindinho",
+    "Kleiner Finger",
+    "Kisujj"
+   ],
+   [
+    "Degetul mijlociu",
+    "Middle finger",
+    "Majeur",
+    "Medio",
+    "Dedo medio",
+    "Dedo médio",
+    "Mittelfinger",
+    "Középső ujj"
+   ],
+   [
+    "Arătătorul",
+    "Index finger",
+    "Index",
+    "Indice",
+    "Índice",
+    "Indicador",
+    "Zeigefinger",
+    "Mutatóujj"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Muntele lui Apollo se află sub inelar și e legat în tradiție de creativitate, farmec, simțul frumosului și optimism.",
+   "The Mount of Apollo lies beneath the ring finger and is linked in tradition with creativity, charm, a sense of beauty and optimism.",
+   "Le mont d’Apollon se trouve sous l’annulaire et est lié dans la tradition à la créativité, au charme, au sens du beau et à l’optimisme.",
+   "Il monte di Apollo si trova sotto l’anulare ed è legato nella tradizione a creatività, fascino, senso del bello e ottimismo.",
+   "El monte de Apolo está bajo el anular y se asocia en la tradición con la creatividad, el encanto, el sentido de la belleza y el optimismo.",
+   "O monte de Apolo fica sob o anelar e está ligado na tradição à criatividade, ao encanto, ao sentido da beleza e ao otimismo.",
+   "Der Apolloberg liegt unter dem Ringfinger und steht in der Tradition für Kreativität, Charme, Schönheitssinn und Optimismus.",
+   "Az Apollón-domb a gyűrűsujj alatt van, és a hagyomány a kreativitással, a bájjal, a szépérzékkel és az optimizmussal kapcsolja össze."
+  ]
+ },
+ {
+  "id": "q12",
+  "cat": "mounts",
+  "q": [
+   "Despre ce munte spune tradiția: comunicare, spirit, simț pentru afaceri, adaptabilitate?",
+   "Which mount does tradition link with communication, wit, business sense and adaptability?",
+   "Quel mont la tradition relie-t-elle à la communication, à l’esprit, au sens des affaires et à l’adaptabilité ?",
+   "Quale monte la tradizione collega a comunicazione, arguzia, senso degli affari e adattabilità?",
+   "¿Qué monte vincula la tradición con la comunicación, el ingenio, el sentido de los negocios y la adaptabilidad?",
+   "Que monte liga a tradição à comunicação, ao engenho, ao sentido de negócio e à adaptabilidade?",
+   "Welchen Berg verbindet die Tradition mit Kommunikation, Witz, Geschäftssinn und Anpassungsfähigkeit?",
+   "Melyik dombot kapcsolja a hagyomány a kommunikációhoz, a szellemességhez, az üzleti érzékhez és az alkalmazkodóképességhez?"
+  ],
+  "o": [
+   [
+    "Muntele lui Apollo",
+    "Mount of Apollo",
+    "Mont d'Apollon",
+    "Monte di Apollo",
+    "Monte de Apolo",
+    "Monte de Apolo",
+    "Apolloberg",
+    "Apollón-domb"
+   ],
+   [
+    "Muntele lui Mercur",
+    "Mount of Mercury",
+    "Mont de Mercure",
+    "Monte di Mercurio",
+    "Monte de Mercurio",
+    "Monte de Mercúrio",
+    "Merkurberg",
+    "Merkúr-domb"
+   ],
+   [
+    "Muntele lui Saturn",
+    "Mount of Saturn",
+    "Mont de Saturne",
+    "Monte di Saturno",
+    "Monte de Saturno",
+    "Monte de Saturno",
+    "Saturnberg",
+    "Szaturnusz-domb"
+   ],
+   [
+    "Muntele lui Marte",
+    "Mount of Mars",
+    "Mont de Mars",
+    "Monte di Marte",
+    "Monte de Marte",
+    "Monte de Marte",
+    "Marsberg",
+    "Mars-domb"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Muntele lui Mercur, sub degetul mic, e legat de comunicare, spirit, simț pentru afaceri și adaptabilitate. Excesul său ar însemna, în tradiție, locvacitate.",
+   "The Mount of Mercury, beneath the little finger, is tied to communication, wit, business sense and adaptability. In tradition, an excess of it would mean talkativeness.",
+   "Le mont de Mercure, sous l’auriculaire, est lié à la communication, à l’esprit, au sens des affaires et à l’adaptabilité. Son excès signifierait, selon la tradition, la loquacité.",
+   "Il monte di Mercurio, sotto il mignolo, è legato a comunicazione, arguzia, senso degli affari e adattabilità. Il suo eccesso indicherebbe, nella tradizione, loquacità.",
+   "El monte de Mercurio, bajo el meñique, se vincula con la comunicación, el ingenio, el sentido de los negocios y la adaptabilidad. Su exceso significaría, en la tradición, locuacidad.",
+   "O monte de Mercúrio, sob o mindinho, liga-se à comunicação, ao engenho, ao sentido de negócio e à adaptabilidade. O seu excesso significaria, na tradição, loquacidade.",
+   "Der Merkurberg unter dem kleinen Finger steht für Kommunikation, Witz, Geschäftssinn und Anpassungsfähigkeit. Sein Übermaß bedeutet in der Tradition Geschwätzigkeit.",
+   "A Merkúr-domb a kisujj alatt a kommunikációt, a szellemességet, az üzleti érzéket és az alkalmazkodóképességet jelképezi. Túlzott fejlettsége a hagyomány szerint szószátyárságot jelent."
+  ]
+ },
+ {
+  "id": "q13",
+  "cat": "mounts",
+  "q": [
+   "Care munte se află pe marginea dinspre degetul mic, către încheietură, și e legat de imaginație și intuiție?",
+   "Which mount lies on the little-finger edge toward the wrist and is linked with imagination and intuition?",
+   "Quel mont se situe sur le bord du petit doigt, vers le poignet, et est lié à l’imagination et à l’intuition ?",
+   "Quale monte si trova sul bordo del mignolo, verso il polso, ed è legato a immaginazione e intuizione?",
+   "¿Qué monte está en el borde del meñique, hacia la muñeca, y se vincula con la imaginación y la intuición?",
+   "Que monte fica no bordo do mindinho, rumo ao pulso, e está ligado à imaginação e à intuição?",
+   "Welcher Berg liegt am Kleinfingerrand zum Handgelenk hin und steht für Fantasie und Intuition?",
+   "Melyik domb van a kisujj felőli szélen, a csukló felé, és kapcsolódik a képzelethez és az intuícióhoz?"
+  ],
+  "o": [
+   [
+    "Muntele lui Venus",
+    "Mount of Venus",
+    "Mont de Vénus",
+    "Monte di Venere",
+    "Monte de Venus",
+    "Monte de Vénus",
+    "Venusberg",
+    "Vénusz-domb"
+   ],
+   [
+    "Muntele lui Jupiter",
+    "Mount of Jupiter",
+    "Mont de Jupiter",
+    "Monte di Giove",
+    "Monte de Júpiter",
+    "Monte de Júpiter",
+    "Jupiterberg",
+    "Jupiter-domb"
+   ],
+   [
+    "Muntele lui Apollo",
+    "Mount of Apollo",
+    "Mont d'Apollon",
+    "Monte di Apollo",
+    "Monte de Apolo",
+    "Monte de Apolo",
+    "Apolloberg",
+    "Apollón-domb"
+   ],
+   [
+    "Muntele Lunii",
+    "Mount of the Moon",
+    "Mont de la Lune",
+    "Monte della Luna",
+    "Monte de la Luna",
+    "Monte da Lua",
+    "Mondberg",
+    "Hold-domb"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Muntele Lunii, opus lui Venus, e citit ca imaginație, intuiție și vis. Dezvoltat excesiv, tradiția îl asociază cu evadarea din realitate.",
+   "The Mount of the Moon, opposite Venus, is read as imagination, intuition and dreams. Excessively developed, tradition associates it with escapism.",
+   "Le mont de la Lune, opposé à Vénus, se lit comme imagination, intuition et rêve. Trop développé, la tradition l’associe à l’évasion hors du réel.",
+   "Il monte della Luna, opposto a Venere, si legge come immaginazione, intuizione e sogno. Se eccessivo, la tradizione lo associa all’evasione dalla realtà.",
+   "El monte de la Luna, opuesto a Venus, se lee como imaginación, intuición y sueño. Muy desarrollado, la tradición lo asocia con la evasión de la realidad.",
+   "O monte da Lua, oposto a Vénus, lê-se como imaginação, intuição e sonho. Em excesso, a tradição associa-o à evasão da realidade.",
+   "Der Mondberg, gegenüber dem Venusberg, gilt als Fantasie, Intuition und Traum. Übermäßig ausgeprägt verbindet ihn die Tradition mit Realitätsflucht.",
+   "A Hold-domb, a Vénusszal szemben, képzeletként, intuícióként és álomként olvasandó. Túlzott fejlettségét a hagyomány a valóságtól való menekülésre vonatkoztatja."
+  ]
+ },
+ {
+  "id": "q14",
+  "cat": "mounts",
+  "q": [
+   "Câte zone distinge tradiția la Muntele lui Marte?",
+   "How many zones does tradition distinguish at the Mount of Mars?",
+   "Combien de zones la tradition distingue-t-elle au mont de Mars ?",
+   "Quante zone distingue la tradizione nel monte di Marte?",
+   "¿Cuántas zonas distingue la tradición en el monte de Marte?",
+   "Quantas zonas distingue a tradição no monte de Marte?",
+   "Wie viele Zonen unterscheidet die Tradition am Marsberg?",
+   "Hány zónát különböztet meg a hagyomány a Mars-dombon?"
+  ],
+  "o": [
+   [
+    "Două, Marte interior și exterior, cu Câmpia lui Marte între ele",
+    "Two, inner and outer Mars, with the Plain of Mars between them",
+    "Deux, Mars intérieur et extérieur, avec la plaine de Mars entre elles",
+    "Due, Marte interno ed esterno, con la Pianura di Marte tra loro",
+    "Dos, Marte interno y externo, con la Llanura de Marte entre ambos",
+    "Duas, Marte interno e externo, com a Planície de Marte entre elas",
+    "Zwei, inneren und äußeren Mars, mit der Marsebene dazwischen",
+    "Kettőt, belső és külső Marsot, köztük a Mars-síksággal"
+   ],
+   [
+    "Una singură, sub degetul arătător",
+    "Just one, under the index finger",
+    "Une seule, sous l’index",
+    "Una sola, sotto l’indice",
+    "Solo una, bajo el índice",
+    "Apenas uma, sob o indicador",
+    "Nur eine, unter dem Zeigefinger",
+    "Csak egyet, a mutatóujj alatt"
+   ],
+   [
+    "Trei, câte una sub fiecare deget lung",
+    "Three, one under each long finger",
+    "Trois, une sous chaque grand doigt",
+    "Tre, una sotto ogni dito lungo",
+    "Tres, una bajo cada dedo largo",
+    "Três, uma sob cada dedo comprido",
+    "Drei, eine unter jedem langen Finger",
+    "Hármat, egyet-egyet minden hosszú ujj alatt"
+   ],
+   [
+    "Niciuna: Marte nu apare în chiromanție",
+    "None: Mars does not appear in palmistry",
+    "Aucune : Mars n’apparaît pas en chiromancie",
+    "Nessuna: Marte non compare nella chiromanzia",
+    "Ninguna: Marte no aparece en la quiromancia",
+    "Nenhuma: Marte não aparece na quiromancia",
+    "Keine: Mars kommt in der Handlesekunst nicht vor",
+    "Egyet sem: a Mars nem szerepel a kézjóslásban"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Tradiția deosebește Marte interior (curaj activ, între Jupiter și Venus) și Marte exterior (rezistență și stăpânire de sine, sub Mercur), cu Câmpia lui Marte între ele.",
+   "Tradition distinguishes inner Mars (active courage, between Jupiter and Venus) and outer Mars (resilience and self-control, below Mercury), with the Plain of Mars between them.",
+   "La tradition distingue Mars intérieur (courage actif, entre Jupiter et Vénus) et Mars extérieur (résilience et maîtrise de soi, sous Mercure), avec la plaine de Mars entre les deux.",
+   "La tradizione distingue Marte interno (coraggio attivo, tra Giove e Venere) e Marte esterno (resilienza e autocontrollo, sotto Mercurio), con la Pianura di Marte nel mezzo.",
+   "La tradición distingue Marte interno (valor activo, entre Júpiter y Venus) y Marte externo (resiliencia y autocontrol, bajo Mercurio), con la Llanura de Marte entre ambos.",
+   "A tradição distingue Marte interno (coragem ativa, entre Júpiter e Vénus) e Marte externo (resiliência e autocontrolo, sob Mercúrio), com a Planície de Marte entre ambos.",
+   "Die Tradition unterscheidet den inneren Mars (aktiver Mut, zwischen Jupiter und Venus) und den äußeren Mars (Ausdauer und Selbstbeherrschung, unter Merkur) mit der Marsebene dazwischen.",
+   "A hagyomány megkülönbözteti a belső Marsot (aktív bátorság, a Jupiter és a Vénusz között) és a külső Marsot (állhatatosság és önuralom, a Merkúr alatt), köztük a Mars-síksággal."
+  ]
+ },
+ {
+  "id": "q15",
+  "cat": "mounts",
+  "q": [
+   "Un Munte al lui Venus excesiv dezvoltat este citit în tradiție ca:",
+   "An excessively developed Mount of Venus is read in tradition as:",
+   "Un mont de Vénus excessivement développé se lit, selon la tradition, comme :",
+   "Un monte di Venere eccessivamente sviluppato si legge nella tradizione come:",
+   "Un monte de Venus excesivamente desarrollado se lee en la tradición como:",
+   "Um monte de Vénus excessivamente desenvolvido lê-se na tradição como:",
+   "Ein übermäßig ausgeprägter Venusberg wird in der Tradition gedeutet als:",
+   "A túlzottan fejlett Vénusz-dombot a hagyomány így olvassa:"
+  ],
+  "o": [
+   [
+    "Mândrie",
+    "Pride",
+    "Orgueil",
+    "Orgoglio",
+    "Orgullo",
+    "Orgulho",
+    "Stolz",
+    "Büszkeség"
+   ],
+   [
+    "Tendință spre indulgență excesivă",
+    "A tendency toward excessive indulgence",
+    "Une tendance à l’indulgence excessive",
+    "Una tendenza all’indulgenza eccessiva",
+    "Una tendencia a la indulgencia excesiva",
+    "Uma tendência para a indulgência excessiva",
+    "Neigung zu übermäßiger Nachgiebigkeit gegenüber sich selbst",
+    "Hajlam a túlzott engedékenységre"
+   ],
+   [
+    "Melancolie",
+    "Melancholy",
+    "Mélancolie",
+    "Malinconia",
+    "Melancolía",
+    "Melancolia",
+    "Schwermut",
+    "Melankólia"
+   ],
+   [
+    "Locvacitate",
+    "Talkativeness",
+    "Bavardage",
+    "Loquacità",
+    "Locuacidad",
+    "Loquacidade",
+    "Geschwätzigkeit",
+    "Szószátyárság"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Muntele lui Venus, la baza degetului mare, e legat de dragoste, căldură și vitalitate; dezvoltat, înseamnă afecțiune și energie, iar excesul ar înclina spre indulgență. Lectură simbolică.",
+   "The Mount of Venus, at the thumb base, is tied to love, warmth and vitality; developed, it means affection and energy, while excess would lean toward indulgence. A symbolic reading.",
+   "Le mont de Vénus, à la base du pouce, est lié à l’amour, à la chaleur et à la vitalité ; développé, il évoque affection et énergie, l’excès penchant vers l’indulgence. Lecture symbolique.",
+   "Il monte di Venere, alla base del pollice, è legato ad amore, calore e vitalità; sviluppato, indica affetto ed energia, mentre l’eccesso tenderebbe all’indulgenza. Lettura simbolica.",
+   "El monte de Venus, en la base del pulgar, se vincula con el amor, la calidez y la vitalidad; desarrollado, indica afecto y energía, y el exceso tendería a la indulgencia. Lectura simbólica.",
+   "O monte de Vénus, na base do polegar, liga-se ao amor, ao calor humano e à vitalidade; desenvolvido, indica afeto e energia, e o excesso tenderia para a indulgência. Leitura simbólica.",
+   "Der Venusberg am Daumenansatz steht für Liebe, Wärme und Vitalität; ausgeprägt bedeutet er Zuneigung und Energie, ein Übermaß neigt zur Nachgiebigkeit. Eine symbolische Deutung.",
+   "A Vénusz-domb a hüvelykujj tövénél a szerelmet, a melegséget és az életerőt jelképezi; fejlett állapotban szeretetet és energiát, túlzásban engedékenységet jelent. Jelképes olvasat."
+  ]
+ },
+ {
+  "id": "q16",
+  "cat": "fingers",
+  "q": [
+   "Cu ce este asociată în tradiție falanga superioară a degetului mare, cea cu unghia?",
+   "What is the upper phalanx of the thumb, the one with the nail, associated with in tradition?",
+   "À quoi la tradition associe-t-elle la phalange supérieure du pouce, celle de l’ongle ?",
+   "A che cosa la tradizione associa la falange superiore del pollice, quella con l’unghia?",
+   "¿Con qué asocia la tradición la falange superior del pulgar, la de la uña?",
+   "A que associa a tradição a falange superior do polegar, a da unha?",
+   "Womit verbindet die Tradition das obere Daumenglied, das mit dem Nagel?",
+   "Mivel kapcsolja össze a hagyomány a hüvelykujj felső, körmös ujjperecét?"
+  ],
+  "o": [
+   [
+    "Cu logica",
+    "With logic",
+    "Avec la logique",
+    "Con la logica",
+    "Con la lógica",
+    "Com a lógica",
+    "Mit der Logik",
+    "A logikával"
+   ],
+   [
+    "Cu imaginația",
+    "With imagination",
+    "Avec l’imagination",
+    "Con l’immaginazione",
+    "Con la imaginación",
+    "Com a imaginação",
+    "Mit der Fantasie",
+    "A képzelettel"
+   ],
+   [
+    "Cu voința",
+    "With will",
+    "Avec la volonté",
+    "Con la volontà",
+    "Con la voluntad",
+    "Com a vontade",
+    "Mit dem Willen",
+    "Az akarattal"
+   ],
+   [
+    "Cu bogăția",
+    "With wealth",
+    "Avec la richesse",
+    "Con la ricchezza",
+    "Con la riqueza",
+    "Com a riqueza",
+    "Mit dem Reichtum",
+    "A gazdagsággal"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Falanga cu unghia a degetului mare e legată de voință, cea de jos, spre palmă, de logică. Lung și ferm: determinare; scurt: flexibilitate sau spontaneitate.",
+   "The nail phalanx of the thumb is tied to will, the lower one toward the palm to logic. Long and firm: determination; short: flexibility or spontaneity.",
+   "La phalange de l’ongle du pouce est liée à la volonté, la phalange du bas, vers la paume, à la logique. Long et ferme : détermination ; court : souplesse ou spontanéité.",
+   "La falange con l’unghia del pollice è legata alla volontà, quella inferiore, verso il palmo, alla logica. Lungo e fermo: determinazione; corto: flessibilità o spontaneità.",
+   "La falange de la uña del pulgar se vincula con la voluntad; la inferior, hacia la palma, con la lógica. Largo y firme: determinación; corto: flexibilidad o espontaneidad.",
+   "A falange da unha do polegar liga-se à vontade; a inferior, junto à palma, à lógica. Longo e firme: determinação; curto: flexibilidade ou espontaneidade.",
+   "Das Nagelglied des Daumens steht für den Willen, das untere zur Handfläche hin für die Logik. Lang und fest: Entschlossenheit; kurz: Flexibilität oder Spontaneität.",
+   "A hüvelykujj körmös perce az akarathoz, az alsó, a tenyér felőli a logikához kötődik. Hosszú és erős: eltökéltség; rövid: rugalmasság vagy spontaneitás."
+  ]
+ },
+ {
+  "id": "q17",
+  "cat": "fingers",
+  "q": [
+   "Cărei lumi îi corespunde, în tradiție, falanga de la vârful degetului (cu unghia)?",
+   "Which world does the fingertip phalanx (with the nail) correspond to in tradition?",
+   "À quel monde la phalange du bout du doigt (celle de l’ongle) correspond-elle dans la tradition ?",
+   "A quale mondo corrisponde nella tradizione la falange della punta del dito (con l’unghia)?",
+   "¿A qué mundo corresponde en la tradición la falange de la punta del dedo (la de la uña)?",
+   "A que mundo corresponde na tradição a falange da ponta do dedo (a da unha)?",
+   "Welcher Welt entspricht in der Tradition das Fingerendglied (mit dem Nagel)?",
+   "Melyik világnak felel meg a hagyományban az ujjbegy felőli (körmös) ujjperec?"
+  ],
+  "o": [
+   [
+    "Lumii ideilor și a spiritului",
+    "The world of ideas and spirit",
+    "Au monde des idées et de l’esprit",
+    "Al mondo delle idee e dello spirito",
+    "Al mundo de las ideas y del espíritu",
+    "Ao mundo das ideias e do espírito",
+    "Der Welt der Ideen und des Geistes",
+    "Az eszmék és a szellem világának"
+   ],
+   [
+    "Preocupărilor materiale și corporale",
+    "Material and bodily concerns",
+    "Aux préoccupations matérielles et corporelles",
+    "Alle preoccupazioni materiali e corporee",
+    "A las preocupaciones materiales y corporales",
+    "Às preocupações materiais e corporais",
+    "Den materiellen und körperlichen Belangen",
+    "Az anyagi és testi dolgoknak"
+   ],
+   [
+    "Raționamentului practic și organizării",
+    "Practical reasoning and organization",
+    "Au raisonnement pratique et à l’organisation",
+    "Al ragionamento pratico e all’organizzazione",
+    "Al razonamiento práctico y la organización",
+    "Ao raciocínio prático e à organização",
+    "Dem praktischen Denken und der Organisation",
+    "A gyakorlati gondolkodásnak és a szervezésnek"
+   ],
+   [
+    "Iubirii și căsătoriei",
+    "Love and marriage",
+    "À l’amour et au mariage",
+    "All’amore e al matrimonio",
+    "Al amor y al matrimonio",
+    "Ao amor e ao casamento",
+    "Liebe und Ehe",
+    "A szerelemnek és a házasságnak"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Falanga 1, cea de la vârf, corespunde lumii ideilor și spiritului; a doua, raționamentului practic; a treia, bazei, preocupărilor materiale.",
+   "Phalanx 1, at the tip, corresponds to the world of ideas and spirit; the second to practical reasoning; the third, at the base, to material concerns.",
+   "La phalange 1, au bout, correspond au monde des idées et de l’esprit ; la deuxième au raisonnement pratique ; la troisième, à la base, aux préoccupations matérielles.",
+   "La falange 1, in punta, corrisponde al mondo delle idee e dello spirito; la seconda al ragionamento pratico; la terza, alla base, alle preoccupazioni materiali.",
+   "La falange 1, en la punta, corresponde al mundo de las ideas y del espíritu; la segunda, al razonamiento práctico; la tercera, en la base, a las preocupaciones materiales.",
+   "A falange 1, na ponta, corresponde ao mundo das ideias e do espírito; a segunda, ao raciocínio prático; a terceira, na base, às preocupações materiais.",
+   "Glied 1 an der Spitze entspricht der Welt der Ideen und des Geistes, das zweite dem praktischen Denken, das dritte an der Basis den materiellen Belangen.",
+   "Az 1. ujjperec, a hegyén, az eszmék és a szellem világának, a második a gyakorlati gondolkodásnak, a harmadik, az alapnál, az anyagi dolgoknak felel meg."
+  ]
+ },
+ {
+  "id": "q18",
+  "cat": "fingers",
+  "q": [
+   "Care deget este de obicei cel mai lung?",
+   "Which finger is usually the longest?",
+   "Quel doigt est généralement le plus long ?",
+   "Quale dito è di solito il più lungo?",
+   "¿Qué dedo suele ser el más largo?",
+   "Que dedo costuma ser o mais comprido?",
+   "Welcher Finger ist meistens der längste?",
+   "Melyik ujj a leghosszabb általában?"
+  ],
+  "o": [
+   [
+    "Arătătorul",
+    "Index finger",
+    "Index",
+    "Indice",
+    "Índice",
+    "Indicador",
+    "Zeigefinger",
+    "Mutatóujj"
+   ],
+   [
+    "Degetul mijlociu",
+    "Middle finger",
+    "Majeur",
+    "Medio",
+    "Dedo medio",
+    "Dedo médio",
+    "Mittelfinger",
+    "Középső ujj"
+   ],
+   [
+    "Inelarul",
+    "Ring finger",
+    "Annulaire",
+    "Anulare",
+    "Anular",
+    "Anelar",
+    "Ringfinger",
+    "Gyűrűsujj"
+   ],
+   [
+    "Degetul mic",
+    "Little finger",
+    "Auriculaire",
+    "Mignolo",
+    "Meñique",
+    "Mindinho",
+    "Kleiner Finger",
+    "Kisujj"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Degetul mijlociu (Saturn) este de obicei cel mai lung. În tradiție, lung înseamnă seriozitate și simț al ordinii, scurt înseamnă spontaneitate și aversiune față de rutină.",
+   "The middle finger (Saturn) is usually the longest. In tradition, long suggests seriousness and a sense of order, short suggests spontaneity and a dislike of routine.",
+   "Le majeur (Saturne) est généralement le plus long. Dans la tradition, long évoque le sérieux et le sens de l’ordre, court la spontanéité et l’aversion pour la routine.",
+   "Il medio (Saturno) è di solito il più lungo. Nella tradizione, lungo suggerisce serietà e senso dell’ordine, corto spontaneità e avversione per la routine.",
+   "El dedo medio (Saturno) suele ser el más largo. En la tradición, largo sugiere seriedad y sentido del orden; corto, espontaneidad y rechazo de la rutina.",
+   "O dedo médio (Saturno) costuma ser o mais comprido. Na tradição, comprido sugere seriedade e sentido de ordem; curto, espontaneidade e aversão à rotina.",
+   "Der Mittelfinger (Saturn) ist meist der längste. In der Tradition steht lang für Ernsthaftigkeit und Ordnungssinn, kurz für Spontaneität und Abneigung gegen Routine.",
+   "A középső ujj (Szaturnusz) általában a leghosszabb. A hagyomány szerint a hosszú komolyságot és rendérzéket, a rövid spontaneitást és a rutin kerülését sugallja."
+  ]
+ },
+ {
+  "id": "q19",
+  "cat": "fingers",
+  "q": [
+   "Ce tip de vârf de deget e citit, în tradiție, ca simț practic, ordine și fiabilitate?",
+   "Which fingertip shape is read in tradition as practical sense, order and reliability?",
+   "Quelle forme de bout de doigt se lit, dans la tradition, comme sens pratique, ordre et fiabilité ?",
+   "Quale forma di punta del dito si legge nella tradizione come senso pratico, ordine e affidabilità?",
+   "¿Qué forma de punta de dedo se lee en la tradición como sentido práctico, orden y fiabilidad?",
+   "Que forma de ponta do dedo se lê na tradição como sentido prático, ordem e fiabilidade?",
+   "Welche Fingerkuppenform gilt in der Tradition als praktischer Sinn, Ordnung und Verlässlichkeit?",
+   "Melyik ujjbegy-alakot olvassa a hagyomány gyakorlatiasságként, rendként és megbízhatóságként?"
+  ],
+  "o": [
+   [
+    "Vârf ascuțit",
+    "Pointed tip",
+    "Bout pointu",
+    "Punta appuntita",
+    "Punta puntiaguda",
+    "Ponta pontiaguda",
+    "Spitze Kuppe",
+    "Hegyes ujjbegy"
+   ],
+   [
+    "Vârf conic",
+    "Conic tip",
+    "Bout conique",
+    "Punta conica",
+    "Punta cónica",
+    "Ponta cónica",
+    "Konische Kuppe",
+    "Kúpos ujjbegy"
+   ],
+   [
+    "Vârf pătrat",
+    "Square tip",
+    "Bout carré",
+    "Punta quadrata",
+    "Punta cuadrada",
+    "Ponta quadrada",
+    "Quadratische Kuppe",
+    "Szögletes ujjbegy"
+   ],
+   [
+    "Vârf spatulat",
+    "Spatulate tip",
+    "Bout spatulé",
+    "Punta spatolata",
+    "Punta espatulada",
+    "Ponta espatulada",
+    "Spatelförmige Kuppe",
+    "Lapátos ujjbegy"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Vârful pătrat, cu capăt plat, e citit ca simț practic, ordine și preferință pentru metode verificate.",
+   "The square tip, with a flat end, is read as practical sense, order and a preference for proven methods.",
+   "Le bout carré, à l’extrémité plate, se lit comme sens pratique, ordre et goût des méthodes éprouvées.",
+   "La punta quadrata, con l’estremità piatta, si legge come senso pratico, ordine e preferenza per i metodi collaudati.",
+   "La punta cuadrada, de extremo plano, se lee como sentido práctico, orden y preferencia por los métodos probados.",
+   "A ponta quadrada, de extremo plano, lê-se como sentido prático, ordem e preferência por métodos comprovados.",
+   "Die quadratische Kuppe mit flachem Ende gilt als praktischer Sinn, Ordnung und Vorliebe für bewährte Methoden.",
+   "A lapos végű, szögletes ujjbegyet gyakorlatiasságként, rendként és a bevált módszerek kedvelésként olvassák."
+  ]
+ },
+ {
+  "id": "q20",
+  "cat": "fingers",
+  "q": [
+   "Ce faci dacă observi schimbări ale culorii, formei sau grosimii unghiilor?",
+   "What should you do if you notice changes in the color, shape or thickness of your nails?",
+   "Que faire si vous remarquez des changements de couleur, de forme ou d’épaisseur des ongles ?",
+   "Che cosa fare se noti cambiamenti di colore, forma o spessore delle unghie?",
+   "¿Qué hacer si notas cambios en el color, la forma o el grosor de las uñas?",
+   "O que fazer se notar alterações na cor, na forma ou na espessura das unhas?",
+   "Was tun, wenn du Veränderungen von Farbe, Form oder Dicke deiner Nägel bemerkst?",
+   "Mit tegyünk, ha a körmök színében, alakjában vagy vastagságában változást látunk?"
+  ],
+  "o": [
+   [
+    "Cauți semnificația într-un tabel de chiromanție",
+    "Look up the meaning in a palmistry chart",
+    "Chercher la signification dans un tableau de chiromancie",
+    "Cercare il significato in una tabella di chiromanzia",
+    "Buscar el significado en una tabla de quiromancia",
+    "Procurar o significado numa tabela de quiromancia",
+    "Die Bedeutung in einer Handlesetabelle nachschlagen",
+    "Utánanézni a jelentésnek egy kézjóslás-táblázatban"
+   ],
+   [
+    "Aștepți să vezi ce „prezice” schimbarea",
+    "Wait to see what the change “predicts”",
+    "Attendre de voir ce que le changement « prédit »",
+    "Aspettare di vedere che cosa «predice» il cambiamento",
+    "Esperar a ver qué «predice» el cambio",
+    "Esperar para ver o que a mudança «prevê»",
+    "Abwarten, was die Veränderung „vorhersagt“",
+    "Megvárni, mit „jósol” a változás"
+   ],
+   [
+    "Te tratezi singur după o interpretare",
+    "Treat it yourself based on a reading",
+    "Se soigner soi-même d’après une interprétation",
+    "Curarsi da soli sulla base di un’interpretazione",
+    "Tratarse uno mismo según una interpretación",
+    "Tratar-se a si próprio com base numa interpretação",
+    "Sich selbst nach einer Deutung behandeln",
+    "Saját magunkat kezelni egy olvasat alapján"
+   ],
+   [
+    "Te adresezi unui medic; citirea unghiilor din chiromanție nu este validată",
+    "Ask a doctor; palmistry’s nail reading is not validated",
+    "Consulter un médecin ; la lecture des ongles en chiromancie n’est pas validée",
+    "Rivolgersi a un medico; la lettura delle unghie in chiromanzia non è validata",
+    "Consultar a un médico; la lectura de uñas en la quiromancia no está validada",
+    "Consultar um médico; a leitura das unhas na quiromancia não é validada",
+    "Ärztlichen Rat einholen; die Nageldeutung der Handlesekunst ist nicht belegt",
+    "Orvoshoz fordulni; a kézjóslás körömolvasata nem igazolt"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Lectura unghiilor din chiromanție nu e validată științific. Schimbările de culoare, formă, striuri sau grosime pot avea multe cauze, inclusiv medicale, pe care doar un medic le poate evalua; dacă le observi, întreabă un medic.",
+   "Palmistry’s reading of nails is not scientifically validated. Changes in nail color, shape, ridges or thickness can have many causes, including medical ones, which only a doctor can assess; if you notice any, ask a doctor.",
+   "La lecture des ongles en chiromancie n’est pas validée scientifiquement. Des changements de couleur, de forme, de stries ou d’épaisseur peuvent avoir de nombreuses causes, y compris médicales, que seul un médecin peut évaluer ; si vous en remarquez, demandez l’avis d’un médecin.",
+   "La lettura delle unghie in chiromanzia non è convalidata scientificamente. Cambiamenti di colore, forma, striature o spessore possono avere molte cause, anche mediche, che solo un medico può valutare; se li noti, chiedi a un medico.",
+   "La lectura de las uñas en la quiromancia no está validada científicamente. Los cambios de color, forma, estrías o grosor pueden tener muchas causas, incluidas las médicas, que solo un médico puede evaluar; si los notas, consulta a un médico.",
+   "A leitura das unhas na quiromancia não está validada cientificamente. Alterações de cor, forma, estrias ou espessura podem ter muitas causas, incluindo médicas, que só um médico pode avaliar; se as notar, consulte um médico.",
+   "Das Deuten der Nägel in der Handlesekunst ist wissenschaftlich nicht belegt. Veränderungen von Farbe, Form, Rillen oder Dicke können viele Ursachen haben, auch medizinische, die nur eine Ärztin oder ein Arzt beurteilen kann; wenn du so etwas bemerkst, frag eine Ärztin oder einen Arzt.",
+   "A kézjóslás körömolvasata tudományosan nem igazolt. A köröm színének, alakjának, barázdáinak vagy vastagságának változásának sok oka lehet, köztük egészségügyi is, amelyet csak orvos tud megítélni; ha ilyet észlelsz, kérdezd meg orvosodat."
+  ]
+ },
+ {
+  "id": "q21",
+  "cat": "fingers",
+  "q": [
+   "Ce citește tradiția lui d’Arpentigny în articulațiile proeminente ale degetelor?",
+   "What does d’Arpentigny’s tradition read in prominent finger joints?",
+   "Que lit la tradition de d’Arpentigny dans les articulations saillantes des doigts ?",
+   "Che cosa legge la tradizione di d’Arpentigny nelle articolazioni prominenti delle dita?",
+   "¿Qué lee la tradición de d’Arpentigny en las articulaciones prominentes de los dedos?",
+   "O que lê a tradição de d’Arpentigny nas articulações salientes dos dedos?",
+   "Was liest d’Arpentignys Tradition aus hervortretenden Fingergelenken?",
+   "Mit olvas d’Arpentigny hagyománya a kiugró ujjízületekből?"
+  ],
+  "o": [
+   [
+    "Intuiție și spontaneitate",
+    "Intuition and spontaneity",
+    "Intuition et spontanéité",
+    "Intuizione e spontaneità",
+    "Intuición y espontaneidad",
+    "Intuição e espontaneidade",
+    "Intuition und Spontaneität",
+    "Intuíciót és spontaneitást"
+   ],
+   [
+    "Spirit analitic, metodă și atenție la detalii",
+    "An analytical mind, method and attention to detail",
+    "Un esprit analytique, de la méthode et le souci du détail",
+    "Una mente analitica, metodo e attenzione ai dettagli",
+    "Una mente analítica, método y atención al detalle",
+    "Uma mente analítica, método e atenção ao detalhe",
+    "Analytischen Geist, Methode und Liebe zum Detail",
+    "Elemző elmét, módszerességet és figyelmet a részletekre"
+   ],
+   [
+    "Un diagnostic de artrită",
+    "A diagnosis of arthritis",
+    "Un diagnostic d’arthrite",
+    "Una diagnosi di artrite",
+    "Un diagnóstico de artritis",
+    "Um diagnóstico de artrite",
+    "Eine Arthritis-Diagnose",
+    "Ízületi gyulladás diagnózisát"
+   ],
+   [
+    "Un talent muzical garantat",
+    "Guaranteed musical talent",
+    "Un talent musical garanti",
+    "Un talento musicale garantito",
+    "Un talento musical garantizado",
+    "Um talento musical garantido",
+    "Garantiertes Musiktalent",
+    "Garantált zenei tehetséget"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Articulațiile proeminente sunt citite ca spirit analitic, metodă și decizii luate după reflecție; cele netede ca intuiție. Este o convenție de tradiție, nu un diagnostic.",
+   "Prominent joints are read as an analytical mind, method and decisions made after reflection; smooth ones as intuition. It is a convention of tradition, not a diagnosis.",
+   "Les articulations saillantes se lisent comme esprit analytique, méthode et décisions prises après réflexion ; les lisses comme intuition. C’est une convention de tradition, non un diagnostic.",
+   "Le articolazioni prominenti si leggono come mente analitica, metodo e decisioni prese dopo riflessione; quelle lisce come intuizione. È una convenzione della tradizione, non una diagnosi.",
+   "Las articulaciones prominentes se leen como mente analítica, método y decisiones tomadas tras reflexionar; las lisas, como intuición. Es una convención de la tradición, no un diagnóstico.",
+   "As articulações salientes leem-se como mente analítica, método e decisões tomadas após reflexão; as lisas, como intuição. É uma convenção da tradição, não um diagnóstico.",
+   "Hervortretende Gelenke gelten als analytischer Geist, Methode und überlegte Entscheidungen, glatte als Intuition. Das ist eine Konvention der Tradition, keine Diagnose.",
+   "A kiugró ízületeket elemző elmeként, módszerességként és megfontolt döntésekként, a simákat intuícióként olvassák. Ez a hagyomány megállapodása, nem diagnózis."
+  ]
+ },
+ {
+  "id": "q22",
+  "cat": "types",
+  "q": [
+   "Ce tip de mână are, în tradiție, palma pătrată și degetele scurte?",
+   "Which hand type has a square palm and short fingers in tradition?",
+   "Quel type de main a une paume carrée et des doigts courts dans la tradition ?",
+   "Quale tipo di mano ha il palmo quadrato e le dita corte nella tradizione?",
+   "¿Qué tipo de mano tiene la palma cuadrada y los dedos cortos en la tradición?",
+   "Que tipo de mão tem a palma quadrada e os dedos curtos na tradição?",
+   "Welcher Handtyp hat nach der Tradition eine quadratische Handfläche und kurze Finger?",
+   "Melyik kéztípusnak van a hagyomány szerint négyzetes tenyere és rövid ujja?"
+  ],
+  "o": [
+   [
+    "Mâna de Aer",
+    "Air hand",
+    "Main d'Air",
+    "Mano d'Aria",
+    "Mano de Aire",
+    "Mão de Ar",
+    "Lufthand",
+    "Levegő-kéz"
+   ],
+   [
+    "Mâna de Foc",
+    "Fire hand",
+    "Main de Feu",
+    "Mano di Fuoco",
+    "Mano de Fuego",
+    "Mão de Fogo",
+    "Feuerhand",
+    "Tűz-kéz"
+   ],
+   [
+    "Mâna de Pământ",
+    "Earth hand",
+    "Main de Terre",
+    "Mano di Terra",
+    "Mano de Tierra",
+    "Mão de Terra",
+    "Erdhand",
+    "Föld-kéz"
+   ],
+   [
+    "Mâna de Apă",
+    "Water hand",
+    "Main d'Eau",
+    "Mano d'Acqua",
+    "Mano de Agua",
+    "Mão de Água",
+    "Wasserhand",
+    "Víz-kéz"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Mâna de Pământ: palmă pătrată, degete scurte. În tradiție e citită ca practică, de încredere, atașată de stabilitate și de munca concretă. Tipologia e simbolică, nu științifică.",
+   "The Earth hand: square palm, short fingers. In tradition it is read as practical, reliable, attached to stability and tangible work. The typology is symbolic, not scientific.",
+   "La main de Terre : paume carrée, doigts courts. Dans la tradition, elle se lit comme pratique, fiable, attachée à la stabilité et au travail concret. Typologie symbolique, non scientifique.",
+   "La mano di Terra: palmo quadrato, dita corte. Nella tradizione si legge come pratica, affidabile, legata alla stabilità e al lavoro concreto. Tipologia simbolica, non scientifica.",
+   "La mano de Tierra: palma cuadrada, dedos cortos. En la tradición se lee como práctica, fiable, apegada a la estabilidad y al trabajo concreto. Tipología simbólica, no científica.",
+   "A mão de Terra: palma quadrada, dedos curtos. Na tradição lê-se como prática, fiável, apegada à estabilidade e ao trabalho concreto. Tipologia simbólica, não científica.",
+   "Die Erdhand: quadratische Handfläche, kurze Finger. In der Tradition gilt sie als praktisch, verlässlich, an Stabilität und greifbarer Arbeit hängend. Die Typologie ist symbolisch, nicht wissenschaftlich.",
+   "A Föld-kéz: négyzetes tenyér, rövid ujjak. A hagyomány gyakorlatias, megbízható, a stabilitást és a kézzelfogható munkát kedvelő kézként olvassa. A tipológia jelképes, nem tudományos."
+  ]
+ },
+ {
+  "id": "q23",
+  "cat": "types",
+  "q": [
+   "Care mână e descrisă în tradiție ca sensibilă, empatică și imaginativă (palmă lungă, degete lungi)?",
+   "Which hand is described in tradition as sensitive, empathetic and imaginative (long palm, long fingers)?",
+   "Quelle main est décrite dans la tradition comme sensible, empathique et imaginative (paume longue, doigts longs) ?",
+   "Quale mano è descritta nella tradizione come sensibile, empatica e immaginativa (palmo lungo, dita lunghe)?",
+   "¿Qué mano se describe en la tradición como sensible, empática e imaginativa (palma larga, dedos largos)?",
+   "Que mão é descrita na tradição como sensível, empática e imaginativa (palma longa, dedos longos)?",
+   "Welche Hand gilt in der Tradition als sensibel, einfühlsam und fantasievoll (lange Handfläche, lange Finger)?",
+   "Melyik kezet írja le a hagyomány érzékenynek, empatikusnak és képzelőerősnek (hosszú tenyér, hosszú ujjak)?"
+  ],
+  "o": [
+   [
+    "Mâna de Pământ",
+    "Earth hand",
+    "Main de Terre",
+    "Mano di Terra",
+    "Mano de Tierra",
+    "Mão de Terra",
+    "Erdhand",
+    "Föld-kéz"
+   ],
+   [
+    "Mâna de Aer",
+    "Air hand",
+    "Main d'Air",
+    "Mano d'Aria",
+    "Mano de Aire",
+    "Mão de Ar",
+    "Lufthand",
+    "Levegő-kéz"
+   ],
+   [
+    "Mâna de Foc",
+    "Fire hand",
+    "Main de Feu",
+    "Mano di Fuoco",
+    "Mano de Fuego",
+    "Mão de Fogo",
+    "Feuerhand",
+    "Tűz-kéz"
+   ],
+   [
+    "Mâna de Apă",
+    "Water hand",
+    "Main d'Eau",
+    "Mano d'Acqua",
+    "Mano de Agua",
+    "Mão de Água",
+    "Wasserhand",
+    "Víz-kéz"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Mâna de Apă, cu palmă și degete lungi, e citită în tradiție ca sensibilă, empatică, imaginativă și receptivă la atmosferă.",
+   "The Water hand, with a long palm and long fingers, is read in tradition as sensitive, empathetic, imaginative and attuned to atmosphere.",
+   "La main d’Eau, à la paume et aux doigts longs, se lit dans la tradition comme sensible, empathique, imaginative et réceptive à l’atmosphère.",
+   "La mano d’Acqua, con palmo e dita lunghi, si legge nella tradizione come sensibile, empatica, immaginativa e attenta all’atmosfera.",
+   "La mano de Agua, de palma y dedos largos, se lee en la tradición como sensible, empática, imaginativa y receptiva al ambiente.",
+   "A mão de Água, de palma e dedos longos, lê-se na tradição como sensível, empática, imaginativa e atenta ao ambiente.",
+   "Die Wasserhand mit langer Handfläche und langen Fingern gilt in der Tradition als sensibel, einfühlsam, fantasievoll und atmosphärisch feinfühlig.",
+   "A Víz-kéz, hosszú tenyérrel és hosszú ujjakkal, a hagyomány szerint érzékeny, empatikus, képzelőerős és fogékony a hangulatokra."
+  ]
+ },
+ {
+  "id": "q24",
+  "cat": "types",
+  "q": [
+   "Care mână e citită în tradiție ca socială, curioasă și atrasă de idei și analiză?",
+   "Which hand is read in tradition as communicative, curious and drawn to ideas and analysis?",
+   "Quelle main se lit dans la tradition comme communicative, curieuse et attirée par les idées et l’analyse ?",
+   "Quale mano si legge nella tradizione come comunicativa, curiosa e attratta da idee e analisi?",
+   "¿Qué mano se lee en la tradición como comunicativa, curiosa y atraída por las ideas y el análisis?",
+   "Que mão se lê na tradição como comunicativa, curiosa e atraída por ideias e análise?",
+   "Welche Hand gilt in der Tradition als kommunikativ, neugierig und von Ideen und Analyse angezogen?",
+   "Melyik kezet olvassa a hagyomány kommunikatívnak, kíváncsinak, az eszmék és az elemzés iránt vonzódónak?"
+  ],
+  "o": [
+   [
+    "Mâna de Aer",
+    "Air hand",
+    "Main d'Air",
+    "Mano d'Aria",
+    "Mano de Aire",
+    "Mão de Ar",
+    "Lufthand",
+    "Levegő-kéz"
+   ],
+   [
+    "Mâna de Foc",
+    "Fire hand",
+    "Main de Feu",
+    "Mano di Fuoco",
+    "Mano de Fuego",
+    "Mão de Fogo",
+    "Feuerhand",
+    "Tűz-kéz"
+   ],
+   [
+    "Mâna de Apă",
+    "Water hand",
+    "Main d'Eau",
+    "Mano d'Acqua",
+    "Mano de Agua",
+    "Mão de Água",
+    "Wasserhand",
+    "Víz-kéz"
+   ],
+   [
+    "Mâna de Pământ",
+    "Earth hand",
+    "Main de Terre",
+    "Mano di Terra",
+    "Mano de Tierra",
+    "Mão de Terra",
+    "Erdhand",
+    "Föld-kéz"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Mâna de Aer, cu palmă pătrată și degete lungi, e citită ca comunicativă, curioasă, atrasă de idei și analiză. Tipologia celor patru elemente rămâne o convenție, fără bază științifică.",
+   "The Air hand, with a square palm and long fingers, is read as communicative, curious, drawn to ideas and analysis. The four-element typology remains a convention, with no scientific basis.",
+   "La main d’Air, à la paume carrée et aux doigts longs, se lit comme communicative, curieuse, attirée par les idées et l’analyse. La typologie des quatre éléments reste une convention, sans base scientifique.",
+   "La mano d’Aria, con palmo quadrato e dita lunghe, si legge come comunicativa, curiosa, attratta da idee e analisi. La tipologia dei quattro elementi resta una convenzione, senza base scientifica.",
+   "La mano de Aire, de palma cuadrada y dedos largos, se lee como comunicativa, curiosa, atraída por las ideas y el análisis. La tipología de los cuatro elementos sigue siendo una convención, sin base científica.",
+   "A mão de Ar, de palma quadrada e dedos longos, lê-se como comunicativa, curiosa, atraída por ideias e análise. A tipologia dos quatro elementos continua a ser uma convenção, sem base científica.",
+   "Die Lufthand mit quadratischer Handfläche und langen Fingern gilt als kommunikativ, neugierig und von Ideen und Analyse angezogen. Die Vier-Elemente-Typologie bleibt eine Konvention ohne wissenschaftliche Grundlage.",
+   "A Levegő-kéz, négyzetes tenyérrel és hosszú ujjakkal, kommunikatív, kíváncsi, az eszmék és az elemzés felé vonzódó kéz. A négy elem tipológiája megállapodás marad, tudományos alap nélkül."
+  ]
+ },
+ {
+  "id": "q25",
+  "cat": "types",
+  "q": [
+   "În clasificarea lui d’Arpentigny, ce mână are vârfuri late, ca o spatulă?",
+   "In d’Arpentigny’s classification, which hand has broad fingertips like a spatula?",
+   "Dans la classification de d’Arpentigny, quelle main a des bouts larges comme une spatule ?",
+   "Nella classificazione di d’Arpentigny, quale mano ha punte larghe come una spatola?",
+   "En la clasificación de d’Arpentigny, ¿qué mano tiene yemas anchas como una espátula?",
+   "Na classificação de d’Arpentigny, que mão tem pontas largas como uma espátula?",
+   "In d’Arpentignys Einteilung: Welche Hand hat breite Fingerspitzen wie ein Spatel?",
+   "d’Arpentigny osztályozásában melyik kéznek van lapátszerűen széles ujjbegye?"
+  ],
+  "o": [
+   [
+    "Mâna artistică (conică)",
+    "Artistic (conic) hand",
+    "Main artistique (conique)",
+    "Mano artistica (conica)",
+    "Mano artística (cónica)",
+    "Mão artística (cónica)",
+    "Künstlerische (konische) Hand",
+    "Művészi (kúpos) kéz"
+   ],
+   [
+    "Mâna psihică (ascuțită)",
+    "Psychic (pointed) hand",
+    "Main psychique (pointue)",
+    "Mano psichica (appuntita)",
+    "Mano psíquica (puntiaguda)",
+    "Mão psíquica (pontiaguda)",
+    "Psychische (spitze) Hand",
+    "Pszichikus (hegyes) kéz"
+   ],
+   [
+    "Mâna spatulată",
+    "Spatulate hand",
+    "Main spatulée",
+    "Mano spatolata",
+    "Mano espatulada",
+    "Mão espatulada",
+    "Spatelhand",
+    "Lapátujjú kéz"
+   ],
+   [
+    "Mâna elementară",
+    "Elementary hand",
+    "Main élémentaire",
+    "Mano elementare",
+    "Mano elemental",
+    "Mão elementar",
+    "Elementarhand",
+    "Elemi kéz"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Mâna spatulată are vârfuri late, ca o spatulă, și palmă mare și fermă. Tradiția o asociază cu energie, independență și gust pentru acțiune; este un portret simbolic.",
+   "The spatulate hand has broad fingertips like a spatula and a large, firm palm. Tradition associates it with energy, independence and a taste for action; it is a symbolic portrait.",
+   "La main spatulée a des bouts larges comme une spatule et une grande paume ferme. La tradition l’associe à l’énergie, à l’indépendance et au goût de l’action ; c’est un portrait symbolique.",
+   "La mano spatolata ha punte larghe come una spatola e un palmo grande e fermo. La tradizione la associa a energia, indipendenza e gusto per l’azione; è un ritratto simbolico.",
+   "La mano espatulada tiene yemas anchas como una espátula y una palma grande y firme. La tradición la asocia con energía, independencia y gusto por la acción; es un retrato simbólico.",
+   "A mão espatulada tem pontas largas como uma espátula e uma palma grande e firme. A tradição associa-a a energia, independência e gosto pela ação; é um retrato simbólico.",
+   "Die Spatelhand hat breite Spitzen wie ein Spatel und eine große, feste Handfläche. Die Tradition verbindet sie mit Energie, Unabhängigkeit und Tatendrang; es ist ein symbolisches Porträt.",
+   "A lapátujjú kéznek lapátszerűen széles ujjbegyei és nagy, szilárd tenyere van. A hagyomány az energiával, a függetlenséggel és a tettvággyal társítja; jelképes portré."
+  ]
+ },
+ {
+  "id": "q26",
+  "cat": "types",
+  "q": [
+   "Despre ce tip de mână spune tradiția că amestecă trăsături ale mai multor tipuri și descrie cele mai multe mâini reale?",
+   "Which hand type, according to tradition, blends features of several types and describes most real hands?",
+   "Quel type de main, selon la tradition, mêle les traits de plusieurs types et décrit la plupart des mains réelles ?",
+   "Quale tipo di mano, secondo la tradizione, unisce tratti di più tipi e descrive la maggior parte delle mani reali?",
+   "¿Qué tipo de mano, según la tradición, mezcla rasgos de varios tipos y describe la mayoría de las manos reales?",
+   "Que tipo de mão, segundo a tradição, mistura traços de vários tipos e descreve a maioria das mãos reais?",
+   "Welcher Handtyp vereint nach der Tradition Merkmale mehrerer Typen und beschreibt die meisten realen Hände?",
+   "Melyik kéztípus ötvözi a hagyomány szerint több típus jegyeit, és írja le a legtöbb valódi kezet?"
+  ],
+  "o": [
+   [
+    "Mâna psihică (ascuțită)",
+    "Psychic (pointed) hand",
+    "Main psychique (pointue)",
+    "Mano psichica (appuntita)",
+    "Mano psíquica (puntiaguda)",
+    "Mão psíquica (pontiaguda)",
+    "Psychische (spitze) Hand",
+    "Pszichikus (hegyes) kéz"
+   ],
+   [
+    "Mâna elementară",
+    "Elementary hand",
+    "Main élémentaire",
+    "Mano elementare",
+    "Mano elemental",
+    "Mão elementar",
+    "Elementarhand",
+    "Elemi kéz"
+   ],
+   [
+    "Mâna filosofică (noduroasă)",
+    "Philosophic (knotty) hand",
+    "Main philosophique (noueuse)",
+    "Mano filosofica (nodosa)",
+    "Mano filosófica (nudosa)",
+    "Mão filosófica (nodosa)",
+    "Philosophische (knotige) Hand",
+    "Filozofikus (csomós) kéz"
+   ],
+   [
+    "Mâna mixtă",
+    "Mixed hand",
+    "Main mixte",
+    "Mano mista",
+    "Mano mixta",
+    "Mão mista",
+    "Gemischte Hand",
+    "Vegyes kéz"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Mâna mixtă: tradiția spune că majoritatea mâinilor reale combină trăsături ale mai multor tipuri. Ea e un ghid vag care invită la observație proprie, nu o etichetă fixă.",
+   "The mixed hand: tradition says most real hands combine features of several types. It is a loose guide that invites your own observation, never a fixed label.",
+   "La main mixte : la tradition dit que la plupart des mains réelles combinent les traits de plusieurs types. C’est un guide souple qui invite à observer, jamais une étiquette fixe.",
+   "La mano mista: la tradizione dice che la maggior parte delle mani reali combina tratti di più tipi. È una guida elastica che invita a osservare, mai un’etichetta fissa.",
+   "La mano mixta: la tradición dice que la mayoría de las manos reales combinan rasgos de varios tipos. Es una guía flexible que invita a observar, nunca una etiqueta fija.",
+   "A mão mista: a tradição diz que a maioria das mãos reais combina traços de vários tipos. É um guia flexível que convida à observação, nunca uma etiqueta fixa.",
+   "Die gemischte Hand: Nach der Tradition vereinen die meisten realen Hände Merkmale mehrerer Typen. Sie ist ein lockerer Leitfaden zum Selbstbeobachten, nie ein festes Etikett.",
+   "A vegyes kéz: a hagyomány szerint a legtöbb valódi kéz több típus jegyeit ötvözi. Laza útmutató a saját megfigyeléshez, soha nem végleges címke."
+  ]
+ },
+ {
+  "id": "q27",
+  "cat": "derm",
+  "q": [
+   "Care este cel mai frecvent tipar de amprentă pe vârfurile degetelor?",
+   "Which is the most common fingerprint pattern on the fingertips?",
+   "Quel est le motif d’empreinte le plus fréquent au bout des doigts ?",
+   "Qual è il disegno di impronta più comune sulle punte delle dita?",
+   "¿Cuál es el patrón de huella más frecuente en las yemas de los dedos?",
+   "Qual é o padrão de impressão digital mais frequente nas pontas dos dedos?",
+   "Welches Fingerabdruckmuster ist an den Fingerkuppen am häufigsten?",
+   "Melyik a leggyakoribb ujjlenyomat-mintázat az ujjbegyeken?"
+  ],
+  "o": [
+   [
+    "Buclă cubitală",
+    "Ulnar loop",
+    "Boucle cubitale",
+    "Ansa ulnare",
+    "Lazo cubital",
+    "Laçada ulnar",
+    "Ulnare Schleife",
+    "Singcsonti hurok"
+   ],
+   [
+    "Vârtej",
+    "Whorl",
+    "Tourbillon",
+    "Verticillo",
+    "Verticilo",
+    "Verticilo",
+    "Wirbel",
+    "Örvény"
+   ],
+   [
+    "Arc simplu",
+    "Plain arch",
+    "Arc simple",
+    "Arco semplice",
+    "Arco simple",
+    "Arco simples",
+    "Einfacher Bogen",
+    "Egyszerű ív"
+   ],
+   [
+    "Arc în cort",
+    "Tented arch",
+    "Arc en tente",
+    "Arco a tenda",
+    "Arco en tienda",
+    "Arco em tenda",
+    "Zeltbogen",
+    "Sátorív"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Bucla cubitală este cel mai frecvent tipar, aproximativ 55–65% din vârfurile degetelor; frecvența variază cu originea. Vârtejurile urmează, iar arcurile sunt rare.",
+   "The ulnar loop is the most common pattern, roughly 55–65% of fingertips; frequency varies with ancestry. Whorls come next, and arches are uncommon.",
+   "La boucle cubitale est le motif le plus fréquent, environ 55–65 % des bouts de doigts ; la fréquence varie selon l’origine. Viennent ensuite les tourbillons, les arcs étant rares.",
+   "L’ansa ulnare è il disegno più comune, circa il 55–65% delle punte delle dita; la frequenza varia con l’origine. Seguono i verticilli, mentre gli archi sono rari.",
+   "El lazo cubital es el patrón más frecuente, alrededor del 55–65 % de las yemas; la frecuencia varía según el origen. Siguen los verticilos y los arcos son poco comunes.",
+   "A laçada ulnar é o padrão mais frequente, cerca de 55–65% das pontas dos dedos; a frequência varia com a origem. Seguem-se os verticilos e os arcos são raros.",
+   "Die ulnare Schleife ist das häufigste Muster, etwa 55–65 % der Fingerkuppen; die Häufigkeit variiert mit der Herkunft. Danach kommen Wirbel, Bögen sind selten.",
+   "A singcsonti hurok a leggyakoribb mintázat, az ujjbegyek nagyjából 55–65%-án; az arány származástól függően változik. Az örvények következnek, az ívek ritkák."
+  ]
+ },
+ {
+  "id": "q28",
+  "cat": "derm",
+  "q": [
+   "Câte triradii (delte) are un vârtej?",
+   "How many triradii (deltas) does a whorl have?",
+   "Combien de triradius (deltas) un tourbillon a-t-il ?",
+   "Quanti triradi (delta) ha un verticillo?",
+   "¿Cuántos triradios (deltas) tiene un verticilo?",
+   "Quantos triradii (deltas) tem um verticilo?",
+   "Wie viele Triradien (Deltas) hat ein Wirbel?",
+   "Hány triradius (delta) van egy örvényen?"
+  ],
+  "o": [
+   [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ],
+   [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ],
+   [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Vârtejul are două triradii (delte); bucla are unul, iar arcul simplu niciunul. Numărul triradiilor ajută la deosebirea tiparelor de bază ale amprentei.",
+   "A whorl has two triradii (deltas); a loop has one, and a plain arch has none. The number of triradii helps tell the basic fingerprint patterns apart.",
+   "Un tourbillon a deux triradius (deltas) ; une boucle en a un, et un arc simple aucun. Le nombre de triradius aide à distinguer les motifs de base de l’empreinte.",
+   "Un verticillo ha due triradi (delta); un’ansa ne ha uno e un arco semplice nessuno. Il numero di triradi aiuta a distinguere i disegni di base dell’impronta.",
+   "Un verticilo tiene dos triradios (deltas); un lazo tiene uno y un arco simple ninguno. El número de triradios ayuda a distinguir los patrones básicos de la huella.",
+   "Um verticilo tem dois triradii (deltas); uma laçada tem um e um arco simples nenhum. O número de triradii ajuda a distinguir os padrões básicos da impressão digital.",
+   "Ein Wirbel hat zwei Triradien (Deltas); eine Schleife eins, ein einfacher Bogen keines. Die Triradienzahl hilft, die Grundmuster des Fingerabdrucks zu unterscheiden.",
+   "Az örvénynek két triradiusa (deltája) van; a huroknak egy, az egyszerű ívnek egy sincs. A triradiusok száma segít megkülönböztetni az ujjlenyomat alapmintáit."
+  ]
+ },
+ {
+  "id": "q29",
+  "cat": "derm",
+  "q": [
+   "Când se formează crestele papilare ale amprentelor?",
+   "When do fingerprint ridges form?",
+   "Quand les crêtes des empreintes se forment-elles ?",
+   "Quando si formano le creste delle impronte digitali?",
+   "¿Cuándo se forman las crestas de las huellas dactilares?",
+   "Quando se formam as cristas das impressões digitais?",
+   "Wann bilden sich die Papillarleisten der Fingerabdrücke?",
+   "Mikor alakulnak ki az ujjlenyomat papilláris vonalai?"
+  ],
+  "o": [
+   [
+    "În primul an de viață",
+    "During the first year of life",
+    "Pendant la première année de vie",
+    "Durante il primo anno di vita",
+    "Durante el primer año de vida",
+    "Durante o primeiro ano de vida",
+    "Im ersten Lebensjahr",
+    "Az élet első évében"
+   ],
+   [
+    "La pubertate",
+    "At puberty",
+    "À la puberté",
+    "Alla pubertà",
+    "En la pubertad",
+    "Na puberdade",
+    "In der Pubertät",
+    "Pubertáskorban"
+   ],
+   [
+    "Se schimbă în fiecare an",
+    "They change every year",
+    "Elles changent chaque année",
+    "Cambiano ogni anno",
+    "Cambian cada año",
+    "Mudam todos os anos",
+    "Sie ändern sich jedes Jahr",
+    "Évente megváltoznak"
+   ],
+   [
+    "Între săptămânile 10 și 16 de sarcină",
+    "Between weeks 10 and 16 of pregnancy",
+    "Entre les semaines 10 et 16 de grossesse",
+    "Tra la 10ª e la 16ª settimana di gravidanza",
+    "Entre las semanas 10 y 16 del embarazo",
+    "Entre as semanas 10 e 16 da gravidez",
+    "Zwischen der 10. und 16. Schwangerschaftswoche",
+    "A terhesség 10. és 16. hete között"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Crestele se formează între săptămânile 10 și 16 de sarcină, pe mici proeminențe numite perne volare. Odată formate, tiparul rămâne fix toată viața, în afara rănilor profunde.",
+   "Ridges form between weeks 10 and 16 of pregnancy, on small swellings called volar pads. Once formed, the pattern stays fixed for life, barring deep injury.",
+   "Les crêtes se forment entre les semaines 10 et 16 de grossesse, sur de petits renflements appelés coussinets palmaires. Une fois formé, le motif reste fixe toute la vie, sauf blessure profonde.",
+   "Le creste si formano tra la 10ª e la 16ª settimana di gravidanza, su piccoli rigonfiamenti detti cuscinetti volari. Una volta formato, il disegno resta fisso per tutta la vita, salvo lesioni profonde.",
+   "Las crestas se forman entre las semanas 10 y 16 del embarazo, sobre pequeñas protuberancias llamadas almohadillas volares. Una vez formado, el patrón queda fijo de por vida, salvo lesión profunda.",
+   "As cristas formam-se entre as semanas 10 e 16 da gravidez, em pequenas saliências chamadas almofadas volares. Uma vez formado, o padrão fica fixo para toda a vida, salvo lesão profunda.",
+   "Die Leisten bilden sich zwischen der 10. und 16. Schwangerschaftswoche auf kleinen Wölbungen, den Tastballen. Einmal gebildet, bleibt das Muster lebenslang fest, außer bei tiefen Verletzungen.",
+   "A vonalak a terhesség 10. és 16. hete között alakulnak ki, a tapintópárnáknak nevezett kis dudorokon. Kialakulás után a mintázat egész életre rögzített, mély sérülés híján."
+  ]
+ },
+ {
+  "id": "q30",
+  "cat": "derm",
+  "q": [
+   "Ce se întâmplă cu amprentele gemenilor identici?",
+   "What about the fingerprints of identical twins?",
+   "Qu’en est-il des empreintes de jumeaux identiques ?",
+   "Che cosa succede con le impronte dei gemelli identici?",
+   "¿Qué ocurre con las huellas de gemelos idénticos?",
+   "O que acontece com as impressões digitais de gémeos idênticos?",
+   "Wie steht es um die Fingerabdrücke eineiiger Zwillinge?",
+   "Mi a helyzet az egypetéjű ikrek ujjlenyomatával?"
+  ],
+  "o": [
+   [
+    "Sunt diferite, deși ADN-ul este același",
+    "They differ, even though the DNA is the same",
+    "Elles diffèrent, bien que l’ADN soit le même",
+    "Sono diverse, anche se il DNA è lo stesso",
+    "Son distintas, aunque el ADN es el mismo",
+    "São diferentes, embora o ADN seja o mesmo",
+    "Sie unterscheiden sich, obwohl die DNA gleich ist",
+    "Különbözők, bár a DNS ugyanaz"
+   ],
+   [
+    "Sunt identice, ca ADN-ul",
+    "They are identical, like the DNA",
+    "Elles sont identiques, comme l’ADN",
+    "Sono identiche, come il DNA",
+    "Son idénticas, como el ADN",
+    "São idênticas, como o ADN",
+    "Sie sind identisch, wie die DNA",
+    "Azonosak, akárcsak a DNS"
+   ],
+   [
+    "Doar degetele mari sunt identice",
+    "Only the thumbs are identical",
+    "Seuls les pouces sont identiques",
+    "Solo i pollici sono identici",
+    "Solo los pulgares son idénticos",
+    "Só os polegares são idênticos",
+    "Nur die Daumen sind identisch",
+    "Csak a hüvelykujjak azonosak"
+   ],
+   [
+    "Coincid până la vârsta de zece ani",
+    "They match until age ten",
+    "Elles coïncident jusqu’à dix ans",
+    "Coincidono fino ai dieci anni",
+    "Coinciden hasta los diez años",
+    "Coincidem até aos dez anos",
+    "Sie stimmen bis zum zehnten Lebensjahr überein",
+    "Tízéves korig egyeznek"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Nici gemenii identici nu au aceleași amprente. Tiparul rezultă din gene împreună cu condiții întâmplătoare din uter, precum forma vârfului degetului și mediul local de creștere.",
+   "Even identical twins do not share fingerprints. The pattern results from genes together with chance conditions in the womb, such as fingertip shape and the local growth environment.",
+   "Même des jumeaux identiques n’ont pas les mêmes empreintes. Le motif résulte des gènes et de conditions aléatoires dans l’utérus, comme la forme du bout du doigt et l’environnement local de croissance.",
+   "Nemmeno i gemelli identici hanno le stesse impronte. Il disegno risulta dai geni insieme a condizioni casuali nell’utero, come la forma della punta del dito e l’ambiente locale di crescita.",
+   "Ni siquiera los gemelos idénticos comparten huellas. El patrón resulta de los genes junto con condiciones azarosas en el útero, como la forma de la yema y el entorno local de crecimiento.",
+   "Nem os gémeos idênticos partilham impressões digitais. O padrão resulta dos genes e de condições casuais no útero, como a forma da ponta do dedo e o ambiente local de crescimento.",
+   "Selbst eineiige Zwillinge haben verschiedene Fingerabdrücke. Das Muster entsteht aus Genen und Zufallsbedingungen im Mutterleib, etwa der Kuppenform und dem lokalen Wachstumsumfeld.",
+   "Még az egypetéjű ikreknek sincs azonos ujjlenyomatuk. A mintázat a gének és a méhen belüli véletlen tényezők, például az ujjbegy alakja és a helyi növekedési környezet együttes eredménye."
+  ]
+ },
+ {
+  "id": "q31",
+  "cat": "derm",
+  "q": [
+   "Ce spune literatura despre legătura dintre tiparele amprentelor și personalitate?",
+   "What does the literature say about a link between fingerprint patterns and personality?",
+   "Que dit la littérature d’un lien entre motifs d’empreintes et personnalité ?",
+   "Che cosa dice la letteratura su un legame tra disegni delle impronte e personalità?",
+   "¿Qué dice la literatura sobre un vínculo entre patrones de huellas y personalidad?",
+   "O que diz a literatura sobre uma ligação entre padrões das impressões digitais e personalidade?",
+   "Was sagt die Literatur zu einem Zusammenhang zwischen Fingerabdruckmustern und Persönlichkeit?",
+   "Mit mond a szakirodalom az ujjlenyomat-mintázatok és a személyiség kapcsolatáról?"
+  ],
+  "o": [
+   [
+    "Vârtejurile arată un caracter puternic",
+    "Whorls show a strong character",
+    "Les tourbillons montrent un caractère fort",
+    "I verticilli mostrano un carattere forte",
+    "Los verticilos muestran un carácter fuerte",
+    "Os verticilos mostram um carácter forte",
+    "Wirbel zeigen einen starken Charakter",
+    "Az örvények erős jellemet mutatnak"
+   ],
+   [
+    "Nu există nicio legătură validată",
+    "No validated relationship exists",
+    "Aucune relation validée n’existe",
+    "Non esiste alcuna relazione validata",
+    "No existe ninguna relación validada",
+    "Não existe nenhuma relação validada",
+    "Es gibt keinen validierten Zusammenhang",
+    "Nincs igazolt összefüggés"
+   ],
+   [
+    "Buclele arată o fire blândă",
+    "Loops show a gentle nature",
+    "Les boucles montrent un tempérament doux",
+    "Le anse mostrano un temperamento mite",
+    "Los lazos muestran un temperamento dulce",
+    "As laçadas mostram um temperamento meigo",
+    "Schleifen zeigen ein sanftes Wesen",
+    "A hurkok szelíd természetet mutatnak"
+   ],
+   [
+    "Arcurile arată talent artistic",
+    "Arches show artistic talent",
+    "Les arcs montrent un talent artistique",
+    "Gli archi mostrano talento artistico",
+    "Los arcos muestran talento artístico",
+    "Os arcos mostram talento artístico",
+    "Bögen zeigen künstlerisches Talent",
+    "Az ívek művészi tehetséget mutatnak"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "Nu există nicio relație validată între amprente și personalitate, talent sau inteligență. Amprentele servesc identificării și cercetării genetice, nu judecării caracterului.",
+   "No validated relationship exists between fingerprints and personality, talent or intelligence. Fingerprints serve identification and genetic research, not judging character.",
+   "Aucune relation validée n’existe entre empreintes et personnalité, talent ou intelligence. Les empreintes servent à l’identification et à la recherche génétique, non à juger le caractère.",
+   "Non esiste alcuna relazione validata tra impronte e personalità, talento o intelligenza. Le impronte servono all’identificazione e alla ricerca genetica, non a giudicare il carattere.",
+   "No existe ninguna relación validada entre huellas y personalidad, talento o inteligencia. Las huellas sirven para la identificación y la investigación genética, no para juzgar el carácter.",
+   "Não existe nenhuma relação validada entre impressões digitais e personalidade, talento ou inteligência. Servem a identificação e a investigação genética, não para julgar o carácter.",
+   "Es gibt keinen validierten Zusammenhang zwischen Fingerabdrücken und Persönlichkeit, Talent oder Intelligenz. Sie dienen der Identifikation und der genetischen Forschung, nicht der Charakterbeurteilung.",
+   "Az ujjlenyomatok és a személyiség, a tehetség vagy az intelligencia között nincs igazolt összefüggés. Az azonosítást és a genetikai kutatást szolgálják, nem a jellem megítélését."
+  ]
+ },
+ {
+  "id": "q32",
+  "cat": "derm",
+  "q": [
+   "Ce este corect despre pliul palmar transversal unic (numit și pliu simian)?",
+   "Which statement about the single transverse palmar crease (also called simian crease) is correct?",
+   "Quelle affirmation sur le pli palmaire transverse unique (dit aussi pli simien) est correcte ?",
+   "Quale affermazione sulla piega palmare trasversa unica (detta anche piega scimmiesca) è corretta?",
+   "¿Qué afirmación sobre el pliegue palmar transverso único (llamado también pliegue simiesco) es correcta?",
+   "Qual afirmação sobre a prega palmar transversa única (também chamada prega simiesca) está correta?",
+   "Welche Aussage zur einzelnen Querfurche der Hand (Vierfingerfurche) trifft zu?",
+   "Melyik állítás igaz az egyetlen haránt tenyérredőre (majomredőre)?"
+  ],
+  "o": [
+   [
+    "Indică întotdeauna sindromul Down",
+    "It always indicates Down syndrome",
+    "Elle indique toujours un syndrome de Down",
+    "Indica sempre la sindrome di Down",
+    "Indica siempre síndrome de Down",
+    "Indica sempre síndrome de Down",
+    "Sie weist immer auf ein Down-Syndrom hin",
+    "Mindig Down-szindrómát jelez"
+   ],
+   [
+    "Nu apare niciodată la oameni sănătoși",
+    "It never occurs in healthy people",
+    "Elle n’existe jamais chez les personnes en bonne santé",
+    "Non compare mai in persone sane",
+    "Nunca aparece en personas sanas",
+    "Nunca ocorre em pessoas saudáveis",
+    "Sie kommt bei Gesunden nie vor",
+    "Egészséges embereknél soha nem fordul elő"
+   ],
+   [
+    "Apare și la oameni sănătoși și nu este un diagnostic",
+    "It also occurs in healthy people and is not a diagnosis",
+    "Elle existe aussi chez des personnes en bonne santé et n’est pas un diagnostic",
+    "Compare anche in persone sane e non è una diagnosi",
+    "También aparece en personas sanas y no es un diagnóstico",
+    "Também ocorre em pessoas saudáveis e não é um diagnóstico",
+    "Sie kommt auch bei Gesunden vor und ist keine Diagnose",
+    "Egészséges embereknél is előfordul, és nem diagnózis"
+   ],
+   [
+    "Dovedește un talent deosebit",
+    "It proves an exceptional talent",
+    "Elle prouve un talent exceptionnel",
+    "Dimostra un talento eccezionale",
+    "Demuestra un talento excepcional",
+    "Prova um talento excecional",
+    "Sie beweist ein besonderes Talent",
+    "Kiemelkedő tehetséget bizonyít"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Pliul unic apare la aproximativ 1,5–3% dintre oameni, mai ales sănătoși. E mai frecvent în unele afecțiuni cromozomiale, dar doar ca asociere de grup, nu ca diagnostic.",
+   "The single crease occurs in about 1.5–3% of people, mostly healthy ones. It is more frequent in some chromosomal conditions, but only as a group-level association, not a diagnosis.",
+   "Le pli unique existe chez environ 1,5–3 % des gens, surtout en bonne santé. Il est plus fréquent dans certaines affections chromosomiques, mais seulement comme association de groupe, non comme diagnostic.",
+   "La piega unica compare in circa l’1,5–3% delle persone, per lo più sane. È più frequente in alcune condizioni cromosomiche, ma solo come associazione di gruppo, non come diagnosi.",
+   "El pliegue único aparece en alrededor del 1,5–3 % de las personas, sobre todo sanas. Es más frecuente en algunas afecciones cromosómicas, pero solo como asociación de grupo, no como diagnóstico.",
+   "A prega única ocorre em cerca de 1,5–3% das pessoas, sobretudo saudáveis. É mais frequente em algumas condições cromossómicas, mas só como associação de grupo, não como diagnóstico.",
+   "Die einzelne Furche tritt bei etwa 1,5–3 % der Menschen auf, meist Gesunden. Bei manchen Chromosomenstörungen ist sie häufiger, aber nur als Gruppenassoziation, nicht als Diagnose.",
+   "Az egyetlen redő az emberek kb. 1,5–3%-ánál fordul elő, többnyire egészségeseknél. Egyes kromoszóma-eltéréseknél gyakoribb, de csak csoportszintű összefüggésként, nem diagnózisként."
+  ]
+ },
+ {
+  "id": "q33",
+  "cat": "sci",
+  "q": [
+   "Ce a constatat un studiu din 2019 pe 60 de cadavre despre lungimea liniei vieții și vârsta la deces?",
+   "What did a 2019 study of 60 cadavers find about life-line length and age at death?",
+   "Qu’a constaté une étude de 2019 sur 60 cadavres au sujet de la longueur de la ligne de vie et de l’âge au décès ?",
+   "Che cosa ha rilevato uno studio del 2019 su 60 cadaveri su lunghezza della linea della vita ed età al decesso?",
+   "¿Qué halló un estudio de 2019 con 60 cadáveres sobre la longitud de la línea de la vida y la edad de fallecimiento?",
+   "O que constatou um estudo de 2019 com 60 cadáveres sobre o comprimento da linha da vida e a idade à morte?",
+   "Was ergab eine Studie von 2019 an 60 Leichen zu Länge der Lebenslinie und Sterbealter?",
+   "Mit talált egy 2019-es, 60 holttesten végzett vizsgálat az életvonal hossza és a halálozási életkor kapcsolatáról?"
+  ],
+  "o": [
+   [
+    "Nicio corelație semnificativă",
+    "No significant correlation",
+    "Aucune corrélation significative",
+    "Nessuna correlazione significativa",
+    "Ninguna correlación significativa",
+    "Nenhuma correlação significativa",
+    "Keine signifikante Korrelation",
+    "Nem talált jelentős összefüggést"
+   ],
+   [
+    "O corelație puternică, pozitivă",
+    "A strong positive correlation",
+    "Une forte corrélation positive",
+    "Una forte correlazione positiva",
+    "Una fuerte correlación positiva",
+    "Uma forte correlação positiva",
+    "Eine starke positive Korrelation",
+    "Erős pozitív összefüggést"
+   ],
+   [
+    "O corelație puternică, negativă",
+    "A strong negative correlation",
+    "Une forte corrélation négative",
+    "Una forte correlazione negativa",
+    "Una fuerte correlación negativa",
+    "Uma forte correlação negativa",
+    "Eine starke negative Korrelation",
+    "Erős negatív összefüggést"
+   ],
+   [
+    "O corelație doar la bărbați",
+    "A correlation in men only",
+    "Une corrélation uniquement chez les hommes",
+    "Una correlazione solo negli uomini",
+    "Una correlación solo en hombres",
+    "Uma correlação só nos homens",
+    "Eine Korrelation nur bei Männern",
+    "Összefüggést csak férfiaknál"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Un studiu din 1990 pe 100 de autopsii raportase o asociere, dar cel din 2019 (60 de cadavre) nu a găsit nicio corelație semnificativă. Durata vieții nu poate fi citită din linie.",
+   "A 1990 study of 100 autopsy cases reported an association, but the 2019 study (60 cadavers) found no significant correlation. Lifespan cannot be read from the line.",
+   "Une étude de 1990 portant sur 100 autopsies avait signalé une association, mais celle de 2019 (60 cadavres) n’a trouvé aucune corrélation significative. La durée de vie ne se lit pas dans la ligne.",
+   "Uno studio del 1990 su 100 autopsie aveva riportato un’associazione, ma quello del 2019 (60 cadaveri) non ha trovato alcuna correlazione significativa. La durata della vita non si legge dalla linea.",
+   "Un estudio de 1990 sobre 100 autopsias informó de una asociación, pero el de 2019 (60 cadáveres) no halló ninguna correlación significativa. La duración de la vida no puede leerse en la línea.",
+   "Um estudo de 1990 com 100 autópsias relatou uma associação, mas o de 2019 (60 cadáveres) não encontrou nenhuma correlação significativa. A duração da vida não se pode ler na linha.",
+   "Eine Studie von 1990 an 100 Autopsiefällen berichtete einen Zusammenhang, die von 2019 (60 Leichname) fand jedoch keine signifikante Korrelation. Die Lebensdauer lässt sich nicht aus der Linie lesen.",
+   "Egy 1990-es, 100 boncolásra kiterjedő vizsgálat összefüggést jelentett, de a 2019-es (60 holttest) nem talált szignifikáns korrelációt. Az élettartam nem olvasható ki a vonalból."
+  ]
+ },
+ {
+  "id": "q34",
+  "cat": "sci",
+  "q": [
+   "Cum au evaluat studenții, în experimentul lui Forer, profilul „personal” identic primit de toți?",
+   "In Forer’s experiment, how did students rate the identical “personal” profile each of them received?",
+   "Dans l’expérience de Forer, comment les étudiants ont-ils jugé le profil « personnel » identique reçu par tous ?",
+   "Nell’esperimento di Forer, come hanno valutato gli studenti il profilo «personale» identico ricevuto da tutti?",
+   "En el experimento de Forer, ¿cómo valoraron los estudiantes el perfil «personal» idéntico que recibieron todos?",
+   "No experimento de Forer, como avaliaram os estudantes o perfil «pessoal» idêntico que todos receberam?",
+   "Wie bewerteten die Studierenden in Forers Experiment das identische „persönliche“ Profil, das alle erhielten?",
+   "Forer kísérletében hogyan értékelték a diákok a mindannyiuk által kapott, azonos „személyes” profilt?"
+  ],
+  "o": [
+   [
+    "Inexact, în medie sub 2 din 5",
+    "As inaccurate, below 2 out of 5 on average",
+    "Inexact, moins de 2 sur 5 en moyenne",
+    "Inesatto, in media sotto 2 su 5",
+    "Inexacto, menos de 2 sobre 5 de media",
+    "Inexato, abaixo de 2 em 5 em média",
+    "Als unzutreffend, im Mittel unter 2 von 5",
+    "Pontatlannak, átlagosan 2 alatt az 5-ből"
+   ],
+   [
+    "Foarte exact, în medie 4,26 din 5",
+    "As highly accurate, 4.26 out of 5 on average",
+    "Très exact, 4,26 sur 5 en moyenne",
+    "Molto accurato, in media 4,26 su 5",
+    "Muy preciso, 4,26 sobre 5 de media",
+    "Muito exato, 4,26 em 5 em média",
+    "Als sehr treffend, im Mittel 4,26 von 5",
+    "Nagyon pontosnak, átlagosan 4,26-ot az 5-ből"
+   ],
+   [
+    "Jumătate l-au găsit exact, jumătate nu",
+    "Half found it accurate, half did not",
+    "La moitié l’ont trouvé exact, l’autre moitié non",
+    "Metà lo ha trovato accurato, metà no",
+    "La mitad lo halló preciso, la otra mitad no",
+    "Metade achou-o exato, metade não",
+    "Die Hälfte fand es treffend, die Hälfte nicht",
+    "Fele pontosnak találta, fele nem"
+   ],
+   [
+    "Au recunoscut imediat că e un text generic",
+    "They immediately recognized it as generic",
+    "Ils l’ont tout de suite reconnu comme générique",
+    "Lo hanno riconosciuto subito come generico",
+    "Lo reconocieron enseguida como genérico",
+    "Reconheceram-no logo como genérico",
+    "Sie erkannten es sofort als allgemein",
+    "Azonnal felismerték, hogy általános szöveg"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "În 1948, Forer a dat 39 de studenți același profil „personal”, luat dintr-o carte de astrologie. L-au apreciat cu 4,26 din 5: efectul Forer (Barnum) este bine documentat.",
+   "In 1948 Forer gave 39 students the same “personal” profile, taken from an astrology book. They rated it 4.26 out of 5: the Forer (Barnum) effect is well documented.",
+   "En 1948, Forer a remis à 39 étudiants le même profil « personnel », tiré d’un livre d’astrologie. Ils l’ont noté 4,26 sur 5 : l’effet Forer (Barnum) est bien documenté.",
+   "Nel 1948 Forer diede a 39 studenti lo stesso profilo «personale», tratto da un libro di astrologia. Lo valutarono 4,26 su 5: l’effetto Forer (Barnum) è ben documentato.",
+   "En 1948 Forer dio a 39 estudiantes el mismo perfil «personal», tomado de un libro de astrología. Lo valoraron con 4,26 sobre 5: el efecto Forer (Barnum) está bien documentado.",
+   "Em 1948 Forer deu a 39 estudantes o mesmo perfil «pessoal», tirado de um livro de astrologia. Avaliaram-no com 4,26 em 5: o efeito Forer (Barnum) está bem documentado.",
+   "1948 gab Forer 39 Studierenden dasselbe „persönliche“ Profil aus einem Astrologiebuch. Sie bewerteten es mit 4,26 von 5: Der Forer-(Barnum-)Effekt ist gut belegt.",
+   "1948-ban Forer 39 diáknak adott ugyanazt a „személyes” profilt, egy asztrológiai könyvből. 5-ből 4,26-ra értékelték: a Forer- (Barnum-)hatás jól dokumentált."
+  ]
+ },
+ {
+  "id": "q35",
+  "cat": "sci",
+  "q": [
+   "Care dintre afirmații este un exemplu tipic de enunț Barnum?",
+   "Which of these is a typical Barnum statement?",
+   "Laquelle de ces phrases est un énoncé Barnum typique ?",
+   "Quale di queste frasi è un tipico enunciato Barnum?",
+   "¿Cuál de estas frases es un enunciado Barnum típico?",
+   "Qual destas frases é um enunciado Barnum típico?",
+   "Welche dieser Aussagen ist eine typische Barnum-Aussage?",
+   "Melyik ezek közül tipikus Barnum-állítás?"
+  ],
+  "o": [
+   [
+    "Pe 3 mai vei întâlni un străin înalt.",
+    "On 3 May you will meet a tall stranger.",
+    "Le 3 mai, tu rencontreras un grand inconnu.",
+    "Il 3 maggio incontrerai un alto sconosciuto.",
+    "El 3 de mayo conocerás a un desconocido alto.",
+    "A 3 de maio conhecerás um estranho alto.",
+    "Am 3. Mai triffst du einen großen Fremden.",
+    "Május 3-án találkozol egy magas idegennel."
+   ],
+   [
+    "Degetul tău inelar are exact 71 mm.",
+    "Your ring finger is exactly 71 mm long.",
+    "Ton annulaire mesure exactement 71 mm.",
+    "Il tuo anulare misura esattamente 71 mm.",
+    "Tu dedo anular mide exactamente 71 mm.",
+    "O teu dedo anelar mede exatamente 71 mm.",
+    "Dein Ringfinger ist genau 71 mm lang.",
+    "A gyűrűsujjad pontosan 71 mm hosszú."
+   ],
+   [
+    "Uneori ești sociabil, alteori retras.",
+    "At times you are outgoing; at other times you are reserved.",
+    "Parfois tu es sociable, parfois réservé.",
+    "A volte sei socievole, altre volte riservato.",
+    "A veces eres sociable; otras, reservado.",
+    "Por vezes és sociável, outras vezes reservado.",
+    "Manchmal bist du gesellig, manchmal zurückhaltend.",
+    "Néha társaságkedvelő vagy, néha visszahúzódó."
+   ],
+   [
+    "Amprenta inelarului tău este un vârtej.",
+    "Your ring-finger print is a whorl.",
+    "L’empreinte de ton annulaire est un tourbillon.",
+    "L’impronta del tuo anulare è un verticillo.",
+    "La huella de tu anular es un verticilo.",
+    "A impressão do teu anelar é um verticilo.",
+    "Der Abdruck deines Ringfingers ist ein Wirbel.",
+    "A gyűrűsujjad lenyomata örvény."
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Enunțurile Barnum sunt atât de generale și echilibrate („uneori sociabil, alteori retras”) încât se potrivesc aproape oricui. Oamenii le acceptă mai ușor când le cred personalizate.",
+   "Barnum statements are so general and balanced (“sometimes sociable, sometimes withdrawn”) that they fit almost anyone. People accept them more readily when they believe them personalized.",
+   "Les énoncés Barnum sont si généraux et équilibrés (« parfois sociable, parfois réservé ») qu’ils conviennent à presque tout le monde. On les accepte plus volontiers quand on les croit personnalisés.",
+   "Gli enunciati Barnum sono così generali ed equilibrati («a volte socievole, a volte riservato») da adattarsi a quasi tutti. Si accettano più volentieri quando li si crede personalizzati.",
+   "Los enunciados Barnum son tan generales y equilibrados («a veces sociable, a veces reservado») que encajan con casi cualquiera. Se aceptan mejor cuando se creen personalizados.",
+   "Os enunciados Barnum são tão gerais e equilibrados («por vezes sociável, por vezes reservado») que servem a quase todos. Aceitam-se melhor quando se julgam personalizados.",
+   "Barnum-Aussagen sind so allgemein und ausgewogen („mal gesellig, mal zurückhaltend“), dass sie auf fast jeden passen. Man akzeptiert sie eher, wenn man sie für persönlich hält.",
+   "A Barnum-állítások olyan általánosak és kiegyensúlyozottak („néha társaságkedvelő, néha visszahúzódó”), hogy szinte bárkire illenek. Könnyebben elfogadjuk őket, ha személyre szabottnak hisszük."
+  ]
+ },
+ {
+  "id": "q36",
+  "cat": "sci",
+  "q": [
+   "Pe ce se sprijină tehnicile de „cold reading”?",
+   "What do “cold reading” techniques rely on?",
+   "Sur quoi reposent les techniques de « cold reading » ?",
+   "Su che cosa si basano le tecniche di «cold reading»?",
+   "¿En qué se apoyan las técnicas de «cold reading»?",
+   "Em que se apoiam as técnicas de «cold reading»?",
+   "Worauf beruhen „Cold-Reading“-Techniken?",
+   "Min alapulnak a „cold reading” technikák?"
+  ],
+  "o": [
+   [
+    "Pe detalii ascunse în liniile palmei",
+    "On details hidden in the palm lines",
+    "Sur des détails cachés dans les lignes de la paume",
+    "Su dettagli nascosti nelle linee del palmo",
+    "En detalles ocultos en las líneas de la palma",
+    "Em detalhes escondidos nas linhas da palma",
+    "Auf verborgenen Details in den Handlinien",
+    "A tenyér vonalaiban rejlő rejtett részleteken"
+   ],
+   [
+    "Pe un test genetic rapid",
+    "On a quick genetic test",
+    "Sur un test génétique rapide",
+    "Su un rapido test genetico",
+    "En una prueba genética rápida",
+    "Num teste genético rápido",
+    "Auf einem Gentest",
+    "Egy gyors genetikai teszten"
+   ],
+   [
+    "Pe măsurători precise ale degetelor",
+    "On precise finger measurements",
+    "Sur des mesures précises des doigts",
+    "Su misure precise delle dita",
+    "En mediciones precisas de los dedos",
+    "Em medições precisas dos dedos",
+    "Auf genauen Fingermessungen",
+    "Pontos ujjmérésekre"
+   ],
+   [
+    "Pe reacțiile și indiciile propriei persoane",
+    "On the client’s own reactions and cues",
+    "Sur les réactions et les indices du client lui-même",
+    "Sulle reazioni e sugli indizi del cliente stesso",
+    "En las reacciones y señales del propio cliente",
+    "Nas reações e nas pistas do próprio cliente",
+    "Auf den Reaktionen und Hinweisen des Gegenübers selbst",
+    "Az ügyfél saját reakcióira és jelzéseire"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "Cold reading e un set de tehnici prin care cineva pare să descrie corect un străin, folosind reacțiile acestuia: enunțuri vagi, tatonare, citirea aspectului, reinterpretarea greșelilor.",
+   "Cold reading is a set of techniques by which someone seems to describe a stranger accurately, using that person’s reactions: vague statements, fishing, reading appearance, reframing misses.",
+   "Le cold reading est un ensemble de techniques par lesquelles on semble décrire juste un inconnu en exploitant ses réactions : énoncés vagues, sondage, lecture de l’apparence, réinterprétation des erreurs.",
+   "Il cold reading è un insieme di tecniche con cui si sembra descrivere con precisione uno sconosciuto sfruttandone le reazioni: enunciati vaghi, tentativi, lettura dell’aspetto, reinterpretazione degli errori.",
+   "El cold reading es un conjunto de técnicas con las que se parece describir con acierto a un desconocido aprovechando sus reacciones: enunciados vagos, tanteo, lectura del aspecto, reinterpretación de los fallos.",
+   "O cold reading é um conjunto de técnicas com que se parece descrever com acerto um desconhecido, aproveitando as suas reações: enunciados vagos, sondagem, leitura do aspeto, reinterpretação dos erros.",
+   "Cold Reading ist ein Bündel von Techniken, mit denen man einen Fremden scheinbar treffend beschreibt, indem man seine Reaktionen nutzt: vage Aussagen, Fischen, Erscheinungsbild lesen, Fehler umdeuten.",
+   "A cold reading olyan technikák együttese, amelyekkel valaki látszólag pontosan jellemez egy idegent, a reakcióit felhasználva: homályos állítások, puhatolózás, a külső leolvasása, a tévedések újraértelmezése."
+  ]
+ },
+ {
+  "id": "q37",
+  "cat": "sci",
+  "q": [
+   "Ce reprezintă raportul 2D:4D?",
+   "What does the 2D:4D ratio represent?",
+   "Que représente le rapport 2D:4D ?",
+   "Che cosa rappresenta il rapporto 2D:4D?",
+   "¿Qué representa la razón 2D:4D?",
+   "O que representa a razão 2D:4D?",
+   "Was gibt das 2D:4D-Verhältnis an?",
+   "Mit jelent a 2D:4D arány?"
+  ],
+  "o": [
+   [
+    "Lățimea palmei împărțită la lungimea ei",
+    "Palm width divided by palm length",
+    "La largeur de la paume divisée par sa longueur",
+    "La larghezza del palmo divisa per la sua lunghezza",
+    "El ancho de la palma dividido por su largo",
+    "A largura da palma dividida pelo seu comprimento",
+    "Handbreite geteilt durch Handlänge",
+    "A tenyér szélessége osztva a hosszával"
+   ],
+   [
+    "Lungimea arătătorului (2D) împărțită la lungimea inelarului (4D)",
+    "Index finger (2D) length divided by ring finger (4D) length",
+    "La longueur de l’index (2D) divisée par celle de l’annulaire (4D)",
+    "La lunghezza dell’indice (2D) divisa per quella dell’anulare (4D)",
+    "La longitud del índice (2D) dividida por la del anular (4D)",
+    "O comprimento do indicador (2D) dividido pelo do anelar (4D)",
+    "Länge des Zeigefingers (2D) geteilt durch die des Ringfingers (4D)",
+    "A mutatóujj (2D) hossza osztva a gyűrűsujj (4D) hosszával"
+   ],
+   [
+    "Lungimea degetului mare împărțită la a arătătorului",
+    "Thumb length divided by index finger length",
+    "La longueur du pouce divisée par celle de l’index",
+    "La lunghezza del pollice divisa per quella dell’indice",
+    "La longitud del pulgar dividida por la del índice",
+    "O comprimento do polegar dividido pelo do indicador",
+    "Daumenlänge geteilt durch Zeigefingerlänge",
+    "A hüvelykujj hossza osztva a mutatóujjéval"
+   ],
+   [
+    "Lungimea degetului mijlociu împărțită la a celui mic",
+    "Middle finger length divided by little finger length",
+    "La longueur du majeur divisée par celle de l’auriculaire",
+    "La lunghezza del medio divisa per quella del mignolo",
+    "La longitud del medio dividida por la del meñique",
+    "O comprimento do médio dividido pelo do mindinho",
+    "Mittelfingerlänge geteilt durch Kleinfingerlänge",
+    "A középső ujj hossza osztva a kisujjéval"
+   ]
+  ],
+  "a": 1,
+  "e": [
+   "2D:4D este raportul dintre lungimea arătătorului și a inelarului. Legătura cu hormonii prenatali este contestată și nu spune nimic fiabil despre o persoană.",
+   "2D:4D is the ratio of index finger length to ring finger length. Its link with prenatal hormones is contested and says nothing reliable about an individual.",
+   "Le 2D:4D est le rapport entre la longueur de l’index et celle de l’annulaire. Son lien avec les hormones prénatales est contesté et ne dit rien de fiable sur un individu.",
+   "Il 2D:4D è il rapporto tra la lunghezza dell’indice e quella dell’anulare. Il legame con gli ormoni prenatali è contestato e non dice nulla di affidabile su un individuo.",
+   "El 2D:4D es la razón entre la longitud del índice y la del anular. Su vínculo con las hormonas prenatales es discutido y no dice nada fiable de un individuo.",
+   "O 2D:4D é a razão entre o comprimento do indicador e o do anelar. A ligação às hormonas pré-natais é contestada e nada diz de fiável sobre um indivíduo.",
+   "2D:4D ist das Verhältnis von Zeigefinger- zu Ringfingerlänge. Der Zusammenhang mit pränatalen Hormonen ist umstritten und sagt über eine Einzelperson nichts Verlässliches aus.",
+   "A 2D:4D a mutatóujj és a gyűrűsujj hosszának hányadosa. A születés előtti hormonokkal való kapcsolata vitatott, és egyes emberről semmi megbízhatót nem mond."
+  ]
+ },
+ {
+  "id": "q38",
+  "cat": "sci",
+  "q": [
+   "O eroare de măsurare de ±1 mm poate deplasa raportul 2D:4D cu aproximativ:",
+   "A measurement error of ±1 mm can shift the 2D:4D ratio by about:",
+   "Une erreur de mesure de ±1 mm peut décaler le rapport 2D:4D d’environ :",
+   "Un errore di misura di ±1 mm può spostare il rapporto 2D:4D di circa:",
+   "Un error de medición de ±1 mm puede desplazar la razón 2D:4D en unos:",
+   "Um erro de medição de ±1 mm pode deslocar a razão 2D:4D em cerca de:",
+   "Ein Messfehler von ±1 mm kann das 2D:4D-Verhältnis um etwa verschieben:",
+   "Egy ±1 mm-es mérési hiba a 2D:4D arányt nagyjából ennyivel mozdíthatja el:"
+  ],
+  "o": [
+   [
+    "0,10",
+    "0.10",
+    "0,10",
+    "0,10",
+    "0,10",
+    "0,10",
+    "0,10",
+    "0,10"
+   ],
+   [
+    "0,30",
+    "0.30",
+    "0,30",
+    "0,30",
+    "0,30",
+    "0,30",
+    "0,30",
+    "0,30"
+   ],
+   [
+    "0,01",
+    "0.01",
+    "0,01",
+    "0,01",
+    "0,01",
+    "0,01",
+    "0,01",
+    "0,01"
+   ],
+   [
+    "1,00",
+    "1.00",
+    "1,00",
+    "1,00",
+    "1,00",
+    "1,00",
+    "1,00",
+    "1,00"
+   ]
+  ],
+  "a": 2,
+  "e": [
+   "Un decalaj de ±1 mm poate schimba raportul cu circa 0,01, cât diferența medie dintre sexe.",
+   "A ±1 mm difference can shift the ratio by about 0.01, as much as the average difference between the sexes.",
+   "Un écart de ±1 mm peut décaler le rapport d’environ 0,01, soit autant que la différence moyenne entre les sexes.",
+   "Uno scarto di ±1 mm può spostare il rapporto di circa 0,01, quanto la differenza media tra i sessi.",
+   "Una diferencia de ±1 mm puede desplazar la razón en torno a 0,01, tanto como la diferencia media entre sexos.",
+   "Uma diferença de ±1 mm pode deslocar a razão cerca de 0,01, tanto quanto a diferença média entre os sexos.",
+   "Eine Abweichung von ±1 mm kann das Verhältnis um etwa 0,01 verschieben, so viel wie der mittlere Unterschied zwischen den Geschlechtern.",
+   "Az ±1 mm-es eltérés kb. 0,01-del mozdítja el az arányt, ami akkora, mint a nemek közti átlagos különbség."
+  ]
+ },
+ {
+  "id": "q39",
+  "cat": "sci",
+  "q": [
+   "Cum se măsoară forța de strângere a mâinii în studii precum PURE?",
+   "How is hand grip strength measured in studies such as PURE?",
+   "Comment la force de préhension est-elle mesurée dans des études comme PURE ?",
+   "Come si misura la forza di presa della mano in studi come PURE?",
+   "¿Cómo se mide la fuerza de prensión de la mano en estudios como PURE?",
+   "Como se mede a força de preensão da mão em estudos como o PURE?",
+   "Wie wird die Handgriffkraft in Studien wie PURE gemessen?",
+   "Hogyan mérik a kéz markolóerejét az olyan vizsgálatokban, mint a PURE?"
+  ],
+  "o": [
+   [
+    "Din lungimea liniei vieții",
+    "From life-line length",
+    "À partir de la longueur de la ligne de vie",
+    "Dalla lunghezza della linea della vita",
+    "A partir de la longitud de la línea de la vida",
+    "A partir do comprimento da linha da vida",
+    "Aus der Länge der Lebenslinie",
+    "Az életvonal hosszából"
+   ],
+   [
+    "Din forma vârfurilor degetelor",
+    "From the shape of the fingertips",
+    "À partir de la forme des bouts des doigts",
+    "Dalla forma delle punte delle dita",
+    "A partir de la forma de las yemas",
+    "A partir da forma das pontas dos dedos",
+    "Aus der Form der Fingerkuppen",
+    "Az ujjbegyek alakjából"
+   ],
+   [
+    "Din tiparul amprentelor",
+    "From the fingerprint pattern",
+    "À partir du motif des empreintes",
+    "Dal disegno delle impronte",
+    "A partir del patrón de las huellas",
+    "A partir do padrão das impressões digitais",
+    "Aus dem Fingerabdruckmuster",
+    "Az ujjlenyomat mintázatából"
+   ],
+   [
+    "Cu un dinamometru, nu din liniile palmei",
+    "With a dynamometer, not from palm lines",
+    "Avec un dynamomètre, non à partir des lignes de la paume",
+    "Con un dinamometro, non dalle linee del palmo",
+    "Con un dinamómetro, no a partir de las líneas de la palma",
+    "Com um dinamómetro, não a partir das linhas da palma",
+    "Mit einem Dynamometer, nicht aus den Handlinien",
+    "Dinamométerrel, nem a tenyérvonalakból"
+   ]
+  ],
+  "a": 3,
+  "e": [
+   "În studiul PURE (139 691 de adulți, 17 țări), fiecare 5 kg în minus la strângere s-a asociat cu un risc de deces din orice cauză mai mare cu 16% (asociere, nu cauzalitate). Forța se măsoară cu dinamometrul, nu se citește din linii.",
+   "In the PURE study (139,691 adults, 17 countries), each 5 kg lower grip strength was associated with a 16% higher risk of death from any cause (an association, not causation). Strength is measured with a dynamometer, not read from lines.",
+   "Dans l’étude PURE (139 691 adultes, 17 pays), chaque baisse de 5 kg de la force de préhension était associée à un risque de décès toutes causes confondues supérieur de 16 % (une association, non une causalité). La force se mesure au dynamomètre, non aux lignes.",
+   "Nello studio PURE (139.691 adulti, 17 paesi), ogni 5 kg in meno di forza di presa era associato a un rischio di morte per qualsiasi causa più alto del 16% (un’associazione, non una causalità). La forza si misura con il dinamometro, non dalle linee.",
+   "En el estudio PURE (139.691 adultos, 17 países), cada 5 kg menos de fuerza de prensión se asoció con un riesgo de muerte por cualquier causa un 16 % mayor (una asociación, no una causalidad). La fuerza se mide con dinamómetro, no se lee en las líneas.",
+   "No estudo PURE (139.691 adultos, 17 países), cada 5 kg a menos de força de preensão associou-se a um risco de morte por qualquer causa 16% superior (uma associação, não uma causalidade). A força mede-se com dinamómetro, não se lê nas linhas.",
+   "In der PURE-Studie (139.691 Erwachsene, 17 Länder) war jede um 5 kg geringere Griffkraft mit einem um 16 % höheren Sterberisiko aus jeder Ursache verbunden (ein Zusammenhang, keine Kausalität). Kraft misst man mit einem Dynamometer, man liest sie nicht aus Linien.",
+   "A PURE-vizsgálatban (139 691 felnőtt, 17 ország) minden 5 kg-mal gyengébb markolóerő bármely okból bekövetkező halálozás 16%-kal magasabb kockázatával járt együtt (összefüggés, nem ok-okozati kapcsolat). Az erőt dinamométerrel mérik, nem vonalakból olvassák."
+  ]
+ },
+ {
+  "id": "q40",
+  "cat": "sci",
+  "q": [
+   "Ce se poate spune despre validarea științifică a citirii personalității din liniile palmei?",
+   "What can be said about the scientific validation of reading personality from palm lines?",
+   "Que peut-on dire de la validation scientifique de la lecture de la personnalité dans les lignes de la paume ?",
+   "Che cosa si può dire sulla validazione scientifica della lettura della personalità dalle linee del palmo?",
+   "¿Qué se puede decir de la validación científica de leer la personalidad en las líneas de la palma?",
+   "O que se pode dizer da validação científica da leitura da personalidade nas linhas da palma?",
+   "Was lässt sich über die wissenschaftliche Bestätigung sagen, Persönlichkeit aus Handlinien zu lesen?",
+   "Mit mondhatunk a személyiség tenyérvonalakból való olvasásának tudományos igazolásáról?"
+  ],
+  "o": [
+   [
+    "Nu s-a găsit niciun studiu validat care să arate că liniile prezic personalitatea",
+    "No validated study has been found showing that palm lines predict personality",
+    "Aucune étude validée montrant que les lignes prédisent la personnalité n’a été trouvée",
+    "Non è stato trovato alcuno studio validato che mostri che le linee predicano la personalità",
+    "No se ha encontrado ningún estudio validado que muestre que las líneas predicen la personalidad",
+    "Não se encontrou nenhum estudo validado que mostre que as linhas preveem a personalidade",
+    "Es wurde keine validierte Studie gefunden, die zeigt, dass Handlinien Persönlichkeit vorhersagen",
+    "Nem találtak olyan igazolt vizsgálatot, amely szerint a vonalak megjósolják a személyiséget"
+   ],
+   [
+    "Studii mari controlate au confirmat-o",
+    "Large controlled trials have confirmed it",
+    "De grands essais contrôlés l’ont confirmée",
+    "Grandi studi controllati l’hanno confermata",
+    "Grandes ensayos controlados la han confirmado",
+    "Grandes ensaios controlados confirmaram-na",
+    "Große kontrollierte Studien haben sie bestätigt",
+    "Nagy kontrollált vizsgálatok igazolták"
+   ],
+   [
+    "Testele ADN au confirmat-o",
+    "DNA tests have confirmed it",
+    "Des tests ADN l’ont confirmée",
+    "I test del DNA l’hanno confermata",
+    "Las pruebas de ADN la han confirmado",
+    "Os testes de ADN confirmaram-na",
+    "DNA-Tests haben sie bestätigt",
+    "DNS-tesztek igazolták"
+   ],
+   [
+    "Medicina o folosește pentru diagnostic de rutină",
+    "Medicine uses it for routine diagnosis",
+    "La médecine l’utilise pour le diagnostic courant",
+    "La medicina la usa per la diagnosi di routine",
+    "La medicina la usa para el diagnóstico rutinario",
+    "A medicina usa-a para o diagnóstico de rotina",
+    "Die Medizin nutzt sie zur Routinediagnostik",
+    "Az orvostudomány rutin diagnosztikára használja"
+   ]
+  ],
+  "a": 0,
+  "e": [
+   "Tradiția oferă interpretări, dar nu am găsit nicio validare prin teste controlate: citirea personalității din linii rămâne nedemonstrată științific. Folosește-o ca joc de reflecție, nu ca fapt.",
+   "Tradition offers interpretations, but no validation by controlled tests was found: reading personality from lines remains scientifically unproven. Use it as a reflective pastime, not as fact.",
+   "La tradition propose des interprétations, mais aucune validation par des tests contrôlés n’a été trouvée : lire la personnalité dans les lignes reste scientifiquement non démontré. Utilisez-le comme jeu de réflexion, non comme un fait.",
+   "La tradizione offre interpretazioni, ma non è stata trovata alcuna validazione con test controllati: leggere la personalità dalle linee resta scientificamente non dimostrato. Usalo come gioco di riflessione, non come fatto.",
+   "La tradición ofrece interpretaciones, pero no se halló validación con pruebas controladas: leer la personalidad en las líneas sigue sin demostrarse científicamente. Úsalo como pasatiempo reflexivo, no como un hecho.",
+   "A tradição oferece interpretações, mas não se encontrou validação por testes controlados: ler a personalidade nas linhas continua por demonstrar cientificamente. Use-o como passatempo reflexivo, não como facto.",
+   "Die Tradition bietet Deutungen, doch eine Bestätigung durch kontrollierte Tests wurde nicht gefunden: Persönlichkeit aus Linien zu lesen bleibt wissenschaftlich unbewiesen. Nutze es als Denkanregung, nicht als Tatsache.",
+   "A hagyomány értelmezéseket kínál, de kontrollált tesztekkel való igazolást nem találtak: a személyiség vonalakból olvasása tudományosan bizonyítatlan marad. Használjuk elgondolkodtató játéknak, ne tényként."
+  ]
+ }
+]

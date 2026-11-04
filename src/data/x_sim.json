@@ -1,0 +1,1109 @@
+[
+ {
+  "id": "s1",
+  "n": [
+   "Cineva grăbit, cu verighetă",
+   "Someone in a hurry, wearing a wedding ring",
+   "Quelqu'un de pressé, avec une alliance",
+   "Una persona di fretta, con la fede",
+   "Alguien con prisa, con alianza",
+   "Alguém com pressa, com aliança",
+   "Jemand in Eile, mit Ehering",
+   "Valaki, aki siet, jegygyűrűvel"
+  ],
+  "ctx": [
+   "Se uită des la ceas și ține telefonul în mână. Poartă o verighetă și o geantă de lucru.",
+   "Glances often at a watch and holds a phone. Wears a wedding ring and carries a work bag.",
+   "Regarde souvent sa montre et tient son téléphone. Porte une alliance et un sac de travail.",
+   "Guarda spesso l'orologio e tiene il telefono in mano. Porta la fede e una borsa da lavoro.",
+   "Mira a menudo el reloj y sostiene el teléfono. Lleva alianza y un bolso de trabajo.",
+   "Olha muitas vezes para o relógio e segura o telemóvel. Usa aliança e traz uma mala de trabalho.",
+   "Schaut oft auf die Uhr und hält das Handy in der Hand. Trägt einen Ehering und eine Arbeitstasche.",
+   "Gyakran az órájára néz, és a telefonját fogja. Jegygyűrűt visel, munkatáska van nála."
+  ],
+  "turns": [
+   {
+    "ctx": [
+     "Clientul se așază repede și își întinde mâna, privind ceasul. Cum începi lectura?",
+     "The client sits down quickly, offers a hand and checks the time. How do you open the reading?",
+     "Le client s'assoit vite, tend la main et regarde l'heure. Comment ouvrez-vous la lecture ?",
+     "Il cliente si siede in fretta, porge la mano e guarda l'ora. Come apri la lettura?",
+     "El cliente se sienta rápido, tiende la mano y mira la hora. ¿Cómo abres la lectura?",
+     "O cliente senta-se depressa, estende a mão e olha as horas. Como abre a leitura?",
+     "Die Person setzt sich schnell, reicht die Hand und prüft die Uhrzeit. Wie eröffnest du die Lesung?",
+     "Az ügyfél gyorsan leül, odanyújtja a kezét, és az időt nézi. Hogyan kezded az olvasást?"
+    ],
+    "opts": [
+     {
+      "t": [
+       "Văd că ai puțin timp azi; pare o zi încărcată, cu multe de rezolvat.",
+       "I see you are short on time today; it looks like a full day with a lot to handle.",
+       "Je vois que vous manquez de temps aujourd'hui ; ça ressemble à une journée chargée.",
+       "Vedo che oggi hai poco tempo; sembra una giornata piena di cose da sbrigare.",
+       "Veo que hoy vas justo de tiempo; parece un día cargado de cosas por resolver.",
+       "Vejo que hoje tens pouco tempo; parece um dia cheio de coisas para resolver.",
+       "Ich sehe, du hast heute wenig Zeit; es wirkt wie ein voller Tag mit viel zu erledigen.",
+       "Látom, ma kevés az időd; úgy tűnik, zsúfolt napod van sok elintéznivalóval."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Da, exact, abia am prins o pauză între două treburi.",
+       "Yes, exactly, I only caught a break between two errands.",
+       "Oui, exactement, je n'ai trouvé qu'une pause entre deux obligations.",
+       "Sì, esatto, ho trovato solo una pausa tra due commissioni.",
+       "Sí, exacto, solo encontré un hueco entre dos recados.",
+       "Sim, exatamente, só arranjei uma pausa entre duas tarefas.",
+       "Ja, genau, ich habe nur eine Lücke zwischen zwei Terminen erwischt.",
+       "Igen, pontosan, csak két dolog között jutott egy szünet."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Ai o fire care uneori decide repede, alteori mai cântărește lucrurile.",
+       "You are someone who sometimes decides quickly and sometimes weighs things up.",
+       "Vous décidez parfois vite, et parfois vous pesez longuement les choses.",
+       "A volte decidi in fretta, altre volte ci rifletti a lungo.",
+       "A veces decides rápido y otras veces lo piensas despacio.",
+       "Por vezes decide depressa, outras vezes pondera bem as coisas.",
+       "Manchmal entscheidest du schnell, manchmal wägst du die Dinge ab.",
+       "Néha gyorsan döntesz, máskor alaposan mérlegelsz."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Păi, aproape toată lumea e așa. Nu e prea specific.",
+       "Well, almost everyone is like that. That is not very specific.",
+       "Eh bien, presque tout le monde est comme ça. Ce n'est pas très précis.",
+       "Beh, quasi tutti sono così. Non è molto specifico.",
+       "Bueno, casi todo el mundo es así. No es muy concreto.",
+       "Bem, quase toda a gente é assim. Não é muito específico.",
+       "Na ja, fast alle sind so. Das ist nicht sehr konkret.",
+       "Hát, szinte mindenki ilyen. Ez nem túl konkrét."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Văd ceva despre muncă, familie, bani sau timp liber. Care dintre ele ți se pare cunoscută?",
+       "I see something about work, family, money or free time. Which of those sounds familiar?",
+       "Je vois quelque chose autour du travail, de la famille, de l'argent ou du temps libre. Lequel vous parle ?",
+       "Vedo qualcosa su lavoro, famiglia, denaro o tempo libero. Quale ti suona familiare?",
+       "Veo algo sobre trabajo, familia, dinero o tiempo libre. ¿Cuál te suena?",
+       "Vejo algo sobre trabalho, família, dinheiro ou tempo livre. Qual deles lhe soa familiar?",
+       "Ich sehe etwas zu Arbeit, Familie, Geld oder Freizeit. Welches kommt dir bekannt vor?",
+       "Látok valamit a munkáról, a családról, a pénzről vagy a szabadidőről. Melyik ismerős?"
+      ],
+      "tech": "shotgun",
+      "r": [
+       "Familia, da. Mai ales timpul pe care îl am pentru ea.",
+       "Family, yes. Especially the time I have for it.",
+       "La famille, oui. Surtout le temps que je lui consacre.",
+       "La famiglia, sì. Soprattutto il tempo che le dedico.",
+       "La familia, sí. Sobre todo el tiempo que le dedico.",
+       "A família, sim. Sobretudo o tempo que lhe dedico.",
+       "Familie, ja. Vor allem die Zeit, die ich dafür habe.",
+       "A család, igen. Főleg az idő, amit rá tudok szánni."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Lectura a început. Clientul răspunde scurt și mai verifică din când în când ceasul.",
+     "The reading has begun. The client answers briefly and still checks the time now and then.",
+     "La lecture a commencé. Le client répond brièvement et vérifie encore l'heure de temps en temps.",
+     "La lettura è iniziata. Il cliente risponde in breve e ogni tanto guarda ancora l'ora.",
+     "La lectura ha empezado. El cliente responde brevemente y de vez en cuando mira la hora.",
+     "A leitura começou. O cliente responde de forma breve e ainda olha as horas de vez em quando.",
+     "Die Lesung hat begonnen. Die Person antwortet knapp und schaut hin und wieder auf die Uhr.",
+     "Az olvasás elkezdődött. Az ügyfél röviden válaszol, és időnként még az órájára néz."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Simt că ceva anume îți ocupă gândurile în ultima vreme. Mă ajuți să văd ce este?",
+       "I sense something in particular has been on your mind lately. Can you help me see what it is?",
+       "Je sens que quelque chose occupe vos pensées ces derniers temps. Aidez-moi à voir ce que c'est.",
+       "Sento che qualcosa ti occupa i pensieri ultimamente. Mi aiuti a capire cosa?",
+       "Siento que algo concreto te ocupa la cabeza últimamente. ¿Me ayudas a ver qué es?",
+       "Sinto que algo em particular lhe ocupa os pensamentos ultimamente. Ajuda-me a perceber o quê?",
+       "Ich spüre, dass dich in letzter Zeit etwas Bestimmtes beschäftigt. Hilfst du mir zu sehen, was?",
+       "Úgy érzem, mostanában valami konkrét foglalkoztat. Segítesz meglátni, mi az?"
+      ],
+      "tech": "fishing",
+      "r": [
+       "Ei, da, casa. Ne mutăm în câteva luni și sunt multe de organizat.",
+       "Well, yes, the house. We are moving in a few months and there is a lot to organize.",
+       "Eh oui, la maison. On déménage dans quelques mois et il y a beaucoup à organiser.",
+       "Eh sì, la casa. Traslochiamo tra pochi mesi e c'è molto da organizzare.",
+       "Pues sí, la casa. Nos mudamos en unos meses y hay mucho que organizar.",
+       "Pois é, a casa. Mudamo-nos dentro de uns meses e há muito para organizar.",
+       "Ja, das Haus. Wir ziehen in ein paar Monaten um, und es ist viel zu organisieren.",
+       "Hát igen, a ház. Pár hónap múlva költözünk, és sok mindent kell szervezni."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Verigheta ta spune că familia e totul pentru tine.",
+       "Your wedding ring says that family is everything to you.",
+       "Votre alliance dit que la famille est tout pour vous.",
+       "La tua fede dice che la famiglia è tutto per te.",
+       "Tu alianza dice que la familia lo es todo para ti.",
+       "A sua aliança diz que a família é tudo para si.",
+       "Dein Ehering sagt, dass die Familie dir alles bedeutet.",
+       "A jegygyűrűd azt mondja, hogy a család neked mindennél fontosabb."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Asta nu se vede dintr-o verighetă. Lucrurile sunt mai complicate.",
+       "You cannot tell that from a ring. Things are more complicated.",
+       "On ne peut pas savoir ça avec une alliance. C'est plus compliqué.",
+       "Non si capisce da una fede. Le cose sono più complicate.",
+       "Eso no se sabe por una alianza. Las cosas son más complicadas.",
+       "Isso não se percebe por uma aliança. As coisas são mais complicadas.",
+       "Das kann man einem Ring nicht ansehen. Es ist komplizierter.",
+       "Ezt nem lehet egy gyűrűből megállapítani. Ennél bonyolultabb a helyzet."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Ții la oamenii apropiați, dar uneori ai nevoie de liniște doar pentru tine.",
+       "You care about the people close to you, but sometimes you need quiet time just for yourself.",
+       "Vous tenez à vos proches, mais parfois vous avez besoin de calme rien que pour vous.",
+       "Tieni alle persone vicine, ma a volte hai bisogno di quiete solo per te.",
+       "Valoras a quienes te rodean, pero a veces necesitas calma solo para ti.",
+       "Dá valor às pessoas próximas, mas por vezes precisa de sossego só para si.",
+       "Dir liegen die Menschen um dich am Herzen, doch manchmal brauchst du Ruhe nur für dich.",
+       "Fontosak a közeli emberek, de néha szükséged van csendre, csak magadnak."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Da, după o zi lungă îmi trebuie puțină liniște. Mă regăsesc.",
+       "Yes, after a long day I need a little quiet. I recognize myself.",
+       "Oui, après une longue journée il me faut un peu de calme. Je me reconnais.",
+       "Sì, dopo una lunga giornata mi serve un po' di quiete. Mi riconosco.",
+       "Sí, tras un día largo necesito algo de calma. Me reconozco.",
+       "Sim, depois de um dia longo preciso de algum sossego. Reconheço-me.",
+       "Ja, nach einem langen Tag brauche ich etwas Ruhe. Ich erkenne mich wieder.",
+       "Igen, egy hosszú nap után kell egy kis csend. Magamra ismerek."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Clientul clatină din cap: ce ai spus adineauri nu se potrivește. Cum reacționezi?",
+     "The client shakes their head: what you just said does not fit. How do you react?",
+     "Le client secoue la tête : ce que vous venez de dire ne correspond pas. Comment réagissez-vous ?",
+     "Il cliente scuote la testa: ciò che hai appena detto non combacia. Come reagisci?",
+     "El cliente niega con la cabeza: lo que acabas de decir no encaja. ¿Cómo reaccionas?",
+     "O cliente abana a cabeça: o que acabou de dizer não condiz. Como reage?",
+     "Die Person schüttelt den Kopf: Was du eben gesagt hast, passt nicht. Wie reagierst du?",
+     "Az ügyfél megrázza a fejét: amit az imént mondtál, nem stimmel. Hogyan reagálsz?"
+    ],
+    "opts": [
+     {
+      "t": [
+       "Poate nu e ceva de acum; uneori e mai degrabă o dorință care încă n-a luat formă.",
+       "Maybe it is not about now; sometimes it is more a wish that has not taken shape yet.",
+       "Peut-être pas pour l'instant ; c'est parfois plutôt un souhait qui n'a pas encore pris forme.",
+       "Forse non riguarda l'adesso; a volte è più un desiderio che non ha ancora preso forma.",
+       "Quizá no sea algo de ahora; a veces es más un deseo que aún no ha tomado forma.",
+       "Talvez não seja algo de agora; por vezes é mais um desejo que ainda não tomou forma.",
+       "Vielleicht geht es nicht um jetzt; manchmal ist es eher ein Wunsch, der noch keine Form hat.",
+       "Talán nem a jelenről van szó; néha ez inkább egy még formát nem öltött vágy."
+      ],
+      "tech": "reframe",
+      "r": [
+       "Hm, de fapt mi-aș dori o schimbare, dar încă nu știu care.",
+       "Hm, actually I would like a change, but I do not know which yet.",
+       "Hm, en fait j'aimerais un changement, mais je ne sais pas encore lequel.",
+       "Mm, in effetti vorrei un cambiamento, ma non so ancora quale.",
+       "Mm, en realidad me gustaría un cambio, pero aún no sé cuál.",
+       "Hm, na verdade gostava de uma mudança, mas ainda não sei qual.",
+       "Hm, eigentlich wünsche ich mir eine Veränderung, weiß aber noch nicht welche.",
+       "Hm, tulajdonképpen szeretnék változást, de még nem tudom, mit."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Atunci poate familia, prietenii, locuința, un hobby, un animal de companie sau o ocupație nouă?",
+       "Then maybe family, friends, home, a hobby, a pet or a new occupation?",
+       "Alors peut-être la famille, les amis, le logement, un loisir, un animal ou une nouvelle activité ?",
+       "Allora forse famiglia, amici, casa, un hobby, un animale o una nuova occupazione?",
+       "¿Entonces quizá la familia, los amigos, la casa, una afición, una mascota o una ocupación nueva?",
+       "Então talvez a família, os amigos, a casa, um passatempo, um animal ou uma nova ocupação?",
+       "Dann vielleicht Familie, Freunde, Wohnung, ein Hobby, ein Haustier oder eine neue Tätigkeit?",
+       "Akkor talán a család, a barátok, a lakás, egy hobbi, egy háziállat vagy új elfoglaltság?"
+      ],
+      "tech": "shotgun",
+      "r": [
+       "Nu, nimic din toate. Poate ai citit altă mână.",
+       "No, none of those. Maybe you read someone else's hand.",
+       "Non, rien de tout ça. Vous lisez peut-être la main de quelqu'un d'autre.",
+       "No, niente di tutto questo. Forse stai leggendo la mano di un altro.",
+       "No, nada de eso. Quizá estás leyendo la mano de otra persona.",
+       "Não, nada disso. Talvez estejas a ler a mão de outra pessoa.",
+       "Nein, nichts davon. Vielleicht liest du die Hand eines anderen.",
+       "Nem, ezek közül semmi. Talán valaki más kezét olvasod."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Simt undeva o dorință discretă de schimbare. Mă ajuți să văd unde anume?",
+       "I sense a quiet wish for change somewhere. Can you help me see where?",
+       "Je sens quelque part un léger souhait de changement. Aide-moi à voir où.",
+       "Sento da qualche parte un lieve desiderio di cambiamento. Mi aiuti a vedere dove?",
+       "Siento en algún lugar un leve deseo de cambio. ¿Me ayudas a ver dónde?",
+       "Sinto nalgum sítio um ligeiro desejo de mudança. Ajudas-me a ver onde?",
+       "Ich spüre irgendwo einen leisen Wunsch nach Veränderung. Hilfst du mir zu sehen, wo?",
+       "Úgy érzem, valahol van egy halk vágy a változásra. Segítesz meglátni, hol?"
+      ],
+      "tech": "fishing",
+      "r": [
+       "Poate în ritmul zilelor mele. Sunt mereu pe fugă și mi-aș dori mai puțin.",
+       "Maybe in the pace of my days. I am always on the run and would like less of it.",
+       "Peut-être dans le rythme de mes journées. Je cours sans cesse et j'en voudrais moins.",
+       "Forse nel ritmo delle mie giornate. Sono sempre di corsa e ne vorrei meno.",
+       "Quizá en el ritmo de mis días. Siempre voy con prisa y querría menos.",
+       "Talvez no ritmo dos meus dias. Ando sempre a correr e queria menos disso.",
+       "Vielleicht im Tempo meiner Tage. Ich bin ständig unterwegs und wünschte mir weniger davon.",
+       "Talán a napjaim tempójában. Mindig rohanok, és szeretnék belőle kevesebbet."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Lectura se apropie de sfârșit. Clientul e mai relaxat și întreabă ce să rețină din toate.",
+     "The reading is nearly over. The client is a little more relaxed and asks what to take away.",
+     "La lecture touche à sa fin. Le client est un peu plus détendu et demande ce qu'il faut en retenir.",
+     "La lettura sta per finire. Il cliente è un po' più rilassato e chiede cosa portarsi via.",
+     "La lectura está por terminar. El cliente está algo más relajado y pregunta qué debe quedarse.",
+     "A leitura está quase a terminar. O cliente está mais descontraído e pergunta o que deve guardar.",
+     "Die Lesung geht zu Ende. Die Person wirkt entspannter und fragt, was sie mitnehmen soll.",
+     "Az olvasás a végéhez közeledik. Az ügyfél kicsit oldottabb, és azt kérdezi, mit vigyen magával."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Ai multă energie, dar și nevoie de odihnă; amândouă fac parte din tine.",
+       "You have a lot of energy, but also a need for rest; both are part of you.",
+       "Vous avez beaucoup d'énergie, mais aussi besoin de repos ; les deux font partie de vous.",
+       "Hai molta energia, ma anche bisogno di riposo; entrambe fanno parte di te.",
+       "Tienes mucha energía, pero también necesitas descanso; ambas cosas forman parte de ti.",
+       "Tem muita energia, mas também precisa de descanso; ambas fazem parte de si.",
+       "Du hast viel Energie, brauchst aber auch Ruhe; beides gehört zu dir.",
+       "Sok az energiád, de pihenésre is szükséged van; mindkettő hozzád tartozik."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Da, chiar am nevoie de o pauză. Mă regăsesc în asta.",
+       "Yes, I really do need a break. I recognize myself in that.",
+       "Oui, j'ai vraiment besoin d'une pause. Je me reconnais là-dedans.",
+       "Sì, ho davvero bisogno di una pausa. Mi ci riconosco.",
+       "Sí, de verdad necesito un descanso. Me reconozco en eso.",
+       "Sim, preciso mesmo de uma pausa. Reconheço-me nisso.",
+       "Ja, ich brauche wirklich eine Pause. Da erkenne ich mich wieder.",
+       "Igen, tényleg kell egy kis szünet. Magamra ismerek ebben."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "După pantofii tăi, cred că stai mult în picioare la muncă.",
+       "Judging by your shoes, I think you are on your feet a lot at work.",
+       "À voir vos chaussures, je pense que vous êtes beaucoup debout au travail.",
+       "A giudicare dalle scarpe, direi che al lavoro stai molto in piedi.",
+       "Por tus zapatos, creo que pasas mucho tiempo de pie en el trabajo.",
+       "Pelos seus sapatos, penso que passa muito tempo de pé no trabalho.",
+       "An deinen Schuhen sehe ich, dass du bei der Arbeit viel stehst.",
+       "A cipődből ítélve sokat állsz munka közben."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Nu, lucrez la birou. Pantofii sunt doar comozi.",
+       "No, I work at a desk. The shoes are simply comfortable.",
+       "Non, je travaille dans un bureau. Ces chaussures sont juste confortables.",
+       "No, lavoro in ufficio. Le scarpe sono solo comode.",
+       "No, trabajo en una oficina. Los zapatos son simplemente cómodos.",
+       "Não, trabalho num escritório. Os sapatos são só confortáveis.",
+       "Nein, ich arbeite im Büro. Die Schuhe sind einfach bequem.",
+       "Nem, irodában dolgozom. A cipő egyszerűen kényelmes."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Unele detalii nu s-au potrivit, dar poate partea importantă a fost că te-ai oprit o clipă.",
+       "Some details did not fit, but maybe the important part was that you paused for a moment.",
+       "Certains détails ne collaient pas, mais l'essentiel était peut-être que vous vous arrêtiez un instant.",
+       "Alcuni dettagli non tornavano, ma forse la parte importante è stata fermarti un momento.",
+       "Algunos detalles no encajaron, pero quizá lo importante fue que te detuvieras un momento.",
+       "Alguns pormenores não condisseram, mas talvez o importante tenha sido parar um momento.",
+       "Manche Details passten nicht, aber vielleicht war wichtig, dass du kurz innegehalten hast.",
+       "Néhány részlet nem stimmelt, de talán az volt a lényeg, hogy megálltál egy pillanatra."
+      ],
+      "tech": "reframe",
+      "r": [
+       "Asta e adevărat. Mi-am luat prima pauză din zi.",
+       "That is true. It is my first break of the day.",
+       "C'est vrai. C'est ma première pause de la journée.",
+       "È vero. È la mia prima pausa della giornata.",
+       "Es verdad. Es mi primera pausa del día.",
+       "É verdade. É a minha primeira pausa do dia.",
+       "Das stimmt. Es ist meine erste Pause des Tages.",
+       "Ez igaz. Ez az első szünetem ma."
+      ],
+      "good": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "s2",
+  "n": [
+   "Cineva sceptic, cu husă de chitară",
+   "A skeptic with a guitar case",
+   "Quelqu'un de sceptique, avec un étui de guitare",
+   "Una persona scettica, con una custodia di chitarra",
+   "Alguien escéptico, con una funda de guitarra",
+   "Alguém céptico, com uma bolsa de guitarra",
+   "Eine skeptische Person mit Gitarrentasche",
+   "Valaki szkeptikus, gitártokkal"
+  ],
+  "ctx": [
+   "Stă cu brațele încrucișate și zâmbește ironic. Alături se află o husă de chitară.",
+   "Sits with arms crossed and an ironic smile. A guitar case rests beside the seat.",
+   "Reste les bras croisés, avec un sourire ironique. Un étui de guitare est posé à côté.",
+   "Resta a braccia incrociate con un sorriso ironico. Accanto c'è una custodia di chitarra.",
+   "Se mantiene con los brazos cruzados y una sonrisa irónica. Hay una funda de guitarra a su lado.",
+   "Mantém os braços cruzados e um sorriso irónico. Ao lado há uma bolsa de guitarra.",
+   "Sitzt mit verschränkten Armen da und lächelt ironisch. Daneben steht eine Gitarrentasche.",
+   "Összefont karral ül, ironikusan mosolyog. Mellette gitártok áll."
+  ],
+  "turns": [
+   {
+    "ctx": [
+     "Clientul spune: „Nu prea cred în așa ceva, dar mă intrigă.” Cum deschizi lectura?",
+     "The client says: “I don't really believe in this, but it intrigues me.” How do you open?",
+     "Le client dit : « Je n'y crois pas trop, mais ça m'intrigue. » Comment ouvrez-vous ?",
+     "Il cliente dice: «Non ci credo molto, ma mi incuriosisce.» Come apri?",
+     "El cliente dice: «No creo mucho en esto, pero me intriga.» ¿Cómo abres?",
+     "O cliente diz: «Não acredito muito nisto, mas intriga-me.» Como abre?",
+     "Die Person sagt: „Ich glaube nicht so daran, aber es interessiert mich.“ Wie eröffnest du?",
+     "Az ügyfél azt mondja: „Nem nagyon hiszek ebben, de érdekel.” Hogyan nyitsz?"
+    ],
+    "opts": [
+     {
+      "t": [
+       "Ai o parte sceptică și una curioasă, iar amândouă sunt active.",
+       "You have a skeptical side and a curious side, and both are active.",
+       "Vous avez un côté sceptique et un côté curieux, et les deux sont actifs.",
+       "Hai un lato scettico e uno curioso, ed entrambi sono attivi.",
+       "Tienes un lado escéptico y otro curioso, y ambos están activos.",
+       "Tens um lado céptico e outro curioso, e ambos estão ativos.",
+       "Du hast eine skeptische und eine neugierige Seite, und beide sind aktiv.",
+       "Van benned egy szkeptikus és egy kíváncsi oldal, és mindkettő aktív."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Tocmai ți-am spus asta. Nu e nicio surpriză.",
+       "I just told you that. It is no surprise.",
+       "Je viens de vous le dire. Ça n'a rien de surprenant.",
+       "Te l'ho appena detto io. Non è una sorpresa.",
+       "Eso te lo acabo de decir yo. No es ninguna sorpresa.",
+       "Acabei de lhe dizer isso. Não é surpresa nenhuma.",
+       "Das habe ich dir gerade gesagt. Keine Überraschung.",
+       "Ezt épp most mondtam neked. Nem meglepő."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Husa aceea îmi sugerează că muzica contează pentru tine.",
+       "That case suggests to me that music matters to you.",
+       "Cet étui me laisse penser que la musique compte pour vous.",
+       "Quella custodia mi suggerisce che la musica conti per te.",
+       "Esa funda me sugiere que la música te importa.",
+       "Essa bolsa sugere-me que a música é importante para si.",
+       "Diese Tasche deutet darauf hin, dass dir Musik etwas bedeutet.",
+       "Az a tok azt sugallja, hogy a zene fontos neked."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Da, cânt în timpul liber. Ai ochi bun.",
+       "Yes, I play in my spare time. Good eye.",
+       "Oui, je joue pendant mon temps libre. Bon œil.",
+       "Sì, suono nel tempo libero. Occhio buono.",
+       "Sí, toco en mi tiempo libre. Buen ojo.",
+       "Sim, toco nos tempos livres. Bom olho.",
+       "Ja, ich spiele in meiner Freizeit. Gut beobachtet.",
+       "Igen, szabadidőmben játszom. Jó szemed van."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Simt că cineva a insistat puțin să ajungi aici. Sunt aproape?",
+       "I sense someone nudged you a little to come here. Am I close?",
+       "Je sens que quelqu'un a un peu insisté pour que vous veniez ici. Suis-je proche ?",
+       "Sento che qualcuno abbia insistito un po' perché tu venissi qui. Ci sono vicino?",
+       "Siento que alguien te animó un poco a venir. ¿Estoy cerca?",
+       "Sinto que alguém insistiu um pouco para vir. Estou perto?",
+       "Ich spüre, dass dich jemand ein wenig ermuntert hat herzukommen. Liege ich nah dran?",
+       "Úgy érzem, valaki egy kicsit rábeszélt, hogy eljöjj. Közel járok?"
+      ],
+      "tech": "fishing",
+      "r": [
+       "Da, un prieten a insistat să încerc.",
+       "Yes, a friend insisted that I try it.",
+       "Oui, un ami a insisté pour que j'essaie.",
+       "Sì, un amico ha insistito perché provassi.",
+       "Sí, un amigo insistió en que lo probara.",
+       "Sim, um amigo insistiu para eu experimentar.",
+       "Ja, ein Freund hat darauf bestanden, dass ich es versuche.",
+       "Igen, egy barátom ragaszkodott hozzá, hogy próbáljam ki."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Clientul rămâne cu brațele încrucișate. Vrei să-i câștigi încrederea fără să pară o ghicire forțată.",
+     "The client keeps arms crossed. You want to win trust without it feeling like a forced guess.",
+     "Le client garde les bras croisés. Vous voulez gagner sa confiance sans que cela paraisse une devinette forcée.",
+     "Il cliente resta a braccia incrociate. Vuoi guadagnare fiducia senza sembrare una congettura forzata.",
+     "El cliente mantiene los brazos cruzados. Quieres ganarte su confianza sin que parezca una suposición forzada.",
+     "O cliente mantém os braços cruzados. Quer ganhar a sua confiança sem parecer um palpite forçado.",
+     "Die Person hält die Arme verschränkt. Du willst Vertrauen gewinnen, ohne erzwungen zu raten.",
+     "Az ügyfél összefont karral ül. Bizalmat szeretnél nyerni anélkül, hogy erőltetett találgatásnak tűnne."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Văd ceva legat de studii, bani, o pasiune sau o relație. Sună cunoscut?",
+       "I see something about studies, money, a passion or a relationship. Does any of it sound familiar?",
+       "Je vois quelque chose autour des études, de l'argent, d'une passion ou d'une relation. Ça vous dit quelque chose ?",
+       "Vedo qualcosa su studi, denaro, una passione o una relazione. Ti suona familiare?",
+       "Veo algo sobre estudios, dinero, una pasión o una relación. ¿Te suena?",
+       "Vejo algo sobre estudos, dinheiro, uma paixão ou uma relação. Soa-lhe familiar?",
+       "Ich sehe etwas zu Studium, Geld, einer Leidenschaft oder einer Beziehung. Klingt etwas bekannt?",
+       "Látok valamit a tanulmányokról, a pénzről, egy szenvedélyről vagy egy kapcsolatról. Ismerős valami?"
+      ],
+      "tech": "shotgun",
+      "r": [
+       "Nu, nimic. Se pare că tragi la nimereală.",
+       "No, nothing. It seems you are firing at random.",
+       "Non, rien. On dirait que vous tirez au hasard.",
+       "No, niente. Sembra che tu spari a caso.",
+       "No, nada. Parece que disparas al azar.",
+       "Não, nada. Parece que disparas ao acaso.",
+       "Nein, nichts. Du schießt offenbar ins Blaue.",
+       "Nem, semmi. Úgy tűnik, találomra lősz."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Simt o ezitare în legătură cu o decizie pe care o tot amâni. Despre ce ar fi vorba?",
+       "I sense some hesitation about a decision you keep postponing. What might it be about?",
+       "Je sens une hésitation autour d'une décision que vous repoussez. De quoi s'agirait-il ?",
+       "Sento un'esitazione su una decisione che continui a rimandare. Di cosa potrebbe trattarsi?",
+       "Siento cierta duda sobre una decisión que sigues aplazando. ¿De qué podría tratarse?",
+       "Sinto alguma hesitação numa decisão que andas a adiar. De que se trata?",
+       "Ich spüre ein Zögern bei einer Entscheidung, die du aufschiebst. Worum könnte es gehen?",
+       "Úgy érzem, tétovázol egy halogatott döntés miatt. Miről lehet szó?"
+      ],
+      "tech": "fishing",
+      "r": [
+       "Mă gândesc să-mi schimb locul de muncă, da. Cum ți-ai dat seama?",
+       "I am thinking of changing jobs, yes. How did you know?",
+       "Je pense à changer de travail, oui. Comment l'avez-vous deviné ?",
+       "Sto pensando di cambiare lavoro, sì. Come hai fatto a capirlo?",
+       "Estoy pensando en cambiar de trabajo, sí. ¿Cómo lo supiste?",
+       "Estou a pensar mudar de emprego, sim. Como percebeste?",
+       "Ich überlege, den Job zu wechseln, ja. Woher wusstest du das?",
+       "Azon gondolkodom, hogy munkahelyet váltok, igen. Honnan tudtad?"
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Ai o latură creativă pe care ceilalți nu o observă mereu.",
+       "You have a creative side that others do not always notice.",
+       "Vous avez un côté créatif que les autres ne remarquent pas toujours.",
+       "Hai un lato creativo che gli altri non sempre notano.",
+       "Tienes un lado creativo que los demás no siempre notan.",
+       "Tens um lado criativo que os outros nem sempre notam.",
+       "Du hast eine kreative Seite, die andere nicht immer bemerken.",
+       "Van egy kreatív oldalad, amit mások nem mindig vesznek észre."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Poate. Uneori ce fac nu e prea înțeles.",
+       "Maybe. Sometimes what I do is not quite understood.",
+       "Peut-être. Parfois, ce que je fais n'est pas vraiment compris.",
+       "Forse. A volte ciò che faccio non viene capito.",
+       "Quizá. A veces lo que hago no se entiende.",
+       "Talvez. Por vezes o que faço não é bem compreendido.",
+       "Vielleicht. Manchmal wird nicht verstanden, was ich tue.",
+       "Talán. Néha nem értik igazán, amit csinálok."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Clientul spune că ce ai afirmat nu se potrivește, dar rămâne pe loc, încă atent.",
+     "The client says what you stated does not fit, but stays seated, still attentive.",
+     "Le client dit que votre affirmation ne correspond pas, mais reste là, toujours attentif.",
+     "Il cliente dice che la tua affermazione non combacia, ma resta lì, ancora attento.",
+     "El cliente dice que tu afirmación no encaja, pero sigue ahí, aún atento.",
+     "O cliente diz que a sua afirmação não condiz, mas continua ali, ainda atento.",
+     "Die Person sagt, deine Aussage passe nicht, bleibt aber sitzen und hört weiter zu.",
+     "Az ügyfél szerint amit mondtál, nem stimmel, de marad, és még figyel."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Poate am spus-o într-un sens mai larg: nu neapărat acum, ci ca o tendință generală.",
+       "Perhaps I meant it in a broader sense: not necessarily now, but as a general tendency.",
+       "Peut-être l'ai-je dit dans un sens plus large : pas forcément maintenant, mais comme une tendance générale.",
+       "Forse intendevo in senso più ampio: non necessariamente ora, ma come tendenza generale.",
+       "Quizá lo dije en un sentido más amplio: no necesariamente ahora, sino como tendencia general.",
+       "Talvez o tenha dito num sentido mais amplo: não necessariamente agora, mas como tendência geral.",
+       "Vielleicht meinte ich es in einem weiteren Sinn: nicht unbedingt jetzt, sondern als allgemeine Tendenz.",
+       "Talán tágabb értelemben mondtam: nem feltétlenül most, hanem általános hajlamként."
+      ],
+      "tech": "reframe",
+      "r": [
+       "A, în sensul ăsta da. Uneori chiar așa fac.",
+       "Ah, in that sense yes. Sometimes I really do that.",
+       "Ah, dans ce sens oui. Parfois je fais vraiment ça.",
+       "Ah, in quel senso sì. A volte lo faccio davvero.",
+       "Ah, en ese sentido sí. A veces lo hago de verdad.",
+       "Ah, nesse sentido sim. Por vezes faço mesmo isso.",
+       "Ah, in dem Sinn ja. Manchmal mache ich das wirklich.",
+       "Á, így igen. Néha tényleg ezt csinálom."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Dar zâmbetul tău arată că ceva tot te-a atins.",
+       "But your smile tells me something did touch a nerve.",
+       "Mais votre sourire me dit que quelque chose a quand même fait mouche.",
+       "Ma il tuo sorriso dice che qualcosa ti ha comunque toccato.",
+       "Pero tu sonrisa dice que algo te ha tocado igualmente.",
+       "Mas o seu sorriso diz que algo o tocou, ainda assim.",
+       "Aber dein Lächeln verrät, dass dich etwas doch berührt hat.",
+       "De a mosolyod azt mutatja, hogy valami mégis megérintett."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Zâmbesc din politețe. Nu mă citi după zâmbet.",
+       "I smile out of politeness. Do not read me by my smile.",
+       "Je souris par politesse. Ne me lis pas à travers mon sourire.",
+       "Sorrido per cortesia. Non leggermi dal sorriso.",
+       "Sonrío por cortesía. No me leas por la sonrisa.",
+       "Sorrio por cortesia. Não me leias pelo sorriso.",
+       "Ich lächle aus Höflichkeit. Lies mich nicht an meinem Lächeln ab.",
+       "Udvariasságból mosolygok. Ne a mosolyomból olvass."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Atunci spune-mi tu ce te-ar interesa; mâna îmi arată mai multe direcții posibile.",
+       "Then tell me what would interest you; the hand shows me several possible directions.",
+       "Alors dites-moi ce qui vous intéresserait ; la main me montre plusieurs directions possibles.",
+       "Allora dimmi cosa ti interesserebbe; la mano mi mostra più direzioni possibili.",
+       "Entonces dime qué te interesaría; la mano me muestra varias direcciones posibles.",
+       "Então diga-me o que lhe interessaria; a mão mostra-me várias direções possíveis.",
+       "Dann sag mir, was dich interessieren würde; die Hand zeigt mir mehrere mögliche Richtungen.",
+       "Akkor mondd el, mi érdekelne; a kéz több lehetséges irányt mutat."
+      ],
+      "tech": "fishing",
+      "r": [
+       "Mă interesează mai mult cum îmi împart timpul între muzică și restul.",
+       "I am more interested in how I split my time between music and everything else.",
+       "Ce qui m'intéresse, c'est comment je partage mon temps entre la musique et le reste.",
+       "Mi interessa di più come divido il tempo tra la musica e il resto.",
+       "Me interesa más cómo reparto mi tiempo entre la música y todo lo demás.",
+       "Interessa-me mais como divido o tempo entre a música e o resto.",
+       "Mich interessiert mehr, wie ich meine Zeit zwischen Musik und allem anderen aufteile.",
+       "Inkább az érdekel, hogyan osztom meg az időmet a zene és a többi között."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Lectura se încheie. Clientul întreabă direct dacă chiromanția chiar funcționează. Ce răspunzi?",
+     "The reading ends. The client asks directly whether palmistry really works. What do you answer?",
+     "La lecture se termine. Le client demande franchement si la chiromancie fonctionne vraiment. Que répondez-vous ?",
+     "La lettura finisce. Il cliente chiede direttamente se la chiromanzia funzioni davvero. Cosa rispondi?",
+     "La lectura termina. El cliente pregunta directamente si la quiromancia funciona de verdad. ¿Qué respondes?",
+     "A leitura termina. O cliente pergunta diretamente se a quiromancia funciona mesmo. Que responde?",
+     "Die Lesung endet. Die Person fragt direkt, ob Handlesen wirklich funktioniert. Was antwortest du?",
+     "Az olvasás véget ér. Az ügyfél egyenesen megkérdezi, működik-e a tenyérjóslás. Mit válaszolsz?"
+    ],
+    "opts": [
+     {
+      "t": [
+       "Nu e validată științific; poate fi totuși un prilej de a vorbi despre tine.",
+       "It is not scientifically validated; it can still be an occasion to talk about yourself.",
+       "Elle n'est pas validée scientifiquement ; elle peut pourtant être une occasion de parler de soi.",
+       "Non è validata scientificamente; può però essere un'occasione per parlare di sé.",
+       "No está validada científicamente; aun así puede ser una ocasión para hablar de uno mismo.",
+       "Não está validada cientificamente; ainda assim pode ser uma ocasião para falar de si.",
+       "Es ist wissenschaftlich nicht belegt; es kann aber ein Anlass sein, über sich zu sprechen.",
+       "Tudományosan nem igazolt, de alkalom lehet arra, hogy magadról beszélj."
+      ],
+      "tech": "reframe",
+      "r": [
+       "Apreciez sinceritatea. Discuția mi se pare mai ușoară acum.",
+       "I appreciate the honesty. The conversation feels easier now.",
+       "J'apprécie votre franchise. La conversation me paraît plus facile maintenant.",
+       "Apprezzo la sincerità. La conversazione ora mi sembra più facile.",
+       "Aprecio la sinceridad. La conversación me resulta más fácil ahora.",
+       "Aprecio a sinceridade. A conversa parece-me mais fácil agora.",
+       "Ich schätze die Ehrlichkeit. Das Gespräch fühlt sich jetzt leichter an.",
+       "Becsülöm az őszinteséget. A beszélgetés most könnyebbnek tűnik."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Mâna ta arată că ești o persoană unică, cum puțini sunt.",
+       "Your hand shows you are a unique person, like few others.",
+       "Votre main montre que vous êtes une personne unique, comme peu le sont.",
+       "La tua mano mostra che sei una persona unica, come poche.",
+       "Tu mano muestra que eres una persona única, como pocas.",
+       "A sua mão mostra que é uma pessoa única, como poucas.",
+       "Deine Hand zeigt, dass du ein einzigartiger Mensch bist, wie nur wenige.",
+       "A kezed azt mutatja, hogy egyedülálló ember vagy, mint kevesen."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Asta li se spune tuturor. Nu m-ai convins.",
+       "Everyone gets told that. You have not convinced me.",
+       "On dit ça à tout le monde. Cela ne me convainc pas.",
+       "Lo dicono a tutti. Non mi hai convinto.",
+       "Eso se lo dicen a todos. No me has convencido.",
+       "Isso diz-se a toda a gente. Não me convenceste.",
+       "Das sagt man jedem. Du hast mich nicht überzeugt.",
+       "Ezt mindenkinek elmondják. Nem győztél meg."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Ce ai simțit în timpul lecturii? Spune-mi ce s-a potrivit și ce nu.",
+       "What did you feel during the reading? Tell me what fit and what did not.",
+       "Qu'avez-vous ressenti pendant la lecture ? Dites-moi ce qui collait et ce qui ne collait pas.",
+       "Cosa hai sentito durante la lettura? Dimmi cosa è tornato e cosa no.",
+       "¿Qué sentiste durante la lectura? Dime qué encajó y qué no.",
+       "O que sentiste durante a leitura? Diz-me o que condisse e o que não.",
+       "Was hast du während der Lesung empfunden? Sag mir, was passte und was nicht.",
+       "Mit éreztél az olvasás alatt? Mondd el, mi stimmelt és mi nem."
+      ],
+      "tech": "fishing",
+      "r": [
+       "Ce a fost despre muzică și timp s-a potrivit. Restul, nu prea.",
+       "What was about music and time fit. The rest, not much.",
+       "Ce qui concernait la musique et le temps collait. Le reste, pas trop.",
+       "Quello su musica e tempo tornava. Il resto, non molto.",
+       "Lo de la música y el tiempo encajó. Lo demás, no mucho.",
+       "O que foi sobre música e tempo condisse. O resto, nem por isso.",
+       "Das über Musik und Zeit passte. Der Rest eher nicht.",
+       "A zenéről és az időről szóló rész stimmelt. A többi nem nagyon."
+      ],
+      "good": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "s3",
+  "n": [
+   "Cineva senin, cu un medalion",
+   "Someone cheerful, wearing a locket",
+   "Quelqu'un de souriant, avec un médaillon",
+   "Una persona serena, con un medaglione",
+   "Alguien sereno, con un medallón",
+   "Alguém sereno, com um medalhão",
+   "Jemand Heiteres, mit Medaillon",
+   "Valaki derűs, medállal"
+  ],
+  "ctx": [
+   "Zâmbește deschis și poartă un medalion la gât. Din când în când privește spre persoana aflată alături.",
+   "Smiles openly and wears a locket on a chain. Now and then glances at the person beside the seat.",
+   "Sourit franchement et porte un médaillon au cou. Jette parfois un coup d'œil à la personne qui l'accompagne.",
+   "Sorride apertamente, con un medaglione al collo. Ogni tanto lancia un'occhiata alla persona al suo fianco.",
+   "Sonríe abiertamente y lleva un medallón al cuello. De vez en cuando mira a la persona que está a su lado.",
+   "Sorri abertamente, com um medalhão ao pescoço. De vez em quando olha para a pessoa ao seu lado.",
+   "Lächelt offen und trägt ein Medaillon um den Hals. Blickt ab und zu zur Begleitperson.",
+   "Nyíltan mosolyog, nyakában medál van. Időnként a mellette ülő személyre néz."
+  ],
+  "turns": [
+   {
+    "ctx": [
+     "Clientul pare relaxat și deschis, privind cu interes în jur. Cum începi?",
+     "The client seems relaxed and open, looking around with interest. How do you begin?",
+     "Le client semble détendu et ouvert, et regarde autour de lui avec intérêt. Comment commencez-vous ?",
+     "Il cliente sembra rilassato e aperto, e si guarda intorno con interesse. Come inizi?",
+     "El cliente parece relajado y abierto, y mira alrededor con interés. ¿Cómo empiezas?",
+     "O cliente parece descontraído e aberto, e olha em redor com interesse. Como começas?",
+     "Die Person wirkt entspannt und offen und sieht sich interessiert um. Wie beginnst du?",
+     "Az ügyfél nyugodtnak és nyitottnak tűnik, érdeklődve néz körül. Hogyan kezded?"
+    ],
+    "opts": [
+     {
+      "t": [
+       "Medalionul acela pare să aibă o valoare sentimentală pentru tine.",
+       "That locket seems to hold sentimental value for you.",
+       "Ce médaillon semble avoir une valeur sentimentale pour vous.",
+       "Quel medaglione sembra avere un valore affettivo per te.",
+       "Ese medallón parece tener un valor sentimental para ti.",
+       "Esse medalhão parece ter valor sentimental para si.",
+       "Dieses Medaillon scheint dir sentimental viel zu bedeuten.",
+       "Az a medál úgy tűnik, érzelmi értéket képvisel számodra."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Da, e de la bunica mea! Cum ți-ai dat seama?",
+       "Yes, it is from my grandmother! How did you know?",
+       "Oui, il vient de ma grand-mère ! Comment avez-vous deviné ?",
+       "Sì, è di mia nonna! Come hai capito?",
+       "¡Sí, es de mi abuela! ¿Cómo lo supiste?",
+       "Sim, é da minha avó! Como percebeste?",
+       "Ja, es ist von meiner Großmutter! Woher wusstest du das?",
+       "Igen, a nagymamámtól van! Honnan tudtad?"
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Văd ceva despre prieteni, călătorii, visuri sau muncă. Oricare dintre ele îți spune ceva?",
+       "I see something about friends, travel, dreams or work. Does any of those mean something to you?",
+       "Je vois quelque chose autour des amis, des voyages, des rêves ou du travail. L'un d'eux vous parle-t-il ?",
+       "Vedo qualcosa su amici, viaggi, sogni o lavoro. Qualcuno di questi ti dice qualcosa?",
+       "Veo algo sobre amigos, viajes, sueños o trabajo. ¿Alguno te dice algo?",
+       "Vejo algo sobre amigos, viagens, sonhos ou trabalho. Algum deles lhe diz alguma coisa?",
+       "Ich sehe etwas zu Freunden, Reisen, Träumen oder Arbeit. Sagt dir eines davon etwas?",
+       "Látok valamit a barátokról, az utazásról, az álmokról vagy a munkáról. Mond ezek közül valamelyik valamit?"
+      ],
+      "tech": "shotgun",
+      "r": [
+       "Călătoriile, da! Abia m-am întors dintr-o excursie.",
+       "Travel, yes! I just got back from a trip.",
+       "Les voyages, oui ! Je reviens tout juste d'un voyage.",
+       "I viaggi, sì! Ho appena fatto una gita.",
+       "¡Los viajes, sí! Acabo de volver de una excursión.",
+       "As viagens, sim! Acabei de regressar de uma excursão.",
+       "Reisen, ja! Ich bin gerade von einer Reise zurück.",
+       "Az utazás, igen! Épp most értem haza egy kirándulásról."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Ai adesea așteptări mari de la tine, pe care nu le arăți întotdeauna.",
+       "You often have high expectations of yourself that you do not always show.",
+       "Vous avez souvent de grandes attentes envers vous-même, que vous ne montrez pas toujours.",
+       "Hai spesso grandi aspettative su di te, che non sempre mostri.",
+       "A menudo tienes grandes expectativas sobre ti, que no siempre muestras.",
+       "Muitas vezes tem grandes expectativas em relação a si, que nem sempre mostra.",
+       "Du hast oft hohe Erwartungen an dich selbst, die du nicht immer zeigst.",
+       "Gyakran nagy elvárásaid vannak magaddal szemben, amelyeket nem mindig mutatsz ki."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Hmm, nu prea sună a mine. Mă iau destul de ușor.",
+       "Hmm, that does not sound like me. I take myself fairly lightly.",
+       "Hmm, ça ne me ressemble pas. Je me prends plutôt à la légère.",
+       "Mmm, non mi somiglia. Mi prendo piuttosto alla leggera.",
+       "Mmm, no me suena. Me tomo bastante a la ligera.",
+       "Hmm, não me parece. Levo-me bastante na desportiva.",
+       "Hmm, das klingt nicht nach mir. Ich nehme mich eher leicht.",
+       "Hmm, ez nem rám valló. Elég lazán veszem magam."
+      ],
+      "good": false
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Clientul râde și urmărește degetul tău pe liniile palmei. Pare dispus să vorbească.",
+     "The client laughs and follows your finger along the palm lines. Seems ready to talk.",
+     "Le client rit et suit votre doigt le long des lignes de la paume. Il semble prêt à parler.",
+     "Il cliente ride e segue il tuo dito lungo le linee del palmo. Sembra disposto a parlare.",
+     "El cliente ríe y sigue tu dedo por las líneas de la palma. Parece dispuesto a hablar.",
+     "O cliente ri e segue o seu dedo pelas linhas da palma. Parece disposto a falar.",
+     "Die Person lacht und folgt deinem Finger entlang der Handlinien. Sie wirkt gesprächsbereit.",
+     "Az ügyfél nevet, és követi az ujjadat a tenyérvonalak mentén. Beszélgetőkésznek tűnik."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Simt o legătură importantă în viața ta. Cine ar putea fi?",
+       "I sense an important bond in your life. Who might that be?",
+       "Je sens un lien important dans votre vie. Qui cela pourrait-il être ?",
+       "Sento un legame importante nella tua vita. Chi potrebbe essere?",
+       "Siento un vínculo importante en tu vida. ¿Quién podría ser?",
+       "Sinto uma ligação importante na sua vida. Quem poderá ser?",
+       "Ich spüre eine wichtige Bindung in deinem Leben. Wer könnte das sein?",
+       "Fontos kötődést érzek az életedben. Ki lehet az?"
+      ],
+      "tech": "fishing",
+      "r": [
+       "Probabil sora mea; suntem foarte apropiate.",
+       "Probably my sister; we are very close.",
+       "Sans doute ma sœur ; nous sommes très proches.",
+       "Probabilmente mia sorella; siamo molto unite.",
+       "Probablemente mi hermana; estamos muy unidas.",
+       "Provavelmente a minha irmã; somos muito próximas.",
+       "Wahrscheinlich meine Schwester; wir stehen uns sehr nah.",
+       "Valószínűleg a nővérem; nagyon közel állunk egymáshoz."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Hainele tale sunt comode; cred că îți plac libertatea și mișcarea.",
+       "Your clothes are comfortable; I think you like freedom and movement.",
+       "Vos vêtements sont confortables ; je pense que vous aimez la liberté et le mouvement.",
+       "I tuoi vestiti sono comodi; penso che ti piacciano la libertà e il movimento.",
+       "Tu ropa es cómoda; creo que te gustan la libertad y el movimiento.",
+       "A sua roupa é confortável; penso que gosta de liberdade e de movimento.",
+       "Deine Kleidung ist bequem; ich glaube, du magst Freiheit und Bewegung.",
+       "A ruhád kényelmes; szerintem szereted a szabadságot és a mozgást."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Nu chiar. Hainele astea sunt doar vechi. Prefer să stau acasă.",
+       "Not really. These clothes are just old. I prefer staying home.",
+       "Pas vraiment. Ces vêtements sont juste vieux. Je préfère rester chez moi.",
+       "Non proprio. Questi vestiti sono solo vecchi. Preferisco stare a casa.",
+       "No exactamente. Esta ropa es solo vieja. Prefiero quedarme en casa.",
+       "Nem por isso. Esta roupa é só velha. Prefiro ficar em casa.",
+       "Nicht wirklich. Die Sachen sind nur alt. Ich bleibe lieber zu Hause.",
+       "Nem igazán. Ezek csak régi ruhák. Inkább otthon maradok."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Uneori ești foarte deschis, alteori îți place să-ți păstrezi gândurile pentru tine.",
+       "Sometimes you are very open, other times you like to keep your thoughts to yourself.",
+       "Parfois vous êtes très ouvert, parfois vous préférez garder vos pensées pour vous.",
+       "A volte sei molto aperto, altre volte preferisci tenere i pensieri per te.",
+       "A veces eres muy abierto y otras prefieres guardarte tus pensamientos.",
+       "Por vezes é muito aberto, outras vezes prefere guardar os seus pensamentos.",
+       "Manchmal bist du sehr offen, manchmal behältst du deine Gedanken lieber für dich.",
+       "Néha nagyon nyílt vagy, máskor inkább megtartod a gondolataidat magadnak."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Da, exact așa sunt! Depinde de zi.",
+       "Yes, that is exactly me! It depends on the day.",
+       "Oui, c'est exactement moi ! Ça dépend des jours.",
+       "Sì, sono proprio io! Dipende dal giorno.",
+       "¡Sí, soy justo yo! Depende del día.",
+       "Sim, sou eu em cheio! Depende do dia.",
+       "Ja, genau so bin ich! Es hängt vom Tag ab.",
+       "Igen, pont ilyen vagyok! Napja válogatja."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Clientul spune că una dintre afirmațiile tale nu se potrivește, dar zâmbește în continuare.",
+     "The client says one of your statements does not fit, but keeps smiling.",
+     "Le client dit que l'une de vos affirmations ne correspond pas, mais continue de sourire.",
+     "Il cliente dice che una tua affermazione non combacia, ma continua a sorridere.",
+     "El cliente dice que una de tus afirmaciones no encaja, pero sigue sonriendo.",
+     "O cliente diz que uma das suas afirmações não condiz, mas continua a sorrir.",
+     "Die Person sagt, eine deiner Aussagen passe nicht, lächelt aber weiter.",
+     "Az ügyfél szerint az egyik állításod nem stimmel, de tovább mosolyog."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Poate e mai degrabă o dorință decât ceva ce se întâmplă acum.",
+       "Perhaps it is more a wish than something happening right now.",
+       "Peut-être est-ce plutôt un souhait que quelque chose qui se passe maintenant.",
+       "Forse è più un desiderio che qualcosa che accade adesso.",
+       "Quizá sea más un deseo que algo que ocurre ahora.",
+       "Talvez seja mais um desejo do que algo que acontece agora.",
+       "Vielleicht ist es eher ein Wunsch als etwas, das jetzt geschieht.",
+       "Talán inkább vágy, mint valami, ami épp most történik."
+      ],
+      "tech": "reframe",
+      "r": [
+       "Aa, da, de fapt asta mi-aș dori! Exact!",
+       "Ah, yes, I actually wish for that! Exactly!",
+       "Ah oui, c'est en fait ce que je souhaite ! Exactement !",
+       "Ah sì, in realtà è ciò che desidero! Esatto!",
+       "¡Ah, sí, en realidad es lo que deseo! ¡Exacto!",
+       "Ah, sim, na verdade é isso que desejo! Exatamente!",
+       "Ah ja, das wünsche ich mir eigentlich! Genau!",
+       "Á, igen, tulajdonképpen ezt kívánom! Pontosan!"
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Atunci poate bani, o locuință, un animal de companie sau o ocupație nouă?",
+       "Then maybe money, a home, a pet or a new pastime?",
+       "Alors peut-être l'argent, un logement, un animal ou une nouvelle activité ?",
+       "Allora forse denaro, una casa, un animale o una nuova attività?",
+       "¿Entonces quizá dinero, una vivienda, una mascota o una afición nueva?",
+       "Então talvez dinheiro, uma casa, um animal ou um novo passatempo?",
+       "Dann vielleicht Geld, eine Wohnung, ein Haustier oder ein neues Hobby?",
+       "Akkor talán pénz, lakás, háziállat vagy egy új hobbi?"
+      ],
+      "tech": "shotgun",
+      "r": [
+       "Nu, nimic din toate. Hai să trecem la altceva.",
+       "No, none of those. Let us move on to something else.",
+       "Non, rien de tout ça. Passons à autre chose.",
+       "No, niente di tutto questo. Passiamo ad altro.",
+       "No, nada de eso. Pasemos a otra cosa.",
+       "Não, nada disso. Passemos a outra coisa.",
+       "Nein, nichts davon. Gehen wir zu etwas anderem über.",
+       "Nem, ezek közül egyik sem. Térjünk át valami másra."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Persoana de lângă tine te privește cu încredere; se vede că țineți unul la altul.",
+       "The person beside you looks at you with trust; it is clear you care about each other.",
+       "La personne à côté de vous vous regarde avec confiance ; on voit que vous tenez l'un à l'autre.",
+       "La persona accanto a te ti guarda con fiducia; si vede che tenete l'uno all'altro.",
+       "La persona a tu lado te mira con confianza; se nota que os tenéis aprecio.",
+       "A pessoa ao seu lado olha para si com confiança; nota-se que gostam um do outro.",
+       "Die Person neben dir sieht dich vertrauensvoll an; man merkt, dass ihr einander viel bedeutet.",
+       "A melletted ülő személy bizalommal néz rád; látszik, hogy sokat jelentetek egymásnak."
+      ],
+      "tech": "appearance",
+      "r": [
+       "Da, ne știm de o viață. Ai observat bine.",
+       "Yes, we have known each other for a lifetime. Well noticed.",
+       "Oui, on se connaît depuis toujours. Bien vu.",
+       "Sì, ci conosciamo da una vita. Ben notato.",
+       "Sí, nos conocemos de toda la vida. Bien visto.",
+       "Sim, conhecemo-nos há uma vida. Bem visto.",
+       "Ja, wir kennen uns ein Leben lang. Gut beobachtet.",
+       "Igen, egész életünkben ismerjük egymást. Jól megfigyelted."
+      ],
+      "good": true
+     }
+    ]
+   },
+   {
+    "ctx": [
+     "Lectura se încheie. Clientul întreabă ce a fost mai important din ce ai spus.",
+     "The reading ends. The client asks what was most important in what you said.",
+     "La lecture se termine. Le client demande ce qui a été le plus important dans ce que vous avez dit.",
+     "La lettura finisce. Il cliente chiede quale sia stata la cosa più importante tra quelle dette.",
+     "La lectura termina. El cliente pregunta qué fue lo más importante de lo que dijiste.",
+     "A leitura termina. O cliente pergunta o que foi mais importante do que disseste.",
+     "Die Lesung endet. Die Person fragt, was in deinen Worten am wichtigsten war.",
+     "Az olvasás véget ér. Az ügyfél azt kérdezi, mi volt a legfontosabb abból, amit mondtál."
+    ],
+    "opts": [
+     {
+      "t": [
+       "Ce a rezonat cel mai mult cu tine? Spune-mi, și ne oprim la acel lucru.",
+       "What resonated most with you? Tell me, and we will stay with that.",
+       "Qu'est-ce qui a le plus résonné en vous ? Dites-le-moi, et nous nous arrêterons là-dessus.",
+       "Cosa ha risuonato di più in te? Dimmelo, e ci fermiamo su quello.",
+       "¿Qué resonó más en ti? Dímelo y nos quedamos con eso.",
+       "O que mais ressoou em si? Diga-me, e ficamos com isso.",
+       "Was hat bei dir am meisten nachgeklungen? Sag es mir, dann bleiben wir dabei.",
+       "Mi csengett rá a leginkább? Mondd el, és megmaradunk annál."
+      ],
+      "tech": "fishing",
+      "r": [
+       "Partea despre legătura cu cei apropiați. M-a emoționat puțin.",
+       "The part about bonds with close people. It moved me a little.",
+       "La partie sur les liens avec les proches. Cela a fait vibrer quelque chose en moi.",
+       "La parte sui legami con le persone vicine. Mi ha commosso un po'.",
+       "La parte sobre los vínculos con los cercanos. Me conmovió un poco.",
+       "A parte sobre os laços com os mais próximos. Comoveu-me um pouco.",
+       "Der Teil über die Bindung zu nahestehenden Menschen. Er hat mich ein wenig berührt.",
+       "A közeli emberekhez fűződő kötelékekről szóló rész. Kicsit megérintett."
+      ],
+      "good": true
+     },
+     {
+      "t": [
+       "Cel mai important e că ești o persoană cu multe fațete.",
+       "The most important thing is that you are a person with many sides.",
+       "Le plus important est que vous êtes une personne aux multiples facettes.",
+       "La cosa più importante è che sei una persona dalle molte sfaccettature.",
+       "Lo más importante es que eres una persona con muchas facetas.",
+       "O mais importante é que és uma pessoa com muitas facetas.",
+       "Das Wichtigste ist, dass du ein Mensch mit vielen Facetten bist.",
+       "A legfontosabb, hogy sokarcú ember vagy."
+      ],
+      "tech": "barnum",
+      "r": [
+       "Mulțumesc, dar asta se poate spune despre oricine.",
+       "Thanks, but that could be said about anyone.",
+       "Merci, mais on pourrait dire ça de n'importe qui.",
+       "Grazie, ma si potrebbe dire di chiunque.",
+       "Gracias, pero eso se puede decir de cualquiera.",
+       "Agradeço, mas isso diz-se de qualquer pessoa.",
+       "Danke, aber das ließe sich über jeden sagen.",
+       "Köszönöm, de ez bárkiről elmondható."
+      ],
+      "good": false
+     },
+     {
+      "t": [
+       "Unele lucruri nu s-au potrivit, ceea ce arată că mâna nu spune totul; tu decizi ce contează.",
+       "Some things did not fit, which shows the hand does not say everything; you decide what matters.",
+       "Certaines choses ne collaient pas, ce qui montre que la main ne dit pas tout ; c'est vous qui décidez de ce qui compte.",
+       "Alcune cose non tornavano, e questo mostra che la mano non dice tutto; sei tu a decidere cosa conta.",
+       "Algunas cosas no encajaron, lo que muestra que la mano no lo dice todo; tú decides qué importa.",
+       "Algumas coisas não condisseram, o que mostra que a mão não diz tudo; é você quem decide o que conta.",
+       "Manches passte nicht, was zeigt, dass die Hand nicht alles sagt; du entscheidest, was zählt.",
+       "Néhány dolog nem stimmelt, ami azt mutatja, hogy a kéz nem mond el mindent; te döntöd el, mi számít."
+      ],
+      "tech": "reframe",
+      "r": [
+       "Îmi place! Păstrez ce mi s-a potrivit mie.",
+       "I like that! I will keep what fit for me.",
+       "J'aime ça ! Je garde ce qui me correspondait.",
+       "Mi piace! Tengo ciò che mi calzava.",
+       "¡Me gusta! Me quedo con lo que me encajó.",
+       "Gosto disso! Fico com o que me condisse.",
+       "Das gefällt mir! Ich behalte, was für mich gepasst hat.",
+       "Ez tetszik! Megtartom azt, ami nekem stimmelt."
+      ],
+      "good": true
+     }
+    ]
+   }
+  ]
+ }
+]

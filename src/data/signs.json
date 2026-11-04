@@ -1,0 +1,194 @@
+[
+ {
+  "id": "star",
+  "ic": "<path d=\"M30 8v44M10 19l40 22M50 19L10 41\"/>",
+  "n": [
+   "Stea",
+   "Star",
+   "Étoile",
+   "Stella",
+   "Estrella",
+   "Estrela",
+   "Stern",
+   "Csillag"
+  ],
+  "d": [
+   "În tradiție, marchează o experiență intensă – de succes sau de șoc – în zona unde apare. Se citește după loc.",
+   "In tradition, it marks an intense experience — of success or shock — in the area where it appears. Read it by location.",
+   "Selon la tradition, elle marque une expérience intense — de réussite ou de choc — là où elle apparaît. Elle se lit selon son emplacement.",
+   "Secondo la tradizione, segna un'esperienza intensa — di successo o di shock — nella zona in cui compare. Si legge in base alla posizione.",
+   "Según la tradición, marca una experiencia intensa — de éxito o de choque — en la zona donde aparece. Se interpreta según su ubicación.",
+   "Segundo a tradição, marca uma experiência intensa — de sucesso ou de choque — na zona onde aparece. Lê-se conforme a localização.",
+   "In der Tradition markiert er einen intensiven Moment – Erfolg oder Schock – in dem Bereich, in dem er auftritt. Er wird nach seiner Lage gedeutet.",
+   "A hagyomány szerint intenzív pillanatot jelöl – sikert vagy megrázkódtatást – ott, ahol megjelenik. A helye szerint értelmezendő."
+  ]
+ },
+ {
+  "id": "cross",
+  "ic": "<path d=\"M14 14l32 32M46 14L14 46\"/>",
+  "n": [
+   "Cruce",
+   "Cross",
+   "Croix",
+   "Croce",
+   "Cruz",
+   "Cruz",
+   "Kreuz",
+   "Kereszt"
+  ],
+  "d": [
+   "În tradiție, un obstacol sau o încercare, o răscruce de decizie. Contează linia sau muntele pe care apare; pe Jupiter, de exemplu, e socotită favorabilă.",
+   "In tradition, an obstacle or test, a crossroads of decision. What matters is the line or mount where it appears; on Jupiter, for example, it is held to be favorable.",
+   "Selon la tradition, un obstacle ou une épreuve, un carrefour de décision. Ce qui compte, c'est la ligne ou le mont où elle se trouve ; sur Jupiter, par exemple, elle est tenue pour favorable.",
+   "Secondo la tradizione, un ostacolo o una prova, un bivio decisionale. Conta la linea o il monte in cui si trova; su Giove, ad esempio, è ritenuta favorevole.",
+   "Según la tradición, un obstáculo o una prueba, una encrucijada de decisión. Importa la línea o el monte donde aparece; sobre Júpiter, por ejemplo, se considera favorable.",
+   "Segundo a tradição, um obstáculo ou prova, uma encruzilhada de decisão. Importa a linha ou o monte onde aparece; em Júpiter, por exemplo, é considerada favorável.",
+   "In der Tradition ein Hindernis oder eine Prüfung, eine Weggabelung. Entscheidend ist die Linie oder der Berg, auf dem es liegt; auf dem Jupiter gilt es zum Beispiel als günstig.",
+   "A hagyomány szerint akadály vagy próba, döntési keresztút. Az számít, melyik vonalon vagy dombon jelenik meg; a Jupiteren például kedvezőnek tartják."
+  ]
+ },
+ {
+  "id": "island",
+  "ic": "<path d=\"M4 30h15M41 30h15\"/><ellipse cx=\"30\" cy=\"30\" rx=\"11\" ry=\"7\"/>",
+  "n": [
+   "Insulă",
+   "Island",
+   "Île",
+   "Isola",
+   "Isla",
+   "Ilha",
+   "Insel",
+   "Sziget"
+  ],
+  "d": [
+   "Un mic oval pe o linie: în tradiție, o perioadă de energie scăzută sau de încercare, care se încheie acolo unde linia își reia cursul. Nu este un diagnostic.",
+   "A small oval on a line: in tradition, a period of lowered energy or strain that ends where the line resumes. It is not a diagnosis.",
+   "Un petit ovale sur une ligne : selon la tradition, période d'énergie réduite ou de tension, qui prend fin là où la ligne reprend. Ce n'est pas un diagnostic.",
+   "Un piccolo ovale su una linea: secondo la tradizione, periodo di energia ridotta o di tensione, che termina dove la linea riprende. Non è una diagnosi.",
+   "Un pequeño óvalo en una línea: según la tradición, periodo de energía baja o de tensión, que termina donde la línea continúa. No es un diagnóstico.",
+   "Um pequeno oval numa linha: segundo a tradição, período de energia reduzida ou de tensão, que termina onde a linha retoma. Não é um diagnóstico.",
+   "Ein kleines Oval auf einer Linie: In der Tradition eine Phase geringer Energie oder Belastung, die endet, wo die Linie weiterläuft. Sie ist keine Diagnose.",
+   "Egy vonalon lévő kis ovális: a hagyomány szerint csökkent energiájú vagy megterhelő időszak, amely ott ér véget, ahol a vonal folytatódik. Nem diagnózis."
+  ]
+ },
+ {
+  "id": "chain",
+  "ic": "<circle cx=\"13\" cy=\"30\" r=\"8\"/><circle cx=\"30\" cy=\"30\" r=\"8\"/><circle cx=\"47\" cy=\"30\" r=\"8\"/>",
+  "n": [
+   "Lanț",
+   "Chain",
+   "Chaîne",
+   "Catena",
+   "Cadena",
+   "Cadeia",
+   "Kette",
+   "Lánc"
+  ],
+  "d": [
+   "O linie făcută din verigi mici: în tradiție, energie dispersată, sensibilitate sau perioade de nesiguranță.",
+   "A line made of small links: in tradition, scattered energy, sensitivity or periods of uncertainty.",
+   "Une ligne faite de petits maillons : selon la tradition, énergie dispersée, sensibilité ou périodes d'incertitude.",
+   "Una linea fatta di piccoli anelli: secondo la tradizione, energia dispersa, sensibilità o periodi di incertezza.",
+   "Una línea hecha de pequeños eslabones: según la tradición, energía dispersa, sensibilidad o periodos de incertidumbre.",
+   "Uma linha feita de pequenos elos: segundo a tradição, energia dispersa, sensibilidade ou períodos de incerteza.",
+   "Eine Linie aus kleinen Gliedern: In der Tradition zerstreute Energie, Sensibilität oder Phasen der Unsicherheit.",
+   "Apró láncszemekből álló vonal: a hagyomány szerint szétszóródó energia, érzékenység vagy bizonytalan időszakok."
+  ]
+ },
+ {
+  "id": "triangle",
+  "ic": "<path d=\"M30 10L52 48H8z\"/>",
+  "n": [
+   "Triunghi",
+   "Triangle",
+   "Triangle",
+   "Triangolo",
+   "Triángulo",
+   "Triângulo",
+   "Dreieck",
+   "Háromszög"
+  ],
+  "d": [
+   "În tradiție, semn favorabil: talent, ingeniozitate sau aptitudini intelectuale în zona respectivă.",
+   "In tradition, a favorable sign: talent, ingenuity or intellectual aptitude in that area.",
+   "Selon la tradition, un signe favorable : talent, ingéniosité ou aptitudes intellectuelles dans cette zone.",
+   "Secondo la tradizione, un segno favorevole: talento, ingegno o attitudini intellettuali in quella zona.",
+   "Según la tradición, un signo favorable: talento, ingenio o aptitudes intelectuales en esa zona.",
+   "Segundo a tradição, um sinal favorável: talento, engenho ou aptidões intelectuais nessa zona.",
+   "In der Tradition ein günstiges Zeichen: Talent, Einfallsreichtum oder intellektuelle Begabung in diesem Bereich.",
+   "A hagyomány szerint kedvező jel: tehetség, találékonyság vagy szellemi képesség az adott területen."
+  ]
+ },
+ {
+  "id": "grille",
+  "ic": "<path d=\"M20 10v40M40 10v40M10 20h40M10 40h40\"/>",
+  "n": [
+   "Grilaj",
+   "Grille",
+   "Grille",
+   "Griglia",
+   "Reja",
+   "Grelha",
+   "Gitter",
+   "Rács"
+  ],
+  "d": [
+   "Linii încrucișate pe un munte: în tradiție, energia zonei este intensificată, dar și dispersată sau frânată.",
+   "Crossed lines on a mount: in tradition, the energy of that area is intensified but also scattered or held back.",
+   "Lignes croisées sur un mont : selon la tradition, l'énergie de la zone est intensifiée, mais aussi dispersée ou freinée.",
+   "Linee incrociate su un monte: secondo la tradizione, l'energia della zona è intensificata, ma anche dispersa o frenata.",
+   "Líneas cruzadas sobre un monte: según la tradición, la energía de esa zona se intensifica, pero también se dispersa o se frena.",
+   "Linhas cruzadas num monte: segundo a tradição, a energia da zona é intensificada, mas também dispersa ou travada.",
+   "Gekreuzte Linien auf einem Berg: In der Tradition ist die Energie des Bereichs verstärkt, aber auch zerstreut oder gebremst.",
+   "Egymást keresztező vonalak egy dombon: a hagyomány szerint a terület energiája felerősödik, de szét is szóródik vagy gátlódik."
+  ]
+ },
+ {
+  "id": "square",
+  "ic": "<rect x=\"12\" y=\"12\" width=\"36\" height=\"36\"/>",
+  "n": [
+   "Pătrat",
+   "Square",
+   "Carré",
+   "Quadrato",
+   "Cuadrado",
+   "Quadrado",
+   "Quadrat",
+   "Négyzet"
+  ],
+  "d": [
+   "În tradiție, semn de protecție: întărește sau „repară” o linie întreruptă, adică stabilitate după o perioadă dificilă.",
+   "In tradition, a sign of protection: it reinforces or 'mends' a broken line — stability after a difficult period.",
+   "Selon la tradition, un signe de protection : il renforce ou « répare » une ligne interrompue — stabilité après une période difficile.",
+   "Secondo la tradizione, un segno di protezione: rinforza o «ripara» una linea interrotta — stabilità dopo un periodo difficile.",
+   "Según la tradición, un signo de protección: refuerza o «repara» una línea interrumpida — estabilidad tras un periodo difícil.",
+   "Segundo a tradição, um sinal de proteção: reforça ou «repara» uma linha interrompida — estabilidade após um período difícil.",
+   "In der Tradition ein Zeichen des Schutzes: Es stärkt oder „repariert“ eine unterbrochene Linie – Stabilität nach einer schwierigen Phase.",
+   "A hagyomány szerint a védelem jele: megerősíti vagy „megjavítja” a megszakadt vonalat – stabilitás egy nehéz időszak után."
+  ]
+ },
+ {
+  "id": "fork",
+  "ic": "<path d=\"M30 52V30M30 30L14 10M30 30L46 10\"/>",
+  "n": [
+   "Bifurcație",
+   "Fork",
+   "Fourche",
+   "Biforcazione",
+   "Bifurcación",
+   "Bifurcação",
+   "Gabelung",
+   "Elágazás"
+  ],
+  "d": [
+   "Linia se desparte: în tradiție, două direcții sau două laturi ale aceleiași trăsături; la capătul liniei capului arată versatilitate.",
+   "A line splits: in tradition, two directions or two sides of the same trait; at the end of the head line it suggests versatility.",
+   "La ligne se divise : selon la tradition, deux directions ou deux facettes d'un même trait ; au bout de la ligne de tête, elle suggère la polyvalence.",
+   "La linea si divide: secondo la tradizione, due direzioni o due lati di uno stesso tratto; alla fine della linea della testa suggerisce versatilità.",
+   "La línea se divide: según la tradición, dos direcciones o dos caras de un mismo rasgo; al final de la línea de la cabeza sugiere versatilidad.",
+   "A linha divide-se: segundo a tradição, duas direções ou dois lados do mesmo traço; no fim da linha da cabeça sugere versatilidade.",
+   "Die Linie teilt sich: In der Tradition zwei Richtungen oder zwei Seiten derselben Eigenschaft; am Ende der Kopflinie deutet sie Vielseitigkeit an.",
+   "A vonal kettéválik: a hagyomány szerint két irány vagy ugyanazon vonás két oldala; a fejvonal végén sokoldalúságra utal."
+  ]
+ }
+]

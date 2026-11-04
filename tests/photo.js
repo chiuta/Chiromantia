@@ -1,0 +1,12 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const p=await b.newPage({viewport:{width:390,height:800}});require('./_tab')(p);const errs=[];p.on('pageerror',e=>errs.push(e.message));
+await p.goto('file://'+process.argv[2]);
+await p.click('button[data-v="photo"]');
+await p.setInputFiles('input[data-act="phfile"]','/tmp/p.png');
+await p.waitForSelector('#phc');await p.click('[data-act="phmode"]');
+await p.locator('#phc').scrollIntoViewIfNeeded();const bb=await p.locator('#phc').boundingBox();
+await p.mouse.move(bb.x+20,bb.y+20);await p.mouse.down();await p.mouse.move(bb.x+80,bb.y+60,{steps:5});await p.mouse.up();
+const px=await p.evaluate(()=>{const c=document.getElementById('phc');const d=c.getContext('2d').getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<d.length;i+=4)if(d[i]!==200||d[i+1]!==150)n++;return n});
+console.log('drawn px',px>20?'ok':'FAIL '+px,errs);
+const [dl]=await Promise.all([p.waitForEvent('download'),p.click('[data-act="phexp"]')]);console.log('download',dl.suggestedFilename());await b.close();})();

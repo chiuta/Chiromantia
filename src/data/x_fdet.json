@@ -1,0 +1,506 @@
+[
+ {
+  "id": "tip_conic",
+  "g": "tip",
+  "n": [
+   "Vârf conic",
+   "Conic tip",
+   "Bout conique",
+   "Punta conica",
+   "Punta cónica",
+   "Ponta cónica",
+   "Konische Kuppe",
+   "Kúpos ujjhegy"
+  ],
+  "d": [
+   "Vârf care se subțiază ușor și se termină rotunjit. În tradiția lui d'Arpentigny este citit ca sensibilitate, impuls artistic și receptivitate la frumos – mai degrabă intuiție decât metodă.",
+   "Tip that tapers gently to a rounded end. In d'Arpentigny's tradition it is read as sensitivity, artistic impulse and responsiveness to beauty – more intuition than method.",
+   "Bout qui s'effile doucement et finit arrondi. Dans la tradition de d'Arpentigny, on y lit sensibilité, élan artistique et réceptivité au beau – plutôt de l'intuition que de la méthode.",
+   "Punta che si assottiglia dolcemente e termina arrotondata. Nella tradizione di d'Arpentigny è letta come sensibilità, slancio artistico e reattività al bello – più intuizione che metodo.",
+   "Punta que se afina suavemente y termina redondeada. En la tradición de d'Arpentigny se lee como sensibilidad, impulso artístico y receptividad a la belleza: más intuición que método.",
+   "Ponta que se afina suavemente e termina arredondada. Na tradição de d'Arpentigny lê-se como sensibilidade, impulso artístico e recetividade ao belo – mais intuição do que método.",
+   "Spitze, die sich sanft verjüngt und rund endet. In d'Arpentignys Tradition gilt sie als Sensibilität, künstlerischer Impuls und Empfänglichkeit für das Schöne – eher Intuition als Methode.",
+   "Finoman elkeskenyedő, lekerekített végű ujjhegy. D'Arpentigny hagyománya szerint érzékenységként, művészi indíttatásként és a szép iránti fogékonyságként olvassák – inkább intuíció, mint módszer."
+  ]
+ },
+ {
+  "id": "tip_square",
+  "g": "tip",
+  "n": [
+   "Vârf pătrat",
+   "Square tip",
+   "Bout carré",
+   "Punta quadrata",
+   "Punta cuadrada",
+   "Ponta quadrada",
+   "Quadratische Kuppe",
+   "Szögletes ujjhegy"
+  ],
+  "d": [
+   "Vârf cu capătul drept, aproape pătrat. În tradiție este citit ca simț practic, ordine, fiabilitate și preferință pentru metode verificate și reguli clare, mai degrabă decât pentru improvizație.",
+   "Tip with a flat, almost square end. In tradition it is read as practical sense, orderliness, reliability and a preference for proven methods and clear rules rather than improvisation.",
+   "Bout à l'extrémité plate, presque carrée. Dans la tradition, on y lit sens pratique, goût de l'ordre, fiabilité et préférence pour les méthodes éprouvées et les règles claires plutôt que l'improvisation.",
+   "Punta con l'estremità piatta, quasi quadrata. Nella tradizione è letta come senso pratico, ordine, affidabilità e preferenza per metodi collaudati e regole chiare piuttosto che per l'improvvisazione.",
+   "Punta de extremo plano, casi cuadrado. En la tradición se lee como sentido práctico, orden, fiabilidad y preferencia por los métodos probados y las reglas claras antes que por la improvisación.",
+   "Ponta de extremo plano, quase quadrado. Na tradição lê-se como sentido prático, ordem, fiabilidade e preferência por métodos comprovados e regras claras, mais do que pela improvisação.",
+   "Fingerspitze mit flachem, fast quadratischem Ende. In der Tradition gilt sie als praktischer Sinn, Ordnungsliebe, Verlässlichkeit und Vorliebe für bewährte Methoden und klare Regeln statt Improvisation.",
+   "Lapos, szinte négyszögletes végű ujjhegy. A hagyomány gyakorlatiasságként, rendszeretetként, megbízhatóságként, valamint a bevált módszerek és az egyértelmű szabályok előnyben részesítéseként olvassa, a rögtönzés helyett."
+  ]
+ },
+ {
+  "id": "tip_spatulate",
+  "g": "tip",
+  "n": [
+   "Vârf spatulat",
+   "Spatulate tip",
+   "Bout spatulé",
+   "Punta spatolata",
+   "Punta espatulada",
+   "Ponta espatulada",
+   "Spatelförmige Kuppe",
+   "Lapátos ujjhegy"
+  ],
+  "d": [
+   "Vârf care se lărgește la capăt, ca o spatulă. În tradiție este citit ca energie, nevoie de mișcare, spirit inventiv și înclinație spre activitate fizică sau explorare.",
+   "Tip that widens at the end, like a spatula. In tradition it is read as energy, a need for movement, an inventive spirit and a leaning toward physical activity or exploration.",
+   "Bout qui s'élargit à l'extrémité, comme une spatule. Dans la tradition, on y lit énergie, besoin de mouvement, esprit inventif et penchant pour l'activité physique ou l'exploration.",
+   "Punta che si allarga all'estremità, come una spatola. Nella tradizione è letta come energia, bisogno di movimento, spirito inventivo e inclinazione per l'attività fisica o l'esplorazione.",
+   "Punta que se ensancha en el extremo, como una espátula. En la tradición se lee como energía, necesidad de movimiento, espíritu inventivo e inclinación por la actividad física o la exploración.",
+   "Ponta que alarga na extremidade, como uma espátula. Na tradição lê-se como energia, necessidade de movimento, espírito inventivo e inclinação para a atividade física ou a exploração.",
+   "Spitze, die sich am Ende wie ein Spatel verbreitert. In der Tradition gilt sie als Energie, Bewegungsdrang, Erfindergeist und Neigung zu körperlicher Aktivität oder Entdeckung.",
+   "A végén lapátszerűen kiszélesedő ujjhegy. A hagyomány energiaként, mozgásigényként, feltalálói szellemként, valamint a testi aktivitás vagy a felfedezés iránti hajlamként olvassa."
+  ]
+ },
+ {
+  "id": "tip_pointed",
+  "g": "tip",
+  "n": [
+   "Vârf ascuțit",
+   "Pointed tip",
+   "Bout pointu",
+   "Punta appuntita",
+   "Punta puntiaguda",
+   "Ponta pontiaguda",
+   "Spitz zulaufende Kuppe",
+   "Hegyes ujjhegy"
+  ],
+  "d": [
+   "Vârf subțire, terminat aproape în punct. În tradiție este citit ca idealism, fire visătoare, sensibilitate și atracție pentru idei și imagini mai degrabă decât pentru detaliile practice.",
+   "Slender tip ending almost in a point. In tradition it is read as idealism, a dreamy nature, sensitivity and an attraction to ideas and images rather than to practical details.",
+   "Bout fin, presque pointu. Dans la tradition, on y lit idéalisme, nature rêveuse, sensibilité et attrait pour les idées et les images plutôt que pour les détails pratiques.",
+   "Punta sottile, quasi aguzza. Nella tradizione è letta come idealismo, indole sognatrice, sensibilità e attrazione per idee e immagini più che per i dettagli pratici.",
+   "Punta fina, casi en pico. En la tradición se lee como idealismo, carácter soñador, sensibilidad y atracción por las ideas y las imágenes más que por los detalles prácticos.",
+   "Ponta fina, quase em bico. Na tradição lê-se como idealismo, feitio sonhador, sensibilidade e atração por ideias e imagens mais do que por detalhes práticos.",
+   "Schlanke, fast spitz zulaufende Fingerspitze. In der Tradition gilt sie als Idealismus, verträumtes Wesen, Sensibilität und Hinwendung zu Ideen und Bildern statt zu praktischen Details.",
+   "Karcsú, szinte hegyes ujjhegy. A hagyomány idealizmusként, álmodozó természetként, érzékenységként, valamint az ötletek és képek iránti vonzódásként olvassa a gyakorlati részletekkel szemben."
+  ]
+ },
+ {
+  "id": "tip_round",
+  "g": "tip",
+  "n": [
+   "Vârf rotund",
+   "Round tip",
+   "Bout rond",
+   "Punta rotonda",
+   "Punta redonda",
+   "Ponta redonda",
+   "Runde Kuppe",
+   "Kerek ujjhegy"
+  ],
+  "d": [
+   "Vârf cu capătul rotunjit, nici ascuțit, nici pătrat. În tradiție este citit ca echilibru, adaptabilitate și îmbinare a simțului practic cu intuiția, fără înclinații prea marcate.",
+   "Tip with a rounded end, neither pointed nor square. In tradition it is read as balance, adaptability and a blend of the practical and the intuitive, without strongly marked leanings.",
+   "Bout à l'extrémité arrondie, ni pointu ni carré. Dans la tradition, on y lit équilibre, adaptabilité et mélange de sens pratique et d'intuition, sans penchants très marqués.",
+   "Punta con l'estremità arrotondata, né aguzza né quadrata. Nella tradizione è letta come equilibrio, adattabilità e miscela di senso pratico e intuizione, senza inclinazioni troppo marcate.",
+   "Punta de extremo redondeado, ni afilada ni cuadrada. En la tradición se lee como equilibrio, adaptabilidad y mezcla de sentido práctico e intuición, sin inclinaciones muy marcadas.",
+   "Ponta de extremo arredondado, nem afilada nem quadrada. Na tradição lê-se como equilíbrio, adaptabilidade e mistura de sentido prático e intuição, sem inclinações muito marcadas.",
+   "Fingerspitze mit rundem Ende, weder spitz noch eckig. In der Tradition gilt sie als Ausgewogenheit, Anpassungsfähigkeit und Mischung aus praktischem Sinn und Intuition, ohne stark ausgeprägte Neigungen.",
+   "Lekerekített végű ujjhegy, sem hegyes, sem szögletes. A hagyomány egyensúlyként, alkalmazkodóképességként, valamint a gyakorlati érzék és az intuíció keverékeként olvassa, erős hajlamok nélkül."
+  ]
+ },
+ {
+  "id": "nail_long",
+  "g": "nail",
+  "n": [
+   "Unghii lungi",
+   "Long nails",
+   "Ongles longs",
+   "Unghie lunghe",
+   "Uñas largas",
+   "Unhas compridas",
+   "Lange Nägel",
+   "Hosszú körmök"
+  ],
+  "d": [
+   "Unghii mai lungi decât late. În tradiție sunt citite ca fire calmă, receptivă și idealistă, cu gust pentru armonie; unele școli adaugă o severitate mai mică în judecăți.",
+   "Nails longer than they are wide. In tradition they are read as a calm, receptive, idealistic nature with a taste for harmony; some schools add less severity in judgment.",
+   "Ongles plus longs que larges. Dans la tradition, on y lit un tempérament calme, réceptif, idéaliste, épris d'harmonie ; certaines écoles y ajoutent moins de sévérité dans le jugement.",
+   "Unghie più lunghe che larghe. Nella tradizione sono lette come indole calma, ricettiva, idealista, amante dell'armonia; alcune scuole aggiungono una minore severità nel giudizio sugli altri.",
+   "Uñas más largas que anchas. En la tradición se leen como carácter calmado, receptivo, idealista y amante de la armonía; algunas escuelas añaden menos severidad al juzgar.",
+   "Unhas mais compridas do que largas. Na tradição leem-se como feitio calmo, recetivo, idealista e amante da harmonia; algumas escolas acrescentam menos severidade no juízo.",
+   "Nägel, die länger als breit sind. In der Tradition gelten sie als ruhiges, aufnahmebereites, idealistisches Wesen mit Sinn für Harmonie; manche Schulen ergänzen mildere Urteile.",
+   "Hosszabb, mint széles körmök. A hagyomány nyugodt, fogékony, idealista, harmóniaszerető természetként olvassa; egyes iskolák enyhébb ítélkezést is hozzátesznek."
+  ]
+ },
+ {
+  "id": "nail_short",
+  "g": "nail",
+  "n": [
+   "Unghii scurte",
+   "Short nails",
+   "Ongles courts",
+   "Unghie corte",
+   "Uñas cortas",
+   "Unhas curtas",
+   "Kurze Nägel",
+   "Rövid körmök"
+  ],
+  "d": [
+   "Unghii scurte, care acoperă puțin din vârful degetului. În tradiție sunt citite ca spirit critic, analitic și direct, prompt în a pune întrebări și în a reacționa.",
+   "Short nails that cover little of the fingertip. In tradition they are read as a critical, analytical, direct mind, quick to question and to react.",
+   "Ongles courts, qui couvrent peu le bout du doigt. Dans la tradition, on y lit un esprit critique, analytique et direct, prompt à questionner et à réagir.",
+   "Unghie corte, che coprono poco la punta del dito. Nella tradizione sono lette come mente critica, analitica e diretta, pronta a fare domande e a reagire.",
+   "Uñas cortas, que cubren poco la yema del dedo. En la tradición se leen como mente crítica, analítica y directa, rápida para cuestionar y reaccionar.",
+   "Unhas curtas, que cobrem pouco a ponta do dedo. Na tradição leem-se como mente crítica, analítica e direta, pronta a questionar e a reagir nas situações do dia a dia.",
+   "Kurze Nägel, die die Fingerkuppe nur wenig bedecken. In der Tradition gelten sie als kritischer, analytischer, direkter Geist, schnell im Hinterfragen und im spontanen Reagieren im Alltag.",
+   "Rövid körmök, amelyek keveset fednek az ujjbegyből. A hagyomány kritikus, elemző, egyenes észjárásként olvassa, amely gyorsan kérdez és reagál."
+  ]
+ },
+ {
+  "id": "nail_broad",
+  "g": "nail",
+  "n": [
+   "Unghii late",
+   "Broad nails",
+   "Ongles larges",
+   "Unghie larghe",
+   "Uñas anchas",
+   "Unhas largas",
+   "Breite Nägel",
+   "Széles körmök"
+  ],
+  "d": [
+   "Unghii late, care ocupă cea mai mare parte din lățimea degetului. În tradiție sunt citite ca deschidere, franchețe și calm; unii autori adaugă o nerăbdare ocazională în fața contrazicerii.",
+   "Wide nails that take up most of the finger's width. In tradition they are read as openness, frankness and calm; some authors add occasional impatience when contradicted.",
+   "Ongles larges, occupant presque toute la largeur du doigt. Dans la tradition, on y lit ouverture, franchise et calme ; certains auteurs y ajoutent une impatience occasionnelle face à la contradiction.",
+   "Unghie larghe, che occupano gran parte della larghezza del dito. Nella tradizione sono lette come apertura, franchezza e calma; alcuni autori aggiungono un'occasionale insofferenza alla contraddizione.",
+   "Uñas anchas, que ocupan casi todo el ancho del dedo. En la tradición se leen como apertura, franqueza y calma; algunos autores añaden cierta impaciencia ocasional ante la contradicción.",
+   "Unhas largas, que ocupam quase toda a largura do dedo. Na tradição leem-se como abertura, franqueza e calma; alguns autores acrescentam alguma impaciência ocasional perante a contradição.",
+   "Breite Nägel, die fast die ganze Fingerbreite einnehmen. In der Tradition gelten sie als Offenheit, Geradlinigkeit und Ruhe; manche Autoren ergänzen gelegentliche Ungeduld bei Widerspruch.",
+   "Széles körmök, amelyek az ujj szélességének nagy részét elfoglalják. A hagyomány nyitottságként, őszinteségként és nyugalomként olvassa; egyes szerzők alkalmi türelmetlenséget tesznek hozzá ellentmondás esetén."
+  ]
+ },
+ {
+  "id": "nail_narrow",
+  "g": "nail",
+  "n": [
+   "Unghii înguste",
+   "Narrow nails",
+   "Ongles étroits",
+   "Unghie strette",
+   "Uñas estrechas",
+   "Unhas estreitas",
+   "Schmale Nägel",
+   "Keskeny körmök"
+  ],
+  "d": [
+   "Unghii înguste, cu un contur subțire. În tradiție sunt citite ca reținere, prudență și selectivitate în acordarea încrederii; unele școli adaugă o fire mai retrasă.",
+   "Narrow nails with a slim outline. In tradition they are read as reserve, caution and selectiveness in giving trust; some schools add a more private nature.",
+   "Ongles étroits, au contour mince. Dans la tradition, on y lit réserve, prudence et sélectivité dans la confiance accordée ; certaines écoles y ajoutent un naturel plus secret.",
+   "Unghie strette, dal contorno sottile. Nella tradizione sono lette come riserbo, prudenza e selettività nel concedere fiducia; alcune scuole aggiungono un carattere più appartato e discreto.",
+   "Uñas estrechas, de contorno delgado. En la tradición se leen como reserva, cautela y selectividad al dar la confianza; algunas escuelas añaden un carácter más recogido.",
+   "Unhas estreitas, de contorno fino. Na tradição leem-se como reserva, cautela e seletividade ao dar confiança; algumas escolas acrescentam também um feitio mais recolhido e discreto.",
+   "Schmale Nägel mit schlankem Umriss. In der Tradition gelten sie als Zurückhaltung, Vorsicht und Wählerischsein beim Vertrauen; manche Schulen ergänzen auch ein eher verschlossenes, stilles Wesen.",
+   "Keskeny körmök, karcsú körvonallal. A hagyomány tartózkodásként, óvatosságként és a bizalom megadásában való válogatósságként olvassa; egyes iskolák zártabb természetet is hozzátesznek."
+  ]
+ },
+ {
+  "id": "nail_med",
+  "g": "nail",
+  "n": [
+   "Notă medicală: unghiile",
+   "Medical note: nails",
+   "Note médicale : ongles",
+   "Nota medica: unghie",
+   "Nota médica: uñas",
+   "Nota médica: unhas",
+   "Medizinischer Hinweis: Nägel",
+   "Orvosi megjegyzés: körmök"
+  ],
+  "d": [
+   "Interpretarea unghiilor în chiromanție nu este validată științific. Schimbările de culoare, formă, striuri sau grosime ale unghiilor pot avea multe cauze, inclusiv medicale, pe care doar un medic le poate evalua; dacă observi așa ceva, întreabă un medic.",
+   "Palmistry's reading of nails is not scientifically validated. Changes in nail color, shape, ridges or thickness can have many causes, including medical ones, which only a doctor can assess; if you notice any, please ask a doctor.",
+   "La lecture des ongles en chiromancie n'est pas validée scientifiquement. Les changements de couleur, de forme, de stries ou d'épaisseur des ongles peuvent avoir de nombreuses causes, y compris médicales, que seul un médecin peut évaluer ; si vous en remarquez, demandez l'avis d'un médecin.",
+   "La lettura delle unghie in chiromanzia non è convalidata scientificamente. Cambiamenti di colore, forma, striature o spessore delle unghie possono avere molte cause, anche mediche, che solo un medico può valutare; se ne noti, chiedi a un medico.",
+   "La lectura de las uñas en la quiromancia no está validada científicamente. Los cambios de color, forma, estrías o grosor de las uñas pueden tener muchas causas, incluidas las médicas, que solo un médico puede evaluar; si notas alguno, consulta a un médico.",
+   "A leitura das unhas na quiromancia não está validada cientificamente. Alterações de cor, forma, estrias ou espessura das unhas podem ter muitas causas, incluindo médicas, que só um médico pode avaliar; se notar alguma, consulte um médico.",
+   "Das Deuten der Nägel in der Handlesekunst ist wissenschaftlich nicht belegt. Veränderungen von Farbe, Form, Rillen oder Dicke der Nägel können viele Ursachen haben, auch medizinische, die nur eine Ärztin oder ein Arzt beurteilen kann; wenn du so etwas bemerkst, frag eine Ärztin oder einen Arzt.",
+   "A körmök értelmezése a tenyérjóslásban tudományosan nem igazolt. A köröm színének, alakjának, barázdáltságának vagy vastagságának változásának sok oka lehet, köztük egészségügyi is, amelyet csak orvos tud megítélni; ha ilyet észlelsz, kérdezd meg orvosodat."
+  ]
+ },
+ {
+  "id": "joint_smooth",
+  "g": "joint",
+  "n": [
+   "Articulații netede",
+   "Smooth joints",
+   "Articulations lisses",
+   "Articolazioni lisce",
+   "Articulaciones lisas",
+   "Articulações lisas",
+   "Glatte Gelenke",
+   "Sima ízületek"
+  ],
+  "d": [
+   "Articulații ale degetelor aproape invizibile, care dau degetelor o linie fluidă. În tradiția lui d'Arpentigny sunt citite ca intuiție, spontaneitate și decizii luate după impresia de ansamblu.",
+   "Finger joints that are barely visible, giving the fingers a flowing line. In d'Arpentigny's tradition they are read as intuition, spontaneity and decisions taken from the overall impression.",
+   "Articulations des doigts peu visibles, donnant aux doigts une ligne fluide. Dans la tradition de d'Arpentigny, on y lit intuition, spontanéité et décisions prises sur l'impression d'ensemble.",
+   "Articolazioni delle dita poco visibili, che danno alle dita una linea fluida. Nella tradizione di d'Arpentigny sono lette come intuizione, spontaneità e decisioni prese sull'impressione d'insieme.",
+   "Articulaciones de los dedos poco visibles, que dan a los dedos una línea fluida. En la tradición de d'Arpentigny se leen como intuición, espontaneidad y decisiones tomadas por la impresión de conjunto.",
+   "Articulações dos dedos pouco visíveis, que dão aos dedos uma linha fluida. Na tradição de d'Arpentigny leem-se como intuição, espontaneidade e decisões tomadas pela impressão de conjunto.",
+   "Kaum sichtbare Fingergelenke, die den Fingern eine fließende Linie geben. In d'Arpentignys Tradition gelten sie als Intuition, Spontaneität und Entscheidungen, die aus dem Gesamteindruck heraus getroffen werden.",
+   "Alig látható ujjízületek, amelyek folyó vonalat adnak az ujjaknak. D'Arpentigny hagyománya szerint intuícióként, spontaneitásként és az összbenyomás alapján hozott döntésekként olvassák."
+  ]
+ },
+ {
+  "id": "joint_knotty",
+  "g": "joint",
+  "n": [
+   "Articulații proeminente",
+   "Prominent joints",
+   "Articulations saillantes",
+   "Articolazioni prominenti",
+   "Articulaciones marcadas",
+   "Articulações salientes",
+   "Hervortretende Gelenke",
+   "Kiemelkedő ízületek"
+  ],
+  "d": [
+   "Articulații ale degetelor evidente, cu aspect noduros. În tradiția lui d'Arpentigny sunt citite ca spirit analitic, metodă, atenție la detalii și decizii luate după reflecție – chestiune de tradiție, nu de diagnostic.",
+   "Prominent, knobbly finger joints. In d'Arpentigny's tradition they are read as an analytical mind, method, attention to detail and decisions made after reflection – a matter of tradition, not diagnosis.",
+   "Articulations des doigts saillantes, noueuses. Dans la tradition de d'Arpentigny, on y lit esprit analytique, méthode, attention aux détails et décisions prises après réflexion – affaire de tradition, non de diagnostic.",
+   "Articolazioni delle dita evidenti, nodose. Nella tradizione di d'Arpentigny sono lette come spirito analitico, metodo, attenzione ai dettagli e decisioni prese dopo riflessione – questione di tradizione, non di diagnosi.",
+   "Articulaciones de los dedos marcadas, nudosas. En la tradición de d'Arpentigny se leen como espíritu analítico, método, atención al detalle y decisiones tomadas tras reflexionar: cuestión de tradición, no de diagnóstico.",
+   "Articulações dos dedos salientes, nodosas. Na tradição de d'Arpentigny leem-se como espírito analítico, método, atenção ao pormenor e decisões tomadas após reflexão – questão de tradição, não de diagnóstico.",
+   "Deutlich hervortretende, knotige Fingergelenke. In d'Arpentignys Tradition gelten sie als analytischer Geist, Methode, Blick fürs Detail und Entscheidungen nach Überlegung – eine Frage der Tradition, keine Diagnose.",
+   "Kiemelkedő, csomós ujjízületek. D'Arpentigny hagyománya szerint elemző észjárásként, módszerességként, részletek iránti figyelemként és megfontolt döntésekként olvassák – hagyomány, nem diagnózis."
+  ]
+ },
+ {
+  "id": "gap_wide",
+  "g": "gap",
+  "n": [
+   "Degete depărtate",
+   "Wide-spaced fingers",
+   "Doigts écartés",
+   "Dita distanziate",
+   "Dedos separados",
+   "Dedos afastados",
+   "Weit stehende Finger",
+   "Széttartó ujjak"
+  ],
+  "d": [
+   "Degete care rămân depărtate între ele când mâna este relaxată. În tradiție sunt citite ca independență, deschidere și gust pentru libertatea de acțiune; unii autori adaugă un stil mai spontan, mai puțin precaut.",
+   "Fingers that stand apart from each other when the hand is relaxed. In tradition they are read as independence, openness and a taste for freedom of action; some authors add a more spontaneous, less cautious style.",
+   "Doigts qui restent écartés les uns des autres quand la main est détendue. Dans la tradition, on y lit indépendance, ouverture et goût de la liberté d'action ; certains auteurs y ajoutent un style plus spontané, moins prudent.",
+   "Dita che restano distanziate tra loro quando la mano è rilassata. Nella tradizione sono lette come indipendenza, apertura e gusto per la libertà d'azione; alcuni autori aggiungono uno stile più spontaneo, meno cauto.",
+   "Dedos que quedan separados entre sí cuando la mano está relajada. En la tradición se leen como independencia, apertura y gusto por la libertad de acción; algunos autores añaden un estilo más espontáneo y menos cauteloso.",
+   "Dedos que ficam afastados entre si quando a mão está relaxada. Na tradição leem-se como independência, abertura e gosto pela liberdade de ação; alguns autores acrescentam um estilo mais espontâneo e menos cauteloso.",
+   "Finger, die bei entspannter Hand auseinanderstehen. In der Tradition gelten sie als Unabhängigkeit, Offenheit und Freude an Handlungsfreiheit; manche Autoren ergänzen einen spontaneren, weniger vorsichtigen Stil.",
+   "Az ujjak, amelyek ellazított kéznél szétállnak egymástól. A hagyomány függetlenségként, nyitottságként és a cselekvési szabadság kedveléseként olvassa; egyes szerzők spontánabb, kevésbé óvatos stílust is hozzátesznek."
+  ]
+ },
+ {
+  "id": "gap_tight",
+  "g": "gap",
+  "n": [
+   "Degete apropiate",
+   "Close-set fingers",
+   "Doigts serrés",
+   "Dita ravvicinate",
+   "Dedos juntos",
+   "Dedos juntos",
+   "Dicht stehende Finger",
+   "Egymáshoz simuló ujjak"
+  ],
+  "d": [
+   "Degete care rămân apropiate, lipite, când mâna este relaxată. În tradiție sunt citite ca prudență, reținere și grijă de a păstra private lucrurile personale; unii autori adaugă un stil mai precaut.",
+   "Fingers that stay close together when the hand is relaxed. In tradition they are read as caution, reserve and care in keeping personal matters private; some authors add a more cautious style.",
+   "Doigts qui restent serrés les uns contre les autres quand la main est détendue. Dans la tradition, on y lit prudence, retenue et soin de garder ses affaires personnelles ; certains auteurs y ajoutent un style plus circonspect.",
+   "Dita che restano vicine, unite, quando la mano è rilassata. Nella tradizione sono lette come prudenza, riserbo e cura nel tenere private le questioni personali; alcuni autori aggiungono uno stile più cauto.",
+   "Dedos que permanecen juntos cuando la mano está relajada. En la tradición se leen como prudencia, reserva y cuidado de mantener privados los asuntos personales; algunos autores añaden un estilo más cauteloso.",
+   "Dedos que permanecem juntos quando a mão está relaxada. Na tradição leem-se como prudência, reserva e cuidado em manter privados os assuntos pessoais; alguns autores acrescentam um estilo mais cauteloso.",
+   "Finger, die bei entspannter Hand dicht beieinanderbleiben. In der Tradition gelten sie als Vorsicht, Zurückhaltung und Sorgfalt, Persönliches privat zu halten; manche Autoren ergänzen einen vorsichtigeren Stil.",
+   "Az ujjak, amelyek ellazított kéznél szorosan egymás mellett maradnak. A hagyomány óvatosságként, tartózkodásként és a személyes dolgok magánál tartásának igényeként olvassa; egyes szerzők óvatosabb stílust is hozzátesznek."
+  ]
+ },
+ {
+  "id": "phal_1",
+  "g": "phal",
+  "n": [
+   "Falanga 1 (vârf)",
+   "Phalanx 1 (tip)",
+   "Phalange 1 (bout)",
+   "Falange 1 (punta)",
+   "Falange 1 (punta)",
+   "Falange 1 (ponta)",
+   "Glied 1 (Spitze)",
+   "1. ujjperc (hegy)"
+  ],
+  "d": [
+   "Falanga cu unghia, cea mai apropiată de vârf. În tradiție corespunde lumii ideilor și a spiritului; dacă este cea mai lungă dintre cele trei, accentul ar cădea pe gândire, intuiție și abstracție.",
+   "The phalanx with the nail, nearest the tip. In tradition it corresponds to the world of ideas and spirit; if it is the longest of the three, emphasis is placed on thought, intuition and abstraction.",
+   "La phalange qui porte l'ongle, la plus proche du bout. Dans la tradition, elle correspond au monde des idées et de l'esprit ; si elle est la plus longue des trois, l'accent serait mis sur la pensée, l'intuition et l'abstraction.",
+   "La falange con l'unghia, la più vicina alla punta. Nella tradizione corrisponde al mondo delle idee e dello spirito; se è la più lunga delle tre, l'accento cadrebbe su pensiero, intuizione e astrazione.",
+   "La falange con la uña, la más cercana a la punta. En la tradición corresponde al mundo de las ideas y del espíritu; si es la más larga de las tres, el énfasis recaería en el pensamiento, la intuición y la abstracción.",
+   "A falange com a unha, a mais próxima da ponta. Na tradição corresponde ao mundo das ideias e do espírito; se for a mais longa das três, o acento recairia no pensamento, na intuição e na abstração.",
+   "Das Glied mit dem Nagel, der Spitze am nächsten. In der Tradition entspricht es der Welt der Ideen und des Geistes; ist es das längste der drei, läge die Betonung auf Denken, Intuition und Abstraktion.",
+   "A körmöt viselő, a hegyhez legközelebbi ujjperc. A hagyomány szerint az eszmék és a szellem világának felel meg; ha a három közül ez a leghosszabb, a hangsúly a gondolkodáson, az intuíción és az absztrakción lenne."
+  ]
+ },
+ {
+  "id": "phal_2",
+  "g": "phal",
+  "n": [
+   "Falanga 2 (mijloc)",
+   "Phalanx 2 (middle)",
+   "Phalange 2 (milieu)",
+   "Falange 2 (mezzo)",
+   "Falange 2 (medio)",
+   "Falange 2 (meio)",
+   "Glied 2 (Mitte)",
+   "2. ujjperc (közép)"
+  ],
+  "d": [
+   "Falanga de mijloc. În tradiție corespunde raționamentului practic și organizării; dacă este cea mai lungă dintre cele trei, accentul ar cădea pe planificare, simț pentru afaceri și bun-simț.",
+   "The middle phalanx. In tradition it corresponds to practical reasoning and organization; if it is the longest of the three, emphasis is placed on planning, business sense and common sense.",
+   "La phalange du milieu. Dans la tradition, elle correspond au raisonnement pratique et à l'organisation ; si elle est la plus longue des trois, l'accent serait mis sur la planification, le sens des affaires et le bon sens.",
+   "La falange di mezzo. Nella tradizione corrisponde al ragionamento pratico e all'organizzazione; se è la più lunga delle tre, l'accento cadrebbe su pianificazione, senso degli affari e buon senso.",
+   "La falange media. En la tradición corresponde al razonamiento práctico y a la organización; si es la más larga de las tres, el énfasis recaería en la planificación, el sentido para los negocios y el sentido común.",
+   "A falange média. Na tradição corresponde ao raciocínio prático e à organização; se for a mais longa das três, o acento recairia no planeamento, no sentido para os negócios e no bom senso.",
+   "Das mittlere Glied. In der Tradition entspricht es dem praktischen Denken und der Organisation; ist es das längste der drei, läge die Betonung auf Planung, Geschäftssinn und gesundem Menschenverstand.",
+   "A középső ujjperc. A hagyomány szerint a gyakorlati gondolkodásnak és a szervezésnek felel meg; ha a három közül ez a leghosszabb, a hangsúly a tervezésen, az üzleti érzéken és a józan észen lenne."
+  ]
+ },
+ {
+  "id": "phal_3",
+  "g": "phal",
+  "n": [
+   "Falanga 3 (bază)",
+   "Phalanx 3 (base)",
+   "Phalange 3 (base)",
+   "Falange 3 (base)",
+   "Falange 3 (base)",
+   "Falange 3 (base)",
+   "Glied 3 (Basis)",
+   "3. ujjperc (alap)"
+  ],
+  "d": [
+   "Falanga de bază, cea mai apropiată de palmă. În tradiție corespunde preocupărilor materiale și corporale; dacă este cea mai lungă dintre cele trei, accentul ar cădea pe confort, plăcerile simțurilor și bunurile materiale.",
+   "The base phalanx, nearest the palm. In tradition it corresponds to material and bodily concerns; if it is the longest of the three, emphasis is placed on comfort, sensory pleasures and material possessions.",
+   "La phalange de la base, la plus proche de la paume. Dans la tradition, elle correspond aux préoccupations matérielles et corporelles ; si elle est la plus longue des trois, l'accent serait mis sur le confort, les plaisirs des sens et les biens matériels.",
+   "La falange di base, la più vicina al palmo. Nella tradizione corrisponde alle preoccupazioni materiali e corporee; se è la più lunga delle tre, l'accento cadrebbe su comfort, piaceri dei sensi e beni materiali.",
+   "La falange de la base, la más cercana a la palma. En la tradición corresponde a las preocupaciones materiales y corporales; si es la más larga de las tres, el énfasis recaería en la comodidad, los placeres de los sentidos y los bienes materiales.",
+   "A falange da base, a mais próxima da palma. Na tradição corresponde às preocupações materiais e corporais; se for a mais longa das três, o acento recairia no conforto, nos prazeres dos sentidos e nos bens materiais.",
+   "Das Grundglied, der Handfläche am nächsten. In der Tradition entspricht es materiellen und körperlichen Anliegen; ist es das längste der drei, läge die Betonung auf Komfort, Sinnesfreuden und materiellen Gütern.",
+   "Az alapperc, a tenyérhez legközelebbi ujjperc. A hagyomány szerint az anyagi és testi gondoknak felel meg; ha a három közül ez a leghosszabb, a hangsúly a kényelmen, az érzéki örömökön és az anyagi javakon lenne."
+  ]
+ },
+ {
+  "id": "thumb_will",
+  "g": "thumb",
+  "n": [
+   "Degetul mare: voința",
+   "Thumb: will",
+   "Pouce : volonté",
+   "Pollice: volontà",
+   "Pulgar: voluntad",
+   "Polegar: vontade",
+   "Daumen: Wille",
+   "Hüvelykujj: akarat"
+  ],
+  "d": [
+   "Falanga superioară a degetului mare, cea cu unghia. În tradiție este asociată cu voința: lungă și fermă – hotărâre și stăpânire de sine; scurtă – mai multă flexibilitate sau spontaneitate.",
+   "The upper phalanx of the thumb, the one with the nail. In tradition it is linked to will: long and firm – determination and self-command; short – more flexibility or spontaneity.",
+   "La phalange supérieure du pouce, celle de l'ongle. Dans la tradition, on l'associe à la volonté. Longue et ferme : détermination et maîtrise de soi ; courte : plus de souplesse ou de spontanéité.",
+   "La falange superiore del pollice, quella con l'unghia. Nella tradizione è associata alla volontà. Lunga e ferma: determinazione e autocontrollo; corta: più flessibilità o spontaneità.",
+   "La falange superior del pulgar, la de la uña. En la tradición se asocia con la voluntad. Larga y firme: determinación y autocontrol; corta: más flexibilidad o espontaneidad.",
+   "A falange superior do polegar, a da unha. Na tradição associa-se à vontade. Longa e firme: determinação e autocontrolo; curta: mais flexibilidade ou espontaneidade nas decisões.",
+   "Das obere Daumenglied, das mit dem Nagel. In der Tradition wird es dem Willen zugeordnet: lang und fest – Entschlossenheit und Selbstbeherrschung; kurz – mehr Flexibilität oder Spontaneität.",
+   "A hüvelykujj felső perce, amelyen a köröm van. A hagyomány az akarattal hozza összefüggésbe: hosszú és szilárd – határozottság és önuralom; rövid – nagyobb rugalmasság vagy spontaneitás."
+  ]
+ },
+ {
+  "id": "thumb_logic",
+  "g": "thumb",
+  "n": [
+   "Degetul mare: logica",
+   "Thumb: logic",
+   "Pouce : logique",
+   "Pollice: logica",
+   "Pulgar: lógica",
+   "Polegar: lógica",
+   "Daumen: Logik",
+   "Hüvelykujj: logika"
+  ],
+  "d": [
+   "Falanga inferioară a degetului mare, dinspre palmă. În tradiție este asociată cu logica și rațiunea: lungă – gândire atentă, cumpănită; scurtă – decizii mai rapide, mai intuitive.",
+   "The lower phalanx of the thumb, toward the palm. In tradition it is linked to logic and reason: long – careful, weighed thinking; short – quicker, more intuitive decisions.",
+   "La phalange inférieure du pouce, côté paume. Dans la tradition, on l'associe à la logique et à la raison. Longue : réflexion attentive et pesée ; courte : décisions plus rapides, plus intuitives.",
+   "La falange inferiore del pollice, verso il palmo. Nella tradizione è associata alla logica e alla ragione. Lunga: pensiero attento e ponderato; corta: decisioni più rapide, più intuitive.",
+   "La falange inferior del pulgar, hacia la palma. En la tradición se asocia con la lógica y la razón. Larga: pensamiento atento y ponderado; corta: decisiones más rápidas, más intuitivas.",
+   "A falange inferior do polegar, junto à palma. Na tradição associa-se à lógica e à razão. Longa: pensamento atento e ponderado; curta: decisões mais rápidas e mais intuitivas.",
+   "Das untere Daumenglied, zur Handfläche hin. In der Tradition wird es Logik und Vernunft zugeordnet: lang – sorgfältiges, abwägendes Denken; kurz – schnellere, eher intuitive Entscheidungen.",
+   "A hüvelykujj alsó perce, a tenyér felé. A hagyomány a logikával és az értelemmel hozza összefüggésbe: hosszú – gondos, mérlegelő gondolkodás; rövid – gyorsabb, inkább intuitív döntések."
+  ]
+ },
+ {
+  "id": "thumb_open",
+  "g": "thumb",
+  "n": [
+   "Degetul mare: unghi larg",
+   "Thumb: wide angle",
+   "Pouce : angle ouvert",
+   "Pollice: angolo ampio",
+   "Pulgar: ángulo amplio",
+   "Polegar: ângulo amplo",
+   "Daumen: weiter Winkel",
+   "Hüvelykujj: nagy szög"
+  ],
+  "d": [
+   "Degetul mare care se îndepărtează mult de mână, într-un unghi larg. În tradiție este citit ca generozitate, deschidere și adaptabilitate; unii autori adaugă un stil mai liber, mai puțin controlat.",
+   "A thumb that swings out at a wide angle from the hand. In tradition it is read as generosity, openness and adaptability; some authors add a freer, less controlled manner.",
+   "Un pouce qui s'écarte largement de la main. Dans la tradition, on y lit générosité, ouverture et adaptabilité ; certains auteurs y ajoutent une manière plus libre, moins contrôlée.",
+   "Un pollice che si allontana ampiamente dalla mano. Nella tradizione è letto come generosità, apertura e adattabilità; alcuni autori aggiungono una maniera più libera e meno controllata.",
+   "Un pulgar que se separa mucho de la mano. En la tradición se lee como generosidad, apertura y adaptabilidad; algunos autores añaden un modo más libre y menos controlado.",
+   "Um polegar que se afasta muito da mão. Na tradição lê-se como generosidade, abertura e adaptabilidade; alguns autores acrescentam um modo mais livre e menos controlado.",
+   "Ein Daumen, der sich in weitem Winkel von der Hand abspreizt. In der Tradition gilt er als Großzügigkeit, Offenheit und Anpassungsfähigkeit; manche Autoren ergänzen eine freiere, weniger kontrollierte Art.",
+   "Széles szögben a kéztől eltávolodó hüvelykujj. A hagyomány nagylelkűségként, nyitottságként és alkalmazkodóképességként olvassa; egyes szerzők szabadabb, kevésbé kontrollált modort is hozzátesznek."
+  ]
+ },
+ {
+  "id": "thumb_closed",
+  "g": "thumb",
+  "n": [
+   "Degetul mare: lipit",
+   "Thumb: held close",
+   "Pouce : serré",
+   "Pollice: accostato",
+   "Pulgar: pegado",
+   "Polegar: junto",
+   "Daumen: anliegend",
+   "Hüvelykujj: simuló"
+  ],
+  "d": [
+   "Degetul mare ținut aproape de mână, lângă arătător. În tradiție este citit ca prudență, autocontrol și reținere; unii autori adaugă un spirit mai conservator sau mai econom.",
+   "A thumb held close to the hand, near the index finger. In tradition it is read as caution, self-control and reserve; some authors add a more conservative or thrifty outlook.",
+   "Un pouce tenu près de la main, contre l'index. Dans la tradition, on y lit prudence, maîtrise de soi et retenue ; certains auteurs y ajoutent un esprit plus conservateur ou économe.",
+   "Un pollice tenuto vicino alla mano, accanto all'indice. Nella tradizione è letto come prudenza, autocontrollo e riservatezza; alcuni autori aggiungono uno spirito più conservatore o parsimonioso.",
+   "Un pulgar mantenido cerca de la mano, junto al índice. En la tradición se lee como prudencia, autocontrol y reserva; algunos autores añaden un espíritu más conservador o ahorrador.",
+   "Um polegar mantido junto à mão, perto do indicador. Na tradição lê-se como prudência, autocontrolo e reserva; alguns autores acrescentam um espírito mais conservador ou poupado.",
+   "Ein Daumen, der dicht an der Hand nahe am Zeigefinger gehalten wird. In der Tradition gilt er als Vorsicht, Selbstkontrolle und Zurückhaltung; manche Autoren ergänzen eine eher konservative oder sparsame Haltung.",
+   "A kézhez közel, a mutatóujj mellett tartott hüvelykujj. A hagyomány óvatosságként, önuralomként és tartózkodásként olvassa; egyes szerzők konzervatívabb vagy takarékosabb szemléletet is hozzátesznek."
+  ]
+ }
+]

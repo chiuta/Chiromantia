@@ -1,0 +1,15 @@
+{
+ "loop": [
+  0.55,
+  0.65
+ ],
+ "whorl": [
+  0.25,
+  0.35
+ ],
+ "arch": [
+  0.03,
+  0.05
+ ],
+ "src": "Cummins & Midlo 1961; Holt 1968; typical ranges, vary with ancestry (e.g. whorls higher in some East Asian samples)"
+}

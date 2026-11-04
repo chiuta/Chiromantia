@@ -1,0 +1,142 @@
+{
+ "scale": [
+  {
+   "age": 0,
+   "n": [
+    "Început (sub arătător)",
+    "Start (under index)",
+    "Début (sous l'index)",
+    "Inizio (sotto l'indice)",
+    "Inicio (bajo el índice)",
+    "Início (sob o indicador)",
+    "Beginn (unter Zeigefinger)",
+    "Kezdet (mutatóujj alatt)"
+   ]
+  },
+  {
+   "age": 10,
+   "n": [
+    "≈ 10 ani",
+    "≈ age 10",
+    "≈ 10 ans",
+    "≈ 10 anni",
+    "≈ 10 años",
+    "≈ 10 anos",
+    "≈ 10 Jahre",
+    "≈ 10 év"
+   ]
+  },
+  {
+   "age": 20,
+   "n": [
+    "≈ 20 ani",
+    "≈ age 20",
+    "≈ 20 ans",
+    "≈ 20 anni",
+    "≈ 20 años",
+    "≈ 20 anos",
+    "≈ 20 Jahre",
+    "≈ 20 év"
+   ]
+  },
+  {
+   "age": 30,
+   "n": [
+    "≈ 30 ani",
+    "≈ age 30",
+    "≈ 30 ans",
+    "≈ 30 anni",
+    "≈ 30 años",
+    "≈ 30 anos",
+    "≈ 30 Jahre",
+    "≈ 30 év"
+   ]
+  },
+  {
+   "age": 40,
+   "n": [
+    "≈ 40 ani",
+    "≈ age 40",
+    "≈ 40 ans",
+    "≈ 40 anni",
+    "≈ 40 años",
+    "≈ 40 anos",
+    "≈ 40 Jahre",
+    "≈ 40 év"
+   ]
+  },
+  {
+   "age": 50,
+   "n": [
+    "≈ 50 ani",
+    "≈ age 50",
+    "≈ 50 ans",
+    "≈ 50 anni",
+    "≈ 50 años",
+    "≈ 50 anos",
+    "≈ 50 Jahre",
+    "≈ 50 év"
+   ]
+  },
+  {
+   "age": 60,
+   "n": [
+    "≈ 60 ani",
+    "≈ age 60",
+    "≈ 60 ans",
+    "≈ 60 anni",
+    "≈ 60 años",
+    "≈ 60 anos",
+    "≈ 60 Jahre",
+    "≈ 60 év"
+   ]
+  },
+  {
+   "age": 70,
+   "n": [
+    "≈ 70 ani",
+    "≈ age 70",
+    "≈ 70 ans",
+    "≈ 70 anni",
+    "≈ 70 años",
+    "≈ 70 anos",
+    "≈ 70 Jahre",
+    "≈ 70 év"
+   ]
+  },
+  {
+   "age": 80,
+   "n": [
+    "≈ 80 ani, capăt",
+    "≈ age 80, end",
+    "≈ 80 ans, fin",
+    "≈ 80 anni, fine",
+    "≈ 80 años, final",
+    "≈ 80 anos, fim",
+    "≈ 80 Jahre, Ende",
+    "≈ 80 év, vége"
+   ]
+  }
+ ],
+ "note": [
+  "În folclorul chiromanției, unor puncte de pe linia vieții li s-au atribuit vârste, dar școlile folosesc metode diferite, deci rezultatele diferă. Nu există bază științifică, iar linia nu indică durata vieții; scala este doar un obicei istoric.",
+  "In palmistry folklore, ages were assigned to points along the life line, but schools use different methods, so results differ. There is no scientific basis, and the line does not show how long anyone will live; the scale is only a historical custom.",
+  "Dans le folklore chiromancien, des âges ont été attribués à des points de la ligne de vie, mais les écoles emploient des méthodes différentes. Aucune base scientifique : la ligne n'indique pas la durée de vie ; l'échelle n'est qu'une coutume historique.",
+  "Nel folclore della chiromanzia si sono attribuite età a punti della linea della vita, ma le scuole usano metodi diversi, quindi i risultati variano. Non c'è alcuna base scientifica e la linea non indica la durata della vita; la scala è solo un'usanza storica.",
+  "En el folclore de la quiromancia se asignaron edades a puntos de la línea de la vida, pero las escuelas usan métodos distintos. Sin base científica: la línea no indica la duración de la vida; la escala es solo una costumbre histórica.",
+  "No folclore da quiromancia atribuíram-se idades a pontos da linha da vida, mas as escolas usam métodos diferentes, pelo que os resultados variam. Não há base científica e a linha não indica a duração da vida; a escala é apenas um costume histórico.",
+  "In der Handlesefolklore wurden Punkten der Lebenslinie Lebensalter zugeordnet, doch die Schulen verwenden unterschiedliche Methoden, sodass die Ergebnisse abweichen. Es gibt keine wissenschaftliche Grundlage, und die Linie zeigt nicht die Lebensdauer an; die Skala ist nur ein historischer Brauch.",
+  "A tenyérjóslás népi hagyományában az életvonal pontjaihoz életkorokat rendeltek, de az iskolák eltérő módszereket használnak, ezért az eredmények különböznek. Nincs tudományos alapja, és a vonal nem mutatja az élettartamot; a skála csupán történeti szokás."
+ ],
+ "how": [
+  "Tradițional, linia se măsoară de la început, sub degetul arătător, până la încheietură, apoi se împarte proporțional. Benham plasează vârsta de 36 de ani la jumătatea liniei; alte școli împart altfel. Metoda este orientativă și neverificată. Scala 0–80 din aplicație este o simplificare liniară, doar ilustrativă; Benham închide linia la 70 de ani, cu intervale neregulate.",
+  "Traditionally the line is measured from its start under the index finger down to the wrist, then divided proportionally. Benham places age 36 at the midpoint of the line; other schools divide it differently. The method is approximate and unverified. The 0–80 scale in this app is a simplified linear illustration; Benham ends the line at age 70, with uneven intervals.",
+  "Traditionnellement, on mesure la ligne depuis son début, sous l'index, jusqu'au poignet, puis on la divise proportionnellement. Benham place l'âge de 36 ans au milieu de la ligne ; d'autres écoles la divisent autrement. La méthode est approximative et non vérifiée. L'échelle de 0 à 80 de cette application est une simplification linéaire, purement illustrative ; Benham termine la ligne à 70 ans, avec des intervalles inégaux.",
+  "Tradizionalmente la linea si misura dal suo inizio, sotto l'indice, fino al polso, poi si divide in proporzione. Benham colloca i 36 anni a metà della linea; altre scuole la dividono diversamente. Il metodo è approssimativo e non verificato. La scala 0–80 di questa app è una semplificazione lineare, solo illustrativa; Benham chiude la linea a 70 anni, con intervalli irregolari.",
+  "Tradicionalmente la línea se mide desde su inicio, bajo el índice, hasta la muñeca, y luego se divide proporcionalmente. Benham sitúa los 36 años en la mitad de la línea; otras escuelas la dividen de otro modo. El método es aproximado y no verificado. La escala de 0 a 80 de esta aplicación es una simplificación lineal, meramente ilustrativa; Benham termina la línea a los 70 años, con intervalos irregulares.",
+  "Tradicionalmente a linha mede-se desde o seu início, sob o indicador, até ao pulso, e depois divide-se proporcionalmente. Benham coloca os 36 anos a meio da linha; outras escolas dividem-na de outro modo. O método é aproximado e não verificado. A escala de 0 a 80 desta aplicação é uma simplificação linear, meramente ilustrativa; Benham termina a linha aos 70 anos, com intervalos irregulares.",
+  "Traditionell misst man die Linie von ihrem Beginn unter dem Zeigefinger bis zum Handgelenk und teilt sie dann proportional. Benham setzt das Alter von 36 Jahren in die Mitte der Linie; andere Schulen teilen anders. Die Methode ist ungefähr und unbelegt. Die Skala von 0 bis 80 in dieser App ist eine vereinfachte lineare Darstellung, nur zur Veranschaulichung; Benham lässt die Linie mit 70 Jahren enden, mit ungleichmäßigen Abständen.",
+  "Hagyományosan az életvonalat a kezdetétől, a mutatóujj alatt, a csuklóig mérik, majd arányosan felosztják. Benham a 36 éves kort a vonal felezőpontjára teszi; más iskolák másként osztanak. A módszer hozzávetőleges és nem igazolt. Az alkalmazás 0–80-as skálája egyszerűsített, lineáris, csak szemléltető jellegű; Benham a vonalat 70 évesnél zárja le, egyenetlen szakaszokkal."
+ ],
+ "src": "W. G. Benham, The Laws of Scientific Hand Reading (1900), chapter on age as indicated on the lines (read via chestofbooks.com): life line from under the Jupiter finger to the rascette, 36 at the midpoint, marks at 4, 6, 12, 18, 24, 30 / 43, 51, 60, 70; Cheiro's method not verified. Scientific context: lifespan-vs-life-line studies (1990 positive; 2019 Anthropological Review, 60 cadavers, no correlation), see x_sci.json."
+}

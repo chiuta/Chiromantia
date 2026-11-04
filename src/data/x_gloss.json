@@ -1,0 +1,1208 @@
+[
+ {
+  "id": "palmistry",
+  "t": [
+   "Chiromanție",
+   "Palmistry",
+   "Chiromancie",
+   "Chiromanzia",
+   "Quiromancia",
+   "Quiromancia",
+   "Handlesekunst (Chiromantie)",
+   "Kézjóslás (kiromancia)"
+  ],
+  "d": [
+   "Practica tradițională de a interpreta liniile, formele și semnele mâinii. Este o tradiție culturală, nu o știință validată, și nu poate prezice viitorul sau diagnostica boli.",
+   "The traditional practice of interpreting the lines, shapes and marks of the hand. It is a cultural tradition, not a validated science, and cannot predict the future or diagnose illness.",
+   "Pratique traditionnelle consistant à interpréter les lignes, formes et signes de la main. C’est une tradition culturelle, non une science validée ; elle ne peut ni prédire l’avenir ni diagnostiquer une maladie.",
+   "Pratica tradizionale di interpretare linee, forme e segni della mano. È una tradizione culturale, non una scienza validata, e non può né predire il futuro né diagnosticare malattie.",
+   "Práctica tradicional de interpretar las líneas, formas y marcas de la mano. Es una tradición cultural, no una ciencia validada, y no puede predecir el futuro ni diagnosticar enfermedades.",
+   "Prática tradicional de interpretar as linhas, formas e marcas da mão. É uma tradição cultural, não uma ciência validada, e não pode prever o futuro nem diagnosticar doenças.",
+   "Die überlieferte Praxis, Linien, Formen und Zeichen der Hand zu deuten. Sie ist eine kulturelle Tradition, keine bestätigte Wissenschaft, und kann weder die Zukunft vorhersagen noch Krankheiten diagnostizieren.",
+   "A kéz vonalainak, formáinak és jeleinek hagyományos értelmezése. Kulturális hagyomány, nem igazolt tudomány, és sem a jövőt megjósolni, sem betegséget diagnosztizálni nem tud."
+  ],
+  "see": [
+   "chirology",
+   "pseudoscience"
+  ]
+ },
+ {
+  "id": "chirology",
+  "t": [
+   "Chirologie",
+   "Chirology",
+   "Chirologie",
+   "Chirologia",
+   "Quirología",
+   "Quirologia",
+   "Chirologie",
+   "Kirológia"
+  ],
+  "d": [
+   "Termen-umbrelă pentru studiul mâinii în tradiția chiromanției, care cuprinde atât forma mâinii (chirognomie), cât și liniile ei (chiromanție).",
+   "An umbrella term for the study of the hand in the palmistry tradition, covering both the shape of the hand (chirognomy) and its lines (chiromancy).",
+   "Terme générique pour l’étude de la main dans la tradition chiromantique, couvrant à la fois la forme de la main (chirognomie) et ses lignes (chiromancie).",
+   "Termine ombrello per lo studio della mano nella tradizione chiromantica, che comprende sia la forma della mano (chirognomia) sia le sue linee (chiromanzia).",
+   "Término general para el estudio de la mano en la tradición quiromántica, que abarca tanto su forma (quirognomía) como sus líneas (quiromancia).",
+   "Termo geral para o estudo da mão na tradição da quiromancia, que abrange tanto a sua forma (quirognomia) como as suas linhas (quiromancia).",
+   "Oberbegriff für das Studium der Hand in der Tradition der Handlesekunst; er umfasst die Handform (Chirognomie) und die Linien (Chiromantie).",
+   "Gyűjtőfogalom a kéz tanulmányozására a kézjóslás hagyományában: egyaránt magába foglalja a kéz alakját (kirognómia) és vonalait (kiromancia)."
+  ],
+  "see": [
+   "palmistry",
+   "chirognomy"
+  ]
+ },
+ {
+  "id": "chirognomy",
+  "t": [
+   "Chirognomie",
+   "Chirognomy",
+   "Chirognomie",
+   "Chirognomia",
+   "Quirognomía",
+   "Quirognomia",
+   "Chirognomie",
+   "Kirognómia"
+  ],
+  "d": [
+   "Ramura tradiției care citește forma mâinii: palma, lungimea degetelor, vârfurile și articulațiile. A fost formulată sistematic de d’Arpentigny în 1839, în La Chirognomie.",
+   "The branch of the tradition that reads the shape of the hand: palm, finger length, tips and joints. It was set out systematically by d’Arpentigny in 1839, in La Chirognomie.",
+   "Branche de la tradition qui lit la forme de la main : paume, longueur des doigts, bouts et articulations. D’Arpentigny l’a exposée systématiquement en 1839 dans La Chirognomie.",
+   "Ramo della tradizione che legge la forma della mano: palmo, lunghezza delle dita, punte e articolazioni. D’Arpentigny la espose in modo sistematico nel 1839 in La Chirognomie.",
+   "Rama de la tradición que lee la forma de la mano: palma, longitud de los dedos, yemas y articulaciones. D’Arpentigny la expuso de forma sistemática en 1839 en La Chirognomie.",
+   "Ramo da tradição que lê a forma da mão: palma, comprimento dos dedos, pontas e articulações. D’Arpentigny expô-la de forma sistemática em 1839 em La Chirognomie.",
+   "Zweig der Tradition, der die Form der Hand liest: Handfläche, Fingerlänge, Kuppen und Gelenke. D’Arpentigny stellte sie 1839 in La Chirognomie systematisch dar.",
+   "A hagyománynak a kéz alakját olvasó ága: tenyér, ujjhossz, ujjbegyek és ízületek. D’Arpentigny 1839-ben, a La Chirognomie című művében rendszerezte."
+  ],
+  "see": [
+   "darpentigny",
+   "chirology"
+  ]
+ },
+ {
+  "id": "dermatoglyphics",
+  "t": [
+   "Dermatoglife",
+   "Dermatoglyphics",
+   "Dermatoglyphes",
+   "Dermatoglifi",
+   "Dermatoglifos",
+   "Dermatoglifos",
+   "Dermatoglyphen",
+   "Dermatoglifák"
+  ],
+  "d": [
+   "Studiul științific al crestelor pielii de pe degete, palme și tălpi. Termenul a fost creat de Harold Cummins în 1926; nu are legătură cu chiromanția și nu citește caracterul.",
+   "The scientific study of the skin ridges on fingers, palms and soles. The term was coined by Harold Cummins in 1926; it is separate from palmistry and does not read character.",
+   "Étude scientifique des crêtes cutanées des doigts, des paumes et des plantes. Le terme a été créé par Harold Cummins en 1926 ; il est distinct de la chiromancie et ne lit pas le caractère.",
+   "Studio scientifico delle creste cutanee di dita, palmi e piante dei piedi. Il termine fu coniato da Harold Cummins nel 1926; è distinto dalla chiromanzia e non legge il carattere.",
+   "Estudio científico de las crestas de la piel de dedos, palmas y plantas. El término lo acuñó Harold Cummins en 1926; es independiente de la quiromancia y no lee el carácter.",
+   "Estudo científico das cristas da pele dos dedos, palmas e plantas dos pés. O termo foi criado por Harold Cummins em 1926; é independente da quiromancia e não lê o carácter.",
+   "Wissenschaftliche Untersuchung der Hautleisten an Fingern, Handflächen und Fußsohlen. Den Begriff prägte Harold Cummins 1926; er ist von der Handlesekunst getrennt und liest keinen Charakter.",
+   "Az ujjak, tenyerek és talpak bőrléceinek tudományos vizsgálata. A kifejezést Harold Cummins alkotta 1926-ban; elkülönül a kézjóslástól, és jellemet nem olvas."
+  ],
+  "see": [
+   "ridges",
+   "cummins",
+   "triradius"
+  ]
+ },
+ {
+  "id": "ridges",
+  "t": [
+   "Creste papilare",
+   "Friction ridges",
+   "Crêtes papillaires",
+   "Creste papillari",
+   "Crestas papilares",
+   "Cristas papilares",
+   "Papillarleisten",
+   "Papilláris vonalak"
+  ],
+  "d": [
+   "Liniile fine în relief de pe pielea vârfurilor degetelor, a palmelor și a tălpilor. Se formează înainte de naștere și rămân neschimbate toată viața, fiind baza amprentelor.",
+   "The fine raised lines on the skin of fingertips, palms and soles. They form before birth and stay unchanged for life, and they are the basis of fingerprints.",
+   "Les fines lignes en relief de la peau des bouts de doigts, des paumes et des plantes. Elles se forment avant la naissance et restent inchangées toute la vie ; elles forment les empreintes.",
+   "Le sottili linee in rilievo sulla pelle di punte delle dita, palmi e piante. Si formano prima della nascita e restano invariate per tutta la vita; sono la base delle impronte digitali.",
+   "Las finas líneas en relieve de la piel de las yemas, palmas y plantas. Se forman antes del nacimiento y permanecen sin cambios toda la vida; son la base de las huellas dactilares.",
+   "As linhas finas em relevo na pele das pontas dos dedos, palmas e plantas dos pés. Formam-se antes do nascimento e mantêm-se inalteradas toda a vida; são a base das impressões digitais.",
+   "Die feinen erhabenen Linien auf der Haut von Fingerkuppen, Handflächen und Fußsohlen. Sie bilden sich vor der Geburt und bleiben lebenslang unverändert; sie sind die Grundlage der Fingerabdrücke.",
+   "Az ujjbegyek, tenyerek és talpak bőrén látható finom, kiemelkedő vonalak. Születés előtt alakulnak ki, és egész életre változatlanok maradnak; az ujjlenyomatok alapját adják."
+  ],
+  "see": [
+   "dermatoglyphics",
+   "volar"
+  ]
+ },
+ {
+  "id": "volar",
+  "t": [
+   "Perne volare",
+   "Volar pads",
+   "Coussinets palmaires",
+   "Cuscinetti volari",
+   "Almohadillas volares",
+   "Almofadas volares",
+   "Tastballen (Volarpolster)",
+   "Tapintópárnák (volaris párnák)"
+  ],
+  "d": [
+   "Mici umflături de țesut de pe vârfurile degetelor și palme ale fătului, în primele luni de sarcină. Forma lor este legată de tiparul crestelor care se formează deasupra.",
+   "Small swellings of tissue on the fetal fingertips and palms in the early months of pregnancy. Their shape is linked to the ridge pattern that forms over them.",
+   "Petits renflements de tissu sur les bouts de doigts et les paumes du fœtus, aux premiers mois de grossesse. Leur forme est liée au motif des crêtes qui s’y forment.",
+   "Piccoli rigonfiamenti di tessuto sulle punte delle dita e sui palmi del feto nei primi mesi di gravidanza. La loro forma è legata al disegno delle creste che vi si forma sopra.",
+   "Pequeñas protuberancias de tejido en las yemas y palmas del feto durante los primeros meses del embarazo. Su forma se relaciona con el patrón de crestas que se forma sobre ellas.",
+   "Pequenas saliências de tecido nas pontas dos dedos e palmas do feto nos primeiros meses de gravidez. A sua forma está ligada ao padrão de cristas que se forma sobre elas.",
+   "Kleine Gewebewölbungen an Fingerkuppen und Handflächen des Fötus in den ersten Schwangerschaftsmonaten. Ihre Form hängt mit dem Leistenmuster zusammen, das sich darüber bildet.",
+   "Kis szövetdudorok a magzat ujjbegyein és tenyerén a terhesség első hónapjaiban. Alakjuk összefügg a rajtuk kialakuló vonalmintázattal."
+  ],
+  "see": [
+   "ridges"
+  ]
+ },
+ {
+  "id": "triradius",
+  "t": [
+   "Triradius (deltă)",
+   "Triradius (delta)",
+   "Triradius (delta)",
+   "Triradio (delta)",
+   "Triradio (delta)",
+   "Triradius (delta)",
+   "Triradius (Delta)",
+   "Triradius (delta)"
+  ],
+  "d": [
+   "Punct unde se întâlnesc trei sisteme de creste sub forma unui Y. Bucla are un triradius, vârtejul două, iar arcul simplu niciunul.",
+   "A point where three ridge systems meet in a Y shape. A loop has one triradius, a whorl has two, and a plain arch has none.",
+   "Point où trois systèmes de crêtes se rencontrent en forme de Y. Une boucle a un triradius, un tourbillon deux, un arc simple aucun.",
+   "Punto in cui tre sistemi di creste si incontrano a forma di Y. Un’ansa ha un triradio, un verticillo due, un arco semplice nessuno.",
+   "Punto donde se encuentran tres sistemas de crestas en forma de Y. Un lazo tiene un triradio, un verticilo dos y un arco simple ninguno.",
+   "Ponto onde três sistemas de cristas se encontram em forma de Y. Uma laçada tem um triradius, um verticilo dois e um arco simples nenhum.",
+   "Punkt, an dem drei Leistensysteme in Y-Form zusammentreffen. Eine Schleife hat ein Triradius, ein Wirbel zwei, ein einfacher Bogen keines.",
+   "Pont, ahol három vonalrendszer Y alakban találkozik. A huroknak egy, az örvénynek két triradiusa van, az egyszerű ívnek egy sincs."
+  ],
+  "see": [
+   "loop",
+   "whorl",
+   "arch"
+  ]
+ },
+ {
+  "id": "loop",
+  "t": [
+   "Buclă",
+   "Loop",
+   "Boucle",
+   "Ansa",
+   "Lazo",
+   "Laçada",
+   "Schleife",
+   "Hurok"
+  ],
+  "d": [
+   "Tipar de amprentă în care crestele intră pe o parte, se curbează și ies pe aceeași parte. Are un triradius și este cel mai frecvent tip.",
+   "A fingerprint pattern in which ridges enter on one side, curve back and exit on the same side. It has one triradius and is the most common type.",
+   "Motif d’empreinte où les crêtes entrent d’un côté, s’incurvent et ressortent du même côté. Il a un triradius et c’est le type le plus fréquent.",
+   "Disegno di impronta in cui le creste entrano da un lato, si curvano e escono dallo stesso lato. Ha un triradio ed è il tipo più comune.",
+   "Patrón de huella en el que las crestas entran por un lado, se curvan y salen por el mismo lado. Tiene un triradio y es el tipo más frecuente.",
+   "Padrão de impressão digital em que as cristas entram por um lado, curvam e saem pelo mesmo lado. Tem um triradius e é o tipo mais frequente.",
+   "Fingerabdruckmuster, bei dem die Leisten auf einer Seite eintreten, umbiegen und auf derselben Seite austreten. Es hat ein Triradius und ist der häufigste Typ.",
+   "Ujjlenyomat-mintázat, amelyben a vonalak az egyik oldalon lépnek be, visszahajlanak, és ugyanazon az oldalon lépnek ki. Egy triradiusa van, és ez a leggyakoribb típus."
+  ],
+  "see": [
+   "ulnar",
+   "radial",
+   "triradius"
+  ]
+ },
+ {
+  "id": "ulnar",
+  "t": [
+   "Buclă cubitală",
+   "Ulnar loop",
+   "Boucle cubitale",
+   "Ansa ulnare",
+   "Lazo cubital",
+   "Laçada ulnar",
+   "Ulnare Schleife",
+   "Singcsonti hurok"
+  ],
+  "d": [
+   "Buclă ale cărei creste se deschid spre marginea cubitală (a degetului mic) a mâinii. Este cel mai frecvent tipar, cu aproximativ 55–65% din vârfurile degetelor.",
+   "A loop whose ridges open toward the ulnar (little-finger) edge of the hand. It is the most common pattern, at roughly 55–65% of fingertips.",
+   "Boucle dont les crêtes s’ouvrent vers le bord cubital (côté auriculaire) de la main. C’est le motif le plus fréquent, avec environ 55–65 % des bouts de doigts.",
+   "Ansa le cui creste si aprono verso il bordo ulnare (del mignolo) della mano. È il disegno più comune, con circa il 55–65% delle punte delle dita.",
+   "Lazo cuyas crestas se abren hacia el borde cubital (del meñique) de la mano. Es el patrón más frecuente, con alrededor del 55–65 % de las yemas.",
+   "Laçada cujas cristas se abrem para o bordo ulnar (do mindinho) da mão. É o padrão mais frequente, com cerca de 55–65% das pontas dos dedos.",
+   "Schleife, deren Leisten sich zum ulnaren (kleinfingerseitigen) Handrand öffnen. Es ist das häufigste Muster mit etwa 55–65 % der Fingerkuppen.",
+   "Hurok, amelynek vonalai a kéz singcsonti (kisujj felőli) széle felé nyílnak. Ez a leggyakoribb mintázat, az ujjbegyek nagyjából 55–65%-án."
+  ],
+  "see": [
+   "loop",
+   "radial"
+  ]
+ },
+ {
+  "id": "radial",
+  "t": [
+   "Buclă radială",
+   "Radial loop",
+   "Boucle radiale",
+   "Ansa radiale",
+   "Lazo radial",
+   "Laçada radial",
+   "Radiale Schleife",
+   "Orsócsonti hurok"
+  ],
+  "d": [
+   "Buclă ale cărei creste se deschid spre marginea radială (a degetului mare). Este mult mai rară decât cea cubitală, în jur de 1–5%, mai ales pe arătător.",
+   "A loop whose ridges open toward the radial (thumb) edge. It is much rarer than the ulnar loop, around 1–5%, mostly on the index finger.",
+   "Boucle dont les crêtes s’ouvrent vers le bord radial (côté pouce). Bien plus rare que la boucle cubitale, environ 1–5 %, surtout sur l’index.",
+   "Ansa le cui creste si aprono verso il bordo radiale (del pollice). È molto più rara di quella ulnare, circa l’1–5%, soprattutto sull’indice.",
+   "Lazo cuyas crestas se abren hacia el borde radial (del pulgar). Es mucho más raro que el cubital, alrededor del 1–5 %, sobre todo en el índice.",
+   "Laçada cujas cristas se abrem para o bordo radial (do polegar). É muito mais rara do que a ulnar, cerca de 1–5%, sobretudo no indicador.",
+   "Schleife, deren Leisten sich zum radialen (daumenseitigen) Rand öffnen. Sie ist viel seltener als die ulnare, etwa 1–5 %, meist am Zeigefinger.",
+   "Hurok, amelynek vonalai az orsócsonti (hüvelykujj felőli) szél felé nyílnak. Sokkal ritkább a singcsonti huroknál, kb. 1–5%, főleg a mutatóujjon."
+  ],
+  "see": [
+   "loop",
+   "ulnar"
+  ]
+ },
+ {
+  "id": "whorl",
+  "t": [
+   "Vârtej (spirală)",
+   "Whorl",
+   "Tourbillon",
+   "Verticillo",
+   "Verticilo",
+   "Verticilo",
+   "Wirbel",
+   "Örvény"
+  ],
+  "d": [
+   "Tipar de amprentă în care crestele se rotesc în jurul unui punct central, ca inele, spirale sau ovale. Are două triradii și apare la circa 25–35% din vârfuri.",
+   "A fingerprint pattern in which ridges circle a central point as rings, spirals or ovals. It has two triradii and occurs on roughly 25–35% of fingertips.",
+   "Motif d’empreinte où les crêtes tournent autour d’un point central en anneaux, spirales ou ovales. Il a deux triradius et apparaît sur environ 25–35 % des bouts de doigts.",
+   "Disegno di impronta in cui le creste girano attorno a un punto centrale come anelli, spirali o ovali. Ha due triradi e compare su circa il 25–35% delle punte.",
+   "Patrón de huella en el que las crestas giran en torno a un punto central como anillos, espirales u óvalos. Tiene dos triradios y aparece en alrededor del 25–35 % de las yemas.",
+   "Padrão de impressão digital em que as cristas giram em torno de um ponto central como anéis, espirais ou ovais. Tem dois triradii e surge em cerca de 25–35% das pontas.",
+   "Fingerabdruckmuster, bei dem die Leisten als Ringe, Spiralen oder Ovale um einen Mittelpunkt kreisen. Es hat zwei Triradien und kommt an etwa 25–35 % der Kuppen vor.",
+   "Ujjlenyomat-mintázat, amelyben a vonalak gyűrűk, spirálok vagy ovális formák alakjában egy középpont körül forognak. Két triradiusa van, és az ujjbegyek kb. 25–35%-án fordul elő."
+  ],
+  "see": [
+   "triradius",
+   "loop"
+  ]
+ },
+ {
+  "id": "arch",
+  "t": [
+   "Arc",
+   "Arch",
+   "Arc",
+   "Arco",
+   "Arco",
+   "Arco",
+   "Bogen",
+   "Ív"
+  ],
+  "d": [
+   "Tipar de amprentă în care crestele urcă într-o undă ușoară de la o parte la alta, fără întoarcere și fără triradius. Este neobișnuit, în jur de 3–5% din vârfuri.",
+   "A fingerprint pattern in which ridges rise in a gentle wave from one side to the other, with no backward turn and no triradius. It is uncommon, about 3–5% of fingertips.",
+   "Motif d’empreinte où les crêtes montent en une onde douce d’un côté à l’autre, sans retour ni triradius. Il est peu courant, environ 3–5 % des bouts de doigts.",
+   "Disegno di impronta in cui le creste salgono in una lieve onda da un lato all’altro, senza ritorno e senza triradio. È poco comune, circa il 3–5% delle punte.",
+   "Patrón de huella en el que las crestas suben en una suave onda de un lado a otro, sin giro de vuelta ni triradio. Es poco común, alrededor del 3–5 % de las yemas.",
+   "Padrão de impressão digital em que as cristas sobem numa onda suave de um lado ao outro, sem retorno nem triradius. É pouco comum, cerca de 3–5% das pontas.",
+   "Fingerabdruckmuster, bei dem die Leisten in einer sanften Welle von einer Seite zur anderen ansteigen, ohne Rückwendung und ohne Triradius. Es ist selten, etwa 3–5 % der Kuppen.",
+   "Ujjlenyomat-mintázat, amelyben a vonalak enyhe hullámban emelkednek az egyik oldaltól a másikig, visszafordulás és triradius nélkül. Ritka, az ujjbegyek kb. 3–5%-án."
+  ],
+  "see": [
+   "tented",
+   "triradius"
+  ]
+ },
+ {
+  "id": "tented",
+  "t": [
+   "Arc în cort",
+   "Tented arch",
+   "Arc en tente",
+   "Arco a tenda",
+   "Arco en tienda",
+   "Arco em tenda",
+   "Zeltbogen",
+   "Sátorív"
+  ],
+  "d": [
+   "Variantă de arc cu o ridicare bruscă în centru, ca un stâlp de cort. Este cel mai rar tip principal, în jur de 1% din vârfuri.",
+   "A variant of the arch with a sharp central upthrust, like a tent pole. It is the rarest main type, around 1% of fingertips.",
+   "Variante de l’arc avec une poussée centrale abrupte, comme un mât de tente. C’est le type principal le plus rare, environ 1 % des bouts de doigts.",
+   "Variante dell’arco con una brusca spinta centrale, come un palo di tenda. È il tipo principale più raro, circa l’1% delle punte.",
+   "Variante del arco con un empuje central brusco, como un palo de tienda. Es el tipo principal más raro, alrededor del 1 % de las yemas.",
+   "Variante do arco com um impulso central brusco, como um mastro de tenda. É o tipo principal mais raro, cerca de 1% das pontas.",
+   "Bogenvariante mit einem steilen Anstieg in der Mitte, wie eine Zeltstange. Es ist der seltenste Haupttyp, etwa 1 % der Kuppen.",
+   "Az ív olyan változata, amelynek közepén éles emelkedés van, mint egy sátorrúd. A legritkább fő típus, az ujjbegyek kb. 1%-án."
+  ],
+  "see": [
+   "arch"
+  ]
+ },
+ {
+  "id": "barnum",
+  "t": [
+   "Efectul Barnum (Forer)",
+   "Barnum (Forer) effect",
+   "Effet Barnum (Forer)",
+   "Effetto Barnum (Forer)",
+   "Efecto Barnum (Forer)",
+   "Efeito Barnum (Forer)",
+   "Barnum-(Forer-)Effekt",
+   "Barnum- (Forer-)hatás"
+  ],
+  "d": [
+   "Tendința de a accepta ca fiind exacte descrieri vagi și generale, crezute personalizate. Explică parțial de ce lecturile generale par să se potrivească.",
+   "The tendency to accept vague, general descriptions as accurate when they are believed to be personalized. It partly explains why general readings seem to fit.",
+   "Tendance à accepter comme exactes des descriptions vagues et générales que l’on croit personnalisées. Elle explique en partie pourquoi les lectures générales semblent justes.",
+   "Tendenza ad accettare come accurate descrizioni vaghe e generali credute personalizzate. Spiega in parte perché le letture generiche sembrano adattarsi.",
+   "Tendencia a aceptar como exactas descripciones vagas y generales que se creen personalizadas. Explica en parte por qué las lecturas generales parecen encajar.",
+   "Tendência para aceitar como exatas descrições vagas e gerais que se julgam personalizadas. Explica em parte por que as leituras gerais parecem servir.",
+   "Neigung, vage, allgemeine Beschreibungen als zutreffend anzunehmen, wenn man sie für persönlich hält. Es erklärt teils, warum allgemeine Deutungen zu passen scheinen.",
+   "Az a hajlam, hogy a homályos, általános leírásokat pontosnak fogadjuk el, ha személyre szabottnak hisszük őket. Részben megmagyarázza, miért tűnnek illőnek az általános olvasatok."
+  ],
+  "see": [
+   "forer",
+   "meehl",
+   "subjective"
+  ]
+ },
+ {
+  "id": "forer",
+  "t": [
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer",
+   "Bertram Forer"
+  ],
+  "d": [
+   "Psiholog american care în 1948 a dat 39 de studenți același profil „personal”, luat dintr-o carte de astrologie. Ei l-au apreciat cu 4,26 din 5; lucrarea a apărut în 1949.",
+   "American psychologist who in 1948 gave 39 students the same “personal” profile taken from an astrology book. They rated it 4.26 out of 5; the paper appeared in 1949.",
+   "Psychologue américain qui, en 1948, remit à 39 étudiants le même profil « personnel » tiré d’un livre d’astrologie. Ils lui donnèrent 4,26 sur 5 ; l’article parut en 1949.",
+   "Psicologo americano che nel 1948 diede a 39 studenti lo stesso profilo «personale» tratto da un libro di astrologia. Lo valutarono 4,26 su 5; l’articolo uscì nel 1949.",
+   "Psicólogo estadounidense que en 1948 dio a 39 estudiantes el mismo perfil «personal» tomado de un libro de astrología. Lo valoraron con 4,26 sobre 5; el artículo apareció en 1949.",
+   "Psicólogo norte-americano que em 1948 deu a 39 estudantes o mesmo perfil «pessoal» tirado de um livro de astrologia. Avaliaram-no com 4,26 em 5; o artigo saiu em 1949.",
+   "US-amerikanischer Psychologe, der 1948 39 Studierenden dasselbe „persönliche“ Profil aus einem Astrologiebuch gab. Sie bewerteten es mit 4,26 von 5; der Aufsatz erschien 1949.",
+   "Amerikai pszichológus, aki 1948-ban 39 diáknak adta ugyanazt a „személyes” profilt egy asztrológiai könyvből. 5-ből 4,26-ra értékelték; a tanulmány 1949-ben jelent meg."
+  ],
+  "see": [
+   "barnum"
+  ]
+ },
+ {
+  "id": "meehl",
+  "t": [
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl",
+   "Paul Meehl"
+  ],
+  "d": [
+   "Psiholog american care a numit, în 1956, „efectul Barnum”, după showmanul P. T. Barnum, pentru descrierile vagi acceptate ușor în unele teste de personalitate.",
+   "American psychologist who in 1956 coined the term “Barnum effect”, after the showman P. T. Barnum, for the vague descriptions readily accepted in some personality tests.",
+   "Psychologue américain qui forgea en 1956 le terme « effet Barnum », d’après le showman P. T. Barnum, pour les descriptions vagues facilement acceptées dans certains tests de personnalité.",
+   "Psicologo americano che nel 1956 coniò il termine «effetto Barnum», dallo showman P. T. Barnum, per le descrizioni vaghe accettate facilmente in alcuni test di personalità.",
+   "Psicólogo estadounidense que en 1956 acuñó el término «efecto Barnum», por el showman P. T. Barnum, para las descripciones vagas aceptadas con facilidad en algunos tests de personalidad.",
+   "Psicólogo norte-americano que em 1956 cunhou o termo «efeito Barnum», do showman P. T. Barnum, para as descrições vagas facilmente aceites em alguns testes de personalidade.",
+   "US-amerikanischer Psychologe, der 1956 den Begriff „Barnum-Effekt“ prägte, nach dem Showman P. T. Barnum, für vage Beschreibungen, die in manchen Persönlichkeitstests leicht akzeptiert werden.",
+   "Amerikai pszichológus, aki 1956-ban megalkotta a „Barnum-hatás” kifejezést P. T. Barnum showman nyomán, azokra a homályos leírásokra, amelyeket egyes személyiségtesztek során könnyen elfogadnak."
+  ],
+  "see": [
+   "barnum"
+  ]
+ },
+ {
+  "id": "cold",
+  "t": [
+   "Cold reading",
+   "Cold reading",
+   "Cold reading",
+   "Cold reading",
+   "Cold reading",
+   "Cold reading",
+   "Cold Reading",
+   "Cold reading"
+  ],
+  "d": [
+   "Set de tehnici prin care cineva pare să știe lucruri despre un străin, folosind reacțiile lui: enunțuri vagi, tatonare, citirea aspectului, reinterpretarea greșelilor.",
+   "A set of techniques by which someone seems to know things about a stranger, using that person’s reactions: vague statements, fishing, reading appearance, reframing misses.",
+   "Ensemble de techniques par lesquelles on semble savoir des choses sur un inconnu en exploitant ses réactions : énoncés vagues, sondage, lecture de l’apparence, réinterprétation des erreurs.",
+   "Insieme di tecniche con cui sembra di sapere cose su uno sconosciuto sfruttandone le reazioni: enunciati vaghi, tentativi, lettura dell’aspetto, reinterpretazione degli errori.",
+   "Conjunto de técnicas con las que se parece saber cosas de un desconocido aprovechando sus reacciones: enunciados vagos, tanteo, lectura del aspecto, reinterpretación de los fallos.",
+   "Conjunto de técnicas com que se parece saber coisas sobre um desconhecido, aproveitando as suas reações: enunciados vagos, sondagem, leitura do aspeto, reinterpretação dos erros.",
+   "Bündel von Techniken, mit denen man scheinbar Dinge über einen Fremden weiß, indem man dessen Reaktionen nutzt: vage Aussagen, Fischen, Erscheinungsbild lesen, Fehler umdeuten.",
+   "Olyan technikák együttese, amelyekkel valaki látszólag tud dolgokat egy idegenről, a reakcióit felhasználva: homályos állítások, puhatolózás, a külső leolvasása, a tévedések újraértelmezése."
+  ],
+  "see": [
+   "barnum",
+   "confirmation"
+  ]
+ },
+ {
+  "id": "subjective",
+  "t": [
+   "Validare subiectivă",
+   "Subjective validation",
+   "Validation subjective",
+   "Validazione soggettiva",
+   "Validación subjetiva",
+   "Validação subjetiva",
+   "Subjektive Validierung",
+   "Szubjektív validáció"
+  ],
+  "d": [
+   "Tendința de a socoti o afirmație adevărată pentru că are sens sau valoare personală pentru noi, nu pentru că a fost verificată. Alimentează efectul Barnum.",
+   "The tendency to judge a statement true because it feels meaningful or personal to us, not because it was checked. It feeds the Barnum effect.",
+   "Tendance à juger une affirmation vraie parce qu’elle a du sens ou de la valeur pour nous, et non parce qu’elle a été vérifiée. Elle nourrit l’effet Barnum.",
+   "Tendenza a giudicare vera un’affermazione perché ha un senso o un valore personale per noi, non perché sia stata verificata. Alimenta l’effetto Barnum.",
+   "Tendencia a juzgar verdadera una afirmación porque tiene sentido o valor personal para nosotros, no porque se haya comprobado. Alimenta el efecto Barnum.",
+   "Tendência para julgar verdadeira uma afirmação porque tem sentido ou valor pessoal para nós, não porque tenha sido verificada. Alimenta o efeito Barnum.",
+   "Neigung, eine Aussage für wahr zu halten, weil sie für uns bedeutsam oder persönlich wirkt, nicht weil sie geprüft wurde. Sie nährt den Barnum-Effekt.",
+   "Az a hajlam, hogy valamit azért tartunk igaznak, mert számunkra értelmes vagy személyes, nem pedig azért, mert ellenőrizték. Táplálja a Barnum-hatást."
+  ],
+  "see": [
+   "barnum"
+  ]
+ },
+ {
+  "id": "confirmation",
+  "t": [
+   "Efect de confirmare",
+   "Confirmation bias",
+   "Biais de confirmation",
+   "Bias di conferma",
+   "Sesgo de confirmación",
+   "Enviesamento de confirmação",
+   "Bestätigungsfehler",
+   "Megerősítési torzítás"
+  ],
+  "d": [
+   "Tendința de a nota și a ține minte ce se potrivește așteptărilor noastre și de a uita ce nu se potrivește. Face ca „reușitele” unei lecturi să pară mai multe decât sunt.",
+   "The tendency to notice and remember what fits our expectations and forget what does not. It makes a reading’s “hits” seem more numerous than they are.",
+   "Tendance à remarquer et retenir ce qui correspond à nos attentes et à oublier le reste. Elle fait paraître les « réussites » d’une lecture plus nombreuses qu’elles ne sont.",
+   "Tendenza a notare e ricordare ciò che corrisponde alle nostre aspettative e a dimenticare il resto. Fa sembrare più numerosi del reale i «successi» di una lettura.",
+   "Tendencia a notar y recordar lo que encaja con nuestras expectativas y olvidar lo demás. Hace que los «aciertos» de una lectura parezcan más numerosos de lo que son.",
+   "Tendência para notar e recordar o que se ajusta às nossas expectativas e esquecer o resto. Faz com que os «acertos» de uma leitura pareçam mais numerosos do que são.",
+   "Neigung, das zu bemerken und zu behalten, was unseren Erwartungen entspricht, und den Rest zu vergessen. Sie lässt die „Treffer“ einer Deutung zahlreicher erscheinen, als sie sind.",
+   "Az a hajlam, hogy azt vesszük észre és jegyezzük meg, ami az elvárásainkhoz illik, a többit pedig elfelejtjük. Emiatt egy olvasat „találatai” többnek tűnnek, mint amennyi valójában."
+  ],
+  "see": [
+   "cold",
+   "barnum"
+  ]
+ },
+ {
+  "id": "pseudoscience",
+  "t": [
+   "Pseudoștiință",
+   "Pseudoscience",
+   "Pseudoscience",
+   "Pseudoscienza",
+   "Pseudociencia",
+   "Pseudociência",
+   "Pseudowissenschaft",
+   "Áltudomány"
+  ],
+  "d": [
+   "Practică prezentată ca științifică, dar fără teste riguroase și fără dovezi reproductibile. Chiromanția nu a trecut astfel de teste, de aceea aici este tratată ca tradiție, nu ca știință.",
+   "A practice presented as scientific but lacking rigorous tests and reproducible evidence. Palmistry has not passed such tests, so it is treated here as tradition, not science.",
+   "Pratique présentée comme scientifique mais sans tests rigoureux ni preuves reproductibles. La chiromancie n’a pas passé de tels tests ; elle est donc traitée ici comme une tradition, non comme une science.",
+   "Pratica presentata come scientifica ma priva di test rigorosi e prove riproducibili. La chiromanzia non ha superato tali test, perciò qui è trattata come tradizione, non come scienza.",
+   "Práctica presentada como científica pero sin pruebas rigurosas ni evidencia reproducible. La quiromancia no ha superado tales pruebas, por lo que aquí se trata como tradición, no como ciencia.",
+   "Prática apresentada como científica, mas sem testes rigorosos nem provas reprodutíveis. A quiromancia não passou tais testes, por isso aqui é tratada como tradição, não como ciência.",
+   "Eine Praxis, die als wissenschaftlich auftritt, aber strenger Prüfung und reproduzierbarer Belege entbehrt. Die Handlesekunst hat solche Tests nicht bestanden und gilt hier daher als Tradition, nicht als Wissenschaft.",
+   "Tudományosnak feltüntetett gyakorlat, amelyből hiányoznak a szigorú tesztek és az ismételhető bizonyítékok. A kézjóslás nem állt ki ilyen próbákat, ezért itt hagyományként, nem tudományként szerepel."
+  ],
+  "see": [
+   "palmistry"
+  ]
+ },
+ {
+  "id": "d2d4",
+  "t": [
+   "Raport 2D:4D",
+   "2D:4D ratio",
+   "Rapport 2D:4D",
+   "Rapporto 2D:4D",
+   "Razón 2D:4D",
+   "Razão 2D:4D",
+   "2D:4D-Verhältnis",
+   "2D:4D arány"
+  ],
+  "d": [
+   "Lungimea arătătorului (2D) împărțită la cea a inelarului (4D). Bărbații au în medie un raport ceva mai mic, dar legătura cu hormonii prenatali este contestată.",
+   "Index finger length (2D) divided by ring finger length (4D). Men average a slightly lower ratio, but the link with prenatal hormones is contested.",
+   "Longueur de l’index (2D) divisée par celle de l’annulaire (4D). Les hommes ont en moyenne un rapport un peu plus bas, mais le lien avec les hormones prénatales est contesté.",
+   "Lunghezza dell’indice (2D) divisa per quella dell’anulare (4D). Gli uomini hanno in media un rapporto un po’ più basso, ma il legame con gli ormoni prenatali è contestato.",
+   "Longitud del índice (2D) dividida por la del anular (4D). Los hombres tienen de media una razón algo menor, pero el vínculo con las hormonas prenatales es discutido.",
+   "Comprimento do indicador (2D) dividido pelo do anelar (4D). Os homens têm em média uma razão ligeiramente menor, mas a ligação às hormonas pré-natais é contestada.",
+   "Länge des Zeigefingers (2D) geteilt durch die des Ringfingers (4D). Männer haben im Mittel ein etwas niedrigeres Verhältnis, doch der Zusammenhang mit pränatalen Hormonen ist umstritten.",
+   "A mutatóujj (2D) hossza osztva a gyűrűsujjéval (4D). A férfiaknál átlagosan kicsit alacsonyabb, de a születés előtti hormonokkal való kapcsolata vitatott."
+  ],
+  "see": [
+   "testosterone",
+   "fink"
+  ]
+ },
+ {
+  "id": "testosterone",
+  "t": [
+   "Testosteron prenatal",
+   "Prenatal testosterone",
+   "Testostérone prénatale",
+   "Testosterone prenatale",
+   "Testosterona prenatal",
+   "Testosterona pré-natal",
+   "Pränatales Testosteron",
+   "Születés előtti tesztoszteron"
+  ],
+  "d": [
+   "Hormon sexual la care fătul este expus în uter. Se discută dacă influențează raportul 2D:4D, dar dovezile directe sunt slabe și contestate.",
+   "A sex hormone to which the fetus is exposed in the womb. Whether it influences the 2D:4D ratio is debated, but the direct evidence is weak and contested.",
+   "Hormone sexuelle à laquelle le fœtus est exposé dans l’utérus. On débat de son influence sur le rapport 2D:4D, mais les preuves directes sont faibles et contestées.",
+   "Ormone sessuale a cui il feto è esposto nell’utero. Si discute se influenzi il rapporto 2D:4D, ma le prove dirette sono deboli e contestate.",
+   "Hormona sexual a la que el feto se expone en el útero. Se debate si influye en la razón 2D:4D, pero la evidencia directa es débil y discutida.",
+   "Hormona sexual a que o feto está exposto no útero. Discute-se se influencia a razão 2D:4D, mas a evidência direta é fraca e contestada.",
+   "Sexualhormon, dem der Fötus im Mutterleib ausgesetzt ist. Ob es das 2D:4D-Verhältnis beeinflusst, ist umstritten, die direkten Belege sind schwach und strittig.",
+   "Nemi hormon, amelynek a magzat a méhben ki van téve. Vitatott, hogy befolyásolja-e a 2D:4D arányt; a közvetlen bizonyítékok gyengék és vitatottak."
+  ],
+  "see": [
+   "d2d4"
+  ]
+ },
+ {
+  "id": "simian",
+  "t": [
+   "Pliu simian (transversal unic)",
+   "Simian crease (single transverse crease)",
+   "Pli simien (transverse unique)",
+   "Piega scimmiesca (trasversa unica)",
+   "Pliegue simiesco (transverso único)",
+   "Prega simiesca (transversa única)",
+   "Vierfingerfurche",
+   "Majomredő (egyetlen haránt redő)"
+  ],
+  "d": [
+   "Un singur pliu adânc traversează palma în loc de două. Apare la circa 1,5–3% dintre oameni, inclusiv sănătoși; în unele afecțiuni cromozomiale e mai frecventă, dar nu este un diagnostic.",
+   "A single deep crease crosses the palm instead of two. It occurs in about 1.5–3% of people, including healthy ones; in some chromosomal conditions it is more frequent, but it is not a diagnosis.",
+   "Un seul pli profond traverse la paume au lieu de deux. Il existe chez environ 1,5–3 % des gens, y compris en bonne santé ; plus fréquent dans certaines affections chromosomiques, il n’est pas un diagnostic.",
+   "Un’unica piega profonda attraversa il palmo invece di due. Compare in circa l’1,5–3% delle persone, anche sane; in alcune condizioni cromosomiche è più frequente, ma non è una diagnosi.",
+   "Un único pliegue profundo cruza la palma en lugar de dos. Aparece en alrededor del 1,5–3 % de las personas, también sanas; en algunas afecciones cromosómicas es más frecuente, pero no es un diagnóstico.",
+   "Uma única prega profunda atravessa a palma em vez de duas. Ocorre em cerca de 1,5–3% das pessoas, incluindo saudáveis; em algumas condições cromossómicas é mais frequente, mas não é um diagnóstico.",
+   "Eine einzelne tiefe Furche quert die Handfläche statt zwei. Sie kommt bei etwa 1,5–3 % der Menschen vor, auch bei Gesunden; bei manchen Chromosomenstörungen ist sie häufiger, aber keine Diagnose.",
+   "Egyetlen mély redő keresztezi a tenyeret kettő helyett. Az emberek kb. 1,5–3%-ánál előfordul, egészségeseknél is; egyes kromoszóma-eltéréseknél gyakoribb, de nem diagnózis."
+  ],
+  "see": [
+   "sydney",
+   "flexion"
+  ]
+ },
+ {
+  "id": "sydney",
+  "t": [
+   "Pliu Sydney",
+   "Sydney line",
+   "Pli de Sydney",
+   "Piega di Sydney",
+   "Pliegue de Sídney",
+   "Prega de Sydney",
+   "Sydney-Linie",
+   "Sydney-redő"
+  ],
+  "d": [
+   "Variantă în care pliul transversal proximal (cea numită în chiromanție linia capului) se prelungește peste toată palma până la marginea cubitală. Apare și la oameni sănătoși; nu este un diagnostic.",
+   "A variant in which the proximal transverse crease (the one palmistry calls the head line) extends across the whole palm to the ulnar edge. It also occurs in healthy people; it is not a diagnosis.",
+   "Variante où le pli transverse proximal (celui que la chiromancie nomme ligne de tête) s’étend sur toute la paume jusqu’au bord cubital. Il existe aussi chez des personnes en bonne santé ; ce n’est pas un diagnostic.",
+   "Variante in cui la piega trasversa prossimale (quella che la chiromanzia chiama linea della testa) si estende su tutto il palmo fino al bordo ulnare. Compare anche in persone sane; non è una diagnosi.",
+   "Variante en la que el pliegue transverso proximal (el que la quiromancia llama línea de la cabeza) se extiende por toda la palma hasta el borde cubital. También aparece en personas sanas; no es un diagnóstico.",
+   "Variante em que a prega transversa proximal (a que a quiromancia chama linha da cabeça) se estende por toda a palma até ao bordo ulnar. Também ocorre em pessoas saudáveis; não é um diagnóstico.",
+   "Variante, bei der die proximale Querfurche (in der Handlesekunst Kopflinie genannt) über die ganze Handfläche bis zum ulnaren Rand reicht. Sie kommt auch bei Gesunden vor; keine Diagnose.",
+   "Olyan változat, amelyben a proximális haránt redő (a kézjóslásban fejvonalnak nevezett) az egész tenyéren át a singcsonti szélig terjed. Egészségeseknél is előfordul; nem diagnózis."
+  ],
+  "see": [
+   "simian",
+   "flexion"
+  ]
+ },
+ {
+  "id": "flexion",
+  "t": [
+   "Pliuri de flexie",
+   "Flexion creases",
+   "Plis de flexion",
+   "Pieghe di flessione",
+   "Pliegues de flexión",
+   "Pregas de flexão",
+   "Beugefurchen",
+   "Hajlítási redők"
+  ],
+  "d": [
+   "Pliurile obișnuite ale palmei, care se formează acolo unde pielea e bine ancorată și mâna se îndoaie, deja înainte de naștere. Sunt distincte de crestele amprentelor.",
+   "The ordinary palm lines, which form where the skin is tightly anchored and the hand bends, already before birth. They are separate from the fingerprint ridges.",
+   "Les lignes ordinaires de la paume, qui se forment là où la peau est fortement ancrée et où la main se plie, déjà avant la naissance. Elles sont distinctes des crêtes des empreintes.",
+   "Le normali linee del palmo, che si formano dove la pelle è saldamente ancorata e la mano si piega, già prima della nascita. Sono distinte dalle creste delle impronte.",
+   "Las líneas ordinarias de la palma, que se forman donde la piel está fuertemente anclada y la mano se flexiona, ya antes del nacimiento. Son distintas de las crestas de las huellas.",
+   "As linhas comuns da palma, que se formam onde a pele está firmemente ancorada e a mão dobra, já antes do nascimento. São distintas das cristas das impressões digitais.",
+   "Die gewöhnlichen Handlinien, die sich dort bilden, wo die Haut fest verankert ist und die Hand sich beugt, schon vor der Geburt. Sie sind von den Fingerabdruckleisten getrennt.",
+   "A tenyér szokásos vonalai, amelyek ott alakulnak ki, ahol a bőr szorosan rögzített és a kéz hajlik, már születés előtt. Elkülönülnek az ujjlenyomat vonalaitól."
+  ],
+  "see": [
+   "ridges",
+   "life"
+  ]
+ },
+ {
+  "id": "mount",
+  "t": [
+   "Mont (munte)",
+   "Mount",
+   "Mont",
+   "Monte",
+   "Monte",
+   "Monte",
+   "Berg (Handberg)",
+   "Domb"
+  ],
+  "d": [
+   "Mică ridicătură cărnoasă a palmei, numită în tradiție după o planetă (Jupiter, Saturn, Apollo, Mercur, Marte, Lună, Venus) și citită simbolic. Formă anatomică obișnuită, fără valoare predictivă.",
+   "A small fleshy rise of the palm, named in tradition after a planet (Jupiter, Saturn, Apollo, Mercury, Mars, Moon, Venus) and read symbolically. An ordinary anatomical form with no predictive value.",
+   "Petit renflement charnu de la paume, nommé dans la tradition d’après une planète (Jupiter, Saturne, Apollon, Mercure, Mars, Lune, Vénus) et lu symboliquement. Forme anatomique ordinaire, sans valeur prédictive.",
+   "Piccolo rialzo carnoso del palmo, chiamato nella tradizione con il nome di un pianeta (Giove, Saturno, Apollo, Mercurio, Marte, Luna, Venere) e letto simbolicamente. Forma anatomica ordinaria, senza valore predittivo.",
+   "Pequeña elevación carnosa de la palma, llamada en la tradición con el nombre de un planeta (Júpiter, Saturno, Apolo, Mercurio, Marte, Luna, Venus) y leída simbólicamente. Forma anatómica corriente, sin valor predictivo.",
+   "Pequena elevação carnuda da palma, chamada na tradição com o nome de um planeta (Júpiter, Saturno, Apolo, Mercúrio, Marte, Lua, Vénus) e lida simbolicamente. Forma anatómica comum, sem valor preditivo.",
+   "Kleine fleischige Erhebung der Handfläche, in der Tradition nach einem Planeten benannt (Jupiter, Saturn, Apollo, Merkur, Mars, Mond, Venus) und symbolisch gedeutet. Eine normale anatomische Form ohne Vorhersagewert.",
+   "A tenyér kis húsos kiemelkedése, amelyet a hagyomány egy bolygóról nevez el (Jupiter, Szaturnusz, Apollón, Merkúr, Mars, Hold, Vénusz), és jelképesen olvas. Szokásos anatómiai forma, jósló értéke nincs."
+  ],
+  "see": [
+   "plain",
+   "phalanx"
+  ]
+ },
+ {
+  "id": "plain",
+  "t": [
+   "Câmpia lui Marte",
+   "Plain of Mars",
+   "Plaine de Mars",
+   "Pianura di Marte",
+   "Llanura de Marte",
+   "Planície de Marte",
+   "Marsebene",
+   "Mars-síkság"
+  ],
+  "d": [
+   "Zona centrală a palmei, între Marte interior și Marte exterior, adesea cu o scobitură ușoară. În tradiție este locul unde se citesc liniile mari care o traversează.",
+   "The central area of the palm between inner and outer Mars, often slightly hollow. In tradition it is where the major lines crossing it are read.",
+   "Zone centrale de la paume entre Mars intérieur et Mars extérieur, souvent légèrement creuse. Dans la tradition, c’est là qu’on lit les grandes lignes qui la traversent.",
+   "Zona centrale del palmo tra Marte interno ed esterno, spesso lievemente concava. Nella tradizione è qui che si leggono le grandi linee che l’attraversano.",
+   "Zona central de la palma entre Marte interno y externo, a menudo ligeramente hueca. En la tradición es donde se leen las grandes líneas que la cruzan.",
+   "Zona central da palma entre Marte interno e externo, muitas vezes ligeiramente côncava. Na tradição é onde se leem as grandes linhas que a atravessam.",
+   "Mittlerer Bereich der Handfläche zwischen innerem und äußerem Mars, oft leicht vertieft. In der Tradition werden hier die großen Linien gelesen, die sie queren.",
+   "A tenyér középső területe a belső és a külső Mars között, gyakran enyhén mélyedt. A hagyományban itt olvassák az azt átszelő nagy vonalakat."
+  ],
+  "see": [
+   "mount"
+  ]
+ },
+ {
+  "id": "phalanx",
+  "t": [
+   "Falangă",
+   "Phalanx",
+   "Phalange",
+   "Falange",
+   "Falange",
+   "Falange",
+   "Fingerglied (Phalanx)",
+   "Ujjperec (falanx)"
+  ],
+  "d": [
+   "Fiecare dintre oasele sau segmentele degetului; degetele au trei, degetul mare două. În tradiție, cele trei falange ale unui deget sunt citite ca idei, rațiune practică și materie.",
+   "Each of the bones or segments of a finger; fingers have three, the thumb two. In tradition the three phalanges of a finger are read as ideas, practical reasoning and material matters.",
+   "Chacun des os ou segments d’un doigt ; les doigts en ont trois, le pouce deux. Dans la tradition, les trois phalanges d’un doigt se lisent comme idées, raisonnement pratique et matière.",
+   "Ciascun osso o segmento di un dito; le dita ne hanno tre, il pollice due. Nella tradizione le tre falangi di un dito si leggono come idee, ragionamento pratico e materia.",
+   "Cada uno de los huesos o segmentos de un dedo; los dedos tienen tres, el pulgar dos. En la tradición las tres falanges de un dedo se leen como ideas, razonamiento práctico y materia.",
+   "Cada um dos ossos ou segmentos de um dedo; os dedos têm três, o polegar dois. Na tradição as três falanges de um dedo leem-se como ideias, raciocínio prático e matéria.",
+   "Jeder der Knochen oder Abschnitte eines Fingers; Finger haben drei, der Daumen zwei. In der Tradition werden die drei Glieder als Ideen, praktisches Denken und Stoffliches gedeutet.",
+   "Az ujj csontjainak, szakaszainak mindegyike; az ujjaknak három, a hüvelykujjnak kettő van. A hagyomány az ujj három percét eszmékként, gyakorlati gondolkodásként és anyagi dolgokként olvassa."
+  ],
+  "see": [
+   "mount",
+   "chirognomy"
+  ]
+ },
+ {
+  "id": "life",
+  "t": [
+   "Linia vieții",
+   "Life line",
+   "Ligne de vie",
+   "Linea della vita",
+   "Línea de la vida",
+   "Linha da vida",
+   "Lebenslinie",
+   "Életvonal"
+  ],
+  "d": [
+   "Linia care se curbează în jurul Muntelui lui Venus. Tradiția o citește ca vitalitate și schimbări de viață; nu spune cât vei trăi, iar un studiu pe cadavre nu a găsit legătură cu durata vieții.",
+   "The line that curves around the Mount of Venus. Tradition reads it as vitality and life changes; it does not tell how long you will live, and a cadaver study found no link with lifespan.",
+   "Ligne qui s’incurve autour du mont de Vénus. La tradition la lit comme vitalité et changements de vie ; elle ne dit pas combien de temps on vivra, et une étude sur cadavres n’a trouvé aucun lien avec la durée de vie.",
+   "Linea che si curva attorno al monte di Venere. La tradizione la legge come vitalità e cambiamenti di vita; non dice quanto vivrai e uno studio su cadaveri non ha trovato legame con la durata della vita.",
+   "Línea que se curva alrededor del monte de Venus. La tradición la lee como vitalidad y cambios de vida; no dice cuánto vivirás, y un estudio con cadáveres no halló vínculo con la duración de la vida.",
+   "Linha que se curva à volta do monte de Vénus. A tradição lê-a como vitalidade e mudanças de vida; não diz quanto tempo viverás, e um estudo com cadáveres não encontrou ligação com a duração da vida.",
+   "Die Linie, die sich um den Venusberg krümmt. Die Tradition liest sie als Vitalität und Lebensveränderungen; sie sagt nicht, wie lange man lebt, und eine Studie an Leichen fand keinen Zusammenhang mit der Lebensdauer.",
+   "Az a vonal, amely a Vénusz-domb körül ível. A hagyomány életerőként és életváltozásokként olvassa; nem mondja meg, meddig élünk, és egy holttesteken végzett vizsgálat nem talált összefüggést az élettartammal."
+  ],
+  "see": [
+   "mount",
+   "flexion"
+  ]
+ },
+ {
+  "id": "headline",
+  "t": [
+   "Linia capului",
+   "Head line",
+   "Ligne de tête",
+   "Linea della testa",
+   "Línea de la cabeza",
+   "Linha da cabeça",
+   "Kopflinie",
+   "Fejvonal"
+  ],
+  "d": [
+   "Linia care traversează palma. Tradiția o citește ca stil de gândire și concentrare, nu ca inteligență; pliul transversal corespunzător se numește în anatomie pliu transversal proximal.",
+   "The line that crosses the palm. Tradition reads it as thinking style and focus, not intelligence; the matching crease appears in anatomy as the proximal transverse crease.",
+   "Ligne qui traverse la paume. La tradition la lit comme style de pensée et concentration, non comme intelligence ; le pli correspondant s’appelle en anatomie pli transverse proximal.",
+   "Linea che attraversa il palmo. La tradizione la legge come stile di pensiero e concentrazione, non intelligenza; la piega corrispondente in anatomia è la piega trasversa prossimale.",
+   "Línea que cruza la palma. La tradición la lee como estilo de pensamiento y concentración, no inteligencia; el pliegue correspondiente se llama en anatomía pliegue transverso proximal.",
+   "Linha que atravessa a palma. A tradição lê-a como estilo de pensamento e concentração, não inteligência; a prega correspondente chama-se em anatomia prega transversa proximal.",
+   "Die Linie, die die Handfläche quert. Die Tradition liest sie als Denkstil und Konzentration, nicht als Intelligenz; die entsprechende Furche heißt in der Anatomie proximale Querfurche.",
+   "A tenyeret keresztező vonal. A hagyomány gondolkodásmódként és koncentrációként olvassa, nem intelligenciaként; a megfelelő redőt az anatómia proximális haránt redőnek nevezi."
+  ],
+  "see": [
+   "sydney",
+   "flexion"
+  ]
+ },
+ {
+  "id": "heartline",
+  "t": [
+   "Linia inimii",
+   "Heart line",
+   "Ligne de cœur",
+   "Linea del cuore",
+   "Línea del corazón",
+   "Linha do coração",
+   "Herzlinie",
+   "Szívvonal"
+  ],
+  "d": [
+   "Linia care merge chiar sub degete. Tradiția o citește ca viață afectivă și mod de a exprima afecțiunea; este o lectură simbolică, nu o măsură a sentimentelor.",
+   "The line running just below the fingers. Tradition reads it as emotional life and the way affection is expressed; it is a symbolic reading, not a measure of feelings.",
+   "Ligne qui passe juste sous les doigts. La tradition la lit comme vie affective et manière d’exprimer l’affection ; c’est une lecture symbolique, non une mesure des sentiments.",
+   "Linea che corre subito sotto le dita. La tradizione la legge come vita affettiva e modo di esprimere l’affetto; è una lettura simbolica, non una misura dei sentimenti.",
+   "Línea que pasa justo bajo los dedos. La tradición la lee como vida afectiva y manera de expresar el afecto; es una lectura simbólica, no una medida de los sentimientos.",
+   "Linha que passa logo abaixo dos dedos. A tradição lê-a como vida afetiva e forma de expressar afeto; é uma leitura simbólica, não uma medida dos sentimentos.",
+   "Die Linie direkt unter den Fingern. Die Tradition liest sie als Gefühlsleben und Ausdruck von Zuneigung; eine symbolische Deutung, kein Maß für Gefühle.",
+   "Az ujjak alatt közvetlenül futó vonal. A hagyomány az érzelmi életként és a szeretet kifejezésének módjaként olvassa; jelképes olvasat, nem az érzelmek mércéje."
+  ],
+  "see": [
+   "life",
+   "headline"
+  ]
+ },
+ {
+  "id": "fateline",
+  "t": [
+   "Linia destinului",
+   "Fate line",
+   "Ligne de destinée",
+   "Linea del destino",
+   "Línea del destino",
+   "Linha do destino",
+   "Schicksalslinie",
+   "Sorsvonal"
+  ],
+  "d": [
+   "Linie verticală spre degetul mijlociu, pe care nu o au toți. Tradiția o citește ca sens al direcției și cale profesională; absența ei nu are sens negativ.",
+   "A vertical line toward the middle finger, which not everyone has. Tradition reads it as sense of direction and career path; its absence carries no negative meaning.",
+   "Ligne verticale vers le majeur, que tout le monde n’a pas. La tradition la lit comme sens de l’orientation et parcours professionnel ; son absence n’a aucun sens négatif.",
+   "Linea verticale verso il medio, che non tutti hanno. La tradizione la legge come senso di direzione e percorso professionale; la sua assenza non ha significato negativo.",
+   "Línea vertical hacia el dedo medio que no todos tienen. La tradición la lee como sentido de dirección y trayectoria profesional; su ausencia no tiene sentido negativo.",
+   "Linha vertical para o dedo médio que nem todos têm. A tradição lê-a como sentido de direção e percurso profissional; a sua ausência não tem sentido negativo.",
+   "Senkrechte Linie zum Mittelfinger, die nicht jeder hat. Die Tradition liest sie als Richtungssinn und Berufsweg; ihr Fehlen hat keine negative Bedeutung.",
+   "Függőleges vonal a középső ujj felé, amely nem mindenkinél van meg. A hagyomány irányérzékként és szakmai útként olvassa; hiányának nincs negatív jelentése."
+  ],
+  "see": [
+   "life",
+   "mount"
+  ]
+ },
+ {
+  "id": "girdle",
+  "t": [
+   "Centura lui Venus",
+   "Girdle of Venus",
+   "Ceinture de Vénus",
+   "Cintura di Venere",
+   "Cinturón de Venus",
+   "Cinto de Vénus",
+   "Venusgürtel",
+   "Vénusz öve"
+  ],
+  "d": [
+   "Arc semicircular deasupra liniei inimii, sub degetele mijlociu și inelar. Rar și adesea fragmentat; tradiția îl citește ca sensibilitate, nu ca indicator medical.",
+   "A semicircular arc above the heart line, under the middle and ring fingers. Uncommon and often fragmented; tradition reads it as sensitivity, not as a medical indicator.",
+   "Arc semi-circulaire au-dessus de la ligne de cœur, sous le majeur et l’annulaire. Rare et souvent fragmentée ; la tradition y lit la sensibilité, non un indicateur médical.",
+   "Arco semicircolare sopra la linea del cuore, sotto medio e anulare. Poco comune e spesso frammentata; la tradizione vi legge sensibilità, non un indicatore medico.",
+   "Arco semicircular sobre la línea del corazón, bajo el medio y el anular. Poco común y a menudo fragmentado; la tradición lo lee como sensibilidad, no como indicador médico.",
+   "Arco semicircular acima da linha do coração, sob o médio e o anelar. Pouco comum e muitas vezes fragmentado; a tradição lê nele sensibilidade, não um indicador médico.",
+   "Halbkreisförmiger Bogen über der Herzlinie, unter Mittel- und Ringfinger. Selten und oft unterbrochen; die Tradition liest darin Empfindsamkeit, keinen medizinischen Indikator.",
+   "Félkör alakú ív a szívvonal felett, a középső és a gyűrűsujj alatt. Ritka és gyakran töredezett; a hagyomány érzékenységként olvassa, nem orvosi jelzőként."
+  ],
+  "see": [
+   "heartline"
+  ]
+ },
+ {
+  "id": "solomon",
+  "t": [
+   "Inelul lui Solomon",
+   "Ring of Solomon",
+   "Anneau de Salomon",
+   "Anello di Salomone",
+   "Anillo de Salomón",
+   "Anel de Salomão",
+   "Salomonsring",
+   "Salamon gyűrűje"
+  ],
+  "d": [
+   "Semicerc în jurul bazei arătătorului, pe Muntele lui Jupiter. Tradiția îl citește ca înțelegere a oamenilor și aptitudine de a îndruma; e rar și simbolic.",
+   "A semicircle around the base of the index finger, on the Mount of Jupiter. Tradition reads it as understanding of people and an aptitude for guiding others; it is uncommon and symbolic.",
+   "Demi-cercle autour de la base de l’index, sur le mont de Jupiter. La tradition y lit la compréhension des gens et une aptitude à guider ; il est rare et symbolique.",
+   "Semicerchio attorno alla base dell’indice, sul monte di Giove. La tradizione vi legge comprensione delle persone e attitudine a guidare; è raro e simbolico.",
+   "Semicírculo alrededor de la base del índice, sobre el monte de Júpiter. La tradición lo lee como comprensión de las personas y aptitud para guiar; es poco común y simbólico.",
+   "Semicírculo à volta da base do indicador, sobre o monte de Júpiter. A tradição lê nele a compreensão das pessoas e aptidão para orientar; é raro e simbólico.",
+   "Halbkreis um den Zeigefingeransatz auf dem Jupiterberg. Die Tradition liest darin Menschenkenntnis und Führungseignung; er ist selten und symbolisch.",
+   "Félkör a mutatóujj töve körül, a Jupiter-dombon. A hagyomány emberismeretként és vezetői rátermettségként olvassa; ritka és jelképes."
+  ],
+  "see": [
+   "mount"
+  ]
+ },
+ {
+  "id": "darpentigny",
+  "t": [
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny",
+   "Casimir d’Arpentigny"
+  ],
+  "d": [
+   "Ofițer francez (secolul al XIX-lea) care a publicat La Chirognomie în 1839 și a clasificat mâinile după formă și vârfuri, bază a tipurilor din această aplicație.",
+   "A 19th-century French officer who published La Chirognomie in 1839 and classified hands by shape and fingertips, the basis of the hand types in this app.",
+   "Officier français du XIXe siècle qui publia La Chirognomie en 1839 et classa les mains selon la forme et les bouts de doigts, base des types de mains de cette application.",
+   "Ufficiale francese dell’Ottocento che pubblicò La Chirognomie nel 1839 e classificò le mani per forma e punte delle dita, base dei tipi di mano di questa app.",
+   "Oficial francés del siglo XIX que publicó La Chirognomie en 1839 y clasificó las manos por forma y yemas, base de los tipos de mano de esta aplicación.",
+   "Oficial francês do século XIX que publicou La Chirognomie em 1839 e classificou as mãos pela forma e pelas pontas dos dedos, base dos tipos de mão desta aplicação.",
+   "Französischer Offizier des 19. Jahrhunderts, der 1839 La Chirognomie veröffentlichte und Hände nach Form und Fingerkuppen einteilte, die Grundlage der Handtypen dieser App.",
+   "19. századi francia tiszt, aki 1839-ben kiadta a La Chirognomie-t, és a kezeket alak és ujjbegyek szerint osztályozta; ez az alkalmazás kéztípusainak alapja."
+  ],
+  "see": [
+   "chirognomy",
+   "desbarrolles"
+  ]
+ },
+ {
+  "id": "desbarrolles",
+  "t": [
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles",
+   "Adolphe Desbarrolles"
+  ],
+  "d": [
+   "Autor și artist francez din secolul al XIX-lea care a combinat chirognomia lui d’Arpentigny cu citirea liniilor, în Les Mystères de la main (1859); a popularizat chiromanția în Franța.",
+   "A 19th-century French author and artist who combined d’Arpentigny’s chirognomy with the reading of lines in Les Mystères de la main (1859), helping popularize palmistry in France.",
+   "Auteur et artiste français du XIXe siècle qui associa la chirognomie de d’Arpentigny à la lecture des lignes dans Les Mystères de la main (1859), contribuant à populariser la chiromancie en France.",
+   "Autore e artista francese dell’Ottocento che unì la chirognomia di d’Arpentigny alla lettura delle linee in Les Mystères de la main (1859), contribuendo a diffondere la chiromanzia in Francia.",
+   "Autor y artista francés del siglo XIX que combinó la quirognomía de d’Arpentigny con la lectura de líneas en Les Mystères de la main (1859), ayudando a popularizar la quiromancia en Francia.",
+   "Autor e artista francês do século XIX que combinou a quirognomia de d’Arpentigny com a leitura das linhas em Les Mystères de la main (1859), ajudando a popularizar a quiromancia em França.",
+   "Französischer Autor und Künstler des 19. Jahrhunderts, der d’Arpentignys Chirognomie in Les Mystères de la main (1859) mit der Linienlesung verband und die Handlesekunst in Frankreich popularisierte.",
+   "19. századi francia író és művész, aki a Les Mystères de la main (1859) című művében d’Arpentigny kirognómiáját a vonalolvasással ötvözte, és népszerűsítette a kézjóslást Franciaországban."
+  ],
+  "see": [
+   "darpentigny",
+   "cheiro"
+  ]
+ },
+ {
+  "id": "cheiro",
+  "t": [
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)",
+   "Cheiro (William John Warner)"
+  ],
+  "d": [
+   "Pseudonimul irlandezului William John Warner (1866–1936), chiromant celebru în Londra. A publicat Cheiro’s Language of the Hand în 1894, o carte influentă în chiromanția occidentală.",
+   "Pen name of the Irishman William John Warner (1866–1936), a society palmist in London. He published Cheiro’s Language of the Hand in 1894, an influential book in Western palmistry.",
+   "Pseudonyme de l’Irlandais William John Warner (1866–1936), chiromancien mondain à Londres. Il publia Cheiro’s Language of the Hand en 1894, ouvrage influent de la chiromancie occidentale.",
+   "Pseudonimo dell’irlandese William John Warner (1866–1936), chiromante mondano a Londra. Pubblicò Cheiro’s Language of the Hand nel 1894, libro influente della chiromanzia occidentale.",
+   "Seudónimo del irlandés William John Warner (1866–1936), quiromántico de sociedad en Londres. Publicó Cheiro’s Language of the Hand en 1894, libro influyente de la quiromancia occidental.",
+   "Pseudónimo do irlandês William John Warner (1866–1936), quiromante da alta sociedade em Londres. Publicou Cheiro’s Language of the Hand em 1894, livro influente da quiromancia ocidental.",
+   "Pseudonym des Iren William John Warner (1866–1936), eines Londoner Gesellschafts-Handlesers. Er veröffentlichte 1894 Cheiro’s Language of the Hand, ein einflussreiches Buch der westlichen Handlesekunst.",
+   "Az ír William John Warner (1866–1936) álneve, aki londoni társasági kézjós volt. 1894-ben jelentette meg a Cheiro’s Language of the Hand című művet, a nyugati kézjóslás hatásos könyvét."
+  ],
+  "see": [
+   "desbarrolles",
+   "benham"
+  ]
+ },
+ {
+  "id": "benham",
+  "t": [
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham",
+   "William G. Benham"
+  ],
+  "d": [
+   "Autor american al cărții The Laws of Scientific Hand Reading (1900), un manual de chiromanție care sistematizează tradiția; titlul „științific” nu înseamnă validare științifică.",
+   "American author of The Laws of Scientific Hand Reading (1900), a palmistry manual that systematizes the tradition; the word “scientific” in the title does not mean scientific validation.",
+   "Auteur américain de The Laws of Scientific Hand Reading (1900), manuel de chiromancie qui systématise la tradition ; le mot « scientifique » du titre ne signifie pas validation scientifique.",
+   "Autore americano di The Laws of Scientific Hand Reading (1900), manuale di chiromanzia che sistematizza la tradizione; la parola «scientifico» nel titolo non significa validazione scientifica.",
+   "Autor estadounidense de The Laws of Scientific Hand Reading (1900), manual de quiromancia que sistematiza la tradición; la palabra «científico» del título no implica validación científica.",
+   "Autor norte-americano de The Laws of Scientific Hand Reading (1900), manual de quiromancia que sistematiza a tradição; a palavra «científico» no título não implica validação científica.",
+   "US-amerikanischer Autor von The Laws of Scientific Hand Reading (1900), einem Handbuch, das die Tradition systematisiert; das Wort „wissenschaftlich“ im Titel bedeutet keine wissenschaftliche Bestätigung.",
+   "A The Laws of Scientific Hand Reading (1900) amerikai szerzője; a kézjóslási kézikönyv rendszerezi a hagyományt, de a címbeli „tudományos” szó nem jelent tudományos igazolást."
+  ],
+  "see": [
+   "cheiro",
+   "pseudoscience"
+  ]
+ },
+ {
+  "id": "fink",
+  "t": [
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink",
+   "Bernhard Fink"
+  ],
+  "d": [
+   "Cercetător în biologia comportamentului, autor al mai multor studii despre raportul 2D:4D și măsurarea lui. Cercetările de acest tip arată efecte mici și rezultate adesea disputate.",
+   "A behavioral-biology researcher who has published several studies on the 2D:4D ratio and how it is measured. Research of this kind shows small effects and often disputed results.",
+   "Chercheur en biologie du comportement, auteur de plusieurs études sur le rapport 2D:4D et sa mesure. Ce type de recherche montre de petits effets et des résultats souvent contestés.",
+   "Ricercatore di biologia del comportamento, autore di vari studi sul rapporto 2D:4D e sulla sua misurazione. Ricerche di questo tipo mostrano effetti piccoli e risultati spesso contestati.",
+   "Investigador en biología del comportamiento, autor de varios estudios sobre la razón 2D:4D y su medición. Esta clase de investigación muestra efectos pequeños y resultados a menudo discutidos.",
+   "Investigador em biologia do comportamento, autor de vários estudos sobre a razão 2D:4D e a sua medição. Este tipo de investigação mostra efeitos pequenos e resultados muitas vezes contestados.",
+   "Verhaltensbiologischer Forscher, Autor mehrerer Studien zum 2D:4D-Verhältnis und seiner Messung. Solche Forschung zeigt kleine Effekte und oft umstrittene Ergebnisse.",
+   "Viselkedésbiológiai kutató, aki több tanulmányt írt a 2D:4D arányról és mérésének módjáról. Az ilyen kutatások kis hatásokat és gyakran vitatott eredményeket mutatnak."
+  ],
+  "see": [
+   "d2d4"
+  ]
+ },
+ {
+  "id": "cummins",
+  "t": [
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins",
+   "Harold Cummins"
+  ],
+  "d": [
+   "Anatomist american care a creat termenul „dermatoglife” în 1926 și a pus bazele studiului științific modern al crestelor pielii, împreună cu Charles Midlo.",
+   "American anatomist who coined the term “dermatoglyphics” in 1926 and, with Charles Midlo, laid the foundations of the modern scientific study of skin ridges.",
+   "Anatomiste américain qui créa le terme « dermatoglyphes » en 1926 et, avec Charles Midlo, posa les bases de l’étude scientifique moderne des crêtes cutanées.",
+   "Anatomista americano che coniò il termine «dermatoglifi» nel 1926 e, con Charles Midlo, pose le basi dello studio scientifico moderno delle creste cutanee.",
+   "Anatomista estadounidense que acuñó el término «dermatoglifos» en 1926 y, con Charles Midlo, sentó las bases del estudio científico moderno de las crestas de la piel.",
+   "Anatomista norte-americano que cunhou o termo «dermatoglifos» em 1926 e, com Charles Midlo, lançou as bases do estudo científico moderno das cristas da pele.",
+   "US-amerikanischer Anatom, der 1926 den Begriff „Dermatoglyphen“ prägte und mit Charles Midlo die Grundlagen der modernen wissenschaftlichen Hautleistenforschung legte.",
+   "Amerikai anatómus, aki 1926-ban megalkotta a „dermatoglifák” kifejezést, és Charles Midlóval lefektette a bőrléc-kutatás modern tudományos alapjait."
+  ],
+  "see": [
+   "dermatoglyphics",
+   "galton"
+  ]
+ },
+ {
+  "id": "galton",
+  "t": [
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton",
+   "Francis Galton"
+  ],
+  "d": [
+   "Om de știință britanic al cărui volum Finger Prints (1892) a arătat că tiparele crestelor sunt permanente și individuale și le-a clasificat; a deschis drumul identificării prin amprente.",
+   "British scientist whose book Finger Prints (1892) showed that ridge patterns are permanent and individual and classified them, paving the way for identification by fingerprints.",
+   "Savant britannique dont le livre Finger Prints (1892) montra que les motifs de crêtes sont permanents et individuels et les classa, ouvrant la voie à l’identification par les empreintes.",
+   "Scienziato britannico il cui libro Finger Prints (1892) mostrò che i disegni delle creste sono permanenti e individuali e li classificò, aprendo la strada all’identificazione tramite impronte.",
+   "Científico británico cuyo libro Finger Prints (1892) mostró que los patrones de crestas son permanentes e individuales y los clasificó, abriendo el camino a la identificación por huellas.",
+   "Cientista britânico cujo livro Finger Prints (1892) mostrou que os padrões de cristas são permanentes e individuais e os classificou, abrindo caminho à identificação por impressões digitais.",
+   "Britischer Wissenschaftler, dessen Buch Finger Prints (1892) zeigte, dass Leistenmuster dauerhaft und individuell sind, und sie klassifizierte; es ebnete den Weg zur Identifizierung per Fingerabdruck.",
+   "Brit tudós, akinek a Finger Prints (1892) című könyve kimutatta, hogy a vonalmintázatok tartósak és egyéniek, és osztályozta őket; ezzel megnyitotta az utat az ujjlenyomat-azonosítás előtt."
+  ],
+  "see": [
+   "purkyne",
+   "henry"
+  ]
+ },
+ {
+  "id": "purkyne",
+  "t": [
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně",
+   "Jan Evangelista Purkyně"
+  ],
+  "d": [
+   "Fiziolog ceh care în 1823 a descris și a clasificat tiparele crestelor de pe degete, considerat începutul studiului științific al crestelor papilare.",
+   "Czech physiologist who in 1823 described and classified fingertip ridge patterns, regarded as the start of the scientific study of papillary ridges.",
+   "Physiologiste tchèque qui décrivit et classa en 1823 les motifs de crêtes des bouts de doigts, considéré comme le début de l’étude scientifique des crêtes papillaires.",
+   "Fisiologo ceco che nel 1823 descrisse e classificò i disegni delle creste delle punte delle dita, considerato l’inizio dello studio scientifico delle creste papillari.",
+   "Fisiólogo checo que en 1823 describió y clasificó los patrones de crestas de las yemas de los dedos, considerado el inicio del estudio científico de las crestas papilares.",
+   "Fisiologista checo que em 1823 descreveu e classificou os padrões de cristas das pontas dos dedos, considerado o início do estudo científico das cristas papilares.",
+   "Tschechischer Physiologe, der 1823 die Leistenmuster der Fingerkuppen beschrieb und einteilte; das gilt als Beginn der wissenschaftlichen Erforschung der Papillarleisten.",
+   "Cseh fiziológus, aki 1823-ban leírta és osztályozta az ujjbegyek vonalmintázatait; ezt tekintik a papilláris vonalak tudományos vizsgálatának kezdetének."
+  ],
+  "see": [
+   "galton",
+   "dermatoglyphics"
+  ]
+ },
+ {
+  "id": "henry",
+  "t": [
+   "Sistemul Henry",
+   "Henry classification",
+   "Système de Henry",
+   "Sistema Henry",
+   "Sistema Henry",
+   "Sistema Henry",
+   "Henry-System",
+   "Henry-rendszer"
+  ],
+  "d": [
+   "Sistem de clasificare a amprentelor, dezvoltat de Edward Henry pe baza lucrărilor lui Galton și folosit mult timp de poliții. Sortează seturile de zece amprente după tipare.",
+   "A fingerprint classification system developed by Edward Henry building on Galton’s work, used for a long time by police forces. It sorts sets of ten prints by their patterns.",
+   "Système de classification des empreintes développé par Edward Henry à partir des travaux de Galton, longtemps utilisé par les polices. Il range les jeux de dix empreintes selon leurs motifs.",
+   "Sistema di classificazione delle impronte sviluppato da Edward Henry sulla base dei lavori di Galton, usato a lungo dalle polizie. Ordina i set di dieci impronte in base ai disegni.",
+   "Sistema de clasificación de huellas desarrollado por Edward Henry a partir de los trabajos de Galton, usado durante mucho tiempo por las policías. Ordena los juegos de diez huellas según sus patrones.",
+   "Sistema de classificação de impressões digitais desenvolvido por Edward Henry a partir dos trabalhos de Galton, usado durante muito tempo pelas polícias. Ordena os conjuntos de dez impressões segundo os padrões.",
+   "Ein von Edward Henry auf Galtons Arbeiten aufbauend entwickeltes Klassifikationssystem für Fingerabdrücke, lange von Polizeien genutzt. Es ordnet Zehnfingersätze nach ihren Mustern.",
+   "Edward Henry által Galton munkáira építve kidolgozott ujjlenyomat-osztályozó rendszer, amelyet a rendőrségek sokáig használtak. A tízujjas lenyomatsorokat mintázatuk szerint rendezi."
+  ],
+  "see": [
+   "galton"
+  ]
+ },
+ {
+  "id": "heritability",
+  "t": [
+   "Ereditabilitate",
+   "Heritability",
+   "Héritabilité",
+   "Ereditabilità",
+   "Heredabilidad",
+   "Herdabilidade",
+   "Erblichkeit",
+   "Örökölhetőség (heritabilitás)"
+  ],
+  "d": [
+   "Partea din variația unei trăsături dintr-o populație explicată de diferențe genetice. Numărul crestelor pe vârfuri are ereditabilitate peste 90%, dar asta nu spune nimic despre o persoană anume.",
+   "The share of variation in a trait across a population explained by genetic differences. Fingertip ridge count has a heritability above 90%, but that says nothing about any one person.",
+   "Part de la variation d’un trait dans une population expliquée par des différences génétiques. Le nombre de crêtes des bouts de doigts a une héritabilité supérieure à 90 %, ce qui ne dit rien d’une personne en particulier.",
+   "Quota della variazione di un tratto in una popolazione spiegata da differenze genetiche. Il numero di creste sulle punte delle dita ha un’ereditabilità superiore al 90%, ma ciò non dice nulla su una persona specifica.",
+   "Parte de la variación de un rasgo en una población explicada por diferencias genéticas. El número de crestas en las yemas tiene una heredabilidad superior al 90 %, pero eso no dice nada de una persona concreta.",
+   "Parte da variação de uma característica numa população explicada por diferenças genéticas. O número de cristas nas pontas dos dedos tem uma herdabilidade superior a 90%, mas isso nada diz sobre uma pessoa em concreto.",
+   "Anteil der Variation eines Merkmals in einer Bevölkerung, der durch genetische Unterschiede erklärt wird. Die Leistenzahl der Fingerkuppen hat eine Erblichkeit von über 90 %, sagt aber über eine einzelne Person nichts.",
+   "Egy tulajdonság populáción belüli változatosságának genetikai különbségekkel magyarázott hányada. Az ujjbegyi vonalszám örökölhetősége 90% feletti, de ez egy adott személyről semmit nem mond."
+  ],
+  "see": [
+   "ridges",
+   "dermatoglyphics"
+  ]
+ },
+ {
+  "id": "dynamometer",
+  "t": [
+   "Dinamometru",
+   "Dynamometer",
+   "Dynamomètre",
+   "Dinamometro",
+   "Dinamómetro",
+   "Dinamómetro",
+   "Dynamometer",
+   "Dinamométer"
+  ],
+  "d": [
+   "Aparat care măsoară forța, folosit pentru forța de strângere a mâinii. În studii mari, aceasta se asociază cu mortalitatea, dar se măsoară cu aparat, nu se citește din liniile palmei.",
+   "An instrument that measures force, used for hand grip strength. In large studies grip strength is associated with mortality, but it is measured with a device, not read from palm lines.",
+   "Instrument qui mesure la force, utilisé pour la force de préhension. Dans de grandes études, elle est associée à la mortalité, mais elle se mesure avec un appareil, non dans les lignes de la paume.",
+   "Strumento che misura la forza, usato per la forza di presa della mano. In grandi studi è associata alla mortalità, ma si misura con uno strumento, non si legge dalle linee del palmo.",
+   "Instrumento que mide la fuerza, usado para la fuerza de prensión de la mano. En grandes estudios se asocia con la mortalidad, pero se mide con un aparato, no se lee en las líneas de la palma.",
+   "Instrumento que mede a força, usado para a força de preensão da mão. Em grandes estudos associa-se à mortalidade, mas mede-se com um aparelho, não se lê nas linhas da palma.",
+   "Messgerät für Kraft, verwendet für die Handgriffkraft. In großen Studien hängt sie mit der Sterblichkeit zusammen, wird aber mit einem Gerät gemessen und nicht aus Handlinien gelesen.",
+   "Erőmérő eszköz, amelyet a kéz markolóerejének mérésére használnak. Nagy vizsgálatokban összefügg a halálozással, de eszközzel mérik, nem a tenyérvonalakból olvassák."
+  ],
+  "see": [
+   "pseudoscience"
+  ]
+ }
+]
