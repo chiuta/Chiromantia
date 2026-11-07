@@ -2,9 +2,11 @@ const {chromium}=require('playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
 const p=await b.newPage({viewport:{width:390,height:800}});require('./_tab')(p);const errs=[];p.on('pageerror',e=>errs.push(e.message));
 await p.goto('file://'+process.argv[2]);
+// details se redesenează la fiecare interacțiune: deschidem până când `open` rămâne adevărat (evită un race în test)
+const openD=async d=>{const q='details[data-d="'+d+'"]';for(let i=0;i<6;i++){await p.waitForTimeout(150);if(await p.evaluate(s=>document.querySelector(s).open,q))return;await p.click(q+' summary')}};
 const fail=[];const ck=(c,m)=>{if(!c)fail.push(m)};
 await p.click('button[data-v="reader"]');
-await p.selectOption('select[data-k="life"]','1');await p.click('details[data-d="m"] summary');await p.click('details[data-d="x"] summary');await p.selectOption('select[data-k="jup"]','2');await p.selectOption('select[data-k="sun"]','1');
+await p.selectOption('select[data-k="life"]','1');await openD('m');await openD('x');await p.selectOption('select[data-k="jup"]','2');await p.selectOption('select[data-k="sun"]','1');
 await p.click('[data-act="rdhand"][data-v="r"]');await p.selectOption('select[data-k="head"]','0');
 await p.click('[data-act="gen"]');
 let rd=await p.textContent('#reading');ck(/undefined|NaN/.test(rd)===false,'undefined');ck(rd.length>200,'short reading');
