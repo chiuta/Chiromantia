@@ -57,4 +57,4 @@ Se il progetto ti è utile, puoi sostenerlo qui: <https://buymeacoffee.com/echo.
 
 Principiante · Mappa della mano · Dita e unghie · Tipi di mano · Segni · Impronte e pieghe · Allenamento sulle impronte · Misurazioni · Misura da una foto · Cronologia della linea · Scienza e pensiero critico · Test alla cieca · Simulatore di cold reading · Previsioni verificabili · Foto · Lettura guidata · Schede · Gioco sulla mappa · Quiz · Ricerca · Ascoltare la mappa · Foglio di lavoro · Scheda di riferimento · Storia della chirologia · Informazioni
 
-Versione: 2.4 · Ultimo aggiornamento: 04.11.2026
+Versione: 2.5 · Ultimo aggiornamento: 07.11.2026

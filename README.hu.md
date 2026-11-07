@@ -57,4 +57,4 @@ Ha hasznosnak találod a projektet, itt támogathatod: <https://buymeacoffee.com
 
 Kezdő · Kéztérkép · Ujjak és körmök · Kéztípusok · Jelek · Ujjlenyomatok és redők · Ujjlenyomat-gyakorlás · Mérések · Mérés fényképről · Életvonal idővonala · Tudomány és kritika · Vakteszt · Cold reading szimulátor · Ellenőrizhető előrejelzések · Fénykép · Vezetett olvasás · Kártyák · Térképes játék · Kvíz · Keresés · A térkép meghallgatása · Munkalap · Segédlap · A kirológia története · Névjegy
 
-Verzió: 2.4 · Utolsó frissítés: 04.11.2026
+Verzió: 2.5 · Utolsó frissítés: 07.11.2026

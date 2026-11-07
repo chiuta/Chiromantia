@@ -57,4 +57,4 @@ If the project is useful to you, you can support it here: <https://buymeacoffee.
 
 Beginner · Hand map · Fingers & nails · Hand types · Signs · Fingerprints & creases · Fingerprint trainer · Measurements · Measure from photo · Life-line timeline · Science & critical thinking · Blind test · Cold-reading simulator · Testable predictions · Photo · Guided reading · Flashcards · Map game · Quiz · Search · Listen to the map · Worksheet · Cheat sheet · History of chirology · About
 
-Version: 2.4 · Last updated: 04.11.2026
+Version: 2.5 · Last updated: 07.11.2026

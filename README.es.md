@@ -57,4 +57,4 @@ Si el proyecto te resulta útil, puedes apoyarlo aquí: <https://buymeacoffee.co
 
 Principiante · Mapa de la mano · Dedos y uñas · Tipos de mano · Signos · Huellas y pliegues · Entrenamiento de huellas · Mediciones · Medir a partir de una foto · Cronología de la línea · Ciencia y pensamiento crítico · Prueba a ciegas · Simulador de cold reading · Predicciones comprobables · Foto · Lectura guiada · Fichas · Juego en el mapa · Cuestionario · Búsqueda · Escuchar el mapa · Hoja de trabajo · Hoja de referencia · Historia de la quirología · Acerca de
 
-Versión: 2.4 · Última actualización: 04.11.2026
+Versión: 2.5 · Última actualización: 07.11.2026

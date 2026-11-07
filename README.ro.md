@@ -57,4 +57,4 @@ Dacă proiectul îți este util, îl poți susține aici: <https://buymeacoffee.
 
 Începător · Harta mâinii · Degete și unghii · Tipuri de mână · Semne · Amprente și pliuri · Antrenament amprente · Măsurători · Măsurare din poză · Cronologia liniei vieții · Știință și gândire critică · Test orb · Simulator cold reading · Predicții testabile · Fotografie · Citire ghidată · Fișe · Joc pe hartă · Test grilă · Căutare · Ascultă harta · Foaie de lucru · Fișă de referință · Istoria chirologiei · Despre
 
-Versiune: 2.4 · Ultima actualizare: 04.11.2026
+Versiune: 2.5 · Ultima actualizare: 07.11.2026

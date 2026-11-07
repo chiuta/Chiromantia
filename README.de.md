@@ -57,4 +57,4 @@ Wenn Ihnen das Projekt nützt, können Sie es hier unterstützen: <https://buyme
 
 Anfänger · Handkarte · Finger & Nägel · Handtypen · Zeichen · Fingerabdrücke & Furchen · Fingerabdruck-Training · Messungen · Messen per Foto · Zeitleiste Lebenslinie · Wissenschaft & Kritik · Blindtest · Cold-Reading-Simulator · Überprüfbare Vorhersagen · Foto · Geführte Deutung · Karteikarten · Kartenspiel · Quiz · Suche · Die Karte hören · Arbeitsblatt · Merkblatt · Geschichte der Chirologie · Über
 
-Version: 2.4 · Letzte Aktualisierung: 04.11.2026
+Version: 2.5 · Letzte Aktualisierung: 07.11.2026

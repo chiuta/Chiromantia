@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "slug": "chiromantia",
+  "name": "CHIROMANTIA",
+  "version": "2.5",
+  "updated": "2026-11-07",
+  "description": "CHIROMANTIA — interactive palmistry atlas, offline, 8 languages. MIT.",
+  "egress": [],
+  "permissions": [
+    "speechSynthesis",
+    "clipboard",
+    "serviceWorker",
+    "localStorage"
+  ],
+  "storageKeys": [
+    "chiromantia.v1"
+  ],
+  "sizeBytes": 1005281,
+  "sha256": "0c8ca7e341ea104d01a0b1cea757efe938c69d4a188f522b26a94a9f9ed76f30",
+  "csp": {
+    "present": true,
+    "directives": {
+      "default-src": "'none'",
+      "style-src": "'unsafe-inline'",
+      "script-src": "sha256×2",
+      "img-src": "'self' data: blob:",
+      "manifest-src": "'self'",
+      "worker-src": "'self'",
+      "base-uri": "'none'",
+      "form-action": "'none'"
+    },
+    "scriptInline": "hash",
+    "connect": "'none'"
+  },
+  "features": {
+    "export": true,
+    "import": true,
+    "i18n": [
+      "ro",
+      "en",
+      "fr",
+      "it",
+      "es",
+      "pt",
+      "hu",
+      "de"
+    ],
+    "pwa": {
+      "manifest": false,
+      "serviceWorker": true
+    },
+    "modules": [
+      "core",
+      "store",
+      "dialog",
+      "label",
+      "bundle"
+    ]
+  },
+  "kit": {
+    "version": "1.2.0",
+    "modules": [
+      "core",
+      "store",
+      "dialog",
+      "label",
+      "bundle"
+    ]
+  },
+  "selfSerializing": false
+}

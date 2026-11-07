@@ -57,4 +57,4 @@ Si le projet vous est utile, vous pouvez le soutenir ici : <https://buymeacoffe
 
 Débutant · Carte de la main · Doigts et ongles · Types de main · Signes · Empreintes & plis · Entraînement aux empreintes · Mesures · Mesure à partir d’une photo · Chronologie de la ligne · Science et esprit critique · Test en aveugle · Simulateur de cold reading · Prédictions testables · Photo · Lecture guidée · Fiches · Jeu sur la carte · Quiz · Recherche · Écouter la carte · Feuille de travail · Aide-mémoire · Histoire de la chirologie · À propos
 
-Version : 2.4 · Dernière mise à jour : 04.11.2026
+Version : 2.5 · Dernière mise à jour : 07.11.2026

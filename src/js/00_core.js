@@ -83,13 +83,13 @@ function icon(name){
 function render(){
  applyTheme();
  var f=focusKey(document.activeElement),y=window.scrollY,mod=curMod();
- var h='<header><div><h1>CHIROMANTIA</h1><p class="sub">'+t("sub")+'</p></div><div class="ctl"><select data-act="lang" aria-label="'+t("langLbl")+'">'+LN.map(function(n,i){return '<option lang="'+LG[i]+'" value="'+i+'"'+(i===S.li?" selected":"")+'>'+n+'</option>';}).join("")+'</select><button class="btn" data-act="fs" aria-label="'+t("fsLbl")+' ('+[100,115,130][S.fs]+'%)">Aa</button><button class="btn" data-act="hc" aria-pressed="'+(S.hc===1)+'" aria-label="'+t("hcLbl")+'">HC</button><button class="btn" data-act="theme" aria-label="'+t("themeLbl")+'" aria-pressed="'+(curTheme()==="dark")+'">'+icon("theme")+'</button></div></header>';
- h+='<ul class="badges" aria-label="'+t("bdLbl")+'"><li>'+t("bdOff")+'</li><li>'+t("bdLang")+'</li><li>'+t("bdMit")+'</li><li>'+t("bdFree")+'</li></ul>';
+ var h='<header><div><h1>CHIROMANTIA</h1><p class="sub">'+t("sub")+'</p></div><div class="ctl"><select data-act="lang" aria-label="'+t("langLbl")+'">'+LN.map(function(n,i){return '<option lang="'+LG[i]+'" value="'+i+'"'+(i===S.li?" selected":"")+'>'+n+'</option>';}).join("")+'</select><button class="btn" data-act="fs" aria-label="'+t("fsLbl")+' ('+[100,115,130][S.fs]+'%)">Aa</button><button class="btn" data-act="hc" aria-pressed="'+(S.hc===1)+'" aria-label="HC — '+t("hcLbl")+'">HC</button><button class="btn" data-act="theme" aria-label="'+t("themeLbl")+'" aria-pressed="'+(curTheme()==="dark")+'">'+icon("theme")+'</button></div></header>';
+ h+='<section aria-label="'+t("bdLbl")+'"><ul class="badges">'+'<li>'+t("bdOff")+'</li><li>'+t("bdLang")+'</li><li>'+t("bdMit")+'</li><li>'+t("bdFree")+'</li></ul></section>';
  h+='<button class="btn menubtn" data-act="menu" aria-expanded="'+(NM?"true":"false")+'" aria-controls="nav">☰ '+t(mod.tab)+'</button>';
  h+='<nav id="nav" class="'+(NM?"open":"")+'" aria-label="'+t("tNav")+'">'+MODS.map(function(m){return '<button data-act="tab" data-v="'+m.id+'"'+(S.tab===m.id?' class="on" aria-current="page"':'')+'>'+t(m.tab)+'</button>';}).join("")+'</nav>';
  var due=dueCount();if(due)h+='<div class="due" role="status"><span>'+fill(t("pdDue"),{n:due})+'</span> <button class="btn" data-act="goto" data-v="pred" data-k="">'+t("tPred")+'</button></div>';
  h+='<main id="main" tabindex="-1"><h2 class="sr">'+t(mod.tab)+'</h2>'+mod.view()+'</main>';
- h+='<footer>MIT · © Alexandru-Ionuț Chiuță (Alexio) · '+t("ver")+': @@VERSION@@ · '+t("upd")+': @@DATE@@</footer>';
+ h+='<footer>MIT · © Alexandru-Ionuț Chiuță (Alexio) · <span id="app-version">'+t("ver")+': @@VERSION@@ · '+t("upd")+': @@DATE@@</span></footer>';
  app.innerHTML=h;
  var sk=document.getElementById("skip");if(sk)sk.textContent=t("skip");
  if(mod.after)mod.after();

@@ -44,3 +44,8 @@
 - Translation fixes (hu, pt, de, "listen to the map"), full 8-language `shareNote`; README feature lists in 8 languages.
 - New texts: sim purpose note, blind-test sample caveat, photo perspective warning, local-file share notice (shLocal), prediction limit (pdFull); shared links hidden on file://.
 - Cold-reading simulator: fr/pt now use the formal register consistently with the UI; history dates language-neutral.
+
+## 2.5
+- Aligned with fff-kit: transparency label (#app-version), strict CSP with script hashes, app.json, application-version/last-updated meta.
+- A11y (axe 0 violations, 8 scenarios): HC button accessible name contains its visible text; badges inside a labelled region.
+- tests/suite.test.mjs runs validate.py and the standalone Playwright tests.

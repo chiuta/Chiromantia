@@ -57,4 +57,4 @@ Se o projeto lhe for útil, pode apoiá-lo aqui: <https://buymeacoffee.com/echo.
 
 Iniciante · Mapa da mão · Dedos e unhas · Tipos de mão · Sinais · Impressões e pregas · Treino de impressões digitais · Medições · Medição a partir de uma foto · Cronologia da linha · Ciência e pensamento crítico · Teste cego · Simulador de cold reading · Previsões testáveis · Foto · Leitura guiada · Cartões · Jogo no mapa · Questionário · Pesquisa · Ouvir o mapa · Folha de trabalho · Folha de consulta · História da quirologia · Sobre
 
-Versão: 2.4 · Última atualização: 04.11.2026
+Versão: 2.5 · Última atualização: 07.11.2026
