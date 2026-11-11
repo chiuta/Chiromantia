@@ -2,7 +2,7 @@
   "schema": 1,
   "slug": "chiromantia",
   "name": "CHIROMANTIA",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "updated": "2026-11-11",
   "description": "CHIROMANTIA — interactive palmistry atlas, offline, 8 languages. MIT.",
   "egress": [],
@@ -15,8 +15,8 @@
   "storageKeys": [
     "chiromantia.v1"
   ],
-  "sizeBytes": 1042937,
-  "sha256": "31092661105cd127ed36ea8ee6f006d2f670849f54368aee5e6a3a8915b2e3fe",
+  "sizeBytes": 1045820,
+  "sha256": "c0c840661a2ef50b31d135c225e3665a6df4f7f20dcfb3f122f6f3d83fb6846e",
   "csp": {
     "present": true,
     "directives": {
