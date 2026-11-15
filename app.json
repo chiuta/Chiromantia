@@ -10,19 +10,20 @@
     "speechSynthesis",
     "clipboard",
     "serviceWorker",
-    "localStorage"
+    "localStorage",
+    "WebGL"
   ],
   "storageKeys": [
     "chiromantia.v1"
   ],
-  "sizeBytes": 1059397,
-  "sha256": "439767151db7ed2780b45f4bd4d88fbab14e2ef3e056a0a051518ddf89c90189",
+  "sizeBytes": 1111508,
+  "sha256": "68516b42278bd7d778ff13bc3eb3d76fceb9914ae1775fcfa8375663aed0625a",
   "csp": {
     "present": true,
     "directives": {
       "default-src": "'none'",
       "style-src": "'unsafe-inline'",
-      "script-src": "sha256×2",
+      "script-src": "sha256×3",
       "img-src": "'self' data: blob:",
       "manifest-src": "'self'",
       "worker-src": "'self'",
