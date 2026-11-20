@@ -3,6 +3,7 @@
 
 - fff-kit 1.8.1: când `localStorage`/`sessionStorage` aruncă sau lipsesc (cookie-uri și date de site blocate, WebView fără stocare, `<iframe sandbox>`), kitul pune în loc o stocare în memorie, iar pagina pornește în loc să se oprească; datele nu se păstrează după închiderea paginii
 - fff-kit 1.8.1: ghidajul care mărește controalele mici la 44 px măsoară acum și lățimea corpului paginii și a părintelui, deci un rând de butoane nu mai poate ieși din ecran (grupul rămâne neatins când mărirea l-ar depăși)
+- Copia pentru descărcare `chiromantia.html` (o precachează și `sw.js`) rămăsese la versiunea 2.5, cu modulele de kit core, store, dialog, label, bundle, fără cele adăugate între timp în `index.html` (exit, view, a11y, share, ux); acum este identică cu `index.html`, deci primește aceleași corecturi și aceleași teste
 
 ## 2.6.2 — 2026-11-17
 
